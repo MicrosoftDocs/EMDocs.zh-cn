@@ -152,7 +152,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.gitignore) | Ignored | [Details](#7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0)
- [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.gitmodules) | Ignored | [Details](#7e1ae4f293a428cf4c9248fb305dc99b2f3e64b31)
+ [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.gitmodules) | Ignored | [Details](#a421d4557b2d7e9d3bd6ffdbdd81aa09f120f86d1)
  [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.localization-config) | Ignored | [Details](#a9d80655e96de1583605a105fa2c4edbcf31d50f2)
  [.openpublishing.build.ps1](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.openpublishing.build.ps1) | Ignored | [Details](#9103b6933f2481864ecb6a66b76ba730e7f133b43)
  [.openpublishing.publish.config.json](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.openpublishing.publish.config.json) | Ignored | [Details](#7b80d8aa7b91448697b98007eda1f6bd24358f1e4)
@@ -329,7 +329,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7e1ae4f293a428cf4c9248fb305dc99b2f3e64b31'></a> Source: [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.gitmodules)
+##### <a name='a421d4557b2d7e9d3bd6ffdbdd81aa09f120f86d1'></a> Source: [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/.gitmodules)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
