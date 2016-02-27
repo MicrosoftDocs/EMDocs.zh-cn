@@ -1,9 +1,15 @@
 {
+  "b0dd2af4ed22c05279afeafea1c4e780d74a5e6f": [
+    "contributor-guide\\article-metadata.md"
+  ],
   "da63fda594055f3647cc04e6954675a9558776db": [
     "contributor-guide\\article-metadata.md"
   ],
   "3560ca3350c05a522e09bd1cca4acfc7f3433b11": [
     "contributor-guide\\media\\checkmark-small.png"
+  ],
+  "488fecaaea1604871e77e21675ad3e190beba1bd": [
+    "contributor-guide\\authoring-in-markdown.md"
   ],
   "02fd3684172e6bdf5f3347831c8103d19a1a22e6": [
     "contributor-guide\\authoring-in-markdown.md"
@@ -23,11 +29,17 @@
   "95c140f4202e35cf01328e48acb2325c910e8c04": [
     "contributor-guide\\media\\helloworldlocal.png"
   ],
+  "2c1a7d32b942dac40fa0f4f5e042bdbf593c23e0": [
+    "contributor-guide\\content-channel-guidance.md"
+  ],
   "5d0e1b33b8a03314eb9701a12e399bb529ddcb08": [
     "contributor-guide\\content-channel-guidance.md"
   ],
   "79dad577764e71dc6c35f19c50d667e287487e8f": [
     "contributor-guide\\media\\content-channels-small.png"
+  ],
+  "da1cee35a09823cf69521242a7004897517492b4": [
+    "contributor-guide\\contributor-guide-index.md"
   ],
   "fee990c7136926ca4332a41b7ba63a368348118e": [
     "contributor-guide\\contributor-guide-index.md"
@@ -59,14 +71,20 @@
   "450c0f68e3f8473716099a76e2bea13452f5323f": [
     "contributor-guide\\media\\selector-list.png"
   ],
+  "a2acee00c6aca19d00659702a5ef05485af4449b": [
+    "contributor-guide\\file-names-and-locations.md"
+  ],
   "9122ca9a8991da83479cbdd994f80d73a29573d1": [
     "contributor-guide\\file-names-and-locations.md"
   ],
-  "c8a6021595207e8b3e0f5f26340f848ad8ee8d84": [
-    "contributor-guide\\retire-or-rename-an-article.md"
+  "887b1294b2e63998084a5598858aad0c4469cd6d": [
+    "contributor-guide\\style-and-voice.md"
   ],
   "f73180679eba417a3d5f94c8c8deff495733ca56": [
     "contributor-guide\\style-and-voice.md"
+  ],
+  "24edd27bbe1280c3401eaa78e6ed88d1758d82f2": [
+    "contributor-guide\\tools-and-setup.md"
   ],
   "444db56811603b351790827693adcdea17e3caf3": [
     "contributor-guide\\tools-and-setup.md"
@@ -74,14 +92,11 @@
   "b9d4b138efb81efaaaf82fc99a255f23f2ef0ab6": [
     "contributor-guide\\media\\githubprofile.png"
   ],
-  "1607e356edc9e92918ffb86d896f488e1c628e36": [
-    "contributor-guide\\media\\contributetogit.png"
-  ],
-  "a2e03096796b1e06104bde91021f6e29475c2b5a": [
-    "contributor-guide\\media\\editicon.png"
-  ],
   "2b30bbf5da82de5798871e5ac645873872bb15ea": [
     "contributor-guide\\media\\gitbashinstall.png"
+  ],
+  "66931315b777c7f7659088ca00eea24db16b8e4f": [
+    "contributor-guide\\work-with-git.md"
   ],
   "18534c06cf405405a78e881da2d2fe334e1ec7dd": [
     "contributor-guide\\work-with-git.md"
@@ -339,5 +354,8 @@
   ],
   "7d3125258de1ca06229ef352cb657444a8610e92": [
     "EMDocs\\Token\\wseblue_experience.md"
+  ],
+  "af2a63ef1c7babad19083cef2169ab84741b8ecb": [
+    "contributor-guide\\rename-or-retire-an-article.md"
   ]
 }
