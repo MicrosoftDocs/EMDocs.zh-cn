@@ -8,6 +8,9 @@
   "3560ca3350c05a522e09bd1cca4acfc7f3433b11": [
     "contributor-guide\\media\\checkmark-small.png"
   ],
+  "9262fb48cd07ecb0430327526ff08f9162d4c767": [
+    "contributor-guide\\authoring-in-markdown.md"
+  ],
   "488fecaaea1604871e77e21675ad3e190beba1bd": [
     "contributor-guide\\authoring-in-markdown.md"
   ],
@@ -44,8 +47,14 @@
   "fee990c7136926ca4332a41b7ba63a368348118e": [
     "contributor-guide\\contributor-guide-index.md"
   ],
+  "39cc82882215595514e978c62d87eb8e3337aed8": [
+    "contributor-guide\\create-tables-markdown.md"
+  ],
   "dab6140279a8b49568623cbd64cdd7bc636d1fb4": [
     "contributor-guide\\create-tables-markdown.md"
+  ],
+  "2a402428ce18d051fc0792b29028dd8d4e51be1e": [
+    "contributor-guide\\custom-markdown-extensions.md"
   ],
   "79c0699398fa7832f332a8742d5220e2b7afa153": [
     "contributor-guide\\custom-markdown-extensions.md"
@@ -61,9 +70,6 @@
   ],
   "7292c31d8b011f392c81e2a4d49573aff94094df": [
     "contributor-guide\\media\\notes-important.png"
-  ],
-  "a7e1b64ce447ad815525d0000fb9a76e72feeab3": [
-    "contributor-guide\\media\\include.png"
   ],
   "a19d1f0c651f1fd944af8c89b1bef5cdde57ba79": [
     "contributor-guide\\media\\selectors.png"
@@ -354,6 +360,9 @@
   ],
   "7d3125258de1ca06229ef352cb657444a8610e92": [
     "EMDocs\\Token\\wseblue_experience.md"
+  ],
+  "c8e83fb351623e5efe4cc27e3319b6bb80847536": [
+    "contributor-guide\\rename-or-retire-an-article.md"
   ],
   "af2a63ef1c7babad19083cef2169ab84741b8ecb": [
     "contributor-guide\\rename-or-retire-an-article.md"
