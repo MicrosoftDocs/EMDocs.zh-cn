@@ -180,7 +180,7 @@
  [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Image/mdm-dcg-icon.png) | Ignored | [Details](#48120e0469d0cf1f25ccae705922846592e9f13655)
  [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
- [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/index.html) | Ignored | [Details](#465609051d9078e677352242422d627d781dc04159)
+ [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/index.html) | Ignored | [Details](#8952d43440fa65c5f3b2a7abbc645ff9e745d00259)
  [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Solutions/docfx.json) | Ignored | [Details](#1e7fe47261e1459009236eb85934d4ca9a4a187b73)
  [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e88)
  [EMDocs\Solutions\media\1-rms-onboarding-process.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Solutions/media/1-rms-onboarding-process.png) | Ignored | [Details](#d7641e47928129e58192ac12d9e36cd56c57be4d89)
@@ -315,7 +315,7 @@
  [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Solutions/media/WSE_SG_RAProblem.png) | Ignored | [Details](#b52789a46874ed019ff8dea05bfefdebdf549cbd219)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png) | Ignored | [Details](#17a8303c7ef0995ef393588b69250a0f4184df38220)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png) | Ignored | [Details](#0e1ba1f9f6fc258f4640be651285366d453d4e1a221)
- [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/toc.yml) | Ignored | [Details](#941cd772d25ff5748d3b1fb0c39f4192ec54546b233)
+ [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/toc.yml) | Ignored | [Details](#fbd5408e7516e0e4894374c3acc5bcb53f4eac8b233)
 
 ## Item Details
 ##### <a name='7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0'></a> Source: [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/.gitignore)
@@ -1045,7 +1045,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='465609051d9078e677352242422d627d781dc04159'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/index.html)
+##### <a name='8952d43440fa65c5f3b2a7abbc645ff9e745d00259'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/index.html)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3134,7 +3134,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='941cd772d25ff5748d3b1fb0c39f4192ec54546b233'></a> Source: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/toc.yml)
+##### <a name='fbd5408e7516e0e4894374c3acc5bcb53f4eac8b233'></a> Source: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/1f192d73d9afa849678f19cf1db28963b432256a/EMDocs/toc.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
