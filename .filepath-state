@@ -189,6 +189,9 @@
   "208cadc4a3d1a598780cbf97af877fdc61eed9a4": [
     "EMDocs\\Solutions\\lp_selector.md"
   ],
+  "487b02bd2fbf54ed09fa5c510d3f8620ceb117bd": [
+    "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
+  ],
   "859b4f0dac3136e2b03b0013fe8608bda6a2b2e2": [
     "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
   ],
@@ -366,5 +369,8 @@
   ],
   "af2a63ef1c7babad19083cef2169ab84741b8ecb": [
     "contributor-guide\\rename-or-retire-an-article.md"
+  ],
+  "e123b9d4bbd388b802592c5e989d9d7c0a37cba1": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_01.png"
   ]
 }
