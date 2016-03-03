@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 284
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 119
+[ Handoff Success Files ](#handoff-success-list)| 118
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 165
+[ Ignored Files ](#ignored-list)| 166
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -76,7 +76,6 @@
  [EMDocs\Solutions\lp-selector1.md](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/EMDocs/Solutions/lp-selector1.md) | HandedOffSuccess | [Details](#6e9001f204978fbb0ec04eafab21dd95aabb1b3a85)
  [EMDocs\Solutions\lp-selector2.md](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/EMDocs/Solutions/lp-selector2.md) | HandedOffSuccess | [Details](#77d676f3348fdcee6ea1e9d05e6f081cba7f7ce486)
  [EMDocs\Solutions\media\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/media/150x150.png) | HandedOffSuccess | [Details](#84421bf7f4ba657e685239fb27f4798a46485f7190)
- [EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/EMDocs/Solutions/Mobile-Device-Management-Design-Considerations-Guide.md) | HandedOffSuccess | [Details](#859b4f0dac3136e2b03b0013fe8608bda6a2b2e2222)
  [EMDocs\Solutions\Next-steps-and-additional-resources.md](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/EMDocs/Solutions/Next-steps-and-additional-resources.md) | HandedOffSuccess | [Details](#0fef1088c5f876d6942db7bc0f32631d6bd06cc0223)
  [EMDocs\Solutions\robmazz_test.md](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/robmazz_test.md) | HandedOffSuccess | [Details](#e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a224)
  [EMDocs\Solutions\Sample.md](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/EMDocs/Solutions/Sample.md) | HandedOffSuccess | [Details](#80f16e5851e574014594e4d93ba194beb2cc9653225)
@@ -180,7 +179,7 @@
  [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Image/mdm-dcg-icon.png) | Ignored | [Details](#48120e0469d0cf1f25ccae705922846592e9f13655)
  [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
- [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/index.html) | Ignored | [Details](#74a81af027ffe8f8328d0e936afdb1fb0513095f59)
+ [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/index.html) | Ignored | [Details](#553cf96ee90dbce301754258c3a64d63347dff8059)
  [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/docfx.json) | Ignored | [Details](#1e7fe47261e1459009236eb85934d4ca9a4a187b73)
  [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e88)
  [EMDocs\Solutions\media\1-rms-onboarding-process.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/media/1-rms-onboarding-process.png) | Ignored | [Details](#d7641e47928129e58192ac12d9e36cd56c57be4d89)
@@ -315,6 +314,7 @@
  [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/media/WSE_SG_RAProblem.png) | Ignored | [Details](#b52789a46874ed019ff8dea05bfefdebdf549cbd219)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png) | Ignored | [Details](#17a8303c7ef0995ef393588b69250a0f4184df38220)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png) | Ignored | [Details](#0e1ba1f9f6fc258f4640be651285366d453d4e1a221)
+ [EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/Mobile-Device-Management-Design-Considerations-Guide.md) | Ignored | [Details](#487b02bd2fbf54ed09fa5c510d3f8620ceb117bd222)
  [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/toc.yml) | Ignored | [Details](#fbd5408e7516e0e4894374c3acc5bcb53f4eac8b233)
 
 ## Item Details
@@ -1045,7 +1045,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='74a81af027ffe8f8328d0e936afdb1fb0513095f59'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/index.html)
+##### <a name='553cf96ee90dbce301754258c3a64d63347dff8059'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/index.html)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3002,12 +3002,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='859b4f0dac3136e2b03b0013fe8608bda6a2b2e2222'></a> Source: [EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md](https://github.com/Microsoft/EMDocs-pr/blob/497982b9bf86a36efa294292cf13e8632d0e8178/EMDocs/Solutions/Mobile-Device-Management-Design-Considerations-Guide.md)
-* Status: HandedOffSuccess
+##### <a name='487b02bd2fbf54ed09fa5c510d3f8620ceb117bd222'></a> Source: [EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md](https://github.com/Microsoft/EMDocs-pr/blob/166d8f78d6351ed6893f9c5ec574052e34fc8c17/EMDocs/Solutions/Mobile-Device-Management-Design-Considerations-Guide.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [Mobile-Device-Management-Design-Considerations-Guide.a8cff38f6d4400959421864cee3437faa68e5bba.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0f5831e0bfc33f75309f2b91d2d4331374b5fc97/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Mobile-Device-Management-Design-Considerations-Guide.a8cff38f6d4400959421864cee3437faa68e5bba.zh-cn.xlf)
-* Handoff Datetime: 2016-02-26 11:14:54
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
