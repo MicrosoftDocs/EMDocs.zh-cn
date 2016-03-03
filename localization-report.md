@@ -180,7 +180,7 @@
  [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/Image/mdm-dcg-icon.png) | Ignored | [Details](#48120e0469d0cf1f25ccae705922846592e9f13655)
  [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
- [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/index.html) | Ignored | [Details](#8952d43440fa65c5f3b2a7abbc645ff9e745d00259)
+ [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/index.html) | Ignored | [Details](#74a81af027ffe8f8328d0e936afdb1fb0513095f59)
  [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/Solutions/docfx.json) | Ignored | [Details](#1e7fe47261e1459009236eb85934d4ca9a4a187b73)
  [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e88)
  [EMDocs\Solutions\media\1-rms-onboarding-process.png](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/Solutions/media/1-rms-onboarding-process.png) | Ignored | [Details](#d7641e47928129e58192ac12d9e36cd56c57be4d89)
@@ -1045,7 +1045,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8952d43440fa65c5f3b2a7abbc645ff9e745d00259'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/index.html)
+##### <a name='74a81af027ffe8f8328d0e936afdb1fb0513095f59'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/4e1a802fb8d2c8d75bfa72356c49f4bdc16e75aa/EMDocs/index.html)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
