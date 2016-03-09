@@ -122,6 +122,9 @@
   "c274085ed505865346bee2c8bf51d0b206a37fa9": [
     "EMDocs\\Solutions\\BYOD-app-considerations.md"
   ],
+  "d483023ccb7aaaffe824b8d164b8b89a4a2841e0": [
+    "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
+  ],
   "e341f247b3d7650b37e6c25206e7f816cdb24835": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
@@ -139,6 +142,9 @@
   ],
   "b33ccbf3fce23996178f2a7366f09e1d8f03482e": [
     "EMDocs\\Solutions\\BYOD-Introduction.md"
+  ],
+  "6aed6a1184dc617024f637cfb978e628939912a3": [
+    "EMDocs\\Solutions\\BYOD-management-considerations.md"
   ],
   "bceacd9cab274a7a9d1165e50471df47576dc39f": [
     "EMDocs\\Solutions\\BYOD-management-considerations.md"
@@ -402,5 +408,8 @@
   ],
   "553cf96ee90dbce301754258c3a64d63347dff80": [
     "EMDocs\\index.html"
+  ],
+  "7b73c083206500b7d32acb4e06bf0c44088b670b": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure6.png"
   ]
 }
