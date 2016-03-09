@@ -122,11 +122,20 @@
   "c274085ed505865346bee2c8bf51d0b206a37fa9": [
     "EMDocs\\Solutions\\BYOD-app-considerations.md"
   ],
+  "e341f247b3d7650b37e6c25206e7f816cdb24835": [
+    "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
+  ],
   "648fcd1bdebf6f0df08262b335fd072ad799af81": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
+  "95de06458ec573f3147632c5927303ffde819789": [
+    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
+  ],
   "266c60810994dcbef15ee1372d8943179289ce3c": [
     "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
+  ],
+  "8a03d0c4c1692be4b98a0715a54738425220c67e": [
+    "EMDocs\\Solutions\\BYOD-Introduction.md"
   ],
   "b33ccbf3fce23996178f2a7366f09e1d8f03482e": [
     "EMDocs\\Solutions\\BYOD-Introduction.md"
@@ -143,6 +152,9 @@
   "aea7deb08bcf6e818f753d709e2c9349baa9474d": [
     "EMDocs\\Solutions\\BYOD-Summary-and-Additional-Resources.md"
   ],
+  "5d5366dc2778c5d8277f6177338b691e3912cad2": [
+    "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
+  ],
   "be1e1fd9899904aad4f613c9766f17dfeaa4bb01": [
     "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
   ],
@@ -152,6 +164,9 @@
   "e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a": [
     "EMDocs\\Solutions\\Enterprise-Mobility-FastTrack-Program.md",
     "EMDocs\\Solutions\\robmazz_test.md"
+  ],
+  "9c504d9664fb808626b94551324a0d4add8fe922": [
+    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
   ],
   "a79681caea57fea8a6d36fc9b46aea27fc2b3e93": [
     "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
@@ -372,5 +387,17 @@
   ],
   "e123b9d4bbd388b802592c5e989d9d7c0a37cba1": [
     "EMDocs\\Solutions\\media\\MDM_Figure_01.png"
+  ],
+  "a5028908c67cf50a12ae072a66e3e88c98adc84d": [
+    "EMDocs\\Solutions\\BYOD-app-reqs.md"
+  ],
+  "f8298a1911ecd094ad91f7a0c453830cacba757b": [
+    "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
+  ],
+  "6cba8bd550a589cd69a6a0ce8becaa892973fe75": [
+    "EMDocs\\Solutions\\BYOD-management-reqs.md"
+  ],
+  "e22eef5c3ad74ed9c3d41170e8d062cb180ecf03": [
+    "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
   ]
 }
