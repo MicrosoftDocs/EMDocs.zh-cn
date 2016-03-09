@@ -158,7 +158,7 @@
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.gitignore) | Ignored | [Details](#7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0)
  [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.gitmodules) | Ignored | [Details](#a421d4557b2d7e9d3bd6ffdbdd81aa09f120f86d1)
- [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.localization-config) | Ignored | [Details](#55d3ce38d8f57112ed9f1626286f2abbc5d6bd1c2)
+ [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.localization-config) | Ignored | [Details](#f7835d3da36ca098434b7ad45bd4144dd0a656c72)
  [.openpublishing.build.ps1](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.openpublishing.build.ps1) | Ignored | [Details](#9103b6933f2481864ecb6a66b76ba730e7f133b43)
  [.openpublishing.publish.config.json](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.openpublishing.publish.config.json) | Ignored | [Details](#373cfaa2c635372af7f4d7c84e870d64a5518c954)
  [contributor-guide\media\agent.png](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/contributor-guide/media/agent.png) | Ignored | [Details](#9e48efe97bfbf75cd53a823aa66a9379fd42e83013)
@@ -346,7 +346,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='55d3ce38d8f57112ed9f1626286f2abbc5d6bd1c2'></a> Source: [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.localization-config)
+##### <a name='f7835d3da36ca098434b7ad45bd4144dd0a656c72'></a> Source: [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/b732a2a90fb28654c5b3021e910f176f420a6df5/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
