@@ -125,6 +125,9 @@
   "c274085ed505865346bee2c8bf51d0b206a37fa9": [
     "EMDocs\\Solutions\\BYOD-app-considerations.md"
   ],
+  "b8eae6c0b6a05b694223ffa67a55994af8b23b2c": [
+    "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
+  ],
   "783cbc64ed3bdf3eb8f49bd77cac4323a6ae29cb": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
@@ -137,6 +140,9 @@
   "648fcd1bdebf6f0df08262b335fd072ad799af81": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
+  "78f7139bda7479951c6ac9e1d9a8ef6e67c42f4f": [
+    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
+  ],
   "e54217bde4d5da4b4b20e9667daa2fbe2df061f4": [
     "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
   ],
@@ -146,6 +152,9 @@
   "266c60810994dcbef15ee1372d8943179289ce3c": [
     "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
   ],
+  "de62744464543124e585110fa04e3517ab62732b": [
+    "EMDocs\\Solutions\\BYOD-Introduction.md"
+  ],
   "2bc055e66f276d3737d30dab891c6253ecdad07d": [
     "EMDocs\\Solutions\\BYOD-Introduction.md"
   ],
@@ -154,6 +163,9 @@
   ],
   "b33ccbf3fce23996178f2a7366f09e1d8f03482e": [
     "EMDocs\\Solutions\\BYOD-Introduction.md"
+  ],
+  "b14a39bd26de18f2860fb06a6674521bccc2b4ce": [
+    "EMDocs\\Solutions\\BYOD-management-considerations.md"
   ],
   "491f0c2104f52c0d81bf06f02eaa7fb11d5eb8b0": [
     "EMDocs\\Solutions\\BYOD-management-considerations.md"
@@ -176,6 +188,9 @@
   "aea7deb08bcf6e818f753d709e2c9349baa9474d": [
     "EMDocs\\Solutions\\BYOD-Summary-and-Additional-Resources.md"
   ],
+  "d003a026e6bc41e2e27757c2df8afc91ebd374b1": [
+    "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
+  ],
   "3030035db9d1dff7cb94039c656965f8c861baf4": [
     "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
   ],
@@ -191,6 +206,9 @@
   "e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a": [
     "EMDocs\\Solutions\\Enterprise-Mobility-FastTrack-Program.md",
     "EMDocs\\Solutions\\robmazz_test.md"
+  ],
+  "12fa308e951d1c3fa201cabda4ee9d44167754b7": [
+    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
   ],
   "2ff91501687ee50bc2958b895dc8528b042f18a0": [
     "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
@@ -421,6 +439,9 @@
   "e123b9d4bbd388b802592c5e989d9d7c0a37cba1": [
     "EMDocs\\Solutions\\media\\MDM_Figure_01.png"
   ],
+  "01d95f3c036fc43f65593ef340974a33d5264c86": [
+    "EMDocs\\Solutions\\BYOD-app-reqs.md"
+  ],
   "d4d53f19e671331ee9621a308f734cc69ee20a75": [
     "EMDocs\\Solutions\\BYOD-app-reqs.md"
   ],
@@ -430,17 +451,26 @@
   "a5028908c67cf50a12ae072a66e3e88c98adc84d": [
     "EMDocs\\Solutions\\BYOD-app-reqs.md"
   ],
+  "72f86d28c5d6058a8d20783243db5dd4767300a6": [
+    "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
+  ],
   "bc0470236fee7ea51bad79d87de48f84676d9371": [
     "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
   ],
   "f8298a1911ecd094ad91f7a0c453830cacba757b": [
     "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
   ],
+  "f31cd22f921ebc6e36de11b8dc8581e13a11ad0c": [
+    "EMDocs\\Solutions\\BYOD-management-reqs.md"
+  ],
   "1787ce32549bd1692c2ed7c769b0d8516ba083dd": [
     "EMDocs\\Solutions\\BYOD-management-reqs.md"
   ],
   "6cba8bd550a589cd69a6a0ce8becaa892973fe75": [
     "EMDocs\\Solutions\\BYOD-management-reqs.md"
+  ],
+  "942951a7d882217bc652648cb7adae4ad3ac2cb8": [
+    "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
   ],
   "cb927071be9b92d6eb88629f7eca87366a898115": [
     "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
@@ -453,5 +483,23 @@
   ],
   "553cf96ee90dbce301754258c3a64d63347dff80": [
     "EMDocs\\index.html"
+  ],
+  "7b73c083206500b7d32acb4e06bf0c44088b670b": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure6.png"
+  ],
+  "75f14a341be8bb330b417b6151f6151de8b0c563": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure5.png"
+  ],
+  "604041a7552fae3e707a1987c65dbd5ee845e069": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure3.png"
+  ],
+  "aabe382609d02cede8900395d3aefa7398234f23": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure1.png"
+  ],
+  "b2cef36ab9cd1484bafcb96595605fcc83ee960d": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure4.png"
+  ],
+  "ae128e3fb940d06d4e7f1b88fde3490c3367cb9a": [
+    "EMDocs\\Solutions\\media\\BYOD_Figure2.png"
   ]
 }
