@@ -286,6 +286,9 @@
   "72030e6a47051491d26b22ba501039a1e53af444": [
     "EMDocs\\Solutions\\Step-4---Plan-for-Software-as-a-Service-mobile-device-management.md"
   ],
+  "78ae82e3cfd4f34684c0f384076ff2d98d44008b": [
+    "EMDocs\\Solutions\\TOC.md"
+  ],
   "a1e6efb95688acbcc042029833f190bb759f1dda": [
     "EMDocs\\Solutions\\TOC.md"
   ],
@@ -494,6 +497,9 @@
   "e22eef5c3ad74ed9c3d41170e8d062cb180ecf03": [
     "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
   ],
+  "aa7b25cb31a00f848b15c4103cc2e62f6f230063": [
+    "EMDocs\\index.html"
+  ],
   "0795bf8c646ec8749123448b59b0aa529a0421eb": [
     "EMDocs\\index.html"
   ],
@@ -521,7 +527,13 @@
   "ae128e3fb940d06d4e7f1b88fde3490c3367cb9a": [
     "EMDocs\\Solutions\\media\\BYOD_Figure2.png"
   ],
+  "ec9b0d3a3a4b6f09e99391d25619f97bccce953a": [
+    "EMDocs\\Solutions\\BYOD-design-considerations-guide.md"
+  ],
   "b70d3d508a745ba7363f5a9a95ff96e9288b5c5e": [
     "EMDocs\\Solutions\\BYOD-design-considerations-guide.md"
+  ],
+  "fe4fc2c462800fb09ddeb62b6fd5b78287d908e6": [
+    "EMDocs\\liza-test.md"
   ]
 }
