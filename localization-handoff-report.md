@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/62239e0190b93c7c41ce7fb763a090b9490287cd/EMDocs/index.html) | HandedOffSuccess | [Details](#1b642591404aa0f196c3f7427a47ad79a03ca85259)
+ [EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md](https://github.com/Microsoft/EMDocs-pr/blob/bac68785d319fe10e57a2745337096e95572ef2d/EMDocs/Solutions/Mobile-Device-Management-Design-Considerations-Guide.md) | HandedOffSuccess | [Details](#814901aa9ed4db3f168a5bf013f1f52f2695b90c227)
 
 ## Item Details
-##### <a name='1b642591404aa0f196c3f7427a47ad79a03ca85259'></a> Source: [EMDocs\index.html](https://github.com/Microsoft/EMDocs-pr/blob/62239e0190b93c7c41ce7fb763a090b9490287cd/EMDocs/index.html)
+##### <a name='814901aa9ed4db3f168a5bf013f1f52f2695b90c227'></a> Source: [EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md](https://github.com/Microsoft/EMDocs-pr/blob/bac68785d319fe10e57a2745337096e95572ef2d/EMDocs/Solutions/Mobile-Device-Management-Design-Considerations-Guide.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [1b642591404aa0f196c3f7427a47ad79a03ca852.html](https://github.com/Microsoft/EM.handoff/blob/b8c5ee541ece4530bc7a00438478d79dba9ae438/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/1b642591404aa0f196c3f7427a47ad79a03ca852.html)
-* Handoff Datetime: 2016-03-14 14:03:21
+* Handoff File: [Mobile-Device-Management-Design-Considerations-Guide.a8cff38f6d4400959421864cee3437faa68e5bba.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/93d0f2d02d7477aabbc1c7ce113d207dd90aea09/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Mobile-Device-Management-Design-Considerations-Guide.a8cff38f6d4400959421864cee3437faa68e5bba.zh-cn.xlf)
+* Handoff Datetime: 2016-03-14 18:55:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
