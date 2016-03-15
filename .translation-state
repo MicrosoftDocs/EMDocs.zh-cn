@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bac68785d319fe10e57a2745337096e95572ef2d",
+  "LastProcessedCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -5337,6 +5337,184 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Mobile-Device-Management-Design-Considerations-Guide.a8cff38f6d4400959421864cee3437faa68e5bba.zh-cn.xlf",
       "HandoffFileCommit": "93d0f2d02d7477aabbc1c7ce113d207dd90aea09",
       "HandoffDateTime": "2016-03-14T18:55:21.6883644Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b9c5a7243cc314b90f9160e5e748e5b8aaff6b2f": {
+      "FileHash": "b9c5a7243cc314b90f9160e5e748e5b8aaff6b2f",
+      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFilePath": "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Architecture-guidance-for-protecting-company-email-and-documents.d8dae5bb952255135e1f3c2362afacf1aa9de432.zh-cn.xlf",
+      "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
+      "HandoffDateTime": "2016-03-15T14:34:32.5724504Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "1de96d7238974caec298c6a3a88377762aef55b2": {
+      "FileHash": "1de96d7238974caec298c6a3a88377762aef55b2",
+      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\1de96d7238974caec298c6a3a88377762aef55b2.png",
+      "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
+      "HandoffDateTime": "2016-03-15T14:34:32.5724504Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "02351507eea49372935426f27f2275fcecaa8a18": {
+      "FileHash": "02351507eea49372935426f27f2275fcecaa8a18",
+      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\02351507eea49372935426f27f2275fcecaa8a18.png",
+      "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
+      "HandoffDateTime": "2016-03-15T14:34:32.5724504Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "768b0e9f05d991171b1255ba410cd4911d0db663": {
+      "FileHash": "768b0e9f05d991171b1255ba410cd4911d0db663",
+      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\768b0e9f05d991171b1255ba410cd4911d0db663.png",
+      "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
+      "HandoffDateTime": "2016-03-15T14:34:32.5724504Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "fd7f2b3da02bf77b660fbbae92368d2faf42b772": {
+      "FileHash": "fd7f2b3da02bf77b660fbbae92368d2faf42b772",
+      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise_Mobility_Suite.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise_Mobility_Suite.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fd7f2b3da02bf77b660fbbae92368d2faf42b772.png",
+      "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
+      "HandoffDateTime": "2016-03-15T14:34:32.5724504Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "5d23feda97afbd203a4d57d0f958baca68438c2c": {
+      "FileHash": "5d23feda97afbd203a4d57d0f958baca68438c2c",
+      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Protecting_your_data.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Protecting_your_data.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\5d23feda97afbd203a4d57d0f958baca68438c2c.png",
+      "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
+      "HandoffDateTime": "2016-03-15T14:34:32.5724504Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
