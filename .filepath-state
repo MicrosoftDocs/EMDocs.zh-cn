@@ -211,7 +211,24 @@
   ],
   "e1dca4b26c4c0d67d8adf5ab33d6aeaa62db3f4a": [
     "EMDocs\\Solutions\\Enterprise-Mobility-FastTrack-Program.md",
-    "EMDocs\\Solutions\\robmazz_test.md"
+    "EMDocs\\Solutions\\robmazz_test.md",
+    "EMDocs\\Solutions\\mdm-application-management-options.md",
+    "EMDocs\\Solutions\\mdm-certificate-management-options.md",
+    "EMDocs\\Solutions\\mdm-determine network requirements.md",
+    "EMDocs\\Solutions\\mdm-develop saas-mdm-strategy.md",
+    "EMDocs\\Solutions\\mdm-device-enrollment-options.md",
+    "EMDocs\\Solutions\\mdm-device-management-options.md",
+    "EMDocs\\Solutions\\mdm-device-monitoring-options.md",
+    "EMDocs\\Solutions\\mdm-device-provisioning-options.md",
+    "EMDocs\\Solutions\\mdm-email-management-options.md",
+    "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md",
+    "EMDocs\\Solutions\\mdm-identify-saas connectivity-requirements.md",
+    "EMDocs\\Solutions\\mdm-identify-saas-options.md",
+    "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md",
+    "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md",
+    "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md",
+    "EMDocs\\Solutions\\robmazz_test - Copy (7).md",
+    "EMDocs\\Solutions\\robmazz_test - Copy.md"
   ],
   "351ed4bfc1d19b0d22a9bf755ba518ff3107f458": [
     "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md",
@@ -262,17 +279,8 @@
   "208cadc4a3d1a598780cbf97af877fdc61eed9a4": [
     "EMDocs\\Solutions\\lp_selector.md"
   ],
-  "814901aa9ed4db3f168a5bf013f1f52f2695b90c": [
-    "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
-  ],
-  "487b02bd2fbf54ed09fa5c510d3f8620ceb117bd": [
-    "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
-  ],
-  "859b4f0dac3136e2b03b0013fe8608bda6a2b2e2": [
-    "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
-  ],
   "0fef1088c5f876d6942db7bc0f32631d6bd06cc0": [
-    "EMDocs\\Solutions\\Next-steps-and-additional-resources.md"
+    "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
   ],
   "80f16e5851e574014594e4d93ba194beb2cc9653": [
     "EMDocs\\Solutions\\Sample.md"
@@ -287,13 +295,13 @@
     "EMDocs\\Solutions\\Step-1---Identify-your-mobile-device-management-requirements.md"
   ],
   "9faea185dd9633bc4d82af770b17d1219c43bcb6": [
-    "EMDocs\\Solutions\\Step-2---Plan-for-mobile-device-management.md"
+    "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
   ],
   "5c726e56fa7675c0cfceaf10b9fa8644dd843836": [
     "EMDocs\\Solutions\\Step-3---Plan-for-enhancing-mobile-devices-protection.md"
   ],
   "72030e6a47051491d26b22ba501039a1e53af444": [
-    "EMDocs\\Solutions\\Step-4---Plan-for-Software-as-a-Service-mobile-device-management.md"
+    "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
   ],
   "78ae82e3cfd4f34684c0f384076ff2d98d44008b": [
     "EMDocs\\Solutions\\TOC.md"
@@ -553,6 +561,9 @@
   ],
   "fe4fc2c462800fb09ddeb62b6fd5b78287d908e6": [
     "EMDocs\\liza-test.md"
+  ],
+  "814901aa9ed4db3f168a5bf013f1f52f2695b90c": [
+    "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
   ],
   "1de96d7238974caec298c6a3a88377762aef55b2": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Native-Email-Apps.png"

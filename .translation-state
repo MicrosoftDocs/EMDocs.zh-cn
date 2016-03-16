@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+  "LastProcessedCommit": "59f7b56854c713f6bfdf1544e3864803c5b85eaf",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -1250,7 +1250,24 @@
       "DependencyFrom": null,
       "FilePathList": [
         "EMDocs\\Solutions\\Enterprise-Mobility-FastTrack-Program.md",
-        "EMDocs\\Solutions\\robmazz_test.md"
+        "EMDocs\\Solutions\\robmazz_test.md",
+        "EMDocs\\Solutions\\mdm-application-management-options.md",
+        "EMDocs\\Solutions\\mdm-certificate-management-options.md",
+        "EMDocs\\Solutions\\mdm-determine network requirements.md",
+        "EMDocs\\Solutions\\mdm-develop saas-mdm-strategy.md",
+        "EMDocs\\Solutions\\mdm-device-enrollment-options.md",
+        "EMDocs\\Solutions\\mdm-device-management-options.md",
+        "EMDocs\\Solutions\\mdm-device-monitoring-options.md",
+        "EMDocs\\Solutions\\mdm-device-provisioning-options.md",
+        "EMDocs\\Solutions\\mdm-email-management-options.md",
+        "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md",
+        "EMDocs\\Solutions\\mdm-identify-saas connectivity-requirements.md",
+        "EMDocs\\Solutions\\mdm-identify-saas-options.md",
+        "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md",
+        "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md",
+        "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md",
+        "EMDocs\\Solutions\\robmazz_test - Copy (7).md",
+        "EMDocs\\Solutions\\robmazz_test - Copy.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Enterprise-Mobility-FastTrack-Program.94ad9f8035de8219af561f029e46651bc9ef5e4e.zh-cn.xlf",
       "HandoffFileCommit": "77c386a7d480388809892d42d0897dfba177ead7",
@@ -1642,7 +1659,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "EMDocs\\Solutions\\Next-steps-and-additional-resources.md"
+        "EMDocs\\Solutions\\Next-steps-and-additional-resources.md",
+        "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Next-steps-and-additional-resources.80b534ffa8b85a1f61465f5893c50336b892a789.zh-cn.xlf",
       "HandoffFileCommit": "77c386a7d480388809892d42d0897dfba177ead7",
@@ -1784,7 +1802,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "EMDocs\\Solutions\\Step-2---Plan-for-mobile-device-management.md"
+        "EMDocs\\Solutions\\Step-2---Plan-for-mobile-device-management.md",
+        "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Step-2---Plan-for-mobile-device-management.8fab1dd6d3b1a61bfde1c1be7a2095a34e84cbdc.zh-cn.xlf",
       "HandoffFileCommit": "77c386a7d480388809892d42d0897dfba177ead7",
@@ -1840,7 +1859,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "EMDocs\\Solutions\\Step-4---Plan-for-Software-as-a-Service-mobile-device-management.md"
+        "EMDocs\\Solutions\\Step-4---Plan-for-Software-as-a-Service-mobile-device-management.md",
+        "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Step-4---Plan-for-Software-as-a-Service-mobile-device-management.d180d164e77fc2965e9798fadf0b6553f067ba8f.zh-cn.xlf",
       "HandoffFileCommit": "77c386a7d480388809892d42d0897dfba177ead7",
@@ -3607,7 +3627,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_01.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
+        "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md",
+        "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\MDM_Figure_01.png"
@@ -5332,7 +5353,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md"
+        "EMDocs\\Solutions\\Mobile-Device-Management-Design-Considerations-Guide.md",
+        "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Mobile-Device-Management-Design-Considerations-Guide.a8cff38f6d4400959421864cee3437faa68e5bba.zh-cn.xlf",
       "HandoffFileCommit": "93d0f2d02d7477aabbc1c7ce113d207dd90aea09",
