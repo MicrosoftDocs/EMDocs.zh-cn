@@ -230,38 +230,74 @@
     "EMDocs\\Solutions\\robmazz_test - Copy (7).md",
     "EMDocs\\Solutions\\robmazz_test - Copy.md"
   ],
+  "c5dc5e8e2ee9589e10317c852b9dea89da09fda1": [
+    "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
   "450fb416e65bff2145a971f5a954f35365009149": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
+  "dad7b201623ec19873a0921c528b49238df92a5f": [
+    "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
   "fc7f48d47dc97a8f79bddef5575d12a34f9f8a6b": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
+  "fb6aac34681d935ac26e1ddfc04cdc8218a63abc": [
+    "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
+  ],
   "ba31d24b97cd01cff9714d36f96dcc996b234ee3": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
+  ],
+  "03250b4d94a51f7412a35fba10e589df87ea3a44": [
+    "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
   "190fd666b9a5181f36405499eb7db60294b262a9": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
+  "999cb936edc314ffad64a340a25edd17a2151971": [
+    "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
+  ],
   "b94bbaae976e37735c919530f01209224237b563": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
+  ],
+  "9b45d1fe6709aad89c53912e7702201ab5cdcccf": [
+    "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
   "eaa644ba78f9c031496cfbe3109b9492218797a2": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
+  "5baed54b361a7761fbd94558f99f81c6e85b9955": [
+    "EMDocs\\Solutions\\mdm-email-management-options.md"
+  ],
   "4b7d7bdb9517cc9c6a152fc9fe8a47c486d0c1dd": [
     "EMDocs\\Solutions\\mdm-email-management-options.md"
+  ],
+  "a63b3b4b9bf625c45fb1d4642c0dc182aad1c207": [
+    "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
   ],
   "9445c54f61a29568961e623fda4290534480258f": [
     "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
   ],
+  "63399e63413c6dd645e85f3e89bad755cc510c04": [
+    "EMDocs\\Solutions\\mdm-identify-saas connectivity-requirements.md"
+  ],
   "545db3f889bf5f52e1bb4f5d788ba44fdc6aec9d": [
     "EMDocs\\Solutions\\mdm-identify-saas connectivity-requirements.md"
+  ],
+  "e3fc5d7602556dc530010b2b41701479b1a093d4": [
+    "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
   ],
   "6e881824e2014e42bc7a5e409a462c82f7084e3b": [
     "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
   ],
+  "553380d9822d93c4e44e72910f3c709a50f9ae6a": [
+    "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
+  ],
   "6695f4a334bef311c8d2cc0f84195d43cf0675df": [
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
+  ],
+  "2de51d7074104da20438d54cf78f0c2573832115": [
+    "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
   ],
   "351ed4bfc1d19b0d22a9bf755ba518ff3107f458": [
     "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md",
@@ -312,6 +348,9 @@
   "208cadc4a3d1a598780cbf97af877fdc61eed9a4": [
     "EMDocs\\Solutions\\lp_selector.md"
   ],
+  "00c3b6363895b9c6d5d5050bfff81f83a3d262f4": [
+    "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
+  ],
   "0fef1088c5f876d6942db7bc0f32631d6bd06cc0": [
     "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
   ],
@@ -327,6 +366,9 @@
   "6901030812374805052e46ea508025fd355bbf03": [
     "EMDocs\\Solutions\\Step-1---Identify-your-mobile-device-management-requirements.md"
   ],
+  "020e56925c2267e22dd817a746d48fb30b553c7c": [
+    "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
+  ],
   "9faea185dd9633bc4d82af770b17d1219c43bcb6": [
     "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
   ],
@@ -335,6 +377,9 @@
   ],
   "72030e6a47051491d26b22ba501039a1e53af444": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
+  ],
+  "036e2d5ed87ba5cb1e038be6690ed60fb93e83c7": [
+    "EMDocs\\Solutions\\TOC.md"
   ],
   "225d7f877c636a4ae9b84030372d9706a66625e6": [
     "EMDocs\\Solutions\\TOC.md"
@@ -553,6 +598,9 @@
   "e22eef5c3ad74ed9c3d41170e8d062cb180ecf03": [
     "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
   ],
+  "a7b5a5dba5d2319dd81baba30824e0dcd27724fb": [
+    "EMDocs\\index.html"
+  ],
   "f9ce340799f34b831f483bce7ddf9427217abc55": [
     "EMDocs\\index.html"
   ],
@@ -643,11 +691,20 @@
   "3c17bb0e80792952c86ce97f9b623cd85518001f": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png"
   ],
+  "292f069ecdb76a3e281f485071c6714699d58097": [
+    "EMDocs\\Solutions\\mdm-determine-network-requirements.md"
+  ],
   "1da5955111addc58974032c2e2da553ccd6df83a": [
     "EMDocs\\Solutions\\mdm-determine-network-requirements.md"
   ],
+  "4ea9021ae5ee1feea56596844edce05a4d3707c0": [
+    "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
+  ],
   "7d345f2046737f8fb3a50b0266bfee30f205ab51": [
     "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
+  ],
+  "1025701fc3479bbbdb12afe1737632ee7bd52c46": [
+    "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
   ],
   "82cc3bc16a878541bcfd10b2f267af246b8bc739": [
     "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
@@ -741,5 +798,8 @@
   ],
   "bc448048fe6681f2bc484ca733199f8a8c55abb0": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows-quarantineEmail.png"
+  ],
+  "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
   ]
 }
