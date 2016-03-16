@@ -363,9 +363,6 @@
   "95e060275eb6ad08cc794b6211240f6dce7912bb": [
     "EMDocs\\Solutions\\Secure-access-to-company-resources-from-any-location-on-any-device.md"
   ],
-  "6901030812374805052e46ea508025fd355bbf03": [
-    "EMDocs\\Solutions\\Step-1---Identify-your-mobile-device-management-requirements.md"
-  ],
   "020e56925c2267e22dd817a746d48fb30b553c7c": [
     "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
   ],
@@ -801,5 +798,17 @@
   ],
   "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
     "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
+  ],
+  "98ddab7a33c08db24121feffc3c55e48935fdb9a": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
+  "a3eb5e6162cf8059e5839f94f1b49116d1bdea88": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
+  "220fd797485de0b509a42710f3e477f529d053ea": [
+    "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
+  ],
+  "0c052a2c57ec36a6568babd4450e26b8036044cd": [
+    "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ]
 }
