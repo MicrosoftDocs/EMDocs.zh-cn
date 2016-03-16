@@ -110,6 +110,9 @@
   "6c36104277532207f7d05fb62e35953a5799ce49": [
     "EMDocs\\Solutions\\Access-and-Information-Protection.md"
   ],
+  "4c49956910fd41bab6de5e3d43a6b1f57c4ccd52": [
+    "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+  ],
   "b9c5a7243cc314b90f9160e5e748e5b8aaff6b2f": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
@@ -303,6 +306,9 @@
   ],
   "906064527771e499e9c53e17b8f4a542bb8813da": [
     "EMDocs\\Solutions\\TOC.md"
+  ],
+  "404f72503afc32f1b81cfaf688827a85e586e722": [
+    "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
   ],
   "31c86060a489128ba8ad81907015000a4542b55b": [
     "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
@@ -549,18 +555,42 @@
     "EMDocs\\liza-test.md"
   ],
   "1de96d7238974caec298c6a3a88377762aef55b2": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png"
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Native-Email-Apps.png"
   ],
   "02351507eea49372935426f27f2275fcecaa8a18": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png"
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Outlook-App.png"
   ],
   "768b0e9f05d991171b1255ba410cd4911d0db663": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png"
+    "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet-Diagram-Apps.png"
   ],
   "fd7f2b3da02bf77b660fbbae92368d2faf42b772": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise_Mobility_Suite.png"
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise-Mobility-Suite.png"
   ],
   "5d23feda97afbd203a4d57d0f958baca68438c2c": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\Protecting_your_data.png"
+  ],
+  "4acb3dc7c3580e7bf319b367387423449d38c4f8": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png"
+  ],
+  "a9398cffc2653d5a4251a95aa42647f8a197e4d4": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png"
+  ],
+  "00f6c80457b1d64bb088936747ac26ec93f83c5a": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG"
+  ],
+  "31469f3df0b9951cb42496e8adf072ea60748c11": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG"
+  ],
+  "2508565ee350f44535945187882b18356955bb59": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png"
+  ],
+  "1d2a8737299ec8316484218a22931eca82a39d0c": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png"
+  ],
+  "d3c779deba937feff2e602fa78cfc3cf2c2d1151": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png"
+  ],
+  "3c17bb0e80792952c86ce97f9b623cd85518001f": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "6a4639ad0996b369799739c44f35628f374de4af",
+  "LastProcessedCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -5390,7 +5390,8 @@
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
       ],
       "FilePathList": [
-        "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png"
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png",
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Native-Email-Apps.png"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\1de96d7238974caec298c6a3a88377762aef55b2.png",
       "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
@@ -5420,7 +5421,8 @@
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
       ],
       "FilePathList": [
-        "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png"
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png",
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Outlook-App.png"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\02351507eea49372935426f27f2275fcecaa8a18.png",
       "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
@@ -5450,7 +5452,8 @@
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
       ],
       "FilePathList": [
-        "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png"
+        "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png",
+        "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet-Diagram-Apps.png"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\768b0e9f05d991171b1255ba410cd4911d0db663.png",
       "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
@@ -5480,7 +5483,8 @@
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
       ],
       "FilePathList": [
-        "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise_Mobility_Suite.png"
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise_Mobility_Suite.png",
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise-Mobility-Suite.png"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fd7f2b3da02bf77b660fbbae92368d2faf42b772.png",
       "HandoffFileCommit": "015a546abaf0a7c16f95dd4964dd988815c2332a",
@@ -5543,6 +5547,302 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\6362b218eb26810865f8cfa87db040b542bde8b9.html",
       "HandoffFileCommit": "49f2f923899d71413f6cfaaf8a792684457fe8f5",
       "HandoffDateTime": "2016-03-16T09:33:12.6640816Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "4c49956910fd41bab6de5e3d43a6b1f57c4ccd52": {
+      "FileHash": "4c49956910fd41bab6de5e3d43a6b1f57c4ccd52",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Architecture-guidance-for-protecting-company-email-and-documents.d8dae5bb952255135e1f3c2362afacf1aa9de432.zh-cn.xlf",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "4acb3dc7c3580e7bf319b367387423449d38c4f8": {
+      "FileHash": "4acb3dc7c3580e7bf319b367387423449d38c4f8",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\4acb3dc7c3580e7bf319b367387423449d38c4f8.png",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a9398cffc2653d5a4251a95aa42647f8a197e4d4": {
+      "FileHash": "a9398cffc2653d5a4251a95aa42647f8a197e4d4",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\a9398cffc2653d5a4251a95aa42647f8a197e4d4.png",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "00f6c80457b1d64bb088936747ac26ec93f83c5a": {
+      "FileHash": "00f6c80457b1d64bb088936747ac26ec93f83c5a",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\00f6c80457b1d64bb088936747ac26ec93f83c5a.PNG",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "31469f3df0b9951cb42496e8adf072ea60748c11": {
+      "FileHash": "31469f3df0b9951cb42496e8adf072ea60748c11",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\31469f3df0b9951cb42496e8adf072ea60748c11.PNG",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "2508565ee350f44535945187882b18356955bb59": {
+      "FileHash": "2508565ee350f44535945187882b18356955bb59",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\2508565ee350f44535945187882b18356955bb59.png",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "1d2a8737299ec8316484218a22931eca82a39d0c": {
+      "FileHash": "1d2a8737299ec8316484218a22931eca82a39d0c",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\1d2a8737299ec8316484218a22931eca82a39d0c.png",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "d3c779deba937feff2e602fa78cfc3cf2c2d1151": {
+      "FileHash": "d3c779deba937feff2e602fa78cfc3cf2c2d1151",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\d3c779deba937feff2e602fa78cfc3cf2c2d1151.png",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "3c17bb0e80792952c86ce97f9b623cd85518001f": {
+      "FileHash": "3c17bb0e80792952c86ce97f9b623cd85518001f",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "FilePathList": [
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\3c17bb0e80792952c86ce97f9b623cd85518001f.png",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "404f72503afc32f1b81cfaf688827a85e586e722": {
+      "FileHash": "404f72503afc32f1b81cfaf688827a85e586e722",
+      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFilePath": "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Use-conditional-access-with-Intune-and-Configuration-Manager.f988ab358240a1ff3eed2025bab36b8796d78ff3.zh-cn.xlf",
+      "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
+      "HandoffDateTime": "2016-03-16T14:55:37.9985485Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
