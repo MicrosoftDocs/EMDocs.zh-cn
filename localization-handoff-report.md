@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\Solutions\mdm-develop-mdm-adoption-strategy.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-develop-mdm-adoption-strategy.md) | HandedOffSuccess | [Details](#98ddab7a33c08db24121feffc3c55e48935fdb9a97)
- [EMDocs\Solutions\mdm-identify-business-needs.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-identify-business-needs.md) | HandedOffSuccess | [Details](#a3eb5e6162cf8059e5839f94f1b49116d1bdea88105)
- [EMDocs\Solutions\mdm-specify-mdm-location-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-specify-mdm-location-requirements.md) | HandedOffSuccess | [Details](#220fd797485de0b509a42710f3e477f529d053ea111)
- [EMDocs\Solutions\mdm-step-1-identify-your-mobile-device-management-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-step-1-identify-your-mobile-device-management-requirements.md) | HandedOffSuccess | [Details](#0c052a2c57ec36a6568babd4450e26b8036044cd112)
+ [EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Architecture-guidance-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#acbd5bf819c073ef9f7fae3615d1b91c3471224962)
+ [EMDocs\Solutions\End-user-experience-of-conditional-access.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/End-user-experience-of-conditional-access.md) | HandedOffSuccess | [Details](#abdde5d3337a6c5476773bdf3d94ce9acabefe0479)
+ [EMDocs\Solutions\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#114609e897e58f0c4ef1df16b7e85fd8c3897d1f89)
+ [EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Use-conditional-access-with-Intune-and-Configuration-Manager.md) | HandedOffSuccess | [Details](#bda6edb0fd7a3fcacfbdff92e82a40a3900601e7301)
 
 ## Item Details
-##### <a name='98ddab7a33c08db24121feffc3c55e48935fdb9a97'></a> Source: [EMDocs\Solutions\mdm-develop-mdm-adoption-strategy.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-develop-mdm-adoption-strategy.md)
+##### <a name='acbd5bf819c073ef9f7fae3615d1b91c3471224962'></a> Source: [EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Architecture-guidance-for-protecting-company-email-and-documents.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mdm-develop-mdm-adoption-strategy.987a4d2c8cc444e99a1a3b8c2537e1bfdf462054.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/bd28211a4aadd340fc5096010a4b71ce98e7a17e/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/mdm-develop-mdm-adoption-strategy.987a4d2c8cc444e99a1a3b8c2537e1bfdf462054.zh-cn.xlf)
-* Handoff Datetime: 2016-03-16 23:27:09
+* Handoff File: [Architecture-guidance-for-protecting-company-email-and-documents.d8dae5bb952255135e1f3c2362afacf1aa9de432.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/65cca68f04ea5d5c04c923ea2a1ca15063cdaa47/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Architecture-guidance-for-protecting-company-email-and-documents.d8dae5bb952255135e1f3c2362afacf1aa9de432.zh-cn.xlf)
+* Handoff Datetime: 2016-03-17 13:00:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -24,11 +24,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a3eb5e6162cf8059e5839f94f1b49116d1bdea88105'></a> Source: [EMDocs\Solutions\mdm-identify-business-needs.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-identify-business-needs.md)
+##### <a name='abdde5d3337a6c5476773bdf3d94ce9acabefe0479'></a> Source: [EMDocs\Solutions\End-user-experience-of-conditional-access.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/End-user-experience-of-conditional-access.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mdm-identify-business-needs.53faf0cec8a61848cbb0e191c18b5a2524f1edaf.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/bd28211a4aadd340fc5096010a4b71ce98e7a17e/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/mdm-identify-business-needs.53faf0cec8a61848cbb0e191c18b5a2524f1edaf.zh-cn.xlf)
-* Handoff Datetime: 2016-03-16 23:27:09
+* Handoff File: [End-user-experience-of-conditional-access.c8dfb79d84146449e4f1e59b7612931d17e9f948.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/65cca68f04ea5d5c04c923ea2a1ca15063cdaa47/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/End-user-experience-of-conditional-access.c8dfb79d84146449e4f1e59b7612931d17e9f948.zh-cn.xlf)
+* Handoff Datetime: 2016-03-17 13:00:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -36,11 +36,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='220fd797485de0b509a42710f3e477f529d053ea111'></a> Source: [EMDocs\Solutions\mdm-specify-mdm-location-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-specify-mdm-location-requirements.md)
+##### <a name='114609e897e58f0c4ef1df16b7e85fd8c3897d1f89'></a> Source: [EMDocs\Solutions\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mdm-specify-mdm-location-requirements.e1b1f7764d753bf09a46f92e19912bb820ead1bd.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/bd28211a4aadd340fc5096010a4b71ce98e7a17e/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/mdm-specify-mdm-location-requirements.e1b1f7764d753bf09a46f92e19912bb820ead1bd.zh-cn.xlf)
-* Handoff Datetime: 2016-03-16 23:27:09
+* Handoff File: [Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.0342c9db44d477623c8b40cb3fbb112c4f902816.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/65cca68f04ea5d5c04c923ea2a1ca15063cdaa47/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.0342c9db44d477623c8b40cb3fbb112c4f902816.zh-cn.xlf)
+* Handoff Datetime: 2016-03-17 13:00:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -48,11 +48,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0c052a2c57ec36a6568babd4450e26b8036044cd112'></a> Source: [EMDocs\Solutions\mdm-step-1-identify-your-mobile-device-management-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/9069cac8c2d2f562e870797315f62e5fa67e445f/EMDocs/Solutions/mdm-step-1-identify-your-mobile-device-management-requirements.md)
+##### <a name='bda6edb0fd7a3fcacfbdff92e82a40a3900601e7301'></a> Source: [EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Use-conditional-access-with-Intune-and-Configuration-Manager.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mdm-step-1-identify-your-mobile-device-management-requirements.f0e4033cec0b45abc377de9726de8ce3445ee6a3.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/bd28211a4aadd340fc5096010a4b71ce98e7a17e/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/mdm-step-1-identify-your-mobile-device-management-requirements.f0e4033cec0b45abc377de9726de8ce3445ee6a3.zh-cn.xlf)
-* Handoff Datetime: 2016-03-16 23:27:09
+* Handoff File: [Use-conditional-access-with-Intune-and-Configuration-Manager.f988ab358240a1ff3eed2025bab36b8796d78ff3.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/65cca68f04ea5d5c04c923ea2a1ca15063cdaa47/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Use-conditional-access-with-Intune-and-Configuration-Manager.f988ab358240a1ff3eed2025bab36b8796d78ff3.zh-cn.xlf)
+* Handoff Datetime: 2016-03-17 13:00:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
