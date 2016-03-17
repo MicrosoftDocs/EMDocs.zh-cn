@@ -876,5 +876,38 @@
   ],
   "0c052a2c57ec36a6568babd4450e26b8036044cd": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
+  ],
+  "6a7cc892b87961e0eab093083c63b39e311b78d0": [
+    "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
+  "a58fdd2acb6322569434bb31b709ae342380334e": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
+  ],
+  "e5d983a0df72339fa9bc25d72e4a1f2675ef612a": [
+    "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
+  "923d03f87443bef0c6d3afd1122bf8c6de93f969": [
+    "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
+  ],
+  "7bab915027925b2f94db541bfe7cc421ecb9457b": [
+    "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
+  ],
+  "0f7fc455b338527e7a933b7cf1efa7b37ecba751": [
+    "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
+  ],
+  "aea3ac40fccfdae328207d0fb18a01192ce8bcfe": [
+    "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
+  ],
+  "b7f78c809a3e137d0acbefc0819ffce9de37fa29": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_08.png"
+  ],
+  "e361c053ec94b0bb1df7f369a838afb1f88e2b65": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_09.png"
+  ],
+  "bc6ea010f15c372098eef559a50343fcc71bc911": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_10.png"
+  ],
+  "3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_11.png"
   ]
 }
