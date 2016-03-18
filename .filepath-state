@@ -413,6 +413,9 @@
   "95e060275eb6ad08cc794b6211240f6dce7912bb": [
     "EMDocs\\Solutions\\Secure-access-to-company-resources-from-any-location-on-any-device.md"
   ],
+  "fac9c54306c000ffaa1e4c7b322b55fa40e6c17b": [
+    "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
+  ],
   "cace1218b7af816632b7303dfcb658d0c6d10e09": [
     "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
   ],
@@ -433,6 +436,9 @@
   ],
   "72030e6a47051491d26b22ba501039a1e53af444": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
+  ],
+  "ee9d2341e65befe66df97240eb3883fd9ce6a1c7": [
+    "EMDocs\\Solutions\\TOC.md"
   ],
   "33af5006e4fe80bcda74e113d0efe4edd81fbb37": [
     "EMDocs\\Solutions\\TOC.md"
@@ -887,6 +893,9 @@
   ],
   "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
     "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
+  ],
+  "268c57c735cf406389887e43c8f51cf7a8edbfeb": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
   "98ddab7a33c08db24121feffc3c55e48935fdb9a": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
