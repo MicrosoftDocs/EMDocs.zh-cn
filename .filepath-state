@@ -971,5 +971,26 @@
   ],
   "49288140c7660be49ac1caba2e2e573a72b312ed": [
     "EMDocs\\Solutions\\use-conditional-access-with-intune.md.md"
+  ],
+  "b26ab6c5fb03284058bf2daa7e2b8bf1b4b3a975": [
+    "EMDocs\\Solutions\\mdm-access-control-resources.md"
+  ],
+  "fb015e2230229183813dff591cfb5d655d2b0354": [
+    "EMDocs\\Solutions\\mdm-authentication-authorization.md"
+  ],
+  "275887a5c157f8c79ffa98c7bd20b22d9cc84caf": [
+    "EMDocs\\Solutions\\mdm-client-privacy.md"
+  ],
+  "ba3f5fc3f013a4595209bf96c13a5ae0d348bfcc": [
+    "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
+  "a4241f0247d8e5c1279517397ff01234694b221f": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
+  ],
+  "229fc686019615d0fff176eeceb7db8530e0caf8": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_12.png"
+  ],
+  "6d9d1a6c55c5d580c83fda80193ee1362c6e462c": [
+    "EMDocs\\Solutions\\media\\MDM_Figure_13.png"
   ]
 }
