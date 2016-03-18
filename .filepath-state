@@ -434,6 +434,9 @@
   "72030e6a47051491d26b22ba501039a1e53af444": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
   ],
+  "33af5006e4fe80bcda74e113d0efe4edd81fbb37": [
+    "EMDocs\\Solutions\\TOC.md"
+  ],
   "5419bcf39e0294a413cf45f2474b56670b516f25": [
     "EMDocs\\Solutions\\TOC.md"
   ],
@@ -947,5 +950,17 @@
   ],
   "ef35bc0ea3385158b47172ac26453847ce4d4552": [
     "EMDocs\\Solutions\\media\\MDM_Figure_15.png"
+  ],
+  "495a0e184d5b0f7d60292dd23b38e57fdad93e87": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\conditional-access-8-1.png"
+  ],
+  "6dc6d327b445e37e8e0a9f52afd82c3342c3101a": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\conditional-access-8-2.png"
+  ],
+  "49427494881cb50b4baadf18311da0f9744f6c43": [
+    "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG"
+  ],
+  "49288140c7660be49ac1caba2e2e573a72b312ed": [
+    "EMDocs\\Solutions\\use-conditional-access-with-intune.md.md"
   ]
 }
