@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "07b1633bb08ba17a5798a5368cad4b7223a6977f",
+  "LastProcessedCommit": "ddccc00d51bf3def3873b5c8ea13f394abc8863b",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -5619,7 +5619,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png"
@@ -5649,7 +5650,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png"
@@ -5679,7 +5681,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG"
@@ -5710,7 +5713,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
-        "EMDocs\\Solutions\\use-conditional-access-with-intune.md.md"
+        "EMDocs\\Solutions\\use-conditional-access-with-intune.md.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG"
@@ -5740,7 +5744,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png"
@@ -5770,7 +5775,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png"
@@ -5800,7 +5806,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png"
@@ -5830,7 +5837,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+        "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
       ],
       "FilePathList": [
         "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png"
@@ -9764,6 +9772,62 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\6d9d1a6c55c5d580c83fda80193ee1362c6e462c.png",
       "HandoffFileCommit": "d420ca27c24e8ee0384919e69e1aeaac766fc414",
       "HandoffDateTime": "2016-03-18T23:25:21.8369239Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "dca75cabbf933651b4c5d719554aba6499f5f237": {
+      "FileHash": "dca75cabbf933651b4c5d719554aba6499f5f237",
+      "SourceFileCommit": "ddccc00d51bf3def3873b5c8ea13f394abc8863b",
+      "SourceFilePath": "EMDocs\\Solutions\\TOC.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\TOC.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf",
+      "HandoffFileCommit": "445dbb94a7a79683ec69c09bcb9742917a2c27cb",
+      "HandoffDateTime": "2016-03-20T03:00:40.7220887Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "7d097c2987124c8a0aff43700a0a5a33adaf8ee9": {
+      "FileHash": "7d097c2987124c8a0aff43700a0a5a33adaf8ee9",
+      "SourceFileCommit": "ddccc00d51bf3def3873b5c8ea13f394abc8863b",
+      "SourceFilePath": "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.ccc4734446446890b850bdccef936b056a4505b1.zh-cn.xlf",
+      "HandoffFileCommit": "445dbb94a7a79683ec69c09bcb9742917a2c27cb",
+      "HandoffDateTime": "2016-03-20T03:00:40.7220887Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
