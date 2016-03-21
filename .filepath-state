@@ -951,17 +951,29 @@
   "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
     "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
   ],
+  "46a23cdbe93a1008e6f79306aa3efb1effadd5e3": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
   "268c57c735cf406389887e43c8f51cf7a8edbfeb": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
   "98ddab7a33c08db24121feffc3c55e48935fdb9a": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
+  "f7415a2f5fcbcfdb9e55ba2c7fb1f27561b8f6e5": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
   "a3eb5e6162cf8059e5839f94f1b49116d1bdea88": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
   ],
+  "c9d0c12044c039df263ed421a82c0e00064ac165": [
+    "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
+  ],
   "220fd797485de0b509a42710f3e477f529d053ea": [
     "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
+  ],
+  "d8742df424b8cd08767c3e9bb70cb2eed8c82da6": [
+    "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ],
   "0c052a2c57ec36a6568babd4450e26b8036044cd": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
@@ -984,6 +996,9 @@
   "e5d983a0df72339fa9bc25d72e4a1f2675ef612a": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
   ],
+  "18f44c94325fc5f6f8542313a5d0e3cdc4738dec": [
+    "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
+  ],
   "f06d96c43b304094c5053b7f910917cbabd96d57": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
   ],
@@ -995,6 +1010,9 @@
   ],
   "7bab915027925b2f94db541bfe7cc421ecb9457b": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
+  ],
+  "0f6d444bdd72fbf680b11dc197dc9f1b10c4e251": [
+    "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
   ],
   "0f7fc455b338527e7a933b7cf1efa7b37ecba751": [
     "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
