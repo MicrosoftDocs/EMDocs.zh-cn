@@ -933,17 +933,32 @@
   "0c052a2c57ec36a6568babd4450e26b8036044cd": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ],
+  "38810c1d783ef2db2251d053fd67d61319e2d32f": [
+    "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
   "6a7cc892b87961e0eab093083c63b39e311b78d0": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
+  "e6296896cf31507be8e1890959d7f81f962ef77d": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
   "a58fdd2acb6322569434bb31b709ae342380334e": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
+  "29e54c1ca667727fd23fe14ce1016c1a53516795": [
+    "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
   "e5d983a0df72339fa9bc25d72e4a1f2675ef612a": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
   ],
+  "f06d96c43b304094c5053b7f910917cbabd96d57": [
+    "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
+  ],
   "923d03f87443bef0c6d3afd1122bf8c6de93f969": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
+  ],
+  "eab8f3b409926003d35654b5eec930eae430d501": [
+    "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
   "7bab915027925b2f94db541bfe7cc421ecb9457b": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
@@ -1004,6 +1019,9 @@
   ],
   "ba3f5fc3f013a4595209bf96c13a5ae0d348bfcc": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
+  "8ea5d95e10811f3a6fe3147e53bc9326ff51cd89": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
   "a4241f0247d8e5c1279517397ff01234694b221f": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
