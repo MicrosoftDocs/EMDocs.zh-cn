@@ -232,6 +232,9 @@
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md",
     "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
   ],
+  "90f07377586aaf8e9ab9af9b6d8ee7cf36026e86": [
+    "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
   "a5f7ae446dafe66b8f06a593bbb12aa7282cc6f6": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
   ],
@@ -307,6 +310,9 @@
   "4b7d7bdb9517cc9c6a152fc9fe8a47c486d0c1dd": [
     "EMDocs\\Solutions\\mdm-email-management-options.md"
   ],
+  "3d2094cf613d917143a4e1efabdb9064a4072d7b": [
+    "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
+  ],
   "4d1a6a5f676b00aecaf00050d55d16d0af59da76": [
     "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
   ],
@@ -315,6 +321,9 @@
   ],
   "9445c54f61a29568961e623fda4290534480258f": [
     "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
+  ],
+  "357123c7a8cbab7fc80be44729860ad57e4c3be6": [
+    "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
   ],
   "be85b30e6cda1e536ec5191abf03dff5687e3d5a": [
     "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
@@ -395,6 +404,9 @@
   "208cadc4a3d1a598780cbf97af877fdc61eed9a4": [
     "EMDocs\\Solutions\\lp_selector.md"
   ],
+  "7e06c37b04fc7fbff90b7b2091acb9a39d9d0478": [
+    "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
+  ],
   "eeff206e1aa4e3c1348efcc1fa20d8108f92e36f": [
     "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
   ],
@@ -431,11 +443,17 @@
   "5c726e56fa7675c0cfceaf10b9fa8644dd843836": [
     "EMDocs\\Solutions\\Step-3---Plan-for-enhancing-mobile-devices-protection.md"
   ],
+  "bb07516714ab08a48fa52b20285651471af97e42": [
+    "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
+  ],
   "42e62ecc20446bd213a6d47670b24518c02a41f3": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
   ],
   "72030e6a47051491d26b22ba501039a1e53af444": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
+  ],
+  "80b5d55319c0f7208eb44d4ed156faa8d1d11fd2": [
+    "EMDocs\\Solutions\\TOC.md"
   ],
   "dca75cabbf933651b4c5d719554aba6499f5f237": [
     "EMDocs\\Solutions\\TOC.md"
@@ -792,6 +810,9 @@
   "7d345f2046737f8fb3a50b0266bfee30f205ab51": [
     "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
   ],
+  "748c85e0a6769426c5391809ab7423e3f398c041": [
+    "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
+  ],
   "6467bcd7a71bd93f76b0b90d638b8ddcd71382b2": [
     "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
   ],
@@ -972,9 +993,6 @@
   "49427494881cb50b4baadf18311da0f9744f6c43": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG"
   ],
-  "49288140c7660be49ac1caba2e2e573a72b312ed": [
-    "EMDocs\\Solutions\\use-conditional-access-with-intune.md.md"
-  ],
   "b26ab6c5fb03284058bf2daa7e2b8bf1b4b3a975": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
   ],
@@ -998,5 +1016,8 @@
   ],
   "7d097c2987124c8a0aff43700a0a5a33adaf8ee9": [
     "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+  ],
+  "143376c0bee3bf060f4316755cafe7a0baf85f9f": [
+    "EMDocs\\Solutions\\use-conditional-access-with-intune.md"
   ]
 }
