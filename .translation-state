@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f57f21da64e56ca00256f497a3b3ec519a4c0373",
+  "LastProcessedCommit": "8430d33f57f8ac44c6dcf1d10a6b7882885223c5",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -11858,6 +11858,35 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\mdm-step-3-plan-enhancing-mobile-devices-protection.1f77502e5e2a31b6fd1f940576259d4d836a691f.zh-cn.xlf",
       "HandoffFileCommit": "baef71724737d89a53ee9b943732280607fac38e",
       "HandoffDateTime": "2016-03-23T16:49:32.1681496Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "223c70fe76c248cb61f2f39b45891ec4b67f0401": {
+      "FileHash": "223c70fe76c248cb61f2f39b45891ec4b67f0401",
+      "SourceFileCommit": "8430d33f57f8ac44c6dcf1d10a6b7882885223c5",
+      "SourceFilePath": "EMDocs\\index.html",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\index.html"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\223c70fe76c248cb61f2f39b45891ec4b67f0401.html",
+      "HandoffFileCommit": "57d893e2472ceb6af050ee3f7e7f9a1717f13c33",
+      "HandoffDateTime": "2016-03-23T17:44:47.205361Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
