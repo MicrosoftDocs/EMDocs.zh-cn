@@ -1014,6 +1014,9 @@
   "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
     "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
   ],
+  "d753980a56d11faa36ad68fc2401d14fc0608012": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
   "46a23cdbe93a1008e6f79306aa3efb1effadd5e3": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
@@ -1023,17 +1026,26 @@
   "98ddab7a33c08db24121feffc3c55e48935fdb9a": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
+  "51095155dc942457d049326f1ebfcd6af401b12a": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
   "f7415a2f5fcbcfdb9e55ba2c7fb1f27561b8f6e5": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
   ],
   "a3eb5e6162cf8059e5839f94f1b49116d1bdea88": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
   ],
+  "43955d685bdb4f1fb39059903eca325ef962e635": [
+    "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
+  ],
   "c9d0c12044c039df263ed421a82c0e00064ac165": [
     "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
   ],
   "220fd797485de0b509a42710f3e477f529d053ea": [
     "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
+  ],
+  "ad8e68ce08aaa019c45fcd40b0843a0b7bc4422c": [
+    "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ],
   "d8742df424b8cd08767c3e9bb70cb2eed8c82da6": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
@@ -1080,6 +1092,9 @@
   "923d03f87443bef0c6d3afd1122bf8c6de93f969": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
   ],
+  "5b9a485db84311df1227cb8c7dcfaac0bdfe1b12": [
+    "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
+  ],
   "bf745675f14440d786fb4d508a99f64c110366c5": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
@@ -1097,6 +1112,9 @@
   ],
   "0f7fc455b338527e7a933b7cf1efa7b37ecba751": [
     "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
+  ],
+  "afdfcd9d01df2c8b7d41b39a240afaa257b1cdd6": [
+    "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
   ],
   "9c92259d91442f815a517879ebddfdd9a52b88b2": [
     "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
