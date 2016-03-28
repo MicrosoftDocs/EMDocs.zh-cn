@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 375
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 241
+[ Handoff Success Files ](#handoff-success-list)| 240
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 134
+[ Ignored Files ](#ignored-list)| 135
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -85,7 +85,6 @@
  [EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md](https://github.com/Microsoft/EMDocs-pr/blob/2c90e15be030f89b103e6b58fd1fd5eabe9aa53d/EMDocs/Solutions/FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md) | HandedOffSuccess | [Details](#e133edb9c408482b415cf370eddab5fe529f1a5094)
  [EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md](https://github.com/Microsoft/EMDocs-pr/blob/2c90e15be030f89b103e6b58fd1fd5eabe9aa53d/EMDocs/Solutions/FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md) | HandedOffSuccess | [Details](#42cc057ad5fdf91b740043867977b2d960c2f65495)
  [EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md](https://github.com/Microsoft/EMDocs-pr/blob/2c90e15be030f89b103e6b58fd1fd5eabe9aa53d/EMDocs/Solutions/FastTrack-Center-Benefit-Process-for-Intune.md) | HandedOffSuccess | [Details](#2a8245d7067211391b7bb4e8a851bdd3fbb273b796)
- [EMDocs\Solutions\index.html](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/index.html) | HandedOffSuccess | [Details](#8d110ce61d9bd4a99c130d5298c484ef8eb52ae397)
  [EMDocs\Solutions\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/f949d6dd937469ec5a0be97105d6259a973b6587/EMDocs/Solutions/Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#114609e897e58f0c4ef1df16b7e85fd8c3897d1f98)
  [EMDocs\Solutions\lp_selector.md](https://github.com/Microsoft/EMDocs-pr/blob/9aef5e50fdea3383fd6a333eb5874b0a3cd73258/EMDocs/Solutions/lp_selector.md) | HandedOffSuccess | [Details](#208cadc4a3d1a598780cbf97af877fdc61eed9a4101)
  [EMDocs\Solutions\lp-selector1.md](https://github.com/Microsoft/EMDocs-pr/blob/9aef5e50fdea3383fd6a333eb5874b0a3cd73258/EMDocs/Solutions/lp-selector1.md) | HandedOffSuccess | [Details](#6e9001f204978fbb0ec04eafab21dd95aabb1b3a99)
@@ -303,6 +302,7 @@
  [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
  [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/docfx.json) | Ignored | [Details](#f895c956cef62646ff7edf49105a2021202ecaef86)
+ [EMDocs\Solutions\index.html](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/index.html) | Ignored | [Details](#d84b1104e740802a6b8633645b1e62ca93bddac697)
  [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e137)
  [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png) | Ignored | [Details](#0478b1d6b50ed08e780f0de7ba57e26d9a653c70140)
  [EMDocs\Solutions\media\4-aadp-assess-phase-v4.png](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/media/4-aadp-assess-phase-v4.png) | Ignored | [Details](#c35f1ea3e19ceb9319688b7b85b0cce91505ebbe142)
@@ -1592,12 +1592,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8d110ce61d9bd4a99c130d5298c484ef8eb52ae397'></a> Source: [EMDocs\Solutions\index.html](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/index.html)
-* Status: HandedOffSuccess
+##### <a name='d84b1104e740802a6b8633645b1e62ca93bddac697'></a> Source: [EMDocs\Solutions\index.html](https://github.com/Microsoft/EMDocs-pr/blob/746739d23774d4c53081972ed20b2eb98a1863cc/EMDocs/Solutions/index.html)
+* Status: Ignored
 * Target File: 
-* Handoff File: [8d110ce61d9bd4a99c130d5298c484ef8eb52ae3.html](https://github.com/Microsoft/EM.handoff/blob/0cf288a25b1a0d69951ae91c5e33719a6b713c04/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/8d110ce61d9bd4a99c130d5298c484ef8eb52ae3.html)
-* Handoff Datetime: 2016-03-28 17:55:50
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
