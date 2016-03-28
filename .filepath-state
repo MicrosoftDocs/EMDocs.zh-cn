@@ -110,6 +110,9 @@
   "6c36104277532207f7d05fb62e35953a5799ce49": [
     "EMDocs\\Solutions\\Access-and-Information-Protection.md"
   ],
+  "8b151f5e8264fa1d9c1d27df7e18ae396fa077f2": [
+    "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+  ],
   "acbd5bf819c073ef9f7fae3615d1b91c34712249": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
@@ -565,15 +568,6 @@
   ],
   "906064527771e499e9c53e17b8f4a542bb8813da": [
     "EMDocs\\Solutions\\TOC.md"
-  ],
-  "bda6edb0fd7a3fcacfbdff92e82a40a3900601e7": [
-    "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
-  ],
-  "404f72503afc32f1b81cfaf688827a85e586e722": [
-    "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
-  ],
-  "31c86060a489128ba8ad81907015000a4542b55b": [
-    "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
   ],
   "5b72cde38cf4fd1e3675899bccdd7a1f61a4539b": [
     "EMDocs\\Token\\Active-Directory-Federation-Services.md"
@@ -1212,9 +1206,6 @@
   "7d097c2987124c8a0aff43700a0a5a33adaf8ee9": [
     "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
   ],
-  "143376c0bee3bf060f4316755cafe7a0baf85f9f": [
-    "EMDocs\\Solutions\\use-conditional-access-with-intune.md"
-  ],
   "d7641e47928129e58192ac12d9e36cd56c57be4d": [
     "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png"
   ],
@@ -1247,5 +1238,26 @@
   ],
   "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
     "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
+  ],
+  "650c6dcbf1debfb6bbc85c169088dfe5d50a54dc": [
+    "EMDocs\\Solutions\\conditional-access-intune.md"
+  ],
+  "fe3854f863142eab3bd48a7c9905d6058cab8db9": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
+  ],
+  "1ca38a818b34097ff0f22dffa0a4218c4014f16d": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
+  ],
+  "cbb86de160510ce8b1d4a55e27c7fc772a356a39": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
+  ],
+  "cd7c0cd38b947c6198abdd1e0a10a2fbb6b87b5c": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
+  ],
+  "0695659b7017e0216da028789795bf14c1f17647": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
+  ],
+  "5293d417cd0202137007dd4994f3a74e782988cb": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
   ]
 }
