@@ -125,6 +125,9 @@
   "125561e6f1683d887aea7cc37834aa2eace97290": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
+  "8e3e9ee50495f5b04396857292f5417694be4358": [
+    "EMDocs\\Solutions\\BGDCopy for Training.md"
+  ],
   "76004c7bf6f6a78c532ee7b3db5aa92b4f8f9824": [
     "EMDocs\\Solutions\\BGDCopy for Training.md"
   ],
@@ -136,6 +139,9 @@
   ],
   "c274085ed505865346bee2c8bf51d0b206a37fa9": [
     "EMDocs\\Solutions\\BYOD-app-considerations.md"
+  ],
+  "1ab5c479f059b8be7497979e648695cc9ab3ec0a": [
+    "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
   "656db70a093ebf826666490504763623a6b051f6": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
@@ -155,6 +161,9 @@
   "648fcd1bdebf6f0df08262b335fd072ad799af81": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
+  "5f1ceb0c5f6e724e252376b08672da0a21037572": [
+    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
+  ],
   "db2b1d5b896c06564100907db7d0a19ad52b0c07": [
     "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
   ],
@@ -169,6 +178,9 @@
   ],
   "266c60810994dcbef15ee1372d8943179289ce3c": [
     "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
+  ],
+  "4ad93553dfb8d5333d2d3c6502764b1b3cbbde94": [
+    "EMDocs\\Solutions\\BYOD-management-considerations.md"
   ],
   "daa47a4fc4495dd6d1bb627faa742c0249653ce1": [
     "EMDocs\\Solutions\\BYOD-management-considerations.md"
@@ -196,6 +208,9 @@
   ],
   "aea7deb08bcf6e818f753d709e2c9349baa9474d": [
     "EMDocs\\Solutions\\BYOD-Summary-and-Additional-Resources.md"
+  ],
+  "a6945ad42405f2535cc4e60111390fa2368f607c": [
+    "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
   ],
   "3a05c7e2e52a1552638b7e13ee0358569d920059": [
     "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
@@ -750,6 +765,9 @@
   "e123b9d4bbd388b802592c5e989d9d7c0a37cba1": [
     "EMDocs\\Solutions\\media\\MDM_Figure_01.png"
   ],
+  "f7e697b86eb800e7f86b39fbf92c558187e12779": [
+    "EMDocs\\Solutions\\BYOD-app-reqs.md"
+  ],
   "b7230a9a8e55dafb3187cf64b67de23c04691371": [
     "EMDocs\\Solutions\\BYOD-app-reqs.md"
   ],
@@ -765,6 +783,9 @@
   "a5028908c67cf50a12ae072a66e3e88c98adc84d": [
     "EMDocs\\Solutions\\BYOD-app-reqs.md"
   ],
+  "7d2137c455e9d3b5d172d7a5699b7275cc124f22": [
+    "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
+  ],
   "72f86d28c5d6058a8d20783243db5dd4767300a6": [
     "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
   ],
@@ -773,6 +794,9 @@
   ],
   "f8298a1911ecd094ad91f7a0c453830cacba757b": [
     "EMDocs\\Solutions\\BYOD-data-access-protection-reqs.md"
+  ],
+  "380a6879e5af37976af41322d1b15faeb7ef0474": [
+    "EMDocs\\Solutions\\BYOD-management-reqs.md"
   ],
   "e4c02e0d81b974c87e4ff06e702c7da98898e35b": [
     "EMDocs\\Solutions\\BYOD-management-reqs.md"
@@ -785,6 +809,9 @@
   ],
   "6cba8bd550a589cd69a6a0ce8becaa892973fe75": [
     "EMDocs\\Solutions\\BYOD-management-reqs.md"
+  ],
+  "0197b56e9df8c2060fae49ac0e78b24b8ace66be": [
+    "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
   ],
   "c0f6838a9475418ad2c6ecd1be207976b9e051e8": [
     "EMDocs\\Solutions\\BYOD-User-Device-Reqs.md"
@@ -867,11 +894,17 @@
   "ae128e3fb940d06d4e7f1b88fde3490c3367cb9a": [
     "EMDocs\\Solutions\\media\\BYOD_Figure2.png"
   ],
+  "a8a5d6406faa5b791db9704cfc4f92ee366f053c": [
+    "EMDocs\\Solutions\\BYOD-design-considerations-guide.md"
+  ],
   "ec9b0d3a3a4b6f09e99391d25619f97bccce953a": [
     "EMDocs\\Solutions\\BYOD-design-considerations-guide.md"
   ],
   "b70d3d508a745ba7363f5a9a95ff96e9288b5c5e": [
     "EMDocs\\Solutions\\BYOD-design-considerations-guide.md"
+  ],
+  "2b646efc3028e3e92f64963b1d6753fbf1ad38d1": [
+    "EMDocs\\Solutions\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.md"
   ],
   "fe4fc2c462800fb09ddeb62b6fd5b78287d908e6": [
     "EMDocs\\liza-test.md"
@@ -1068,6 +1101,9 @@
   "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
     "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
   ],
+  "17f1cf4824c70b15925d1046b49003e58669c771": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
   "d753980a56d11faa36ad68fc2401d14fc0608012": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
@@ -1080,6 +1116,9 @@
   "98ddab7a33c08db24121feffc3c55e48935fdb9a": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
+  "b29537fe53d2b8692b2c3a9b3c0249f80aabb8b6": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
   "5066d269147da71614ca912c480daa2cf4b38c64": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
   ],
@@ -1091,6 +1130,9 @@
   ],
   "a3eb5e6162cf8059e5839f94f1b49116d1bdea88": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
+  "9f0a182e16a8d8fe4daef666f0b288ff354fa508": [
+    "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
   ],
   "43955d685bdb4f1fb39059903eca325ef962e635": [
     "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
@@ -1113,6 +1155,9 @@
   "abdde5d3337a6c5476773bdf3d94ce9acabefe04": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
   ],
+  "e4f15c8e30f0a2814f0268c6eb4c9e20038aaf87": [
+    "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
   "1fe535d3e054100137648370f9f351ecc6b6ab69": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
   ],
@@ -1121,6 +1166,9 @@
   ],
   "6a7cc892b87961e0eab093083c63b39e311b78d0": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
+  "0174eef08027deeb8f269f6bb564271e2a8dd1b9": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
   "06be56cf7da66d596ec69ad5977356c9df96d8aa": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
@@ -1131,6 +1179,9 @@
   "a58fdd2acb6322569434bb31b709ae342380334e": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
+  "1936d8878715558adfdfb41ab92dd1795a5989e3": [
+    "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
   "bf72d217052ddd1222bd9283ccc09f6e13833007": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
   ],
@@ -1139,6 +1190,9 @@
   ],
   "e5d983a0df72339fa9bc25d72e4a1f2675ef612a": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
+  "dece4ce97dee7d8faf050da03c158e2eb40cfece": [
+    "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
   ],
   "1e7bf5005a2d18e6d2b290b823452f1095df76af": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
@@ -1152,6 +1206,9 @@
   "923d03f87443bef0c6d3afd1122bf8c6de93f969": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
   ],
+  "341ba218e028f4401baad4d09aac588efe82a0e0": [
+    "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
+  ],
   "5b9a485db84311df1227cb8c7dcfaac0bdfe1b12": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
@@ -1164,6 +1221,9 @@
   "7bab915027925b2f94db541bfe7cc421ecb9457b": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
+  "0ea4dee93c46820356bdf4d2663d7e9ab081d6fc": [
+    "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
+  ],
   "03b7d81f969ef354f3adc9ce2f8109690a7a1cc4": [
     "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
   ],
@@ -1172,6 +1232,9 @@
   ],
   "0f7fc455b338527e7a933b7cf1efa7b37ecba751": [
     "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
+  ],
+  "c07d71b3c2c5887567815eeef32599eae7b2b3e4": [
+    "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
   ],
   "afdfcd9d01df2c8b7d41b39a240afaa257b1cdd6": [
     "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
@@ -1227,11 +1290,17 @@
   "49427494881cb50b4baadf18311da0f9744f6c43": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG"
   ],
+  "243e2ce89da93ef4f5c329cf1dbbb4d8427f88c8": [
+    "EMDocs\\Solutions\\mdm-access-control-resources.md"
+  ],
   "7008e73a6c50dca0969481e30493688db338d36d": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
   ],
   "b26ab6c5fb03284058bf2daa7e2b8bf1b4b3a975": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
+  ],
+  "9cce1999a2ba45d9f78d92747aefa3b0d6c5d0dc": [
+    "EMDocs\\Solutions\\mdm-authentication-authorization.md"
   ],
   "938f165d64f15cd646797da5ed526a006cc330d5": [
     "EMDocs\\Solutions\\mdm-authentication-authorization.md"
@@ -1239,17 +1308,26 @@
   "fb015e2230229183813dff591cfb5d655d2b0354": [
     "EMDocs\\Solutions\\mdm-authentication-authorization.md"
   ],
+  "9d3fa8b40aa1f50d8f46de1191378fecd508a681": [
+    "EMDocs\\Solutions\\mdm-client-privacy.md"
+  ],
   "abd490286eccfff8a5e4327f42acda6cb091c702": [
     "EMDocs\\Solutions\\mdm-client-privacy.md"
   ],
   "275887a5c157f8c79ffa98c7bd20b22d9cc84caf": [
     "EMDocs\\Solutions\\mdm-client-privacy.md"
   ],
+  "cd4f418471a564673148c919bf86704936dccc68": [
+    "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
   "39657c17c278c5be6fe5fb6f88343b1c91e07b1d": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
   ],
   "ba3f5fc3f013a4595209bf96c13a5ae0d348bfcc": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
+  "a85d774e797f3d0d55183ef3e226db400f14f7ce": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
   "9f016dae42d1c01e2eb0734b53f08fdefb21ebab": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
@@ -1265,6 +1343,9 @@
   ],
   "6d9d1a6c55c5d580c83fda80193ee1362c6e462c": [
     "EMDocs\\Solutions\\media\\MDM_Figure_13.png"
+  ],
+  "7e4080021b94ff56b8f4d670e4302886f417805e": [
+    "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
   ],
   "91c510f7654d75e88fbc0debe7d4533f5f8654cd": [
     "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
@@ -1311,20 +1392,32 @@
   "650c6dcbf1debfb6bbc85c169088dfe5d50a54dc": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
+  "ac2edf907b46572bc92e9d36de55fe9844357a44": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
+  ],
   "90a50b8cfc253edfbde543c9b5b4caa6a5480686": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
   ],
   "fe3854f863142eab3bd48a7c9905d6058cab8db9": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
   ],
+  "f0b1ae5a71dc5a0be02cf6d44e4e3f527a406331": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
+  ],
   "1ca38a818b34097ff0f22dffa0a4218c4014f16d": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
+  ],
+  "5995f2d845be2304f156094c58c3f1a7150254f4": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
   ],
   "c64424e363033e598d338d35474290a53ead711e": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
   ],
   "cbb86de160510ce8b1d4a55e27c7fc772a356a39": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
+  ],
+  "4116d7f3278c33aa8e2ac840ddebee9f0c0ca4e4": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
   ],
   "cd7c0cd38b947c6198abdd1e0a10a2fbb6b87b5c": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
