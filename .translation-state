@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "c3e19b8f7fdb5c80f300866c8f5d4cfb69578b09",
+  "LastProcessedCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -5599,7 +5599,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+        "EMDocs\\Solutions\\protect-corporate-email-documents.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -5631,7 +5632,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+        "EMDocs\\Solutions\\protect-corporate-email-documents.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -5663,7 +5665,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+        "EMDocs\\Solutions\\protect-email-attachments.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6583,7 +6586,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6615,7 +6619,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6647,7 +6652,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6679,7 +6685,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6711,7 +6718,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6743,7 +6751,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6775,7 +6784,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6807,7 +6817,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6839,7 +6850,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6871,7 +6883,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6903,7 +6916,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6935,7 +6949,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6967,7 +6982,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -6999,7 +7015,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7031,7 +7048,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7063,7 +7081,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7095,7 +7114,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7127,7 +7147,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7159,7 +7180,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7191,7 +7213,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7223,7 +7246,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7255,7 +7279,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7287,7 +7312,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7319,7 +7345,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7351,7 +7378,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7383,7 +7411,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7415,7 +7444,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7447,7 +7477,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7479,7 +7510,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -7511,7 +7543,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\End-user-experience-of-conditional-access.md",
-        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -14171,8 +14204,8 @@
         "EMDocs\\Solutions\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.843e6fb4734de7447d0318d14144cf9f51e241c9.zh-cn.xlf",
-      "HandoffFileCommit": "0b45eead41dce836b9c360ed8339c0798d0ca0ef",
-      "HandoffDateTime": "2016-03-31T22:57:09.5814613Z",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -14898,6 +14931,441 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf",
       "HandoffFileCommit": "b2b61a7075d3837b95be59f012a1188117615568",
       "HandoffDateTime": "2016-04-01T12:58:38.1607841Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b5d568b5d5975301e22ee6b09ca4f4407d31c47b": {
+      "FileHash": "b5d568b5d5975301e22ee6b09ca4f4407d31c47b",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\Architecture-guidance-for-protecting-company-email-and-documents.d8dae5bb952255135e1f3c2362afacf1aa9de432.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2": {
+      "FileHash": "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune.c339485628a2e3c42b06b61f1803663dfcc6ad14.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "062125281b0df8017fc768912859d1dbb8fbc6e8": {
+      "FileHash": "062125281b0df8017fc768912859d1dbb8fbc6e8",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-configmgr.66864f6deb09f91dd30ed7ed779303d53c9935ff.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "e4b24bba6f6dd5dbd5b5f715008c7394d0558d55": {
+      "FileHash": "e4b24bba6f6dd5dbd5b5f715008c7394d0558d55",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-configmgr-coexist.c14a1cb5d27308437cb869cb2a2c75962829aab4.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "83c7cd066e8351f775fb96c6cbfa6c8206cc701f": {
+      "FileHash": "83c7cd066e8351f775fb96c6cbfa6c8206cc701f",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "efd1b564f026acf928bf52d48f533f099e7a2aae": {
+      "FileHash": "efd1b564f026acf928bf52d48f533f099e7a2aae",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a5e09c971d27296a7cac3b624a96f14259d4de77": {
+      "FileHash": "a5e09c971d27296a7cac3b624a96f14259d4de77",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-exchange.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-exchange.245c72088b5eacaa51099f7c853f12941e410350.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "96112562c656b4a4d54c21afe7272eed1ef5e789": {
+      "FileHash": "96112562c656b4a4d54c21afe7272eed1ef5e789",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "851184282d8327a85faa573766471118d611d08c": {
+      "FileHash": "851184282d8327a85faa573766471118d611d08c",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\end-user-experience-conditional-access.4a68033662f5a0b862f762cdf275910eeb857a94.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b4bbd9af1c0032c3e25a44a65e6bc2234cdfe8d7": {
+      "FileHash": "b4bbd9af1c0032c3e25a44a65e6bc2234cdfe8d7",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8e8d26be656e7ad2c3ac8db9f2d7dbad882c0d69": {
+      "FileHash": "8e8d26be656e7ad2c3ac8db9f2d7dbad882c0d69",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\end-user-experience-conditional-access-ios.1a35b3bc1d79141f39fb4c7ccc0686f48d56d2c6.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8da925ee95576932b94f31076087baeed29b83a7": {
+      "FileHash": "8da925ee95576932b94f31076087baeed29b83a7",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\end-user-experience-conditional-access-winphone.1a08db98003da80e09e00327f28d099398265b30.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "24aa9591db0acfc2dba984def3c0cb8027ea92d6": {
+      "FileHash": "24aa9591db0acfc2dba984def3c0cb8027ea92d6",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\implement-solution.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\implement-solution.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\implement-solution.ccf953cb02b058e8986bce34bb5fe583afd16eb5.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "6e0eeb243a8f84237820042c1cc92fe9bfd90b0c": {
+      "FileHash": "6e0eeb243a8f84237820042c1cc92fe9bfd90b0c",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\protect-corporate-email-documents.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\protect-corporate-email-documents.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "54d051ef6ef57bfa78bf9f5ba373e55ec04821b6": {
+      "FileHash": "54d051ef6ef57bfa78bf9f5ba373e55ec04821b6",
+      "SourceFileCommit": "02afff49aa92d8761025e8d8d77d1504f08fba17",
+      "SourceFilePath": "EMDocs\\Solutions\\protect-email-attachments.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\protect-email-attachments.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\protect-email-attachments.7c12c124ed16c23b2319105d98c02bf87bea025f.zh-cn.xlf",
+      "HandoffFileCommit": "f0ffb08dba2cfa6fb0714e1150062b63d55f2e97",
+      "HandoffDateTime": "2016-04-01T14:25:36.0787332Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
