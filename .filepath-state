@@ -1215,6 +1215,9 @@
   "6a7cc892b87961e0eab093083c63b39e311b78d0": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
   ],
+  "61c27006fe1d4e85a8eabcf6dd1c4b9b21f3bd09": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
+  ],
   "0174eef08027deeb8f269f6bb564271e2a8dd1b9": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
@@ -1338,6 +1341,9 @@
   "49427494881cb50b4baadf18311da0f9744f6c43": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG"
   ],
+  "c6e6055a6988810c241cee8b2e77468061b1604d": [
+    "EMDocs\\Solutions\\mdm-access-control-resources.md"
+  ],
   "243e2ce89da93ef4f5c329cf1dbbb4d8427f88c8": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
   ],
@@ -1365,6 +1371,9 @@
   "275887a5c157f8c79ffa98c7bd20b22d9cc84caf": [
     "EMDocs\\Solutions\\mdm-client-privacy.md"
   ],
+  "b220b72761645c7796fbeff4d33ab577cb51abff": [
+    "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
   "cd4f418471a564673148c919bf86704936dccc68": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
   ],
@@ -1373,6 +1382,9 @@
   ],
   "ba3f5fc3f013a4595209bf96c13a5ae0d348bfcc": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
+  "91520a7ce82c6da84a777b8f73001f9405ce92b3": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
   "a85d774e797f3d0d55183ef3e226db400f14f7ce": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
