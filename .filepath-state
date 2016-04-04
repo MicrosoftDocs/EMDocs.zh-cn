@@ -247,6 +247,9 @@
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md",
     "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
   ],
+  "ff3716b91dc987aa3c9cc8645b6f603d4ef42841": [
+    "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
   "423a10bc22d70e167717fb7ea63b324bf226bd7b": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
   ],
@@ -261,6 +264,9 @@
   ],
   "450fb416e65bff2145a971f5a954f35365009149": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
+  "f876a9975bc04d106d7a91326e3a8cbf59bea707": [
+    "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
   "9273586b36dbd3d4052affd63d5ba28a0096154a": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
@@ -280,6 +286,9 @@
   "fc7f48d47dc97a8f79bddef5575d12a34f9f8a6b": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
+  "ab0c004d951fe2b194810d5b7f2a10628f0c052f": [
+    "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
+  ],
   "52333657ae4c108b1462df8548b172e8b07ec4c0": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
   ],
@@ -295,6 +304,9 @@
   "ba31d24b97cd01cff9714d36f96dcc996b234ee3": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
   ],
+  "8a6083471804da4c984c45a812b8ade899e76824": [
+    "EMDocs\\Solutions\\mdm-device-management-options.md"
+  ],
   "33c5a29c179393eb1907cf2829ef44ed902b81ce": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
@@ -309,6 +321,9 @@
   ],
   "190fd666b9a5181f36405499eb7db60294b262a9": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
+  ],
+  "b809d3852f8df5b4d3435645fdc0b0650af2ef8a": [
+    "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
   ],
   "4c60a8e7046e5268b052c53892aa6be8cd78a784": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
@@ -331,6 +346,9 @@
   "b94bbaae976e37735c919530f01209224237b563": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
   ],
+  "56189613dd9c74fd66b02ed235f705b74b6dbece": [
+    "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
+  ],
   "137bcbf39e35c7321fe9cd183e397428f4567ddc": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
@@ -351,6 +369,9 @@
   ],
   "eaa644ba78f9c031496cfbe3109b9492218797a2": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
+  ],
+  "4be6c35c5bbd131d9873cc1b02d5e9bd1391be69": [
+    "EMDocs\\Solutions\\mdm-email-management-options.md"
   ],
   "9a2de752ad3f511a0a44a43263ed7dd34ca2fb67": [
     "EMDocs\\Solutions\\mdm-email-management-options.md"
@@ -403,6 +424,9 @@
   "6e881824e2014e42bc7a5e409a462c82f7084e3b": [
     "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
   ],
+  "e3ebf896b2caed493eb031f44807c1764be28d74": [
+    "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
+  ],
   "c668ba73b0cd36355c5e1545a2e41a0ba3eb172f": [
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
   ],
@@ -420,6 +444,9 @@
   ],
   "6695f4a334bef311c8d2cc0f84195d43cf0675df": [
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
+  ],
+  "c5ce79144475cde17eeddb9e22dd25f9302acbf9": [
+    "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
   ],
   "7527401425de0d169cf4474ab8faced1b95a6a6e": [
     "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
@@ -924,6 +951,9 @@
   "fe4fc2c462800fb09ddeb62b6fd5b78287d908e6": [
     "EMDocs\\liza-test.md"
   ],
+  "0f6d6d37cb3df48f4fea28ac2959b18d229ef899": [
+    "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
+  ],
   "19fb170b22cd61c0dd387b3dea49b8c224b1798d": [
     "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
   ],
@@ -986,6 +1016,9 @@
   ],
   "1da5955111addc58974032c2e2da553ccd6df83a": [
     "EMDocs\\Solutions\\mdm-determine-network-requirements.md"
+  ],
+  "84c0d46701e8f77840bc41ed0ad60e3704842930": [
+    "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
   ],
   "cf76721d45859114468338a6a25f98404f801a69": [
     "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
