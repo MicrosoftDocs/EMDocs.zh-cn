@@ -476,42 +476,6 @@
   "a79681caea57fea8a6d36fc9b46aea27fc2b3e93": [
     "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
   ],
-  "19bd7ae3cecebf92b7016e39af90bb35e665fb16": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-for-Azure-Active-Directory-Premium.md"
-  ],
-  "ae61607efd564aa4f21b54f7857f4fde67f53817": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-for-Azure-Rights-Management.md"
-  ],
-  "3cfe9e53884c9bcf8909e0c8fc0401924a6787fd": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-for-Enterprise-Mobility-Suite.md"
-  ],
-  "9171c6d1a06c4fe6955fa3dc4a9936f5c1b06ba0": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-for-Enterprise-Mobility-Suite.md"
-  ],
-  "2b23ff0dd4f2456b1e18b5f4d502dadfb0153853": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-for-Intune.md"
-  ],
-  "054f49b4184a9bdfa2df7ad72dd303c9d831a16c": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-for-Intune.md"
-  ],
-  "e133edb9c408482b415cf370eddab5fe529f1a50": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md"
-  ],
-  "e0dd127af6c0ffd40b308536f9f7c23d59608c29": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md"
-  ],
-  "42cc057ad5fdf91b740043867977b2d960c2f654": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
-  ],
-  "ceda191d37835854a628ec69e1facd3b23984d36": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
-  ],
-  "2a8245d7067211391b7bb4e8a851bdd3fbb273b7": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
-  ],
-  "95ae72bf5c68145f3f2835d14560e87ab8bc0562": [
-    "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
-  ],
   "114609e897e58f0c4ef1df16b7e85fd8c3897d1f": [
     "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
   ],
@@ -1412,39 +1376,6 @@
   ],
   "7d097c2987124c8a0aff43700a0a5a33adaf8ee9": [
     "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
-  ],
-  "d7641e47928129e58192ac12d9e36cd56c57be4d": [
-    "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png"
-  ],
-  "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": [
-    "EMDocs\\Solutions\\media\\Enable-phase-Intune-11-20-15.png"
-  ],
-  "989a623c0d4d648a6411d300d24e7b166b79dcc5": [
-    "EMDocs\\Solutions\\media\\Intune-assess-phase-9-15-15.png"
-  ],
-  "468d344e2a354c889a0b77b3f0a7796d27208641": [
-    "EMDocs\\Solutions\\media\\Intune-enable-phase-core-9-15-15.png"
-  ],
-  "f0021622ea4a945d276e049e1f53980ef5bbcb47": [
-    "EMDocs\\Solutions\\media\\Intune-initiate-phase-9-15-15-v2.png"
-  ],
-  "01dceb32e182d5a32c095ee441855d58848f2ef2": [
-    "EMDocs\\Solutions\\media\\Intune-onboarding-phases-9-15-15.png"
-  ],
-  "37eebe7c7d8e52eb31e73bd024985eac7486d0a3": [
-    "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-assess-phase-v6.png"
-  ],
-  "f333254dcf8caec6a8f47f282b8f9e82fed06ddc": [
-    "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-enable-phase-2.png"
-  ],
-  "64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311": [
-    "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-initiate-phase-1.png"
-  ],
-  "d1e213fe38089e6c98e3b9ee3982becd98dd9eb5": [
-    "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-remediate-phase-1.png"
-  ],
-  "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
-    "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
   ],
   "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
