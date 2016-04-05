@@ -107,9 +107,6 @@
   "18534c06cf405405a78e881da2d2fe334e1ec7dd": [
     "contributor-guide\\work-with-git.md"
   ],
-  "6c36104277532207f7d05fb62e35953a5799ce49": [
-    "EMDocs\\Solutions\\Access-and-Information-Protection.md"
-  ],
   "b5d568b5d5975301e22ee6b09ca4f4407d31c47b": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
@@ -199,12 +196,6 @@
   ],
   "bceacd9cab274a7a9d1165e50471df47576dc39f": [
     "EMDocs\\Solutions\\BYOD-management-considerations.md"
-  ],
-  "6378e196a0e105d199f608ede340784d2a452d39": [
-    "EMDocs\\Solutions\\BYOD-Overview.md"
-  ],
-  "9138756c0fa4f127dee978743f79f93ac2cbbaa9": [
-    "EMDocs\\Solutions\\BYOD-Problem-Definition.md"
   ],
   "dc55e74e8fe8dc489ecd6a448ee88a46e1b99f29": [
     "EMDocs\\Solutions\\BYOD-Summary-and-Additional-Resources.md"
