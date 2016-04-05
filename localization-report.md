@@ -410,7 +410,7 @@
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png) | Ignored | [Details](#17a8303c7ef0995ef393588b69250a0f4184df38318)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png) | Ignored | [Details](#0e1ba1f9f6fc258f4640be651285366d453d4e1a319)
  [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/EMDocs/toc.yml) | Ignored | [Details](#603c6c892746c3a16e8abda9337bdc4837fce66b327)
- [template.md](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/template.md) | Ignored | [Details](#7a163efdec5a79af7b1185ebe12dbb4dd4fc5091378)
+ [template.md](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/template.md) | Ignored | [Details](#68090a038cec49009b6bd0ce0515a075f62483b8378)
 
 ## Item Details
 ##### <a name='7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0'></a> Source: [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/.gitignore)
@@ -5048,7 +5048,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7a163efdec5a79af7b1185ebe12dbb4dd4fc5091378'></a> Source: [template.md](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/template.md)
+##### <a name='68090a038cec49009b6bd0ce0515a075f62483b8378'></a> Source: [template.md](https://github.com/Microsoft/EMDocs-pr/blob/a9bf476bab71d9eaeadc7681a980130b82a42c2c/template.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
