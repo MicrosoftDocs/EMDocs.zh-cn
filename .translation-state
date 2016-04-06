@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4234c2e323a7bb12cee8c5b9cadae00888a2c998",
+  "LastProcessedCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -12139,7 +12139,8 @@
       "DependencyFrom": [
         "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
         "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12170,7 +12171,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\Enable-phase-Intune-11-20-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12201,7 +12203,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-assess-phase-9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12232,7 +12235,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-enable-phase-core-9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12263,7 +12267,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-initiate-phase-9-15-15-v2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12296,7 +12301,8 @@
       "DependencyFrom": [
         "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
         "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12360,7 +12366,8 @@
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md",
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -12455,7 +12462,8 @@
       "SourceFilePath": "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png",
       "HandoffReason": 2,
       "DependencyFrom": [
-        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md"
+        "EMDocs\\Solutions\\FastTrack-Center-Benefit-Process-for-Intune.md",
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
       ],
       "TokenReference": null,
       "FilePathList": [
@@ -14204,8 +14212,8 @@
         "EMDocs\\Solutions\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.md"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.843e6fb4734de7447d0318d14144cf9f51e241c9.zh-cn.xlf",
-      "HandoffFileCommit": "5288bb6d515aea5b490d14a4118cbad768821aa1",
-      "HandoffDateTime": "2016-04-05T18:05:27.9985348Z",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -16120,6 +16128,180 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf",
       "HandoffFileCommit": "e41589e48c442a35bf00d8014ee1e07764a7e60f",
       "HandoffDateTime": "2016-04-05T20:08:06.9319356Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "80fe2a7ff243ce3da32499524542c066d82d3558": {
+      "FileHash": "80fe2a7ff243ce3da32499524542c066d82d3558",
+      "SourceFileCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-environment-expectations.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-environment-expectations.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-environment-expectations.f302b9f171eccebb1a199bdb66392027790ffabb.zh-cn.xlf",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "badd37eb916256b60a973bd5e95dcf1419ccb8a3": {
+      "FileHash": "badd37eb916256b60a973bd5e95dcf1419ccb8a3",
+      "SourceFileCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "6415c11d367bba62164945bf7dfb79304e97c477": {
+      "FileHash": "6415c11d367bba62164945bf7dfb79304e97c477",
+      "SourceFileCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "8ae7ddef1c063d457251e1f10d31249283cd51e0": {
+      "FileHash": "8ae7ddef1c063d457251e1f10d31249283cd51e0",
+      "SourceFileCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "ca1adda1706f1dd3a2d07e3ce0410e0f282e1f86": {
+      "FileHash": "ca1adda1706f1dd3a2d07e3ce0410e0f282e1f86",
+      "SourceFileCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-your-responsibilities.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-your-responsibilities.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "388c1e0e861e4fa31243805cdf98233d64203a8e": {
+      "FileHash": "388c1e0e861e4fa31243805cdf98233d64203a8e",
+      "SourceFileCommit": "97c308dab4095c526da4acbfc9db338e9ee94948",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.d38cb185a0d9f2f3fc5e75af3eaee5c385a63d14.zh-cn.xlf",
+      "HandoffFileCommit": "43d137fb0f5788aced4694855e1e8604936fcee7",
+      "HandoffDateTime": "2016-04-06T14:06:47.0659624Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

@@ -1368,6 +1368,30 @@
   "7d097c2987124c8a0aff43700a0a5a33adaf8ee9": [
     "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
   ],
+  "d7641e47928129e58192ac12d9e36cd56c57be4d": [
+    "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png"
+  ],
+  "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": [
+    "EMDocs\\Solutions\\media\\Enable-phase-Intune-11-20-15.png"
+  ],
+  "989a623c0d4d648a6411d300d24e7b166b79dcc5": [
+    "EMDocs\\Solutions\\media\\Intune-assess-phase-9-15-15.png"
+  ],
+  "468d344e2a354c889a0b77b3f0a7796d27208641": [
+    "EMDocs\\Solutions\\media\\Intune-enable-phase-core-9-15-15.png"
+  ],
+  "f0021622ea4a945d276e049e1f53980ef5bbcb47": [
+    "EMDocs\\Solutions\\media\\Intune-initiate-phase-9-15-15-v2.png"
+  ],
+  "01dceb32e182d5a32c095ee441855d58848f2ef2": [
+    "EMDocs\\Solutions\\media\\Intune-onboarding-phases-9-15-15.png"
+  ],
+  "f333254dcf8caec6a8f47f282b8f9e82fed06ddc": [
+    "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-enable-phase-2.png"
+  ],
+  "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
+    "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
+  ],
   "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
@@ -1479,20 +1503,38 @@
   "08bfc92dca764ad308ff4debd446fb3465a960e2": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md"
   ],
+  "80fe2a7ff243ce3da32499524542c066d82d3558": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-environment-expectations.md"
+  ],
   "087ff5c4872c07bb6fc96c27445c6517bbef3872": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-environment-expectations.md"
+  ],
+  "badd37eb916256b60a973bd5e95dcf1419ccb8a3": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md"
   ],
   "a7b608a683a91cd0e5844b6bf8dc2a0e078120b0": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md"
   ],
+  "6415c11d367bba62164945bf7dfb79304e97c477": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
+  ],
   "ef8b8dc58020cd62d67fb3191b0ed938dc41ea63": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
+  ],
+  "8ae7ddef1c063d457251e1f10d31249283cd51e0": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
   ],
   "f775d4c2a3064d987bfe3f0e630710bd19eebee9": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
   ],
+  "ca1adda1706f1dd3a2d07e3ce0410e0f282e1f86": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-your-responsibilities.md"
+  ],
   "0fcfc0d192889ecba89282e37a6c38b96ca86b91": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-your-responsibilities.md"
+  ],
+  "388c1e0e861e4fa31243805cdf98233d64203a8e": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md"
   ],
   "329daed8aeaadfe2c3f9e72e3be70670fa0192da": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md"
