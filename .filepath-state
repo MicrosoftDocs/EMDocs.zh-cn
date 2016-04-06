@@ -131,6 +131,9 @@
   "76004c7bf6f6a78c532ee7b3db5aa92b4f8f9824": [
     "EMDocs\\Solutions\\BGDCopy for Training.md"
   ],
+  "7bf012d65e32ccd03e47c5613e2d384b27af9e6e": [
+    "EMDocs\\Solutions\\BYOD-app-considerations.md"
+  ],
   "0d02c7c1a66b5e50da133f3cf2a9e7b1e53d1371": [
     "EMDocs\\Solutions\\BYOD-app-considerations.md"
   ],
@@ -1104,6 +1107,9 @@
   "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
     "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
   ],
+  "ccd4ee8185f7c40a01c2343c540e181e640b7be8": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
   "17f1cf4824c70b15925d1046b49003e58669c771": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
@@ -1118,6 +1124,9 @@
   ],
   "98ddab7a33c08db24121feffc3c55e48935fdb9a": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
+  "d1d0f33a5a628b5c5b71eb1dbc283287e6e7b719": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
   ],
   "b29537fe53d2b8692b2c3a9b3c0249f80aabb8b6": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
@@ -1146,6 +1155,9 @@
   "220fd797485de0b509a42710f3e477f529d053ea": [
     "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
   ],
+  "9163cac5b50c23f959aeef59c190e309e237d802": [
+    "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
+  ],
   "ad8e68ce08aaa019c45fcd40b0843a0b7bc4422c": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ],
@@ -1161,6 +1173,9 @@
   "abdde5d3337a6c5476773bdf3d94ce9acabefe04": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
   ],
+  "d998d6229deef403dd800696dd9a98dde8371a3e": [
+    "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
   "e4f15c8e30f0a2814f0268c6eb4c9e20038aaf87": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
   ],
@@ -1172,6 +1187,9 @@
   ],
   "6a7cc892b87961e0eab093083c63b39e311b78d0": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
+  "e353b77dc19a35a0a02668c0062447f303684d9e": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
   "61c27006fe1d4e85a8eabcf6dd1c4b9b21f3bd09": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
@@ -1188,6 +1206,9 @@
   "a58fdd2acb6322569434bb31b709ae342380334e": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
+  "ebbaebcf6c2e9a404888fac2ce95368c6a48ba51": [
+    "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
   "1936d8878715558adfdfb41ab92dd1795a5989e3": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
   ],
@@ -1199,6 +1220,9 @@
   ],
   "e5d983a0df72339fa9bc25d72e4a1f2675ef612a": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
+  "96052d3f2bdfba59eed9cb0e14fb35423d9c787a": [
+    "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
   ],
   "dece4ce97dee7d8faf050da03c158e2eb40cfece": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
@@ -1215,6 +1239,9 @@
   "923d03f87443bef0c6d3afd1122bf8c6de93f969": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
   ],
+  "c50ee6d8295dae0d98ddcec26c5f39b7edfc71ed": [
+    "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
+  ],
   "341ba218e028f4401baad4d09aac588efe82a0e0": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
@@ -1230,6 +1257,9 @@
   "7bab915027925b2f94db541bfe7cc421ecb9457b": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
+  "93e1d26b04adbf570050e70d030ddd8c447a671e": [
+    "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
+  ],
   "0ea4dee93c46820356bdf4d2663d7e9ab081d6fc": [
     "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
   ],
@@ -1241,6 +1271,9 @@
   ],
   "0f7fc455b338527e7a933b7cf1efa7b37ecba751": [
     "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md"
+  ],
+  "6c433447e50b4e98ae5f9bd8b3bf25c260c58db9": [
+    "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
   ],
   "c07d71b3c2c5887567815eeef32599eae7b2b3e4": [
     "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
@@ -1299,6 +1332,9 @@
   "49427494881cb50b4baadf18311da0f9744f6c43": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG"
   ],
+  "53fa5b992b8fdb92528b3f81e4c015895f9fa419": [
+    "EMDocs\\Solutions\\mdm-access-control-resources.md"
+  ],
   "c6e6055a6988810c241cee8b2e77468061b1604d": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
   ],
@@ -1320,6 +1356,9 @@
   "fb015e2230229183813dff591cfb5d655d2b0354": [
     "EMDocs\\Solutions\\mdm-authentication-authorization.md"
   ],
+  "1fcf954e814112f0ad60a20568ef5d88304d0fd8": [
+    "EMDocs\\Solutions\\mdm-client-privacy.md"
+  ],
   "9d3fa8b40aa1f50d8f46de1191378fecd508a681": [
     "EMDocs\\Solutions\\mdm-client-privacy.md"
   ],
@@ -1328,6 +1367,9 @@
   ],
   "275887a5c157f8c79ffa98c7bd20b22d9cc84caf": [
     "EMDocs\\Solutions\\mdm-client-privacy.md"
+  ],
+  "2619834d74ddeab830d15fec5aa96638dfeff4c9": [
+    "EMDocs\\Solutions\\mdm-data-classification.md"
   ],
   "b220b72761645c7796fbeff4d33ab577cb51abff": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
@@ -1340,6 +1382,9 @@
   ],
   "ba3f5fc3f013a4595209bf96c13a5ae0d348bfcc": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
+  "d5781ef45a624045d62a2de2bf11fed40f2c97b0": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
   "91520a7ce82c6da84a777b8f73001f9405ce92b3": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
