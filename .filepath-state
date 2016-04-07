@@ -107,8 +107,12 @@
   "18534c06cf405405a78e881da2d2fe334e1ec7dd": [
     "contributor-guide\\work-with-git.md"
   ],
-  "b5d568b5d5975301e22ee6b09ca4f4407d31c47b": [
+  "0465decc8bf600bf089375926dad9a54b36ad357": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+  ],
+  "b5d568b5d5975301e22ee6b09ca4f4407d31c47b": [
+    "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
+    "EMDocs\\MyBackupFiles\\architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
   "8b151f5e8264fa1d9c1d27df7e18ae396fa077f2": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
@@ -491,8 +495,12 @@
   "a79681caea57fea8a6d36fc9b46aea27fc2b3e93": [
     "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
   ],
-  "114609e897e58f0c4ef1df16b7e85fd8c3897d1f": [
+  "7d78c17a0b3452517d29f878eddef5f9714024d6": [
     "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
+  ],
+  "114609e897e58f0c4ef1df16b7e85fd8c3897d1f": [
+    "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md",
+    "EMDocs\\MyBackupFiles\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
   ],
   "51f73936517012454f0007a62a318ec378ac2557": [
     "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
@@ -945,15 +953,6 @@
   "814901aa9ed4db3f168a5bf013f1f52f2695b90c": [
     "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
   ],
-  "1de96d7238974caec298c6a3a88377762aef55b2": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Native-Email-Apps.png"
-  ],
-  "02351507eea49372935426f27f2275fcecaa8a18": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Outlook-App.png"
-  ],
-  "768b0e9f05d991171b1255ba410cd4911d0db663": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet-Diagram-Apps.png"
-  ],
   "fd7f2b3da02bf77b660fbbae92368d2faf42b772": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise-Mobility-Suite.png"
   ],
@@ -1194,8 +1193,12 @@
   "0c052a2c57ec36a6568babd4450e26b8036044cd": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ],
-  "851184282d8327a85faa573766471118d611d08c": [
+  "6ca3d1b5bf6e40172136165aefdeacc917220aa2": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
+  ],
+  "851184282d8327a85faa573766471118d611d08c": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
+    "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access.md"
   ],
   "abdde5d3337a6c5476773bdf3d94ce9acabefe04": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
@@ -1434,15 +1437,6 @@
   "6d9d1a6c55c5d580c83fda80193ee1362c6e462c": [
     "EMDocs\\Solutions\\media\\MDM_Figure_13.png"
   ],
-  "7e4080021b94ff56b8f4d670e4302886f417805e": [
-    "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
-  ],
-  "91c510f7654d75e88fbc0debe7d4533f5f8654cd": [
-    "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
-  ],
-  "7d097c2987124c8a0aff43700a0a5a33adaf8ee9": [
-    "EMDocs\\Solutions\\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md"
-  ],
   "d7641e47928129e58192ac12d9e36cd56c57be4d": [
     "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png"
   ],
@@ -1467,14 +1461,21 @@
   "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
     "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
   ],
-  "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2": [
+  "edbb653b9f90e19f6367be82a1b72d547c89d3d4": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
+  ],
+  "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2": [
+    "EMDocs\\Solutions\\conditional-access-intune.md",
+    "EMDocs\\MyBackupFiles\\conditional-access-intune.md"
   ],
   "7bd48895a3e539533a6859f72812af058261b786": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
   "650c6dcbf1debfb6bbc85c169088dfe5d50a54dc": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
+  ],
+  "2e3d4dbd486cfb22ee674f631fa9fbfbecfe5b10": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
   ],
   "062125281b0df8017fc768912859d1dbb8fbc6e8": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
@@ -1488,6 +1489,9 @@
   "fe3854f863142eab3bd48a7c9905d6058cab8db9": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr.md"
   ],
+  "513adfc5bde95650cf28c8f70ace2440d57c6265": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
+  ],
   "e4b24bba6f6dd5dbd5b5f715008c7394d0558d55": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
   ],
@@ -1496,6 +1500,9 @@
   ],
   "1ca38a818b34097ff0f22dffa0a4218c4014f16d": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md"
+  ],
+  "c837e66bc7db9cd910fc7ccdf7e2f5447c0245cd": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
   ],
   "83c7cd066e8351f775fb96c6cbfa6c8206cc701f": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
@@ -1509,6 +1516,9 @@
   "cbb86de160510ce8b1d4a55e27c7fc772a356a39": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md"
   ],
+  "ed534ce98922b323645214a3a533eb799f803c8b": [
+    "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
+  ],
   "efd1b564f026acf928bf52d48f533f099e7a2aae": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
   ],
@@ -1518,8 +1528,12 @@
   "cd7c0cd38b947c6198abdd1e0a10a2fbb6b87b5c": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
   ],
-  "a5e09c971d27296a7cac3b624a96f14259d4de77": [
+  "c35c69491d0b99033246beb84e700ffdd8ca3dea": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
+  ],
+  "a5e09c971d27296a7cac3b624a96f14259d4de77": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange.md",
+    "EMDocs\\MyBackupFiles\\conditional-access-intune-exchange.md"
   ],
   "4b2d370f69b35b7e4c29f71453a86f37238cde3b": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
@@ -1527,8 +1541,12 @@
   "0695659b7017e0216da028789795bf14c1f17647": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
   ],
-  "96112562c656b4a4d54c21afe7272eed1ef5e789": [
+  "f9a2ab17ed26a99f49be5dc0bc56f9aef4463153": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
+  ],
+  "96112562c656b4a4d54c21afe7272eed1ef5e789": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md",
+    "EMDocs\\MyBackupFiles\\conditional-access-intune-exchange-online.md"
   ],
   "b984d81f618d69a9418b2702a2d6f18f89a9ff15": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
@@ -1557,23 +1575,37 @@
   "6a11a1e2706c4efd32f958d4f096e0a91bd163e1": [
     "EMDocs\\Solutions\\media\\Intune_without_enrollment.png"
   ],
-  "b4bbd9af1c0032c3e25a44a65e6bc2234cdfe8d7": [
+  "ffeaa263fba12614f7a4765ffc6fce4dcc2323cf": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
   ],
-  "8e8d26be656e7ad2c3ac8db9f2d7dbad882c0d69": [
+  "b4bbd9af1c0032c3e25a44a65e6bc2234cdfe8d7": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md",
+    "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access-android.md"
+  ],
+  "c064fdacef84348bcc412274c2927174d038aa87": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
   ],
-  "8da925ee95576932b94f31076087baeed29b83a7": [
+  "8e8d26be656e7ad2c3ac8db9f2d7dbad882c0d69": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md",
+    "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access-ios.md"
+  ],
+  "20620c41f1092faa9f4d8d76dab1b5229471c999": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
+  ],
+  "8da925ee95576932b94f31076087baeed29b83a7": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md",
+    "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access-winphone.md"
   ],
   "24aa9591db0acfc2dba984def3c0cb8027ea92d6": [
     "EMDocs\\Solutions\\implement-solution.md"
   ],
   "6e0eeb243a8f84237820042c1cc92fe9bfd90b0c": [
-    "EMDocs\\Solutions\\protect-corporate-email-documents.md"
+    "EMDocs\\Solutions\\protect-corporate-email-documents.md",
+    "EMDocs\\MyBackupFiles\\protect-corporate-email-documents.md"
   ],
   "54d051ef6ef57bfa78bf9f5ba373e55ec04821b6": [
-    "EMDocs\\Solutions\\protect-email-attachments.md"
+    "EMDocs\\Solutions\\protect-email-attachments.md",
+    "EMDocs\\MyBackupFiles\\protect-email-attachments.md"
   ],
   "08bfc92dca764ad308ff4debd446fb3465a960e2": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md"
@@ -1613,5 +1645,17 @@
   ],
   "329daed8aeaadfe2c3f9e72e3be70670fa0192da": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md"
+  ],
+  "188c02174ba21ddf98ca0fe34e14334d6f043949": [
+    "EMDocs\\MyBackupFiles\\conditional-access-intune-configmgr.md"
+  ],
+  "f872de10d8cc950b8b87cb42ce48e80ebfc22b61": [
+    "EMDocs\\MyBackupFiles\\conditional-access-intune-configmgr-coexist.md"
+  ],
+  "719a302f7362396de4b9b42562c2f063ec7d9fbb": [
+    "EMDocs\\MyBackupFiles\\conditional-access-intune-configmgr-exchange.md"
+  ],
+  "48455d5e36364be056a918a3d36089bbfb4f8139": [
+    "EMDocs\\MyBackupFiles\\conditional-access-intune-configmgr-exchange-online.md"
   ]
 }
