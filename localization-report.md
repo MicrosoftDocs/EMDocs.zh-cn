@@ -67,9 +67,9 @@
  [EMDocs\MyBackupFiles\protect-email-attachments.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/MyBackupFiles/protect-email-attachments.md) | HandedOffSuccess | [Details](#54d051ef6ef57bfa78bf9f5ba373e55ec04821b675)
  [EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/22df041fd35b8051bc58155abb19eb9ad582efe3/EMDocs/Solutions/Architecture-guidance-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#467e0fd411bd03841ff9ceb37b6c9cd8e4f1d27a76)
  [EMDocs\Solutions\BGDCopy for Training.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BGDCopy for Training.md) | HandedOffSuccess | [Details](#8e3e9ee50495f5b04396857292f5417694be435877)
- [EMDocs\Solutions\BYOD-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/ee458d273410d6124dc84f9386513c7b12f28153/EMDocs/Solutions/BYOD-app-considerations.md) | HandedOffSuccess | [Details](#7bf012d65e32ccd03e47c5613e2d384b27af9e6e78)
- [EMDocs\Solutions\BYOD-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-app-reqs.md) | HandedOffSuccess | [Details](#f7e697b86eb800e7f86b39fbf92c558187e1277979)
- [EMDocs\Solutions\BYOD-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-data-access-and-protection-considerations.md) | HandedOffSuccess | [Details](#1ab5c479f059b8be7497979e648695cc9ab3ec0a80)
+ [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-app-considerations.md) | HandedOffSuccess | [Details](#7bf012d65e32ccd03e47c5613e2d384b27af9e6e78)
+ [EMDocs\Solutions\byod-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-app-reqs.md) | HandedOffSuccess | [Details](#f7e697b86eb800e7f86b39fbf92c558187e1277979)
+ [EMDocs\Solutions\byod-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-data-access-and-protection-considerations.md) | HandedOffSuccess | [Details](#1ab5c479f059b8be7497979e648695cc9ab3ec0a80)
  [EMDocs\Solutions\BYOD-data-access-protection-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-data-access-protection-reqs.md) | HandedOffSuccess | [Details](#7d2137c455e9d3b5d172d7a5699b7275cc124f2281)
  [EMDocs\Solutions\byod-design-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-design-considerations.md) | HandedOffSuccess | [Details](#5f1ceb0c5f6e724e252376b08672da0a2103757283)
  [EMDocs\Solutions\BYOD-design-considerations-guide.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-design-considerations-guide.md) | HandedOffSuccess | [Details](#a8a5d6406faa5b791db9704cfc4f92ee366f053c82)
@@ -78,7 +78,7 @@
  [EMDocs\Solutions\BYOD-management-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-management-reqs.md) | HandedOffSuccess | [Details](#380a6879e5af37976af41322d1b15faeb7ef047486)
  [EMDocs\Solutions\byod-summary-and-additional-resources.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-summary-and-additional-resources.md) | HandedOffSuccess | [Details](#dc55e74e8fe8dc489ecd6a448ee88a46e1b99f2987)
  [EMDocs\Solutions\BYOD-user-and-device-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-user-and-device-considerations.md) | HandedOffSuccess | [Details](#a6945ad42405f2535cc4e60111390fa2368f607c88)
- [EMDocs\Solutions\BYOD-User-Device-Reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-User-Device-Reqs.md) | HandedOffSuccess | [Details](#0197b56e9df8c2060fae49ac0e78b24b8ace66be89)
+ [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-user-device-reqs.md) | HandedOffSuccess | [Details](#0197b56e9df8c2060fae49ac0e78b24b8ace66be89)
  [EMDocs\Solutions\conditional-access-intune.md](https://github.com/Microsoft/EMDocs-pr/blob/22df041fd35b8051bc58155abb19eb9ad582efe3/EMDocs/Solutions/conditional-access-intune.md) | HandedOffSuccess | [Details](#274c86ea05ad6517e92c81ee815db31c6894632396)
  [EMDocs\Solutions\conditional-access-intune-configmgr.md](https://github.com/Microsoft/EMDocs-pr/blob/22df041fd35b8051bc58155abb19eb9ad582efe3/EMDocs/Solutions/conditional-access-intune-configmgr.md) | HandedOffSuccess | [Details](#2f6051f4f2d3a010dd3b1ab70675776d4a32aeb293)
  [EMDocs\Solutions\conditional-access-intune-configmgr-coexist.md](https://github.com/Microsoft/EMDocs-pr/blob/22df041fd35b8051bc58155abb19eb9ad582efe3/EMDocs/Solutions/conditional-access-intune-configmgr-coexist.md) | HandedOffSuccess | [Details](#78abc527697ecbf11ffb85d8df607d634aa9fdff90)
@@ -1380,7 +1380,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7bf012d65e32ccd03e47c5613e2d384b27af9e6e78'></a> Source: [EMDocs\Solutions\BYOD-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/ee458d273410d6124dc84f9386513c7b12f28153/EMDocs/Solutions/BYOD-app-considerations.md)
+##### <a name='7bf012d65e32ccd03e47c5613e2d384b27af9e6e78'></a> Source: [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-app-considerations.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [BYOD-app-considerations.3514fff4148827b89c95a4ca94df0845394462a5.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/95df536ec53f68d1d855694501ed75e3281646a0/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/BYOD-app-considerations.3514fff4148827b89c95a4ca94df0845394462a5.zh-cn.xlf)
@@ -1392,7 +1392,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f7e697b86eb800e7f86b39fbf92c558187e1277979'></a> Source: [EMDocs\Solutions\BYOD-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-app-reqs.md)
+##### <a name='f7e697b86eb800e7f86b39fbf92c558187e1277979'></a> Source: [EMDocs\Solutions\byod-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-app-reqs.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [BYOD-app-reqs.ab27dee0771dca94550188b3bf95b86121f63f7b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0b45eead41dce836b9c360ed8339c0798d0ca0ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/BYOD-app-reqs.ab27dee0771dca94550188b3bf95b86121f63f7b.zh-cn.xlf)
@@ -1404,7 +1404,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1ab5c479f059b8be7497979e648695cc9ab3ec0a80'></a> Source: [EMDocs\Solutions\BYOD-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-data-access-and-protection-considerations.md)
+##### <a name='1ab5c479f059b8be7497979e648695cc9ab3ec0a80'></a> Source: [EMDocs\Solutions\byod-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-data-access-and-protection-considerations.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [BYOD-data-access-and-protection-considerations.c7ebf59010263eaea3a5f2921bb660c265f19c8d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0b45eead41dce836b9c360ed8339c0798d0ca0ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/BYOD-data-access-and-protection-considerations.c7ebf59010263eaea3a5f2921bb660c265f19c8d.zh-cn.xlf)
@@ -1512,7 +1512,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0197b56e9df8c2060fae49ac0e78b24b8ace66be89'></a> Source: [EMDocs\Solutions\BYOD-User-Device-Reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/c372eeb4603efa18943ab25c71b10c5cdde9e4c0/EMDocs/Solutions/BYOD-User-Device-Reqs.md)
+##### <a name='0197b56e9df8c2060fae49ac0e78b24b8ace66be89'></a> Source: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/1b003b2f0f31d881d0b0afe34983e7d0d57f0eb5/EMDocs/Solutions/byod-user-device-reqs.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [BYOD-User-Device-Reqs.070feaadd99870b66b0ee8cd304a7ad2f66f70f8.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0b45eead41dce836b9c360ed8339c0798d0ca0ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/BYOD-User-Device-Reqs.070feaadd99870b66b0ee8cd304a7ad2f66f70f8.zh-cn.xlf)
