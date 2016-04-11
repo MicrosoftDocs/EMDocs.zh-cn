@@ -107,12 +107,12 @@
   "18534c06cf405405a78e881da2d2fe334e1ec7dd": [
     "contributor-guide\\work-with-git.md"
   ],
+  "467e0fd411bd03841ff9ceb37b6c9cd8e4f1d27a": [
+    "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+  ],
   "b5d568b5d5975301e22ee6b09ca4f4407d31c47b": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
     "EMDocs\\MyBackupFiles\\architecture-guidance-for-protecting-company-email-and-documents.md"
-  ],
-  "467e0fd411bd03841ff9ceb37b6c9cd8e4f1d27a": [
-    "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
   "0465decc8bf600bf089375926dad9a54b36ad357": [
     "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md"
@@ -171,24 +171,6 @@
   "648fcd1bdebf6f0df08262b335fd072ad799af81": [
     "EMDocs\\Solutions\\BYOD-data-access-and-protection-considerations.md"
   ],
-  "5f1ceb0c5f6e724e252376b08672da0a21037572": [
-    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
-  ],
-  "db2b1d5b896c06564100907db7d0a19ad52b0c07": [
-    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
-  ],
-  "78f7139bda7479951c6ac9e1d9a8ef6e67c42f4f": [
-    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
-  ],
-  "e54217bde4d5da4b4b20e9667daa2fbe2df061f4": [
-    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
-  ],
-  "95de06458ec573f3147632c5927303ffde819789": [
-    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
-  ],
-  "266c60810994dcbef15ee1372d8943179289ce3c": [
-    "EMDocs\\Solutions\\BYOD-Design-Considerations.md"
-  ],
   "4ad93553dfb8d5333d2d3c6502764b1b3cbbde94": [
     "EMDocs\\Solutions\\BYOD-management-considerations.md"
   ],
@@ -206,12 +188,6 @@
   ],
   "bceacd9cab274a7a9d1165e50471df47576dc39f": [
     "EMDocs\\Solutions\\BYOD-management-considerations.md"
-  ],
-  "dc55e74e8fe8dc489ecd6a448ee88a46e1b99f29": [
-    "EMDocs\\Solutions\\BYOD-Summary-and-Additional-Resources.md"
-  ],
-  "aea7deb08bcf6e818f753d709e2c9349baa9474d": [
-    "EMDocs\\Solutions\\BYOD-Summary-and-Additional-Resources.md"
   ],
   "a6945ad42405f2535cc4e60111390fa2368f607c": [
     "EMDocs\\Solutions\\BYOD-user-and-device-considerations.md"
@@ -482,28 +458,12 @@
   "2de51d7074104da20438d54cf78f0c2573832115": [
     "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
   ],
-  "351ed4bfc1d19b0d22a9bf755ba518ff3107f458": [
-    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md",
-    "EMDocs\\Solutions\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.md"
-  ],
-  "12fa308e951d1c3fa201cabda4ee9d44167754b7": [
-    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
-  ],
-  "2ff91501687ee50bc2958b895dc8528b042f18a0": [
-    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
-  ],
-  "9c504d9664fb808626b94551324a0d4add8fe922": [
-    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
-  ],
-  "a79681caea57fea8a6d36fc9b46aea27fc2b3e93": [
-    "EMDocs\\Solutions\\Envisioning-the-BYOD-Infrastructure-Solution.md"
+  "a2516a7657242a70fdf218f442d5561b71c89746": [
+    "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
   ],
   "114609e897e58f0c4ef1df16b7e85fd8c3897d1f": [
     "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md",
     "EMDocs\\MyBackupFiles\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
-  ],
-  "a2516a7657242a70fdf218f442d5561b71c89746": [
-    "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
   ],
   "7d78c17a0b3452517d29f878eddef5f9714024d6": [
     "EMDocs\\Solutions\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
@@ -920,6 +880,9 @@
   "7b73c083206500b7d32acb4e06bf0c44088b670b": [
     "EMDocs\\Solutions\\media\\BYOD_Figure6.png"
   ],
+  "dc55e74e8fe8dc489ecd6a448ee88a46e1b99f29": [
+    "EMDocs\\Solutions\\byod-summary-and-additional-resources.md"
+  ],
   "75f14a341be8bb330b417b6151f6151de8b0c563": [
     "EMDocs\\Solutions\\media\\BYOD_Figure5.png"
   ],
@@ -943,9 +906,6 @@
   ],
   "b70d3d508a745ba7363f5a9a95ff96e9288b5c5e": [
     "EMDocs\\Solutions\\BYOD-design-considerations-guide.md"
-  ],
-  "2b646efc3028e3e92f64963b1d6753fbf1ad38d1": [
-    "EMDocs\\Solutions\\BYOD-Envisioning-the-BYOD-Infrastructure-Solution.md"
   ],
   "ebcc50dd677549b2ad837f9dcea62e817cdfda12": [
     "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
@@ -1208,12 +1168,12 @@
   "0c052a2c57ec36a6568babd4450e26b8036044cd": [
     "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md"
   ],
-  "8d443795442b5ec38b94a9169333f72750c0e641": [
-    "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
-  ],
   "851184282d8327a85faa573766471118d611d08c": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
     "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access.md"
+  ],
+  "8d443795442b5ec38b94a9169333f72750c0e641": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
   ],
   "6ca3d1b5bf6e40172136165aefdeacc917220aa2": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
@@ -1479,12 +1439,12 @@
   "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
     "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
   ],
+  "274c86ea05ad6517e92c81ee815db31c68946323": [
+    "EMDocs\\Solutions\\conditional-access-intune.md"
+  ],
   "10ffbadc91a3d31bd1889fdd7fc1af2cf99dafc2": [
     "EMDocs\\Solutions\\conditional-access-intune.md",
     "EMDocs\\MyBackupFiles\\conditional-access-intune.md"
-  ],
-  "274c86ea05ad6517e92c81ee815db31c68946323": [
-    "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
   "edbb653b9f90e19f6367be82a1b72d547c89d3d4": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
@@ -1561,12 +1521,12 @@
   "cd7c0cd38b947c6198abdd1e0a10a2fbb6b87b5c": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
   ],
-  "ce5d9564947687e4c87c231360c99b28a3eef9ba": [
-    "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
-  ],
   "a5e09c971d27296a7cac3b624a96f14259d4de77": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md",
     "EMDocs\\MyBackupFiles\\conditional-access-intune-exchange.md"
+  ],
+  "ce5d9564947687e4c87c231360c99b28a3eef9ba": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
   ],
   "c35c69491d0b99033246beb84e700ffdd8ca3dea": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
@@ -1577,12 +1537,12 @@
   "0695659b7017e0216da028789795bf14c1f17647": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
   ],
-  "f26576db88ba2908dd6dd6448216d8fc51918cd6": [
-    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
-  ],
   "96112562c656b4a4d54c21afe7272eed1ef5e789": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md",
     "EMDocs\\MyBackupFiles\\conditional-access-intune-exchange-online.md"
+  ],
+  "f26576db88ba2908dd6dd6448216d8fc51918cd6": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
   ],
   "f9a2ab17ed26a99f49be5dc0bc56f9aef4463153": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
@@ -1620,32 +1580,38 @@
   "6a11a1e2706c4efd32f958d4f096e0a91bd163e1": [
     "EMDocs\\Solutions\\media\\Intune_without_enrollment.png"
   ],
-  "655c2548655132bb734c527d500c09958ca4168c": [
-    "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
+  "5f1ceb0c5f6e724e252376b08672da0a21037572": [
+    "EMDocs\\Solutions\\byod-design-considerations.md"
+  ],
+  "2b646efc3028e3e92f64963b1d6753fbf1ad38d1": [
+    "EMDocs\\Solutions\\byod-envisioning-the-byod-infrastructure-solution.md"
   ],
   "b4bbd9af1c0032c3e25a44a65e6bc2234cdfe8d7": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md",
     "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access-android.md"
   ],
-  "ffeaa263fba12614f7a4765ffc6fce4dcc2323cf": [
+  "655c2548655132bb734c527d500c09958ca4168c": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
   ],
-  "4b9d6655e00c0ea02788ae2c60871cd4e6258569": [
-    "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
+  "ffeaa263fba12614f7a4765ffc6fce4dcc2323cf": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md"
   ],
   "8e8d26be656e7ad2c3ac8db9f2d7dbad882c0d69": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md",
     "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access-ios.md"
   ],
+  "4b9d6655e00c0ea02788ae2c60871cd4e6258569": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
+  ],
   "c064fdacef84348bcc412274c2927174d038aa87": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md"
+  ],
+  "e49d74ee9f6e4e2703e8eb448008cac820d49cc9": [
+    "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
   ],
   "8da925ee95576932b94f31076087baeed29b83a7": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md",
     "EMDocs\\MyBackupFiles\\end-user-experience-conditional-access-winphone.md"
-  ],
-  "e49d74ee9f6e4e2703e8eb448008cac820d49cc9": [
-    "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
   ],
   "20620c41f1092faa9f4d8d76dab1b5229471c999": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md"
@@ -1656,19 +1622,19 @@
   "24aa9591db0acfc2dba984def3c0cb8027ea92d6": [
     "EMDocs\\Solutions\\implement-solution.md"
   ],
+  "36dbd0d2ff9d3f198be5f66d49962640c5d405aa": [
+    "EMDocs\\Solutions\\protect-corporate-email-documents.md"
+  ],
   "6e0eeb243a8f84237820042c1cc92fe9bfd90b0c": [
     "EMDocs\\Solutions\\protect-corporate-email-documents.md",
     "EMDocs\\MyBackupFiles\\protect-corporate-email-documents.md"
   ],
-  "36dbd0d2ff9d3f198be5f66d49962640c5d405aa": [
-    "EMDocs\\Solutions\\protect-corporate-email-documents.md"
+  "03f7b701df165b0dd817ff85eeea487b40a271f1": [
+    "EMDocs\\Solutions\\protect-email-attachments.md"
   ],
   "54d051ef6ef57bfa78bf9f5ba373e55ec04821b6": [
     "EMDocs\\Solutions\\protect-email-attachments.md",
     "EMDocs\\MyBackupFiles\\protect-email-attachments.md"
-  ],
-  "03f7b701df165b0dd817ff85eeea487b40a271f1": [
-    "EMDocs\\Solutions\\protect-email-attachments.md"
   ],
   "08bfc92dca764ad308ff4debd446fb3465a960e2": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md"
