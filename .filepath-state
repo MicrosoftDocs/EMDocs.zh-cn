@@ -116,18 +116,6 @@
   "18534c06cf405405a78e881da2d2fe334e1ec7dd": [
     "contributor-guide\\work-with-git.md"
   ],
-  "60ac0c20d659ae8ef0b9b5f35e6c82b295894ea8": [
-    "EMDocs\\Solutions\\BGDCopy for Training.md"
-  ],
-  "078febcb1ee35b91160a77b5decdab3d5dbc6e80": [
-    "EMDocs\\Solutions\\BGDCopy for Training.md"
-  ],
-  "8e3e9ee50495f5b04396857292f5417694be4358": [
-    "EMDocs\\Solutions\\BGDCopy for Training.md"
-  ],
-  "76004c7bf6f6a78c532ee7b3db5aa92b4f8f9824": [
-    "EMDocs\\Solutions\\BGDCopy for Training.md"
-  ],
   "def5daadf6869d5af0f3b6025eec48a04d152796": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
   ],
@@ -1638,30 +1626,6 @@
   ],
   "5293d417cd0202137007dd4994f3a74e782988cb": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
-  ],
-  "ddd35a19cff155d22e02914b7b5ec71e7fcb2b94": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "de6dabe157ee248fe9aff944dfe9f57f35e99639": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "1849ae0507bfefb7bd4888f293f803ba807f1b90": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "b6a6db032b67de7cd03b8874be1e452775a3d2d2": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "78b43ce9a25e2b7dad564e75a7f8c4c33fdbe1a0": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "d84b1104e740802a6b8633645b1e62ca93bddac6": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "8d110ce61d9bd4a99c130d5298c484ef8eb52ae3": [
-    "EMDocs\\Solutions\\index.html"
-  ],
-  "af75e6245155924c249958398a5ded70553f5517": [
-    "EMDocs\\Solutions\\index.html"
   ],
   "6a11a1e2706c4efd32f958d4f096e0a91bd163e1": [
     "EMDocs\\Solutions\\media\\Intune_without_enrollment.png"
