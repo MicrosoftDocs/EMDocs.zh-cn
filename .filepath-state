@@ -1,4 +1,7 @@
 {
+  "bd870713d29cfef3d07c2650bd0ba668fe94a52e": [
+    "contributor-guide\\article-metadata.md"
+  ],
   "b0dd2af4ed22c05279afeafea1c4e780d74a5e6f": [
     "contributor-guide\\article-metadata.md"
   ],
@@ -32,6 +35,9 @@
   "95c140f4202e35cf01328e48acb2325c910e8c04": [
     "contributor-guide\\media\\helloworldlocal.png"
   ],
+  "ba1e846d4ce3029f3315fbbc381bf45544e01060": [
+    "contributor-guide\\content-channel-guidance.md"
+  ],
   "2c1a7d32b942dac40fa0f4f5e042bdbf593c23e0": [
     "contributor-guide\\content-channel-guidance.md"
   ],
@@ -52,6 +58,9 @@
   ],
   "dab6140279a8b49568623cbd64cdd7bc636d1fb4": [
     "contributor-guide\\create-tables-markdown.md"
+  ],
+  "c274ae4daf071245387599772945067b03dd9d82": [
+    "contributor-guide\\custom-markdown-extensions.md"
   ],
   "2a402428ce18d051fc0792b29028dd8d4e51be1e": [
     "contributor-guide\\custom-markdown-extensions.md"
@@ -1980,6 +1989,9 @@
   ],
   "603c6c892746c3a16e8abda9337bdc4837fce66b": [
     "EMDocs\\toc.yml"
+  ],
+  "acb9bc04e41b1308ffd83b35c8f1c4c91c623f39": [
+    "EMDocs\\index.md"
   ],
   "df5174c565f2607d0d3c6e72193a65fb4d0d9ed2": [
     "EMDocs\\index.md"
