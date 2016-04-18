@@ -1,19 +1,32 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/9d982691bcc935854a3f745d8cd5ad5dc21d5cbf/EMDocs/index.md) | HandedOffSuccess | [Details](#df5174c565f2607d0d3c6e72193a65fb4d0d9ed261)
+ [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#fa91b2af5aa12a2438936aa12566cb6ececc270762)
+ [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#1d16683905cbfefef9fe7a0fa06d30e26845a9bb98)
 
 ## Item Details
-##### <a name='df5174c565f2607d0d3c6e72193a65fb4d0d9ed261'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/9d982691bcc935854a3f745d8cd5ad5dc21d5cbf/EMDocs/index.md)
+##### <a name='fa91b2af5aa12a2438936aa12566cb6ececc270762'></a> Source: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0557dfb8f447a0cc992e750c55d83d744a041bd0/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Handoff Datetime: 2016-04-18 14:53:32
+* Handoff File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/7b2227f2e05cf248a128b80653f835d90faafcc9/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
+* Handoff Datetime: 2016-04-18 15:29:06
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='1d16683905cbfefef9fe7a0fa06d30e26845a9bb98'></a> Source: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/7b2227f2e05cf248a128b80653f835d90faafcc9/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
+* Handoff Datetime: 2016-04-18 15:29:06
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

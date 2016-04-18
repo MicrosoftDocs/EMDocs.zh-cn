@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 377
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 110
+[ Handoff Success Files ](#handoff-success-list)| 112
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 134
+[ Archive Success Files ](#archive-success-list)| 132
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -40,11 +40,13 @@
  [EMDocs\index - old.html](https://github.com/Microsoft/EMDocs-pr/blob/2a36328d8d860f75da5f319ac6d91c6bb826749a/EMDocs/index - old.html) | HandedOffSuccess | [Details](#05027e092f650571473b69c882f1c472a4d7ab2f59)
  [EMDocs\index - old2.html](https://github.com/Microsoft/EMDocs-pr/blob/518bdbdf729af386831cf2ee9a8237e96b87cf88/EMDocs/index - old2.html) | HandedOffSuccess | [Details](#91db52d7c715ca1f2b60593897ba7de47da4d4db60)
  [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/9d982691bcc935854a3f745d8cd5ad5dc21d5cbf/EMDocs/index.md) | HandedOffSuccess | [Details](#df5174c565f2607d0d3c6e72193a65fb4d0d9ed261)
+ [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#fa91b2af5aa12a2438936aa12566cb6ececc270762)
  [EMDocs\Solutions\end-user-experience-conditional-access.md](https://github.com/Microsoft/EMDocs-pr/blob/923edea20942ed9162097dad0cb081182226f7c1/EMDocs/Solutions/end-user-experience-conditional-access.md) | HandedOffSuccess | [Details](#632c8a5637a5d0b619da5b11e7b8d46c780b3f3687)
  [EMDocs\Solutions\end-user-experience-conditional-access-android.md](https://github.com/Microsoft/EMDocs-pr/blob/923edea20942ed9162097dad0cb081182226f7c1/EMDocs/Solutions/end-user-experience-conditional-access-android.md) | HandedOffSuccess | [Details](#deebb005a4211d268687eae379a3b9db68f155cf84)
  [EMDocs\Solutions\end-user-experience-conditional-access-ios.md](https://github.com/Microsoft/EMDocs-pr/blob/923edea20942ed9162097dad0cb081182226f7c1/EMDocs/Solutions/end-user-experience-conditional-access-ios.md) | HandedOffSuccess | [Details](#9e4877ab735e56d4ac22d29a6df48a0ff9b80f9585)
  [EMDocs\Solutions\end-user-experience-conditional-access-winphone.md](https://github.com/Microsoft/EMDocs-pr/blob/923edea20942ed9162097dad0cb081182226f7c1/EMDocs/Solutions/end-user-experience-conditional-access-winphone.md) | HandedOffSuccess | [Details](#a44be79f0119d902465699fa2fbe74338ecb41d386)
  [EMDocs\Solutions\index.html](https://github.com/Microsoft/EMDocs-pr/blob/424108bc02dce818712d16858949349ceed8d53f/EMDocs/Solutions/index.html) | HandedOffSuccess | [Details](#ddd35a19cff155d22e02914b7b5ec71e7fcb2b9497)
+ [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md) | HandedOffSuccess | [Details](#1d16683905cbfefef9fe7a0fa06d30e26845a9bb98)
  [EMDocs\Solutions\media\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/1aaad6ccaca53d4bd6293a1da75eee95a2fa449a/EMDocs/Solutions/media/150x150.png) | HandedOffSuccess | [Details](#84421bf7f4ba657e685239fb27f4798a46485f71139)
  [EMDocs\Solutions\media\1-rms-onboarding-process.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/1-rms-onboarding-process.png) | HandedOffSuccess | [Details](#d7641e47928129e58192ac12d9e36cd56c57be4d138)
  [EMDocs\Solutions\media\4-aadp-assess-phase-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/4-aadp-assess-phase-v3.png) | HandedOffSuccess | [Details](#37eebe7c7d8e52eb31e73bd024985eac7486d0a3141)
@@ -145,7 +147,6 @@
  [contributor-guide\style-and-voice.md](https://github.com/Microsoft/EMDocs-pr/blob/faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b/contributor-guide/style-and-voice.md) | ArchivedSuccess | [Details](#887b1294b2e63998084a5598858aad0c4469cd6d42)
  [contributor-guide\tools-and-setup.md](https://github.com/Microsoft/EMDocs-pr/blob/faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b/contributor-guide/tools-and-setup.md) | ArchivedSuccess | [Details](#24edd27bbe1280c3401eaa78e6ed88d1758d82f243)
  [contributor-guide\work-with-git.md](https://github.com/Microsoft/EMDocs-pr/blob/faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b/contributor-guide/work-with-git.md) | ArchivedSuccess | [Details](#66931315b777c7f7659088ca00eea24db16b8e4f44)
- [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/adbeffc887f39257dbcb133fb1f8b67aaf977971/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md) | ArchivedSuccess | [Details](#b24fb6bcb4643ce1f14c1fa3e98989e0fada93f762)
  [EMDocs\Solutions\BGDCopy for Training.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/BGDCopy for Training.md) | ArchivedSuccess | [Details](#60ac0c20d659ae8ef0b9b5f35e6c82b295894ea863)
  [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/byod-app-considerations.md) | ArchivedSuccess | [Details](#8bbc91330f63b38b7f9b9c0578385701a4293edb64)
  [EMDocs\Solutions\byod-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/byod-app-reqs.md) | ArchivedSuccess | [Details](#623699894a6e033a59dd989363a7b32b2068b86765)
@@ -175,7 +176,6 @@
  [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-your-responsibilities.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities.md) | ArchivedSuccess | [Details](#27af31f193e0086c8377e1bdfdf1d71b9cbd217d94)
  [EMDocs\Solutions\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md) | ArchivedSuccess | [Details](#f30dac131ababe1ba3476e88fd774522d1c371fb95)
  [EMDocs\Solutions\implement-solution.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/implement-solution.md) | ArchivedSuccess | [Details](#7329d55f7299d33ff833d1b0c65ee6fda9480fbf96)
- [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/adbeffc887f39257dbcb133fb1f8b67aaf977971/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md) | ArchivedSuccess | [Details](#876057a1a9615b2248a46e14394622e2fd88aecd98)
  [EMDocs\Solutions\lp_selector.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/lp_selector.md) | ArchivedSuccess | [Details](#77f50da8a7dfc5a6fae15fa4c3eecab61caa99ab101)
  [EMDocs\Solutions\lp-selector1.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/lp-selector1.md) | ArchivedSuccess | [Details](#09287f291cab2a6e4474751c8e59d6a76c0ccaec99)
  [EMDocs\Solutions\lp-selector2.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/lp-selector2.md) | ArchivedSuccess | [Details](#669c4652255c8fd5c27dfd4a7822032c922efb8b100)
@@ -1176,14 +1176,14 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b24fb6bcb4643ce1f14c1fa3e98989e0fada93f762'></a> Source: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/adbeffc887f39257dbcb133fb1f8b67aaf977971/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
-* Status: ArchivedSuccess
+##### <a name='fa91b2af5aa12a2438936aa12566cb6ececc270762'></a> Source: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dcbcdbb586fe76b868c50754070292f5fa771129/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
-* Handoff Datetime: 2016-04-14 19:21:28
+* Handoff File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/7b2227f2e05cf248a128b80653f835d90faafcc9/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
+* Handoff Datetime: 2016-04-18 15:29:06
 * Handoff Reason: Include
-* Archive File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0240cba62ebada2ff344733efddf4c33b3af4aa5/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
-* Archive Datetime: 2016-04-15 09:41:04
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -1608,14 +1608,14 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='876057a1a9615b2248a46e14394622e2fd88aecd98'></a> Source: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/adbeffc887f39257dbcb133fb1f8b67aaf977971/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
-* Status: ArchivedSuccess
+##### <a name='1d16683905cbfefef9fe7a0fa06d30e26845a9bb98'></a> Source: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/2bb4503fbaa6ecea308aacad08837676771bc85e/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dcbcdbb586fe76b868c50754070292f5fa771129/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
-* Handoff Datetime: 2016-04-14 19:21:28
+* Handoff File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/7b2227f2e05cf248a128b80653f835d90faafcc9/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
+* Handoff Datetime: 2016-04-18 15:29:06
 * Handoff Reason: Include
-* Archive File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/0240cba62ebada2ff344733efddf4c33b3af4aa5/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
-* Archive Datetime: 2016-04-15 09:41:04
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
