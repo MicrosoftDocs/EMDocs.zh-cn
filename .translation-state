@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "d7df9072cf82576b25e6501688844fc639a79ff3",
+  "LastProcessedCommit": "bc5580c2c9e7f26cd7f958d737089f554c385afb",
   "LastTranslatedCommit": null,
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -33,7 +33,7 @@
     },
     "3560ca3350c05a522e09bd1cca4acfc7f3433b11": {
       "FileHash": "3560ca3350c05a522e09bd1cca4acfc7f3433b11",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\checkmark-small.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -93,7 +93,7 @@
     },
     "781cfb78be55999ba9216b7e3a4c56aeb9b51d02": {
       "FileHash": "781cfb78be55999ba9216b7e3a4c56aeb9b51d02",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\gs13noauth.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -124,7 +124,7 @@
     },
     "d78ec5ab9f103d96cc0b8c0c869110f0276b12dc": {
       "FileHash": "d78ec5ab9f103d96cc0b8c0c869110f0276b12dc",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "f05319371ed6309b02f54a6daca7042d6762515d",
       "SourceFilePath": "contributor-guide\\media\\grey-border-in-paint.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -155,7 +155,7 @@
     },
     "2d08efb791b678300b989ad425dd93e6e077d982": {
       "FileHash": "2d08efb791b678300b989ad425dd93e6e077d982",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "f05319371ed6309b02f54a6daca7042d6762515d",
       "SourceFilePath": "contributor-guide\\media\\agent-700w.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -186,7 +186,7 @@
     },
     "0c57fad8039fa105a40f9a6f447ed0d3c37c42e9": {
       "FileHash": "0c57fad8039fa105a40f9a6f447ed0d3c37c42e9",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\ic727360.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -217,7 +217,7 @@
     },
     "95c140f4202e35cf01328e48acb2325c910e8c04": {
       "FileHash": "95c140f4202e35cf01328e48acb2325c910e8c04",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\helloworldlocal.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -277,7 +277,7 @@
     },
     "79dad577764e71dc6c35f19c50d667e287487e8f": {
       "FileHash": "79dad577764e71dc6c35f19c50d667e287487e8f",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\content-channels-small.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -395,7 +395,7 @@
     },
     "9f9c9e1b899cf50afec5abf8c24372b41e3c9b8d": {
       "FileHash": "9f9c9e1b899cf50afec5abf8c24372b41e3c9b8d",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\notes-note.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -426,7 +426,7 @@
     },
     "49ea1ff5469cc6d06b8a04d813d2af4238d66e89": {
       "FileHash": "49ea1ff5469cc6d06b8a04d813d2af4238d66e89",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\notes-warning.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -457,7 +457,7 @@
     },
     "caf83ac0135931364a2973d59520b8ed0145c9f0": {
       "FileHash": "caf83ac0135931364a2973d59520b8ed0145c9f0",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\notes-tip.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -488,7 +488,7 @@
     },
     "7292c31d8b011f392c81e2a4d49573aff94094df": {
       "FileHash": "7292c31d8b011f392c81e2a4d49573aff94094df",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\notes-important.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -550,7 +550,7 @@
     },
     "a19d1f0c651f1fd944af8c89b1bef5cdde57ba79": {
       "FileHash": "a19d1f0c651f1fd944af8c89b1bef5cdde57ba79",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "f07f7d73c5c41f1288103ecd20ea04b2e8941914",
       "SourceFilePath": "contributor-guide\\media\\selectors.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -581,7 +581,7 @@
     },
     "450c0f68e3f8473716099a76e2bea13452f5323f": {
       "FileHash": "450c0f68e3f8473716099a76e2bea13452f5323f",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\selector-list.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -728,7 +728,7 @@
     },
     "b9d4b138efb81efaaaf82fc99a255f23f2ef0ab6": {
       "FileHash": "b9d4b138efb81efaaaf82fc99a255f23f2ef0ab6",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "93afa79b8a4e774e5760c6636a0464331a61ef4b",
       "SourceFilePath": "contributor-guide\\media\\githubprofile.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -821,7 +821,7 @@
     },
     "2b30bbf5da82de5798871e5ac645873872bb15ea": {
       "FileHash": "2b30bbf5da82de5798871e5ac645873872bb15ea",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "f07f7d73c5c41f1288103ecd20ea04b2e8941914",
       "SourceFilePath": "contributor-guide\\media\\gitbashinstall.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -1741,7 +1741,7 @@
     },
     "80f16e5851e574014594e4d93ba194beb2cc9653": {
       "FileHash": "80f16e5851e574014594e4d93ba194beb2cc9653",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "1aaad6ccaca53d4bd6293a1da75eee95a2fa449a",
       "SourceFilePath": "EMDocs\\Solutions\\Sample.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -1770,7 +1770,7 @@
     },
     "84421bf7f4ba657e685239fb27f4798a46485f71": {
       "FileHash": "84421bf7f4ba657e685239fb27f4798a46485f71",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "1aaad6ccaca53d4bd6293a1da75eee95a2fa449a",
       "SourceFilePath": "EMDocs\\Solutions\\media\\150x150.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -2006,7 +2006,7 @@
     },
     "5b72cde38cf4fd1e3675899bccdd7a1f61a4539b": {
       "FileHash": "5b72cde38cf4fd1e3675899bccdd7a1f61a4539b",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Active-Directory-Federation-Services.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2035,7 +2035,7 @@
     },
     "55514466f7f2092dbc8cf35057d4978ca9247ae6": {
       "FileHash": "55514466f7f2092dbc8cf35057d4978ca9247ae6",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Active-Directory.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2064,7 +2064,7 @@
     },
     "28ab389c1991c87dcf5940259fc437eddb17f39d": {
       "FileHash": "28ab389c1991c87dcf5940259fc437eddb17f39d",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Azure-Active-Directory.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2093,7 +2093,7 @@
     },
     "8c168dcf0f5cc49c49de658a16650db0f93832c0": {
       "FileHash": "8c168dcf0f5cc49c49de658a16650db0f93832c0",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Azure.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2123,7 +2123,7 @@
     },
     "d71edd347bbd5ea3371e35b5e890fc07b8843504": {
       "FileHash": "d71edd347bbd5ea3371e35b5e890fc07b8843504",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\cmshort.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2152,7 +2152,7 @@
     },
     "22d729cee559eca2f7a1951dc76827ee1de29133": {
       "FileHash": "22d729cee559eca2f7a1951dc76827ee1de29133",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\ConfigMgr.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2181,7 +2181,7 @@
     },
     "1fe6bc72d74d229e8038b7b36594fab56bb625e0": {
       "FileHash": "1fe6bc72d74d229e8038b7b36594fab56bb625e0",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Enterprise-Mobility-Suite.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2210,7 +2210,7 @@
     },
     "16655d996d7298629c509995ab18340ecb757ec1": {
       "FileHash": "16655d996d7298629c509995ab18340ecb757ec1",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Exchange-ActiveSync.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2239,7 +2239,7 @@
     },
     "95240fe3663a8528d52f509601141f5651e66f82": {
       "FileHash": "95240fe3663a8528d52f509601141f5651e66f82",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Exchange-Online.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2268,7 +2268,7 @@
     },
     "2b98e4c7aae845f9956bf33d20e43e64c65ad420": {
       "FileHash": "2b98e4c7aae845f9956bf33d20e43e64c65ad420",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Exchange-Server.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2297,7 +2297,7 @@
     },
     "eb4b64a8db5b5bb2eea586ca46d0c3f6da4eac88": {
       "FileHash": "eb4b64a8db5b5bb2eea586ca46d0c3f6da4eac88",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Intune.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2326,7 +2326,7 @@
     },
     "059ec37acdba4a524a92bf32910587d844cd9fdc": {
       "FileHash": "059ec37acdba4a524a92bf32910587d844cd9fdc",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\katal_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2355,7 +2355,7 @@
     },
     "5d9c8d7573dc2aa65775428e755b351a8d84de17": {
       "FileHash": "5d9c8d7573dc2aa65775428e755b351a8d84de17",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\katal_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2384,7 +2384,7 @@
     },
     "9d1f4f7cf5a0dfe9684d197f67dc9fb16049b623": {
       "FileHash": "9d1f4f7cf5a0dfe9684d197f67dc9fb16049b623",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\MDM-for-Office-365.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2413,7 +2413,7 @@
     },
     "3f4c4fb2cae07922ab07f4d746b669a46667dc97": {
       "FileHash": "3f4c4fb2cae07922ab07f4d746b669a46667dc97",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Microsoft-Intune-Company-Portal.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2442,7 +2442,7 @@
     },
     "2c345c2d3e8679f8fc1a0e94304ace9e9e291d05": {
       "FileHash": "2c345c2d3e8679f8fc1a0e94304ace9e9e291d05",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Microsoft-Intune.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2472,7 +2472,7 @@
     },
     "d164a8d2049312250b1e612e1fc6215ca4fbdddb": {
       "FileHash": "d164a8d2049312250b1e612e1fc6215ca4fbdddb",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Microsoft.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2501,7 +2501,7 @@
     },
     "fb4c7817eac9a4569076492c3d678228adfa9cdf": {
       "FileHash": "fb4c7817eac9a4569076492c3d678228adfa9cdf",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\nextref_client_7.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2530,7 +2530,7 @@
     },
     "7a7696b5c0a84413e52374a40ab71c111dd096f8": {
       "FileHash": "7a7696b5c0a84413e52374a40ab71c111dd096f8",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Office-365.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2559,7 +2559,7 @@
     },
     "c582ebbffc6e3f3b0ee192ea123bb5b7ea67db54": {
       "FileHash": "c582ebbffc6e3f3b0ee192ea123bb5b7ea67db54",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\OneDrive.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2588,7 +2588,7 @@
     },
     "e62ac8e9b44949f16ac944a496b6d8413aaa53a0": {
       "FileHash": "e62ac8e9b44949f16ac944a496b6d8413aaa53a0",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\sbs8_mob_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2617,7 +2617,7 @@
     },
     "e6941659aebdc767f8a42883d25b4e1257d5d621": {
       "FileHash": "e6941659aebdc767f8a42883d25b4e1257d5d621",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\sbs8_mob_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2646,7 +2646,7 @@
     },
     "548d65c3592e436f39a11d12db8cce60ad025526": {
       "FileHash": "548d65c3592e436f39a11d12db8cce60ad025526",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\sc2012r2_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2675,7 +2675,7 @@
     },
     "745e57cb646c59dcdc9eae28f613b2f4c657b141": {
       "FileHash": "745e57cb646c59dcdc9eae28f613b2f4c657b141",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\sccm2012r2_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2705,7 +2705,7 @@
     },
     "9a6ac8653c2c5cf52a29ca4ef6b37b3dd7b8d33c": {
       "FileHash": "9a6ac8653c2c5cf52a29ca4ef6b37b3dd7b8d33c",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\sccmlongname.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2734,7 +2734,7 @@
     },
     "cad3187986387bfe5f86110f478472b563645089": {
       "FileHash": "cad3187986387bfe5f86110f478472b563645089",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\sccmshortname.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2763,7 +2763,7 @@
     },
     "44206eebb2c757ec92927986e6f2b67c61424ebe": {
       "FileHash": "44206eebb2c757ec92927986e6f2b67c61424ebe",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\SharePoint-Online.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2792,7 +2792,7 @@
     },
     "9af04e46b68b328c29cf635a880144c6d56d3848": {
       "FileHash": "9af04e46b68b328c29cf635a880144c6d56d3848",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\System-Center-2012-Configuration-Manager.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2821,7 +2821,7 @@
     },
     "8024a2c2b501af6d099d40e0d60505e307613766": {
       "FileHash": "8024a2c2b501af6d099d40e0d60505e307613766",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\System-Center-2012.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2850,7 +2850,7 @@
     },
     "1eeded8f5c2b65b278baea88b8031b29b568c9dc": {
       "FileHash": "1eeded8f5c2b65b278baea88b8031b29b568c9dc",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\System-Center-Configuration-Manager-2007.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2879,7 +2879,7 @@
     },
     "2f8c93e73300f5e7ca93316b275cdc721550cbea": {
       "FileHash": "2f8c93e73300f5e7ca93316b275cdc721550cbea",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\System-Center.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2908,7 +2908,7 @@
     },
     "589e630a9572813d02b6a335218e36f42ff0fe90": {
       "FileHash": "589e630a9572813d02b6a335218e36f42ff0fe90",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\vmmblue_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2937,7 +2937,7 @@
     },
     "bf0e911029698ac65d18c0d5d08d362fdb4022e0": {
       "FileHash": "bf0e911029698ac65d18c0d5d08d362fdb4022e0",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\vmmblue_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2966,7 +2966,7 @@
     },
     "05f6bc3083e7cd786d964a31b4b149f1e213548a": {
       "FileHash": "05f6bc3083e7cd786d964a31b4b149f1e213548a",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\win8_client_ent_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -2995,7 +2995,7 @@
     },
     "14b0d8220b2f0ea1bbcc86aad21a64a532db5d96": {
       "FileHash": "14b0d8220b2f0ea1bbcc86aad21a64a532db5d96",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\win8RT_client_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3024,7 +3024,7 @@
     },
     "1b61fbcbea4e11f6ee085a79b775abe59e0f20b4": {
       "FileHash": "1b61fbcbea4e11f6ee085a79b775abe59e0f20b4",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\winblue_client_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3053,7 +3053,7 @@
     },
     "a99ca498e1303515f4e5c74740e63fb45ad71cd7": {
       "FileHash": "a99ca498e1303515f4e5c74740e63fb45ad71cd7",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\winblue_server_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3083,7 +3083,7 @@
     },
     "4193a09d67f7cd8250e24cf39801b65f4ca24b62": {
       "FileHash": "4193a09d67f7cd8250e24cf39801b65f4ca24b62",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\winblue_server_datacenter_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3112,7 +3112,7 @@
     },
     "0223d421d1810ddc192ca96fad9f5656665f2b84": {
       "FileHash": "0223d421d1810ddc192ca96fad9f5656665f2b84",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\winblue_server_standard_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3141,7 +3141,7 @@
     },
     "9a9068f4719e41379e03a21e809504cc5a4b472a": {
       "FileHash": "9a9068f4719e41379e03a21e809504cc5a4b472a",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\Windows-Phone.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3170,7 +3170,7 @@
     },
     "737f108760e66f61e788bd872266f7e0199efbd9": {
       "FileHash": "737f108760e66f61e788bd872266f7e0199efbd9",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\winphone8_client_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3199,7 +3199,7 @@
     },
     "719ac9a9e298a04838c41bd5e1b906712edb6bd2": {
       "FileHash": "719ac9a9e298a04838c41bd5e1b906712edb6bd2",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\winrt_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3228,7 +3228,7 @@
     },
     "e9096a16bdd11b30f840ceba6f1cb16bd4cf25e8": {
       "FileHash": "e9096a16bdd11b30f840ceba6f1cb16bd4cf25e8",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\wps_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3257,7 +3257,7 @@
     },
     "89a7db3fee08b74dc93b8862f88b2685bbbd7714": {
       "FileHash": "89a7db3fee08b74dc93b8862f88b2685bbbd7714",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\wseblue_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3286,7 +3286,7 @@
     },
     "7d3125258de1ca06229ef352cb657444a8610e92": {
       "FileHash": "7d3125258de1ca06229ef352cb657444a8610e92",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "3fdf6bb63a581a4602819485c82dd3789c0b4eeb",
       "SourceFilePath": "EMDocs\\Token\\wseblue_experience.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3344,7 +3344,7 @@
     },
     "b0dd2af4ed22c05279afeafea1c4e780d74a5e6f": {
       "FileHash": "b0dd2af4ed22c05279afeafea1c4e780d74a5e6f",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\article-metadata.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3402,7 +3402,7 @@
     },
     "2c1a7d32b942dac40fa0f4f5e042bdbf593c23e0": {
       "FileHash": "2c1a7d32b942dac40fa0f4f5e042bdbf593c23e0",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\content-channel-guidance.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3431,7 +3431,7 @@
     },
     "da1cee35a09823cf69521242a7004897517492b4": {
       "FileHash": "da1cee35a09823cf69521242a7004897517492b4",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\contributor-guide-index.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3460,7 +3460,7 @@
     },
     "a2acee00c6aca19d00659702a5ef05485af4449b": {
       "FileHash": "a2acee00c6aca19d00659702a5ef05485af4449b",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\file-names-and-locations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3518,7 +3518,7 @@
     },
     "887b1294b2e63998084a5598858aad0c4469cd6d": {
       "FileHash": "887b1294b2e63998084a5598858aad0c4469cd6d",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\style-and-voice.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3547,7 +3547,7 @@
     },
     "24edd27bbe1280c3401eaa78e6ed88d1758d82f2": {
       "FileHash": "24edd27bbe1280c3401eaa78e6ed88d1758d82f2",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\tools-and-setup.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3576,7 +3576,7 @@
     },
     "66931315b777c7f7659088ca00eea24db16b8e4f": {
       "FileHash": "66931315b777c7f7659088ca00eea24db16b8e4f",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "faf6d07bb4d61ce1dc28b1ca15aa7b298e74074b",
       "SourceFilePath": "contributor-guide\\work-with-git.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3605,7 +3605,7 @@
     },
     "9262fb48cd07ecb0430327526ff08f9162d4c767": {
       "FileHash": "9262fb48cd07ecb0430327526ff08f9162d4c767",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "cd054786466014bc3fd991a28b2ed5f7416cb8c3",
       "SourceFilePath": "contributor-guide\\authoring-in-markdown.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3634,7 +3634,7 @@
     },
     "39cc82882215595514e978c62d87eb8e3337aed8": {
       "FileHash": "39cc82882215595514e978c62d87eb8e3337aed8",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "cd054786466014bc3fd991a28b2ed5f7416cb8c3",
       "SourceFilePath": "contributor-guide\\create-tables-markdown.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3663,7 +3663,7 @@
     },
     "2a402428ce18d051fc0792b29028dd8d4e51be1e": {
       "FileHash": "2a402428ce18d051fc0792b29028dd8d4e51be1e",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "cd054786466014bc3fd991a28b2ed5f7416cb8c3",
       "SourceFilePath": "contributor-guide\\custom-markdown-extensions.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3692,7 +3692,7 @@
     },
     "c8e83fb351623e5efe4cc27e3319b6bb80847536": {
       "FileHash": "c8e83fb351623e5efe4cc27e3319b6bb80847536",
-      "SourceFileCommit": "9aef5e50fdea3383fd6a333eb5874b0a3cd73258",
+      "SourceFileCommit": "cd054786466014bc3fd991a28b2ed5f7416cb8c3",
       "SourceFilePath": "contributor-guide\\rename-or-retire-an-article.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -3750,7 +3750,7 @@
     },
     "e123b9d4bbd388b802592c5e989d9d7c0a37cba1": {
       "FileHash": "e123b9d4bbd388b802592c5e989d9d7c0a37cba1",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_01.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -4101,7 +4101,7 @@
     },
     "7b73c083206500b7d32acb4e06bf0c44088b670b": {
       "FileHash": "7b73c083206500b7d32acb4e06bf0c44088b670b",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\BYOD_Figure6.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -4627,7 +4627,7 @@
     },
     "75f14a341be8bb330b417b6151f6151de8b0c563": {
       "FileHash": "75f14a341be8bb330b417b6151f6151de8b0c563",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\BYOD_Figure5.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -4717,7 +4717,7 @@
     },
     "604041a7552fae3e707a1987c65dbd5ee845e069": {
       "FileHash": "604041a7552fae3e707a1987c65dbd5ee845e069",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\BYOD_Figure3.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -4807,7 +4807,7 @@
     },
     "aabe382609d02cede8900395d3aefa7398234f23": {
       "FileHash": "aabe382609d02cede8900395d3aefa7398234f23",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\BYOD_Figure1.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -4898,7 +4898,7 @@
     },
     "b2cef36ab9cd1484bafcb96595605fcc83ee960d": {
       "FileHash": "b2cef36ab9cd1484bafcb96595605fcc83ee960d",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\BYOD_Figure4.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -4988,7 +4988,7 @@
     },
     "ae128e3fb940d06d4e7f1b88fde3490c3367cb9a": {
       "FileHash": "ae128e3fb940d06d4e7f1b88fde3490c3367cb9a",
-      "SourceFileCommit": "003afb23be694fbf48186b46f38c288f18a96265",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\BYOD_Figure2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -5602,8 +5602,8 @@
     },
     "1de96d7238974caec298c6a3a88377762aef55b2": {
       "FileHash": "1de96d7238974caec298c6a3a88377762aef55b2",
-      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
-      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Native_Email_Apps.png",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Native-Email-Apps.png",
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
@@ -5635,8 +5635,8 @@
     },
     "02351507eea49372935426f27f2275fcecaa8a18": {
       "FileHash": "02351507eea49372935426f27f2275fcecaa8a18",
-      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
-      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access_Control_Flow_For_Outlook_App.png",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Outlook-App.png",
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
@@ -5668,8 +5668,8 @@
     },
     "768b0e9f05d991171b1255ba410cd4911d0db663": {
       "FileHash": "768b0e9f05d991171b1255ba410cd4911d0db663",
-      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
-      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet_Diagram_Apps.png",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet-Diagram-Apps.png",
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
@@ -5701,8 +5701,8 @@
     },
     "fd7f2b3da02bf77b660fbbae92368d2faf42b772": {
       "FileHash": "fd7f2b3da02bf77b660fbbae92368d2faf42b772",
-      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
-      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise_Mobility_Suite.png",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise-Mobility-Suite.png",
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Architecture-guidance-for-protecting-company-email-and-documents.md",
@@ -5734,7 +5734,7 @@
     },
     "5d23feda97afbd203a4d57d0f958baca68438c2c": {
       "FileHash": "5d23feda97afbd203a4d57d0f958baca68438c2c",
-      "SourceFileCommit": "980d972ae981d6abc427559fb7b742a3fe85a42a",
+      "SourceFileCommit": "0d597abfd03d1e5a5b148e72441b459e4535bfae",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Protecting_your_data.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -5824,7 +5824,7 @@
     },
     "4acb3dc7c3580e7bf319b367387423449d38c4f8": {
       "FileHash": "4acb3dc7c3580e7bf319b367387423449d38c4f8",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -5857,7 +5857,7 @@
     },
     "a9398cffc2653d5a4251a95aa42647f8a197e4d4": {
       "FileHash": "a9398cffc2653d5a4251a95aa42647f8a197e4d4",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -5962,7 +5962,7 @@
     },
     "2508565ee350f44535945187882b18356955bb59": {
       "FileHash": "2508565ee350f44535945187882b18356955bb59",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -5995,7 +5995,7 @@
     },
     "1d2a8737299ec8316484218a22931eca82a39d0c": {
       "FileHash": "1d2a8737299ec8316484218a22931eca82a39d0c",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6029,7 +6029,7 @@
     },
     "d3c779deba937feff2e602fa78cfc3cf2c2d1151": {
       "FileHash": "d3c779deba937feff2e602fa78cfc3cf2c2d1151",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6063,7 +6063,7 @@
     },
     "3c17bb0e80792952c86ce97f9b623cd85518001f": {
       "FileHash": "3c17bb0e80792952c86ce97f9b623cd85518001f",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6590,7 +6590,7 @@
     },
     "83827620f471ee512b8b4056b3c06deb5aba666d": {
       "FileHash": "83827620f471ee512b8b4056b3c06deb5aba666d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-activate-DeviceAdmin.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6623,7 +6623,7 @@
     },
     "7228339d2ad00502eb81544405759794c5c120e2": {
       "FileHash": "7228339d2ad00502eb81544405759794c5c120e2",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-all-Successful2.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6656,7 +6656,7 @@
     },
     "4141c810edbf342add7c73227f29dd3b4d802673": {
       "FileHash": "4141c810edbf342add7c73227f29dd3b4d802673",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-company-Access-Setup.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6689,7 +6689,7 @@
     },
     "9819b66c89c082253891382f399306e0292e4d22": {
       "FileHash": "9819b66c89c082253891382f399306e0292e4d22",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-compliance-Successful.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6722,7 +6722,7 @@
     },
     "38178f98dd79cc09555ed4f193b91b5bc8cc412d": {
       "FileHash": "38178f98dd79cc09555ed4f193b91b5bc8cc412d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-device-Enroll.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6755,7 +6755,7 @@
     },
     "13e8aa977383c8046f57db285aedd0b560f447da": {
       "FileHash": "13e8aa977383c8046f57db285aedd0b560f447da",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-enrolling-Device.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6788,7 +6788,7 @@
     },
     "3b43530a1dd1ea5f9bec41982170745c077672ce": {
       "FileHash": "3b43530a1dd1ea5f9bec41982170745c077672ce",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-enroll-Success.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6821,7 +6821,7 @@
     },
     "00fcb98bc7dc4362f1c54c413d06b80632981b98": {
       "FileHash": "00fcb98bc7dc4362f1c54c413d06b80632981b98",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-outOfCompliance.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6854,7 +6854,7 @@
     },
     "abd04f5c3b5d6b95206c3b9e2d78d4dce517fa6d": {
       "FileHash": "abd04f5c3b5d6b95206c3b9e2d78d4dce517fa6d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-Portal.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6887,7 +6887,7 @@
     },
     "c2744ba367b9929d0eed8b0deae75d97a0aa470d": {
       "FileHash": "c2744ba367b9929d0eed8b0deae75d97a0aa470d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-quarantine-Email.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6920,7 +6920,7 @@
     },
     "2a37a18a6270d1ef5b73a3d12a91d0b81216f423": {
       "FileHash": "2a37a18a6270d1ef5b73a3d12a91d0b81216f423",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-resolve-Compliance-Issues.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6953,7 +6953,7 @@
     },
     "b38a1674ba07c788118b742050e6311c55a6b005": {
       "FileHash": "b38a1674ba07c788118b742050e6311c55a6b005",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-check-Compliance.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -6986,7 +6986,7 @@
     },
     "ab02023366504ef8a9a710222065b975f1419a34": {
       "FileHash": "ab02023366504ef8a9a710222065b975f1419a34",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-company-AccessSetup.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7019,7 +7019,7 @@
     },
     "ac2e71ff4b84f7c86225477d9c83f873d51f4902": {
       "FileHash": "ac2e71ff4b84f7c86225477d9c83f873d51f4902",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-compliance-Check-Completed.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7052,7 +7052,7 @@
     },
     "8ff856610479e9971341176175663d4703d70815": {
       "FileHash": "8ff856610479e9971341176175663d4703d70815",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-device-Compliance-Check.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7085,7 +7085,7 @@
     },
     "e72506bd7fa4d1095dc8ef3a1c0a3770489218db": {
       "FileHash": "e72506bd7fa4d1095dc8ef3a1c0a3770489218db",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-device-Enrollment.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7118,7 +7118,7 @@
     },
     "107831d0600d893670276d0247ba90a489e966fe": {
       "FileHash": "107831d0600d893670276d0247ba90a489e966fe",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-fallOut-Compliance.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7151,7 +7151,7 @@
     },
     "28626b232e24eaa39af284a023205a1423f6090d": {
       "FileHash": "28626b232e24eaa39af284a023205a1423f6090d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-intune-Company-Portal.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7184,7 +7184,7 @@
     },
     "5e5a32e2b77ebff3d0a230c3003fbb19597ed1d5": {
       "FileHash": "5e5a32e2b77ebff3d0a230c3003fbb19597ed1d5",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows10-activating-Enrollment.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7217,7 +7217,7 @@
     },
     "4438a2285d0a566feab7ea6c1b1515c09e7d9a6d": {
       "FileHash": "4438a2285d0a566feab7ea6c1b1515c09e7d9a6d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows11-COMPLETE.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7250,7 +7250,7 @@
     },
     "e93433442f2c2087d786b65636feaae7d4393dd0": {
       "FileHash": "e93433442f2c2087d786b65636feaae7d4393dd0",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows13-resolve-Compliance.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7283,7 +7283,7 @@
     },
     "3e26018a2a69b87f1b9801d86d08c84533f25190": {
       "FileHash": "3e26018a2a69b87f1b9801d86d08c84533f25190",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows14-OutOfCompliance.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7316,7 +7316,7 @@
     },
     "761e7a6954ed910c085e4020286f9fbfbde37493": {
       "FileHash": "761e7a6954ed910c085e4020286f9fbfbde37493",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows1-company-Access-Setup.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7349,7 +7349,7 @@
     },
     "a0b3c635172d44c77c9114a6b4c529a696e9379d": {
       "FileHash": "a0b3c635172d44c77c9114a6b4c529a696e9379d",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows3-enroll-Device.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7382,7 +7382,7 @@
     },
     "40eeeb0e98622055aaa13e8addd620625c2ebce9": {
       "FileHash": "40eeeb0e98622055aaa13e8addd620625c2ebce9",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows4-workplaceJoin1.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7415,7 +7415,7 @@
     },
     "377acb93e0b4aaf1b0d37521f733588d58ff64cf": {
       "FileHash": "377acb93e0b4aaf1b0d37521f733588d58ff64cf",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows5-workplaceJoin2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7448,7 +7448,7 @@
     },
     "347f36903c2ca384caf4182d4b366d38687f1103": {
       "FileHash": "347f36903c2ca384caf4182d4b366d38687f1103",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows6-checking-Enrollment.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7481,7 +7481,7 @@
     },
     "46a481c3f43f7f323c540d837e62c6f888b35a9a": {
       "FileHash": "46a481c3f43f7f323c540d837e62c6f888b35a9a",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows7-confirm-Device.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7514,7 +7514,7 @@
     },
     "bd4a5190f12d1beecccfa2816565c4d3f884ae47": {
       "FileHash": "bd4a5190f12d1beecccfa2816565c4d3f884ae47",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows9-checking-Compliance.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -7547,7 +7547,7 @@
     },
     "bc448048fe6681f2bc484ca733199f8a8c55abb0": {
       "FileHash": "bc448048fe6681f2bc484ca733199f8a8c55abb0",
-      "SourceFileCommit": "7bbae2815243cae7d2059a79894f216f698e7cdc",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows-quarantineEmail.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -8131,7 +8131,7 @@
     },
     "859f140412773ac6c7c7f82a6b461d51b882f4b7": {
       "FileHash": "859f140412773ac6c7c7f82a6b461d51b882f4b7",
-      "SourceFileCommit": "35f5e9dbc4b603084dc4a55f95a294302e56e05f",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_03.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9179,7 +9179,7 @@
     },
     "b7f78c809a3e137d0acbefc0819ffce9de37fa29": {
       "FileHash": "b7f78c809a3e137d0acbefc0819ffce9de37fa29",
-      "SourceFileCommit": "7c31c3f2f17d7a53287cdacda3fb7fe55ccd2b41",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_08.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9210,7 +9210,7 @@
     },
     "e361c053ec94b0bb1df7f369a838afb1f88e2b65": {
       "FileHash": "e361c053ec94b0bb1df7f369a838afb1f88e2b65",
-      "SourceFileCommit": "7c31c3f2f17d7a53287cdacda3fb7fe55ccd2b41",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_09.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9241,7 +9241,7 @@
     },
     "bc6ea010f15c372098eef559a50343fcc71bc911": {
       "FileHash": "bc6ea010f15c372098eef559a50343fcc71bc911",
-      "SourceFileCommit": "7c31c3f2f17d7a53287cdacda3fb7fe55ccd2b41",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_10.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9272,7 +9272,7 @@
     },
     "3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c": {
       "FileHash": "3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c",
-      "SourceFileCommit": "7c31c3f2f17d7a53287cdacda3fb7fe55ccd2b41",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_11.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9593,7 +9593,7 @@
     },
     "64b99a1c8af27bb4266d5ee89c5add679090a873": {
       "FileHash": "64b99a1c8af27bb4266d5ee89c5add679090a873",
-      "SourceFileCommit": "beea18780e4e3f39c50b87ffb65bc9015fa7f3c5",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_04.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9624,7 +9624,7 @@
     },
     "4ed8bad92b41a367b716a3b3af0e808debf6ada1": {
       "FileHash": "4ed8bad92b41a367b716a3b3af0e808debf6ada1",
-      "SourceFileCommit": "beea18780e4e3f39c50b87ffb65bc9015fa7f3c5",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_05.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9655,7 +9655,7 @@
     },
     "5bcabf7c79e2d0775758a3d5fa3922aa75bd3814": {
       "FileHash": "5bcabf7c79e2d0775758a3d5fa3922aa75bd3814",
-      "SourceFileCommit": "beea18780e4e3f39c50b87ffb65bc9015fa7f3c5",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_06.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9686,7 +9686,7 @@
     },
     "3356d764209e01e636eba75f2174a22ca0e94ca6": {
       "FileHash": "3356d764209e01e636eba75f2174a22ca0e94ca6",
-      "SourceFileCommit": "beea18780e4e3f39c50b87ffb65bc9015fa7f3c5",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_07.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9717,7 +9717,7 @@
     },
     "ef35bc0ea3385158b47172ac26453847ce4d4552": {
       "FileHash": "ef35bc0ea3385158b47172ac26453847ce4d4552",
-      "SourceFileCommit": "beea18780e4e3f39c50b87ffb65bc9015fa7f3c5",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9777,7 +9777,7 @@
     },
     "495a0e184d5b0f7d60292dd23b38e57fdad93e87": {
       "FileHash": "495a0e184d5b0f7d60292dd23b38e57fdad93e87",
-      "SourceFileCommit": "32afda310f38e79adae81b6047d8fca7fbb0ab93",
+      "SourceFileCommit": "0194ed2a4c36b6dad96747fbfa6668790095f278",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\conditional-access-8-1.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9810,7 +9810,7 @@
     },
     "6dc6d327b445e37e8e0a9f52afd82c3342c3101a": {
       "FileHash": "6dc6d327b445e37e8e0a9f52afd82c3342c3101a",
-      "SourceFileCommit": "32afda310f38e79adae81b6047d8fca7fbb0ab93",
+      "SourceFileCommit": "0194ed2a4c36b6dad96747fbfa6668790095f278",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\conditional-access-8-2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -9843,7 +9843,7 @@
     },
     "49427494881cb50b4baadf18311da0f9744f6c43": {
       "FileHash": "49427494881cb50b4baadf18311da0f9744f6c43",
-      "SourceFileCommit": "32afda310f38e79adae81b6047d8fca7fbb0ab93",
+      "SourceFileCommit": "0194ed2a4c36b6dad96747fbfa6668790095f278",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -10167,7 +10167,7 @@
     },
     "229fc686019615d0fff176eeceb7db8530e0caf8": {
       "FileHash": "229fc686019615d0fff176eeceb7db8530e0caf8",
-      "SourceFileCommit": "07b1633bb08ba17a5798a5368cad4b7223a6977f",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_12.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -10198,7 +10198,7 @@
     },
     "6d9d1a6c55c5d580c83fda80193ee1362c6e462c": {
       "FileHash": "6d9d1a6c55c5d580c83fda80193ee1362c6e462c",
-      "SourceFileCommit": "07b1633bb08ba17a5798a5368cad4b7223a6977f",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\MDM_Figure_13.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12143,7 +12143,7 @@
     },
     "d7641e47928129e58192ac12d9e36cd56c57be4d": {
       "FileHash": "d7641e47928129e58192ac12d9e36cd56c57be4d",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12177,7 +12177,7 @@
     },
     "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": {
       "FileHash": "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Enable-phase-Intune-11-20-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12209,7 +12209,7 @@
     },
     "989a623c0d4d648a6411d300d24e7b166b79dcc5": {
       "FileHash": "989a623c0d4d648a6411d300d24e7b166b79dcc5",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-assess-phase-9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12241,7 +12241,7 @@
     },
     "468d344e2a354c889a0b77b3f0a7796d27208641": {
       "FileHash": "468d344e2a354c889a0b77b3f0a7796d27208641",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-enable-phase-core-9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12273,7 +12273,7 @@
     },
     "f0021622ea4a945d276e049e1f53980ef5bbcb47": {
       "FileHash": "f0021622ea4a945d276e049e1f53980ef5bbcb47",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-initiate-phase-9-15-15-v2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12305,7 +12305,7 @@
     },
     "01dceb32e182d5a32c095ee441855d58848f2ef2": {
       "FileHash": "01dceb32e182d5a32c095ee441855d58848f2ef2",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune-onboarding-phases-9-15-15.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12371,7 +12371,7 @@
     },
     "f333254dcf8caec6a8f47f282b8f9e82fed06ddc": {
       "FileHash": "f333254dcf8caec6a8f47f282b8f9e82fed06ddc",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-enable-phase-2.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -12468,7 +12468,7 @@
     },
     "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": {
       "FileHash": "2e96017cee5dfb3a87d86e56fde978d6260c7ff5",
-      "SourceFileCommit": "2c90e15be030f89b103e6b58fd1fd5eabe9aa53d",
+      "SourceFileCommit": "bef88dbfdf467706b88aad10d456bf18f70054bb",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -13399,7 +13399,7 @@
     },
     "6a11a1e2706c4efd32f958d4f096e0a91bd163e1": {
       "FileHash": "6a11a1e2706c4efd32f958d4f096e0a91bd163e1",
-      "SourceFileCommit": "7e15e13de4edc12e09ee63399f490a3ace7ebc3d",
+      "SourceFileCommit": "f2105cbb87a26ca93fc7acd25f613788db50a689",
       "SourceFilePath": "EMDocs\\Solutions\\media\\Intune_without_enrollment.png",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -17599,7 +17599,7 @@
     },
     "ddd35a19cff155d22e02914b7b5ec71e7fcb2b94": {
       "FileHash": "ddd35a19cff155d22e02914b7b5ec71e7fcb2b94",
-      "SourceFileCommit": "769955460506aa2dab44b9f307fb018905409a1b",
+      "SourceFileCommit": "424108bc02dce818712d16858949349ceed8d53f",
       "SourceFilePath": "EMDocs\\Solutions\\index.html",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -18094,7 +18094,7 @@
     },
     "603c6c892746c3a16e8abda9337bdc4837fce66b": {
       "FileHash": "603c6c892746c3a16e8abda9337bdc4837fce66b",
-      "SourceFileCommit": "c84678cb50080be4b9c80c77dfafcdaa97948881",
+      "SourceFileCommit": "f79ca7ddd40c10392c3c775ed22a3c62faca37d7",
       "SourceFilePath": "EMDocs\\toc.yml",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20472,7 +20472,7 @@
     },
     "839936f2547abdb9a6826ae6ead45af477b5d778": {
       "FileHash": "839936f2547abdb9a6826ae6ead45af477b5d778",
-      "SourceFileCommit": "181124de70d28a4175dedadd034328676b1e16ca",
+      "SourceFileCommit": "518bdbdf729af386831cf2ee9a8237e96b87cf88",
       "SourceFilePath": "EMDocs\\Solutions\\scenarios-guides.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20588,7 +20588,7 @@
     },
     "60ac0c20d659ae8ef0b9b5f35e6c82b295894ea8": {
       "FileHash": "60ac0c20d659ae8ef0b9b5f35e6c82b295894ea8",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\BGDCopy for Training.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20617,7 +20617,7 @@
     },
     "8bbc91330f63b38b7f9b9c0578385701a4293edb": {
       "FileHash": "8bbc91330f63b38b7f9b9c0578385701a4293edb",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-app-considerations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20646,7 +20646,7 @@
     },
     "623699894a6e033a59dd989363a7b32b2068b867": {
       "FileHash": "623699894a6e033a59dd989363a7b32b2068b867",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-app-reqs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20675,7 +20675,7 @@
     },
     "71c61e0d66c99cdc3ee9e4455319acee5ea0ce9a": {
       "FileHash": "71c61e0d66c99cdc3ee9e4455319acee5ea0ce9a",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20704,7 +20704,7 @@
     },
     "42f6f4596a446bc4ed3cdc91cc985af32b75cdcf": {
       "FileHash": "42f6f4596a446bc4ed3cdc91cc985af32b75cdcf",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-data-access-protection-reqs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20733,7 +20733,7 @@
     },
     "fce1a9d3de85cc27a666a439b171cb305873dd61": {
       "FileHash": "fce1a9d3de85cc27a666a439b171cb305873dd61",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-design-considerations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20762,7 +20762,7 @@
     },
     "788a324c3610386fd86c8455b4fd1c90882a7182": {
       "FileHash": "788a324c3610386fd86c8455b4fd1c90882a7182",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-design-considerations-guide.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20791,7 +20791,7 @@
     },
     "19981500aca954d301bc56c535f70a49b07d0999": {
       "FileHash": "19981500aca954d301bc56c535f70a49b07d0999",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-envisioning-the-byod-infrastructure-solution.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20820,7 +20820,7 @@
     },
     "540cd88c18feadb402d2a69f45fef56076de2a8b": {
       "FileHash": "540cd88c18feadb402d2a69f45fef56076de2a8b",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-management-considerations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20849,7 +20849,7 @@
     },
     "18f1eff6404e8268410a35473c4c7297e0abe486": {
       "FileHash": "18f1eff6404e8268410a35473c4c7297e0abe486",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-management-reqs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20878,7 +20878,7 @@
     },
     "88ebdc0082c1aa3e06394313e970d15db4cc3cea": {
       "FileHash": "88ebdc0082c1aa3e06394313e970d15db4cc3cea",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-summary-and-additional-resources.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20907,7 +20907,7 @@
     },
     "13268ae6b76a2e816e50143beb43afc9cc8c634e": {
       "FileHash": "13268ae6b76a2e816e50143beb43afc9cc8c634e",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-user-and-device-considerations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -20936,7 +20936,7 @@
     },
     "58215c6ce610f9d91c2888c548772c0fd0da9438": {
       "FileHash": "58215c6ce610f9d91c2888c548772c0fd0da9438",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\byod-user-device-reqs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21023,7 +21023,7 @@
     },
     "7825c8074e2abf302a794e3b5b59e7236403a588": {
       "FileHash": "7825c8074e2abf302a794e3b5b59e7236403a588",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr-coexist.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21284,7 +21284,7 @@
     },
     "e1887bb4c270b68b0791af0998bc19e658602191": {
       "FileHash": "e1887bb4c270b68b0791af0998bc19e658602191",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\enterprise-mobility-fasttrack-program.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21313,7 +21313,7 @@
     },
     "f7a644da7e04f913254d690c563f45e649dc0e49": {
       "FileHash": "f7a644da7e04f913254d690c563f45e649dc0e49",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21342,7 +21342,7 @@
     },
     "33f290f25f1653d43042ae8d5701316207ffdd8a": {
       "FileHash": "33f290f25f1653d43042ae8d5701316207ffdd8a",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-environment-expectations.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21371,7 +21371,7 @@
     },
     "c59a423ad3a8699d31982adb86697b6f69163110": {
       "FileHash": "c59a423ad3a8699d31982adb86697b6f69163110",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21400,7 +21400,7 @@
     },
     "a8dc38025bccace4d912382c0cb4469e8691abbc": {
       "FileHash": "a8dc38025bccace4d912382c0cb4469e8691abbc",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21429,7 +21429,7 @@
     },
     "6413d86a72cc85baacb33b019650b26ad99dbbb4": {
       "FileHash": "6413d86a72cc85baacb33b019650b26ad99dbbb4",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21458,7 +21458,7 @@
     },
     "27af31f193e0086c8377e1bdfdf1d71b9cbd217d": {
       "FileHash": "27af31f193e0086c8377e1bdfdf1d71b9cbd217d",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-your-responsibilities.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21487,7 +21487,7 @@
     },
     "f30dac131ababe1ba3476e88fd774522d1c371fb": {
       "FileHash": "f30dac131ababe1ba3476e88fd774522d1c371fb",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21516,7 +21516,7 @@
     },
     "7329d55f7299d33ff833d1b0c65ee6fda9480fbf": {
       "FileHash": "7329d55f7299d33ff833d1b0c65ee6fda9480fbf",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\implement-solution.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21574,7 +21574,7 @@
     },
     "77f50da8a7dfc5a6fae15fa4c3eecab61caa99ab": {
       "FileHash": "77f50da8a7dfc5a6fae15fa4c3eecab61caa99ab",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\lp_selector.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21603,7 +21603,7 @@
     },
     "09287f291cab2a6e4474751c8e59d6a76c0ccaec": {
       "FileHash": "09287f291cab2a6e4474751c8e59d6a76c0ccaec",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\lp-selector1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21632,7 +21632,7 @@
     },
     "669c4652255c8fd5c27dfd4a7822032c922efb8b": {
       "FileHash": "669c4652255c8fd5c27dfd4a7822032c922efb8b",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\lp-selector2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21661,7 +21661,7 @@
     },
     "1714d8042f5a4eb6e72c45cf4db12ab24404992c": {
       "FileHash": "1714d8042f5a4eb6e72c45cf4db12ab24404992c",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-access-control-resources.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21690,7 +21690,7 @@
     },
     "def5daadf6869d5af0f3b6025eec48a04d152796": {
       "FileHash": "def5daadf6869d5af0f3b6025eec48a04d152796",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-application-management-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21719,7 +21719,7 @@
     },
     "65c01f8fe084446d1635eee20d130d4de0c8f7f9": {
       "FileHash": "65c01f8fe084446d1635eee20d130d4de0c8f7f9",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-authentication-authorization.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21748,7 +21748,7 @@
     },
     "94801a7072a6a5211cd98fa80bc11334aafba5b5": {
       "FileHash": "94801a7072a6a5211cd98fa80bc11334aafba5b5",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-certificate-management-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21777,7 +21777,7 @@
     },
     "f21804685d123161b83ba6ba1d4ffe2ad457bded": {
       "FileHash": "f21804685d123161b83ba6ba1d4ffe2ad457bded",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-client-privacy.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21806,7 +21806,7 @@
     },
     "def6e3c2e3d30ba7e4cc5ed67a26dfc182eee9c8": {
       "FileHash": "def6e3c2e3d30ba7e4cc5ed67a26dfc182eee9c8",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-data-classification.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21835,7 +21835,7 @@
     },
     "bfeb1fd4cceacf225093d3a5c2d808ebeb21c825": {
       "FileHash": "bfeb1fd4cceacf225093d3a5c2d808ebeb21c825",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-data-encryption.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21864,7 +21864,7 @@
     },
     "dd175d4099997c7d77b4379d71e5a00cac4f3f87": {
       "FileHash": "dd175d4099997c7d77b4379d71e5a00cac4f3f87",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-data-segregation.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21893,7 +21893,7 @@
     },
     "7f0eed2025625147d0e6c9f236ce2a74fb813d08": {
       "FileHash": "7f0eed2025625147d0e6c9f236ce2a74fb813d08",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-design-considerations-guide.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21922,7 +21922,7 @@
     },
     "c54180e154caed5b58159dec22651c73b4a944f6": {
       "FileHash": "c54180e154caed5b58159dec22651c73b4a944f6",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-determine-network-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21951,7 +21951,7 @@
     },
     "3be59381d215da3a6c1e7e33bae592d02201c196": {
       "FileHash": "3be59381d215da3a6c1e7e33bae592d02201c196",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -21980,7 +21980,7 @@
     },
     "8670e37bc847485053009db781cabac54e9bc922": {
       "FileHash": "8670e37bc847485053009db781cabac54e9bc922",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22009,7 +22009,7 @@
     },
     "1f193851c08d5fae5d3093e0470921e28a04b5b6": {
       "FileHash": "1f193851c08d5fae5d3093e0470921e28a04b5b6",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22038,7 +22038,7 @@
     },
     "fcb9b57ff0ada697ebd7a4aa91f089e950e9adf5": {
       "FileHash": "fcb9b57ff0ada697ebd7a4aa91f089e950e9adf5",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-device-enrollment-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22067,7 +22067,7 @@
     },
     "58dfb42b11edda8700cd7ae33401709775c9adca": {
       "FileHash": "58dfb42b11edda8700cd7ae33401709775c9adca",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-device-management-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22096,7 +22096,7 @@
     },
     "7a96c347f073850248b7d12c2abbcf10ea132935": {
       "FileHash": "7a96c347f073850248b7d12c2abbcf10ea132935",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-device-monitoring-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22125,7 +22125,7 @@
     },
     "1ada8192acae3225187b5a1c403f33fd488e3e20": {
       "FileHash": "1ada8192acae3225187b5a1c403f33fd488e3e20",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-device-provisioning-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22154,7 +22154,7 @@
     },
     "4c6ac267f89cc25652f7f657a05fab91004da7d7": {
       "FileHash": "4c6ac267f89cc25652f7f657a05fab91004da7d7",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-email-management-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22183,7 +22183,7 @@
     },
     "ac9808463acd811e53135dd7ce60844c12d46439": {
       "FileHash": "ac9808463acd811e53135dd7ce60844c12d46439",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22212,7 +22212,7 @@
     },
     "d1a4c8e75b74a60b91875f85388a984e8fd3dd14": {
       "FileHash": "d1a4c8e75b74a60b91875f85388a984e8fd3dd14",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22241,7 +22241,7 @@
     },
     "27bb02a1273fc0bef733d5478faaa810f049a803": {
       "FileHash": "27bb02a1273fc0bef733d5478faaa810f049a803",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22270,7 +22270,7 @@
     },
     "9fbc103fea6184c051f34541dc2e823750ae3792": {
       "FileHash": "9fbc103fea6184c051f34541dc2e823750ae3792",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-identify-business-needs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22299,7 +22299,7 @@
     },
     "41adc6302c98576fadaa4e36b68b8d11fbba8054": {
       "FileHash": "41adc6302c98576fadaa4e36b68b8d11fbba8054",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-identify-saas-connectivity-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22328,7 +22328,7 @@
     },
     "de06585840b60ed19bfdfadb5544b6d7d6776691": {
       "FileHash": "de06585840b60ed19bfdfadb5544b6d7d6776691",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-identify-saas-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22357,7 +22357,7 @@
     },
     "a338f9b449551f257b8a55ded74b5775feb6df06": {
       "FileHash": "a338f9b449551f257b8a55ded74b5775feb6df06",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22386,7 +22386,7 @@
     },
     "47cd57aa3fb22482a282dc8bb3446f762f7f6750": {
       "FileHash": "47cd57aa3fb22482a282dc8bb3446f762f7f6750",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22415,7 +22415,7 @@
     },
     "588f85c687e63f416bac82e632065f2687092d52": {
       "FileHash": "588f85c687e63f416bac82e632065f2687092d52",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22444,7 +22444,7 @@
     },
     "541b3a4cbb200558d527a14ce6cc691d74431f0b": {
       "FileHash": "541b3a4cbb200558d527a14ce6cc691d74431f0b",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22473,7 +22473,7 @@
     },
     "519482cadc7f0054883b70dd0de20e25380ec1a6": {
       "FileHash": "519482cadc7f0054883b70dd0de20e25380ec1a6",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22502,7 +22502,7 @@
     },
     "e07565fd34f2eb89db0047c88f7834ed13cdf301": {
       "FileHash": "e07565fd34f2eb89db0047c88f7834ed13cdf301",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-specify-your-access-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22531,7 +22531,7 @@
     },
     "75179ab51b1c990aa612d74b494a2aef35a7c616": {
       "FileHash": "75179ab51b1c990aa612d74b494a2aef35a7c616",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-step-1-identify-your-mobile-device-management-requirements.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22560,7 +22560,7 @@
     },
     "130d6e4e8ba30c47e2e4df29e9527e48cd38fb6d": {
       "FileHash": "130d6e4e8ba30c47e2e4df29e9527e48cd38fb6d",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22589,7 +22589,7 @@
     },
     "8d2df20d71d83ccd38ef96c84600f234665ab27e": {
       "FileHash": "8d2df20d71d83ccd38ef96c84600f234665ab27e",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22618,7 +22618,7 @@
     },
     "0721029aec7bf0f47607b6c69f74dcea4f3c0eda": {
       "FileHash": "0721029aec7bf0f47607b6c69f74dcea4f3c0eda",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22647,7 +22647,7 @@
     },
     "16b50ff249ba2d88e16bc53aabb6f69b9a863f6e": {
       "FileHash": "16b50ff249ba2d88e16bc53aabb6f69b9a863f6e",
-      "SourceFileCommit": "48b253f4457d8b4a1e8b0a8c05009dc7f19fe7b6",
+      "SourceFileCommit": "d43860e838a40de05bdec73b00b6721ee634d7e5",
       "SourceFilePath": "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22821,7 +22821,7 @@
     },
     "03cd9713d76c11e63696d2430ad0bde6818d5540": {
       "FileHash": "03cd9713d76c11e63696d2430ad0bde6818d5540",
-      "SourceFileCommit": "644191caf0d6097e59c11d43634497cb5caa8493",
+      "SourceFileCommit": "8b4f1a719f611f3f3687bb7e332214c55eec091f",
       "SourceFilePath": "EMDocs\\Solutions\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22850,7 +22850,7 @@
     },
     "b24fb6bcb4643ce1f14c1fa3e98989e0fada93f7": {
       "FileHash": "b24fb6bcb4643ce1f14c1fa3e98989e0fada93f7",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\architecture-guidance-for-protecting-company-email-and-documents.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22879,7 +22879,7 @@
     },
     "d80496eafd390f2889f1358f292a0b0c3110516e": {
       "FileHash": "d80496eafd390f2889f1358f292a0b0c3110516e",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22908,7 +22908,7 @@
     },
     "9b376cd981372ebbaf54a848b20f5ed76074fac9": {
       "FileHash": "9b376cd981372ebbaf54a848b20f5ed76074fac9",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22937,7 +22937,7 @@
     },
     "6546488c0a58e89bca2e0783aa3dd084f7bd455a": {
       "FileHash": "6546488c0a58e89bca2e0783aa3dd084f7bd455a",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22966,7 +22966,7 @@
     },
     "c982dc560e292478af25e14ce3cab2f12e7d6611": {
       "FileHash": "c982dc560e292478af25e14ce3cab2f12e7d6611",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -22995,7 +22995,7 @@
     },
     "6391db5ecd97460c46ea31ab140cd429939660f3": {
       "FileHash": "6391db5ecd97460c46ea31ab140cd429939660f3",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-exchange.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23024,7 +23024,7 @@
     },
     "ac89d74b3d1c3e49dc9fbab3d236e985fb9a73c1": {
       "FileHash": "ac89d74b3d1c3e49dc9fbab3d236e985fb9a73c1",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23053,7 +23053,7 @@
     },
     "876057a1a9615b2248a46e14394622e2fd88aecd": {
       "FileHash": "876057a1a9615b2248a46e14394622e2fd88aecd",
-      "SourceFileCommit": "0a1a5067c4f903f9905cf565ba0b8f2fb21d741c",
+      "SourceFileCommit": "adbeffc887f39257dbcb133fb1f8b67aaf977971",
       "SourceFilePath": "EMDocs\\Solutions\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23169,7 +23169,7 @@
     },
     "632c8a5637a5d0b619da5b11e7b8d46c780b3f36": {
       "FileHash": "632c8a5637a5d0b619da5b11e7b8d46c780b3f36",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "923edea20942ed9162097dad0cb081182226f7c1",
       "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23198,7 +23198,7 @@
     },
     "deebb005a4211d268687eae379a3b9db68f155cf": {
       "FileHash": "deebb005a4211d268687eae379a3b9db68f155cf",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "923edea20942ed9162097dad0cb081182226f7c1",
       "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access-android.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23227,7 +23227,7 @@
     },
     "9e4877ab735e56d4ac22d29a6df48a0ff9b80f95": {
       "FileHash": "9e4877ab735e56d4ac22d29a6df48a0ff9b80f95",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "923edea20942ed9162097dad0cb081182226f7c1",
       "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access-ios.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23256,7 +23256,7 @@
     },
     "a44be79f0119d902465699fa2fbe74338ecb41d3": {
       "FileHash": "a44be79f0119d902465699fa2fbe74338ecb41d3",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "923edea20942ed9162097dad0cb081182226f7c1",
       "SourceFilePath": "EMDocs\\Solutions\\end-user-experience-conditional-access-winphone.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23285,7 +23285,7 @@
     },
     "04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc": {
       "FileHash": "04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b",
       "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-Get-Started.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
@@ -23316,7 +23316,7 @@
     },
     "f9e99135b1a6bdb71f30a68f87cca089bbf9df72": {
       "FileHash": "f9e99135b1a6bdb71f30a68f87cca089bbf9df72",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "923edea20942ed9162097dad0cb081182226f7c1",
       "SourceFilePath": "EMDocs\\Solutions\\protect-corporate-email-documents.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23345,7 +23345,7 @@
     },
     "3c826bed3277ea51de1b63c420f2aa0a5f9bbad8": {
       "FileHash": "3c826bed3277ea51de1b63c420f2aa0a5f9bbad8",
-      "SourceFileCommit": "f10e34dac1be45889d0dac671199248024a76e91",
+      "SourceFileCommit": "923edea20942ed9162097dad0cb081182226f7c1",
       "SourceFilePath": "EMDocs\\Solutions\\protect-email-attachments.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
@@ -23356,6 +23356,35 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\protect-email-attachments.7c12c124ed16c23b2319105d98c02bf87bea025f.zh-cn.xlf",
       "HandoffFileCommit": "a4606c9ed6e2df5498990930d17d4d8f41f0d67b",
       "HandoffDateTime": "2016-04-15T20:51:38.288965Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "df5174c565f2607d0d3c6e72193a65fb4d0d9ed2": {
+      "FileHash": "df5174c565f2607d0d3c6e72193a65fb4d0d9ed2",
+      "SourceFileCommit": "9d982691bcc935854a3f745d8cd5ad5dc21d5cbf",
+      "SourceFilePath": "EMDocs\\index.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\index.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf",
+      "HandoffFileCommit": "0557dfb8f447a0cc992e750c55d83d744a041bd0",
+      "HandoffDateTime": "2016-04-18T14:53:32.2808436Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
