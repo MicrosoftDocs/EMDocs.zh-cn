@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "c384167afe179ce0aa170709cfc950e1b2b44b63",
+  "LastProcessedCommit": "50d9fb57ca4fdb490d1c1efa9cd2bd75ebf47811",
   "LastTranslatedCommit": "82c4eaa14a29e6ae3236c9d290a9e654f9d8b08f",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -5890,8 +5890,8 @@
     },
     "00f6c80457b1d64bb088936747ac26ec93f83c5a": {
       "FileHash": "00f6c80457b1d64bb088936747ac26ec93f83c5a",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
-      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.png",
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
@@ -5901,7 +5901,8 @@
       ],
       "TokenReference": null,
       "FilePathList": [
-        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG"
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG",
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.png"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\00f6c80457b1d64bb088936747ac26ec93f83c5a.PNG",
       "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
@@ -5924,8 +5925,8 @@
     },
     "31469f3df0b9951cb42496e8adf072ea60748c11": {
       "FileHash": "31469f3df0b9951cb42496e8adf072ea60748c11",
-      "SourceFileCommit": "75535c8f23acd4bd8afc0f52bbcf976182f22401",
-      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG",
+      "SourceFileCommit": "7f7f39751b4ba314fede7699c813ff4eb34d346b",
+      "SourceFilePath": "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.png",
       "HandoffReason": 2,
       "DependencyFrom": [
         "EMDocs\\Solutions\\Use-conditional-access-with-Intune-and-Configuration-Manager.md",
@@ -5939,7 +5940,8 @@
       ],
       "TokenReference": null,
       "FilePathList": [
-        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG"
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG",
+        "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.png"
       ],
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\31469f3df0b9951cb42496e8adf072ea60748c11.PNG",
       "HandoffFileCommit": "3c746156f34a8a20560f0626f0d5ba8e476b23ef",
@@ -23762,6 +23764,35 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf",
       "HandoffFileCommit": "dada8ce1e8bcc245e2b5204e0acf78df9ba333e3",
       "HandoffDateTime": "2016-04-19T13:25:13.2405887Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "76b3099eea00a99fcb6ed67b464d06bf422e1d6d": {
+      "FileHash": "76b3099eea00a99fcb6ed67b464d06bf422e1d6d",
+      "SourceFileCommit": "d679100c2c4cd925c349cab5d9c6ca431ef60865",
+      "SourceFilePath": "EMDocs\\toc.yml",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\toc.yml"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf",
+      "HandoffFileCommit": "1eb9962e3b64d7d18f3ee10e3cce545d37c44259",
+      "HandoffDateTime": "2016-04-19T17:19:39.0201578Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

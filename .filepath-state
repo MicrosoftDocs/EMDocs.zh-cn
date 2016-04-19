@@ -836,10 +836,10 @@
     "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png"
   ],
   "00f6c80457b1d64bb088936747ac26ec93f83c5a": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.PNG"
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.png"
   ],
   "31469f3df0b9951cb42496e8adf072ea60748c11": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.PNG"
+    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.png"
   ],
   "2508565ee350f44535945187882b18356955bb59": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png"
@@ -1956,6 +1956,9 @@
   ],
   "a2516a7657242a70fdf218f442d5561b71c89746": [
     "EMDocs\\Solutions\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
+  ],
+  "76b3099eea00a99fcb6ed67b464d06bf422e1d6d": [
+    "EMDocs\\toc.yml"
   ],
   "dee676f0f96321eab6470a5d4215b04bce86d987": [
     "EMDocs\\toc.yml"
