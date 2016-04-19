@@ -1441,9 +1441,6 @@
   "d7641e47928129e58192ac12d9e36cd56c57be4d": [
     "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png"
   ],
-  "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": [
-    "EMDocs\\Solutions\\media\\Enable-phase-Intune-11-20-15.png"
-  ],
   "989a623c0d4d648a6411d300d24e7b166b79dcc5": [
     "EMDocs\\Solutions\\media\\Intune-assess-phase-9-15-15.png"
   ],
@@ -1455,9 +1452,6 @@
   ],
   "01dceb32e182d5a32c095ee441855d58848f2ef2": [
     "EMDocs\\Solutions\\media\\Intune-onboarding-phases-9-15-15.png"
-  ],
-  "f333254dcf8caec6a8f47f282b8f9e82fed06ddc": [
-    "EMDocs\\Solutions\\media\\Microsoft-Azure-AD-Premium-enable-phase-2.png"
   ],
   "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
     "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
@@ -1870,6 +1864,9 @@
   "a7b608a683a91cd0e5844b6bf8dc2a0e078120b0": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md"
   ],
+  "b888a7438fb6c6ca024944860529eca3527b373b": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
+  ],
   "a8dc38025bccace4d912382c0cb4469e8691abbc": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
   ],
@@ -1881,6 +1878,9 @@
   ],
   "ef8b8dc58020cd62d67fb3191b0ed938dc41ea63": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-overview.md"
+  ],
+  "336009f8f429b6165bc4bebf030fc188a67e36b0": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
   ],
   "6413d86a72cc85baacb33b019650b26ad99dbbb4": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"

@@ -1,19 +1,32 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/31fdaf7e0f1087b08bf4a80a9e0e77870d44d2f6/EMDocs/index.md) | HandedOffSuccess | [Details](#46f308d98f77d57203bcc209a13586260b258b2b59)
+ [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md](https://github.com/Microsoft/EMDocs-pr/blob/e61383b359972e7f01f72c7b9d836256d440ee44/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-overview.md) | HandedOffSuccess | [Details](#b888a7438fb6c6ca024944860529eca3527b373b89)
+ [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md](https://github.com/Microsoft/EMDocs-pr/blob/e61383b359972e7f01f72c7b9d836256d440ee44/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-phases.md) | HandedOffSuccess | [Details](#336009f8f429b6165bc4bebf030fc188a67e36b090)
 
 ## Item Details
-##### <a name='46f308d98f77d57203bcc209a13586260b258b2b59'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/31fdaf7e0f1087b08bf4a80a9e0e77870d44d2f6/EMDocs/index.md)
+##### <a name='b888a7438fb6c6ca024944860529eca3527b373b89'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md](https://github.com/Microsoft/EMDocs-pr/blob/e61383b359972e7f01f72c7b9d836256d440ee44/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-overview.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/9a59e73dd41c5254768aed990076d46270740aa1/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Handoff Datetime: 2016-04-19 10:27:39
+* Handoff File: [fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dada8ce1e8bcc245e2b5204e0acf78df9ba333e3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf)
+* Handoff Datetime: 2016-04-19 13:25:13
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='336009f8f429b6165bc4bebf030fc188a67e36b090'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md](https://github.com/Microsoft/EMDocs-pr/blob/e61383b359972e7f01f72c7b9d836256d440ee44/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-phases.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dada8ce1e8bcc245e2b5204e0acf78df9ba333e3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf)
+* Handoff Datetime: 2016-04-19 13:25:13
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
