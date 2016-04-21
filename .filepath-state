@@ -1639,6 +1639,9 @@
   "f7e697b86eb800e7f86b39fbf92c558187e12779": [
     "EMDocs\\Solutions\\byod-app-reqs.md"
   ],
+  "fd7a80b50eb575330fa9bef4b932b4840b1ca7b6": [
+    "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
+  ],
   "71c61e0d66c99cdc3ee9e4455319acee5ea0ce9a": [
     "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
   ],
@@ -1647,6 +1650,9 @@
   ],
   "1ab5c479f059b8be7497979e648695cc9ab3ec0a": [
     "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
+  ],
+  "d926b1b512928021c6660a07f2383aad038d8f69": [
+    "EMDocs\\Solutions\\byod-data-access-protection-reqs.md"
   ],
   "42f6f4596a446bc4ed3cdc91cc985af32b75cdcf": [
     "EMDocs\\Solutions\\byod-data-access-protection-reqs.md"
@@ -1666,6 +1672,9 @@
   "5f1ceb0c5f6e724e252376b08672da0a21037572": [
     "EMDocs\\Solutions\\byod-design-considerations.md"
   ],
+  "6b52c7079f23197fdfeb6665ce3f72f530651b15": [
+    "EMDocs\\Solutions\\byod-design-considerations-guide.md"
+  ],
   "788a324c3610386fd86c8455b4fd1c90882a7182": [
     "EMDocs\\Solutions\\byod-design-considerations-guide.md"
   ],
@@ -1675,6 +1684,9 @@
   "a8a5d6406faa5b791db9704cfc4f92ee366f053c": [
     "EMDocs\\Solutions\\byod-design-considerations-guide.md"
   ],
+  "6d078420ff704ccc3787bd55ab402f928a68e2a9": [
+    "EMDocs\\Solutions\\byod-envisioning-the-byod-infrastructure-solution.md"
+  ],
   "19981500aca954d301bc56c535f70a49b07d0999": [
     "EMDocs\\Solutions\\byod-envisioning-the-byod-infrastructure-solution.md"
   ],
@@ -1683,6 +1695,9 @@
   ],
   "2b646efc3028e3e92f64963b1d6753fbf1ad38d1": [
     "EMDocs\\Solutions\\byod-envisioning-the-byod-infrastructure-solution.md"
+  ],
+  "95d3bf192aca8657afab963588b1406b1d5d610c": [
+    "EMDocs\\Solutions\\byod-management-considerations.md"
   ],
   "540cd88c18feadb402d2a69f45fef56076de2a8b": [
     "EMDocs\\Solutions\\byod-management-considerations.md"
@@ -1710,6 +1725,9 @@
   ],
   "a6945ad42405f2535cc4e60111390fa2368f607c": [
     "EMDocs\\Solutions\\byod-user-and-device-considerations.md"
+  ],
+  "edc01392970272784cc6477f2acf9cc616c97950": [
+    "EMDocs\\Solutions\\byod-user-device-reqs.md"
   ],
   "58215c6ce610f9d91c2888c548772c0fd0da9438": [
     "EMDocs\\Solutions\\byod-user-device-reqs.md"
@@ -1986,6 +2004,9 @@
   ],
   "603c6c892746c3a16e8abda9337bdc4837fce66b": [
     "EMDocs\\toc.yml"
+  ],
+  "454ae3df71499b9ee68167ca7b1dcbed91b531f4": [
+    "EMDocs\\index.md"
   ],
   "226b2a3e67764a3c76b065c38767e214df38a137": [
     "EMDocs\\index.md"
