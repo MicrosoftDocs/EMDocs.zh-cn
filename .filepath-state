@@ -525,6 +525,9 @@
   "72030e6a47051491d26b22ba501039a1e53af444": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
   ],
+  "d684360cef95ced7a2f7af8ad165e367a4ee7712": [
+    "EMDocs\\Solutions\\TOC.md"
+  ],
   "03cd9713d76c11e63696d2430ad0bde6818d5540": [
     "EMDocs\\Solutions\\TOC.md"
   ],
@@ -1669,6 +1672,9 @@
   "7d2137c455e9d3b5d172d7a5699b7275cc124f22": [
     "EMDocs\\Solutions\\byod-data-access-protection-reqs.md"
   ],
+  "d2bd169a1b475588bd28ab4a8f8172aafdc362cb": [
+    "EMDocs\\Solutions\\byod-design-considerations.md"
+  ],
   "fce1a9d3de85cc27a666a439b171cb305873dd61": [
     "EMDocs\\Solutions\\byod-design-considerations.md"
   ],
@@ -1701,6 +1707,9 @@
   ],
   "2b646efc3028e3e92f64963b1d6753fbf1ad38d1": [
     "EMDocs\\Solutions\\byod-envisioning-the-byod-infrastructure-solution.md"
+  ],
+  "91deaf9d02b27182353cbe511ff86a01582dc60a": [
+    "EMDocs\\Solutions\\byod-management-considerations.md"
   ],
   "95d3bf192aca8657afab963588b1406b1d5d610c": [
     "EMDocs\\Solutions\\byod-management-considerations.md"
@@ -2058,9 +2067,6 @@
   ],
   "e64ebb09c43674b31b30d8ad70805b2ff92145c9": [
     "EMDocs\\index.md"
-  ],
-  "839936f2547abdb9a6826ae6ead45af477b5d778": [
-    "EMDocs\\Solutions\\scenarios-guides.md"
   ],
   "04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc": [
     "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-Get-Started.PNG"
