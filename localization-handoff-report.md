@@ -1,45 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\Solutions\byod-design-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/f752f75206cb37cbe565e44a00f20fcdad13ddb5/EMDocs/Solutions/byod-design-considerations.md) | HandedOffSuccess | [Details](#d2bd169a1b475588bd28ab4a8f8172aafdc362cb67)
- [EMDocs\Solutions\byod-management-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/f752f75206cb37cbe565e44a00f20fcdad13ddb5/EMDocs/Solutions/byod-management-considerations.md) | HandedOffSuccess | [Details](#91deaf9d02b27182353cbe511ff86a01582dc60a69)
- [EMDocs\Solutions\TOC.md](https://github.com/Microsoft/EMDocs-pr/blob/d7353358c171b32f775220018ebe51b83d02eb47/EMDocs/Solutions/TOC.md) | HandedOffSuccess | [Details](#d684360cef95ced7a2f7af8ad165e367a4ee7712321)
+ [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/3200236da7097c0e73deeb5d42f716c05535a62a/EMDocs/index.md) | HandedOffSuccess | [Details](#fc90e5c73f0b87fd04b75f9210572fa50d78b06359)
 
 ## Item Details
-##### <a name='d2bd169a1b475588bd28ab4a8f8172aafdc362cb67'></a> Source: [EMDocs\Solutions\byod-design-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/f752f75206cb37cbe565e44a00f20fcdad13ddb5/EMDocs/Solutions/byod-design-considerations.md)
+##### <a name='fc90e5c73f0b87fd04b75f9210572fa50d78b06359'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/3200236da7097c0e73deeb5d42f716c05535a62a/EMDocs/index.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [byod-design-considerations.07afe9d29e034eb4a4e3dcbe803a14afbe3f73d7.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/18441d18a09f70dec23a0c688e1c7a35cc02f423/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-design-considerations.07afe9d29e034eb4a4e3dcbe803a14afbe3f73d7.zh-cn.xlf)
-* Handoff Datetime: 2016-04-22 16:50:48
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='91deaf9d02b27182353cbe511ff86a01582dc60a69'></a> Source: [EMDocs\Solutions\byod-management-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/f752f75206cb37cbe565e44a00f20fcdad13ddb5/EMDocs/Solutions/byod-management-considerations.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [byod-management-considerations.0b86292377b4ae88afb7b88d44ced951a9eee9c2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/18441d18a09f70dec23a0c688e1c7a35cc02f423/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-management-considerations.0b86292377b4ae88afb7b88d44ced951a9eee9c2.zh-cn.xlf)
-* Handoff Datetime: 2016-04-22 16:50:48
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d684360cef95ced7a2f7af8ad165e367a4ee7712321'></a> Source: [EMDocs\Solutions\TOC.md](https://github.com/Microsoft/EMDocs-pr/blob/d7353358c171b32f775220018ebe51b83d02eb47/EMDocs/Solutions/TOC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/18441d18a09f70dec23a0c688e1c7a35cc02f423/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf)
-* Handoff Datetime: 2016-04-22 16:50:48
+* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/2d1134daadc9b7ebbc88c992639d93b325b9afcc/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
+* Handoff Datetime: 2016-04-22 22:24:38
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
