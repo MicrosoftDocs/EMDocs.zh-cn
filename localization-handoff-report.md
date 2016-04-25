@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/3200236da7097c0e73deeb5d42f716c05535a62a/EMDocs/index.md) | HandedOffSuccess | [Details](#fc90e5c73f0b87fd04b75f9210572fa50d78b06359)
+ [EMDocs\Solutions\byod-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/505b8a07fa0b5589e652b8b8a4cbb57c84b03b7e/EMDocs/Solutions/byod-data-access-and-protection-considerations.md) | HandedOffSuccess | [Details](#f2c77cb792d693e8c9035299b8cb5f3e5fd35ad064)
 
 ## Item Details
-##### <a name='fc90e5c73f0b87fd04b75f9210572fa50d78b06359'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/3200236da7097c0e73deeb5d42f716c05535a62a/EMDocs/index.md)
+##### <a name='f2c77cb792d693e8c9035299b8cb5f3e5fd35ad064'></a> Source: [EMDocs\Solutions\byod-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/505b8a07fa0b5589e652b8b8a4cbb57c84b03b7e/EMDocs/Solutions/byod-data-access-and-protection-considerations.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/2d1134daadc9b7ebbc88c992639d93b325b9afcc/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Handoff Datetime: 2016-04-22 22:24:38
+* Handoff File: [byod-data-access-and-protection-considerations.9823ea903a3e070a7234c6e0ef09aaa3875ae76a.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a5d685444d92ee84a7854aea824373828bc88e73/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-data-access-and-protection-considerations.9823ea903a3e070a7234c6e0ef09aaa3875ae76a.zh-cn.xlf)
+* Handoff Datetime: 2016-04-25 20:48:57
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

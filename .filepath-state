@@ -20,21 +20,6 @@
   "02fd3684172e6bdf5f3347831c8103d19a1a22e6": [
     "contributor-guide\\authoring-in-markdown.md"
   ],
-  "781cfb78be55999ba9216b7e3a4c56aeb9b51d02": [
-    "contributor-guide\\media\\gs13noauth.png"
-  ],
-  "d78ec5ab9f103d96cc0b8c0c869110f0276b12dc": [
-    "contributor-guide\\media\\grey-border-in-paint.png"
-  ],
-  "2d08efb791b678300b989ad425dd93e6e077d982": [
-    "contributor-guide\\media\\agent-700w.png"
-  ],
-  "0c57fad8039fa105a40f9a6f447ed0d3c37c42e9": [
-    "contributor-guide\\media\\ic727360.png"
-  ],
-  "95c140f4202e35cf01328e48acb2325c910e8c04": [
-    "contributor-guide\\media\\helloworldlocal.png"
-  ],
   "ba1e846d4ce3029f3315fbbc381bf45544e01060": [
     "contributor-guide\\content-channel-guidance.md"
   ],
@@ -763,6 +748,9 @@
   "7d3125258de1ca06229ef352cb657444a8610e92": [
     "EMDocs\\Token\\wseblue_experience.md"
   ],
+  "c05a5e387d25cf958db9c4c8943823b4813cf4d0": [
+    "README.md"
+  ],
   "c8e83fb351623e5efe4cc27e3319b6bb80847536": [
     "contributor-guide\\rename-or-retire-an-article.md"
   ],
@@ -1441,24 +1429,6 @@
   "6d9d1a6c55c5d580c83fda80193ee1362c6e462c": [
     "EMDocs\\Solutions\\media\\MDM_Figure_13.png"
   ],
-  "d7641e47928129e58192ac12d9e36cd56c57be4d": [
-    "EMDocs\\Solutions\\media\\1-rms-onboarding-process.png"
-  ],
-  "989a623c0d4d648a6411d300d24e7b166b79dcc5": [
-    "EMDocs\\Solutions\\media\\Intune-assess-phase-9-15-15.png"
-  ],
-  "468d344e2a354c889a0b77b3f0a7796d27208641": [
-    "EMDocs\\Solutions\\media\\Intune-enable-phase-core-9-15-15.png"
-  ],
-  "f0021622ea4a945d276e049e1f53980ef5bbcb47": [
-    "EMDocs\\Solutions\\media\\Intune-initiate-phase-9-15-15-v2.png"
-  ],
-  "01dceb32e182d5a32c095ee441855d58848f2ef2": [
-    "EMDocs\\Solutions\\media\\Intune-onboarding-phases-9-15-15.png"
-  ],
-  "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": [
-    "EMDocs\\Solutions\\media\\Microsoft-Intune-onboarding-remediate-phase-1.png"
-  ],
   "d80496eafd390f2889f1358f292a0b0c3110516e": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
@@ -1644,6 +1614,9 @@
   ],
   "f7e697b86eb800e7f86b39fbf92c558187e12779": [
     "EMDocs\\Solutions\\byod-app-reqs.md"
+  ],
+  "f2c77cb792d693e8c9035299b8cb5f3e5fd35ad0": [
+    "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
   ],
   "80f76373302aeab8232de1a3a86fbeed88801ad6": [
     "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
