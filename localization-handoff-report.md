@@ -6,22 +6,20 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/93671e92efd12dd186d6cf9357e209e3943df3c1/EMDocs/index.md) | OutofSyncHandedBackSuccess | [Details](#b7e98da5d2c544603ae3acc18270d7932a44b6e759)
+ [README.md](https://github.com/Microsoft/EMDocs-pr/blob/0505304fcd6745f9c2d60ef20e383d7093c03e02/README.md) | HandedOffSuccess | [Details](#d49a3ab9c35d4a862ea8c8d828eb983a2aec0197380)
 
 ## Item Details
-##### <a name='b7e98da5d2c544603ae3acc18270d7932a44b6e759'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/93671e92efd12dd186d6cf9357e209e3943df3c1/EMDocs/index.md)
-* Status: OutofSyncHandedBackSuccess
+##### <a name='d49a3ab9c35d4a862ea8c8d828eb983a2aec0197380'></a> Source: [README.md](https://github.com/Microsoft/EMDocs-pr/blob/0505304fcd6745f9c2d60ef20e383d7093c03e02/README.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/4bfc7a5577402c8e2328b81484256178c35143d8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Handoff Datetime: 2016-04-29 20:48:10
-* Handoff Reason: Include
+* Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/853f92f406ab8d3e598eede86ffd4e39623ac020/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf)
+* Handoff Datetime: 2016-05-03 09:27:05
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/index.md)
-* Current Handback File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/79980b8833ca7ba10e2dffd94d6fa53577d9c59a/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-29 16:14:50
+* Dependency From: contributor-guide\create-tables-markdown.md
 * [Back to Top](#report-top)
 
 
