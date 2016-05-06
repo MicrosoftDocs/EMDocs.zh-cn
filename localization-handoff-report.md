@@ -6,21 +6,21 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md](https://github.com/Microsoft/EMDocs-pr/blob/72820e4f112bebbf259f30717044cb92778040af/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-overview.md) | OutofSyncHandedBackSuccess | [Details](#58b1c5eb61cf01fd97245712a159c766bbc0335190)
+ [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/9883ee8aebde8ab93d4351b9ed72080a227c8f46/EMDocs/Solutions/byod-user-device-reqs.md) | OutofSyncHandedBackSuccess | [Details](#4cee1f7e793902a3e8ae7a9db623bf4729cdda2a73)
 
 ## Item Details
-##### <a name='58b1c5eb61cf01fd97245712a159c766bbc0335190'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md](https://github.com/Microsoft/EMDocs-pr/blob/72820e4f112bebbf259f30717044cb92778040af/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-overview.md)
+##### <a name='4cee1f7e793902a3e8ae7a9db623bf4729cdda2a73'></a> Source: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/9883ee8aebde8ab93d4351b9ed72080a227c8f46/EMDocs/Solutions/byod-user-device-reqs.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/ec9cc970b6cb3e5290f6be836335901a7cf7aea8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf)
-* Handoff Datetime: 2016-05-04 22:27:36
+* Handoff File: [byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/806080662767773297429dc1b72a634cbcd3a4dc/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf)
+* Handoff Datetime: 2016-05-06 20:27:06
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-overview.md)
-* Current Handback File: [fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/79980b8833ca7ba10e2dffd94d6fa53577d9c59a/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf)
+* Current Target File: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-user-device-reqs.md)
+* Current Handback File: [byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/79980b8833ca7ba10e2dffd94d6fa53577d9c59a/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf)
 * Current Handback Datetime: 2016-04-29 16:14:50
 * [Back to Top](#report-top)
 

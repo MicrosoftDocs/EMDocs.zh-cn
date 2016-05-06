@@ -5,9 +5,6 @@
   "b0dd2af4ed22c05279afeafea1c4e780d74a5e6f": [
     "contributor-guide\\article-metadata.md"
   ],
-  "3560ca3350c05a522e09bd1cca4acfc7f3433b11": [
-    "contributor-guide\\media\\checkmark-small.png"
-  ],
   "9262fb48cd07ecb0430327526ff08f9162d4c767": [
     "contributor-guide\\authoring-in-markdown.md"
   ],
@@ -16,9 +13,6 @@
   ],
   "2c1a7d32b942dac40fa0f4f5e042bdbf593c23e0": [
     "contributor-guide\\content-channel-guidance.md"
-  ],
-  "79dad577764e71dc6c35f19c50d667e287487e8f": [
-    "contributor-guide\\media\\content-channels-small.png"
   ],
   "da1cee35a09823cf69521242a7004897517492b4": [
     "contributor-guide\\contributor-guide-index.md"
@@ -32,24 +26,6 @@
   "2a402428ce18d051fc0792b29028dd8d4e51be1e": [
     "contributor-guide\\custom-markdown-extensions.md"
   ],
-  "9f9c9e1b899cf50afec5abf8c24372b41e3c9b8d": [
-    "contributor-guide\\media\\notes-note.png"
-  ],
-  "49ea1ff5469cc6d06b8a04d813d2af4238d66e89": [
-    "contributor-guide\\media\\notes-warning.png"
-  ],
-  "caf83ac0135931364a2973d59520b8ed0145c9f0": [
-    "contributor-guide\\media\\notes-tip.png"
-  ],
-  "7292c31d8b011f392c81e2a4d49573aff94094df": [
-    "contributor-guide\\media\\notes-important.png"
-  ],
-  "a19d1f0c651f1fd944af8c89b1bef5cdde57ba79": [
-    "contributor-guide\\media\\selectors.png"
-  ],
-  "450c0f68e3f8473716099a76e2bea13452f5323f": [
-    "contributor-guide\\media\\selector-list.png"
-  ],
   "a2acee00c6aca19d00659702a5ef05485af4449b": [
     "contributor-guide\\file-names-and-locations.md"
   ],
@@ -58,12 +34,6 @@
   ],
   "24edd27bbe1280c3401eaa78e6ed88d1758d82f2": [
     "contributor-guide\\tools-and-setup.md"
-  ],
-  "b9d4b138efb81efaaaf82fc99a255f23f2ef0ab6": [
-    "contributor-guide\\media\\githubprofile.png"
-  ],
-  "2b30bbf5da82de5798871e5ac645873872bb15ea": [
-    "contributor-guide\\media\\gitbashinstall.png"
   ],
   "66931315b777c7f7659088ca00eea24db16b8e4f": [
     "contributor-guide\\work-with-git.md"
@@ -115,9 +85,6 @@
   ],
   "80f16e5851e574014594e4d93ba194beb2cc9653": [
     "EMDocs\\Solutions\\Sample.md"
-  ],
-  "84421bf7f4ba657e685239fb27f4798a46485f71": [
-    "EMDocs\\Solutions\\media\\150x150.png"
   ],
   "130d6e4e8ba30c47e2e4df29e9527e48cd38fb6d": [
     "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
@@ -273,80 +240,14 @@
   "7d3125258de1ca06229ef352cb657444a8610e92": [
     "EMDocs\\Token\\wseblue_experience.md"
   ],
-  "d49a3ab9c35d4a862ea8c8d828eb983a2aec0197": [
-    "README.md"
-  ],
-  "c05a5e387d25cf958db9c4c8943823b4813cf4d0": [
-    "README.md"
-  ],
   "c8e83fb351623e5efe4cc27e3319b6bb80847536": [
     "contributor-guide\\rename-or-retire-an-article.md"
-  ],
-  "e123b9d4bbd388b802592c5e989d9d7c0a37cba1": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_01.png"
-  ],
-  "7b73c083206500b7d32acb4e06bf0c44088b670b": [
-    "EMDocs\\Solutions\\media\\BYOD_Figure6.png"
   ],
   "88ebdc0082c1aa3e06394313e970d15db4cc3cea": [
     "EMDocs\\Solutions\\byod-summary-and-additional-resources.md"
   ],
-  "75f14a341be8bb330b417b6151f6151de8b0c563": [
-    "EMDocs\\Solutions\\media\\BYOD_Figure5.png"
-  ],
-  "604041a7552fae3e707a1987c65dbd5ee845e069": [
-    "EMDocs\\Solutions\\media\\BYOD_Figure3.png"
-  ],
-  "aabe382609d02cede8900395d3aefa7398234f23": [
-    "EMDocs\\Solutions\\media\\BYOD_Figure1.png"
-  ],
-  "b2cef36ab9cd1484bafcb96595605fcc83ee960d": [
-    "EMDocs\\Solutions\\media\\BYOD_Figure4.png"
-  ],
-  "ae128e3fb940d06d4e7f1b88fde3490c3367cb9a": [
-    "EMDocs\\Solutions\\media\\BYOD_Figure2.png"
-  ],
   "7f0eed2025625147d0e6c9f236ce2a74fb813d08": [
     "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
-  ],
-  "1de96d7238974caec298c6a3a88377762aef55b2": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Native-Email-Apps.png"
-  ],
-  "02351507eea49372935426f27f2275fcecaa8a18": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Access-Control-Flow-For-Outlook-App.png"
-  ],
-  "768b0e9f05d991171b1255ba410cd4911d0db663": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\CADataSheet-Diagram-Apps.png"
-  ],
-  "fd7f2b3da02bf77b660fbbae92368d2faf42b772": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Enterprise-Mobility-Suite.png"
-  ],
-  "5d23feda97afbd203a4d57d0f958baca68438c2c": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Protecting_your_data.png"
-  ],
-  "4acb3dc7c3580e7bf319b367387423449d38c4f8": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Exchange-Online-CA-architecture.png"
-  ],
-  "a9398cffc2653d5a4251a95aa42647f8a197e4d4": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-on-prem-CA-architecture.png"
-  ],
-  "00f6c80457b1d64bb088936747ac26ec93f83c5a": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Eas-DiscLog-Sample.png"
-  ],
-  "31469f3df0b9951cb42496e8adf072ea60748c11": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-ExchSrvr-Wizard6.png"
-  ],
-  "2508565ee350f44535945187882b18356955bb59": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Run-FullSync.png"
-  ],
-  "1d2a8737299ec8316484218a22931eca82a39d0c": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Onprem-Verify-Devices-State.png"
-  ],
-  "d3c779deba937feff2e602fa78cfc3cf2c2d1151": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-CA.png"
-  ],
-  "3c17bb0e80792952c86ce97f9b623cd85518001f": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\Hybrid-Reports-Deployment-Status.png"
   ],
   "c54180e154caed5b58159dec22651c73b4a944f6": [
     "EMDocs\\Solutions\\mdm-determine-network-requirements.md"
@@ -356,99 +257,6 @@
   ],
   "de06585840b60ed19bfdfadb5544b6d7d6776691": [
     "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
-  ],
-  "83827620f471ee512b8b4056b3c06deb5aba666d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-activate-DeviceAdmin.PNG"
-  ],
-  "7228339d2ad00502eb81544405759794c5c120e2": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-all-Successful2.PNG"
-  ],
-  "4141c810edbf342add7c73227f29dd3b4d802673": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-company-Access-Setup.PNG"
-  ],
-  "9819b66c89c082253891382f399306e0292e4d22": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-compliance-Successful.PNG"
-  ],
-  "38178f98dd79cc09555ed4f193b91b5bc8cc412d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-device-Enroll.png"
-  ],
-  "13e8aa977383c8046f57db285aedd0b560f447da": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-enrolling-Device.png"
-  ],
-  "3b43530a1dd1ea5f9bec41982170745c077672ce": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-enroll-Success.png"
-  ],
-  "00fcb98bc7dc4362f1c54c413d06b80632981b98": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-outOfCompliance.png"
-  ],
-  "abd04f5c3b5d6b95206c3b9e2d78d4dce517fa6d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-Portal.png"
-  ],
-  "c2744ba367b9929d0eed8b0deae75d97a0aa470d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-quarantine-Email.png"
-  ],
-  "2a37a18a6270d1ef5b73a3d12a91d0b81216f423": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Android-resolve-Compliance-Issues.png"
-  ],
-  "b38a1674ba07c788118b742050e6311c55a6b005": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-check-Compliance.png"
-  ],
-  "ab02023366504ef8a9a710222065b975f1419a34": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-company-AccessSetup.png"
-  ],
-  "ac2e71ff4b84f7c86225477d9c83f873d51f4902": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-compliance-Check-Completed.png"
-  ],
-  "8ff856610479e9971341176175663d4703d70815": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-device-Compliance-Check.png"
-  ],
-  "e72506bd7fa4d1095dc8ef3a1c0a3770489218db": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-device-Enrollment.png"
-  ],
-  "107831d0600d893670276d0247ba90a489e966fe": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-fallOut-Compliance.png"
-  ],
-  "28626b232e24eaa39af284a023205a1423f6090d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-intune-Company-Portal.png"
-  ],
-  "5e5a32e2b77ebff3d0a230c3003fbb19597ed1d5": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows10-activating-Enrollment.png"
-  ],
-  "4438a2285d0a566feab7ea6c1b1515c09e7d9a6d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows11-COMPLETE.png"
-  ],
-  "e93433442f2c2087d786b65636feaae7d4393dd0": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows13-resolve-Compliance.png"
-  ],
-  "3e26018a2a69b87f1b9801d86d08c84533f25190": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows14-OutOfCompliance.png"
-  ],
-  "761e7a6954ed910c085e4020286f9fbfbde37493": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows1-company-Access-Setup.png"
-  ],
-  "a0b3c635172d44c77c9114a6b4c529a696e9379d": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows3-enroll-Device.png"
-  ],
-  "40eeeb0e98622055aaa13e8addd620625c2ebce9": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows4-workplaceJoin1.png"
-  ],
-  "377acb93e0b4aaf1b0d37521f733588d58ff64cf": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows5-workplaceJoin2.png"
-  ],
-  "347f36903c2ca384caf4182d4b366d38687f1103": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows6-checking-Enrollment.png"
-  ],
-  "46a481c3f43f7f323c540d837e62c6f888b35a9a": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows7-confirm-Device.png"
-  ],
-  "bd4a5190f12d1beecccfa2816565c4d3f884ae47": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows9-checking-Compliance.png"
-  ],
-  "bc448048fe6681f2bc484ca733199f8a8c55abb0": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-Windows-quarantineEmail.png"
-  ],
-  "859f140412773ac6c7c7f82a6b461d51b882f4b7": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_03.png"
   ],
   "8670e37bc847485053009db781cabac54e9bc922": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
@@ -492,44 +300,8 @@
   "8d2df20d71d83ccd38ef96c84600f234665ab27e": [
     "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
   ],
-  "b7f78c809a3e137d0acbefc0819ffce9de37fa29": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_08.png"
-  ],
-  "e361c053ec94b0bb1df7f369a838afb1f88e2b65": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_09.png"
-  ],
-  "bc6ea010f15c372098eef559a50343fcc71bc911": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_10.png"
-  ],
-  "3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_11.png"
-  ],
   "41adc6302c98576fadaa4e36b68b8d11fbba8054": [
     "EMDocs\\Solutions\\mdm-identify-saas-connectivity-requirements.md"
-  ],
-  "64b99a1c8af27bb4266d5ee89c5add679090a873": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_04.png"
-  ],
-  "4ed8bad92b41a367b716a3b3af0e808debf6ada1": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_05.png"
-  ],
-  "5bcabf7c79e2d0775758a3d5fa3922aa75bd3814": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_06.png"
-  ],
-  "3356d764209e01e636eba75f2174a22ca0e94ca6": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_07.png"
-  ],
-  "ef35bc0ea3385158b47172ac26453847ce4d4552": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_15.png"
-  ],
-  "495a0e184d5b0f7d60292dd23b38e57fdad93e87": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\conditional-access-8-1.png"
-  ],
-  "6dc6d327b445e37e8e0a9f52afd82c3342c3101a": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\conditional-access-8-2.png"
-  ],
-  "49427494881cb50b4baadf18311da0f9744f6c43": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\intune-sa-6blocked-devices.PNG"
   ],
   "1714d8042f5a4eb6e72c45cf4db12ab24404992c": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
@@ -545,12 +317,6 @@
   ],
   "27bb02a1273fc0bef733d5478faaa810f049a803": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
-  ],
-  "229fc686019615d0fff176eeceb7db8530e0caf8": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_12.png"
-  ],
-  "6d9d1a6c55c5d580c83fda80193ee1362c6e462c": [
-    "EMDocs\\Solutions\\media\\MDM_Figure_13.png"
   ],
   "452adba9b639747c7477c814c1441d463e5515ec": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
@@ -608,9 +374,6 @@
   ],
   "ac89d74b3d1c3e49dc9fbab3d236e985fb9a73c1": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
-  ],
-  "6a11a1e2706c4efd32f958d4f096e0a91bd163e1": [
-    "EMDocs\\Solutions\\media\\Intune_without_enrollment.png"
   ],
   "a6a4a73495776c85a5288791a835d065460a928e": [
     "EMDocs\\Solutions\\byod-app-reqs.md"
@@ -692,6 +455,9 @@
   ],
   "13268ae6b76a2e816e50143beb43afc9cc8c634e": [
     "EMDocs\\Solutions\\byod-user-and-device-considerations.md"
+  ],
+  "4cee1f7e793902a3e8ae7a9db623bf4729cdda2a": [
+    "EMDocs\\Solutions\\byod-user-device-reqs.md"
   ],
   "6a03d06bba050ded6d5fe95b4a6472561708ac0c": [
     "EMDocs\\Solutions\\byod-user-device-reqs.md"
@@ -986,32 +752,5 @@
   ],
   "7e105533512082d0de48a15485d1286acc6ab5f4": [
     "EMDocs\\index.md"
-  ],
-  "04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc": [
-    "EMDocs\\Solutions\\media\\ProtectEmail\\EUX-iOS-Get-Started.PNG"
-  ],
-  "f85ebf65dea2a2e9a365a9a8890e4ca32aef2426": [
-    "EMDocs\\Solutions\\media\\ft-1-onboarding-process.png"
-  ],
-  "fef1b4406ff5870b97ac1c1b570c9ecebed54b88": [
-    "EMDocs\\Solutions\\media\\ft-2-onboarding-phases.png"
-  ],
-  "0cf08580770cad9276d9becb0212343f948e3079": [
-    "EMDocs\\Solutions\\media\\ft-3-initiate-phase.png"
-  ],
-  "0922facbfff7a8b0d6722cdb0dc59afbdb7eaa92": [
-    "EMDocs\\Solutions\\media\\ft-4-assess-phase.png"
-  ],
-  "fcf307e0f15a30a0874c69103fc98b1f6a5fabe5": [
-    "EMDocs\\Solutions\\media\\ft-5-remediate-phase.png"
-  ],
-  "0f3fe832a2802803df8da58c06efa501a39268ee": [
-    "EMDocs\\Solutions\\media\\ft-6-enable-phase-core.png"
-  ],
-  "774cc4f154abe8f1c2493f98c12e7e5419c581b3": [
-    "EMDocs\\Solutions\\media\\ft-7-enable-phase-aadp.png"
-  ],
-  "e83db56954e7f3b8e434c2172eab19beb57b4b98": [
-    "EMDocs\\Solutions\\media\\ft-8-enable-phase-intune.png"
   ]
 }

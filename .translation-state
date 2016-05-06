@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "7c8106efdf821804c6638c48f4d324ce805d67f6",
+  "LastProcessedCommit": "8ad2e1d46fc528cf29b261cecc5d79f06d33a557",
   "LastTranslatedCommit": "27874c161cc2a0519c4ad1aea416ceb5ea94a7a1",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -26597,6 +26597,35 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf",
       "HandoffFileCommit": "ec9cc970b6cb3e5290f6be836335901a7cf7aea8",
       "HandoffDateTime": "2016-05-04T22:27:36.097927Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "4cee1f7e793902a3e8ae7a9db623bf4729cdda2a": {
+      "FileHash": "4cee1f7e793902a3e8ae7a9db623bf4729cdda2a",
+      "SourceFileCommit": "9883ee8aebde8ab93d4351b9ed72080a227c8f46",
+      "SourceFilePath": "EMDocs\\Solutions\\byod-user-device-reqs.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\byod-user-device-reqs.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf",
+      "HandoffFileCommit": "806080662767773297429dc1b72a634cbcd3a4dc",
+      "HandoffDateTime": "2016-05-06T20:27:06.9855533Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
