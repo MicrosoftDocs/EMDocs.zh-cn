@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/9883ee8aebde8ab93d4351b9ed72080a227c8f46/EMDocs/Solutions/byod-user-device-reqs.md) | OutofSyncHandedBackSuccess | [Details](#4cee1f7e793902a3e8ae7a9db623bf4729cdda2a73)
 
 ## Item Details
-##### <a name='4cee1f7e793902a3e8ae7a9db623bf4729cdda2a73'></a> Source: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/9883ee8aebde8ab93d4351b9ed72080a227c8f46/EMDocs/Solutions/byod-user-device-reqs.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/806080662767773297429dc1b72a634cbcd3a4dc/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf)
-* Handoff Datetime: 2016-05-06 20:27:06
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-user-device-reqs.md)
-* Current Handback File: [byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/79980b8833ca7ba10e2dffd94d6fa53577d9c59a/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-29 16:14:50
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
