@@ -1,98 +1,98 @@
-- name：企业移动性
+- name: 企业移动性
   href: /em/
-  homepage：/em
-  items：
-  - name：解决方案
+  homepage: /em
+  items:
+  - name: 解决方案
     href: /em/solutions/
-    homepage：/em/solutions/byod-design-considerations-guide
-  - name：Azure RemoteApp
+    homepage: /em/solutions/byod-design-considerations-guide
+  - name: Azure RemoteApp
     href: /remoteapp/
-    homepage：/remoteapp
-  - name：Azure Active Directory
+    homepage: /remoteapp
+  - name: Azure Active Directory
     href: /active-directory/
-    homepage：/active-directory
-  - name：Multi-factor Authentication
+    homepage: /active-directory
+  - name: Multi-factor Authentication
     href: /multi-factor-authentication/
-    homepage：/multi-factor-authentication
-  - name：高级威胁分析
+    homepage: /multi-factor-authentication
+  - name: 高级威胁分析
     href: /advanced-threat-analytics/
-    homepage：/ata
-    items：
-      - name：了解和探索
+    homepage: /ata
+    items:
+      - name: 了解和探索
         href: /advanced-threat-analytics/understand/
-        homepage：/advanced-threat-analytics/understand/ata-understand-and-explore
-      - name：规划和设计 
+        homepage: /advanced-threat-analytics/understand/ata-understand-and-explore
+      - name: 规划和设计 
         href: /advanced-threat-analytics/plandesign/
-        homepage：/advanced-threat-analytics/plandesign/ata-plan-and-design
-      - name：部署和使用
+        homepage: /advanced-threat-analytics/plandesign/ata-plan-and-design
+      - name: 部署和使用
         href: /advanced-threat-analytics/deployuse/
-        homepage：/advanced-threat-analytics/deployuse/ata-deploy-and-use
-      - name：故障排除
+        homepage: /advanced-threat-analytics/deployuse/ata-deploy-and-use
+      - name: 故障排除
         href: /advanced-threat-analytics/troubleshoot/
-        homepage：/advanced-threat-analytics/troubleshoot/ata-troubleshooting
-  - name：Intune
+        homepage: /advanced-threat-analytics/troubleshoot/ata-troubleshooting
+  - name: Intune
     href: /intune/
-    homepage：/intune
-    items：
-      - name：了解和探索
+    homepage: /intune
+    items:
+      - name: 了解和探索
         href: /intune/understand/
-        homepage：/intune/understand/ways-to-do-enterprise-mobility
-      - name：规划和设计 
+        homepage: /intune/understand/ways-to-do-enterprise-mobility
+      - name: 规划和设计 
         href: /intune/plandesign/
-        homepage：/intune/plandesign/plan-you-user-and-device-groups
-      - name：部署和使用
+        homepage: /intune/plandesign/plan-you-user-and-device-groups
+      - name: 部署和使用
         href: /intune/deployuse/
-        homepage：/intune/deployuse/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents
-      - name：故障排除
+        homepage: /intune/deployuse/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents
+      - name: 故障排除
         href: /intune/troubleshoot/
-        homepage：/intune/troubleshoot/troubleshoot-microsoft-intune
-      - name：入门
+        homepage: /intune/troubleshoot/troubleshoot-microsoft-intune
+      - name: 入门
         href: /intune/getstarted/
-        homepage：/intune/getstarted/what-s-new-in-microsoft-intune
-  - name：Azure 权限管理
+        homepage: /intune/getstarted/what-s-new-in-microsoft-intune
+  - name: Azure 权限管理
     href: /rights-management/
-    homepage：/rights-management
-    items：
-      - name：了解和探索
+    homepage: /rights-management
+    items:
+      - name: 了解和探索
         href: /rights-management/understand-explore/
-        homepage：/rights-management/understand-explore/what-is-azure-rights-management
-      - name：入门
+        homepage: /rights-management/understand-explore/what-is-azure-rights-management
+      - name: 入门
         href: /rights-management/get-started/
-        homepage：/rights-management/get-started/requirements-for-azure-rights-management
-      - name：规划和设计 
+        homepage: /rights-management/get-started/requirements-for-azure-rights-management
+      - name: 规划和设计 
         href: /rights-management/plan-design/
-        homepage：/rights-management/plan-design/azure-rights-management-deployment-roadmap
-      - name：部署和使用
+        homepage: /rights-management/plan-design/azure-rights-management-deployment-roadmap
+      - name: 部署和使用
         href: /rights-management/deploy-use/
-        homepage：/rights-management/deploy-use/activating-azure-rights-management
-      - name：开发和自定义应用
+        homepage: /rights-management/deploy-use/activating-azure-rights-management
+      - name: 开发和自定义应用
         href: /rights-management/develop/
-        homepage：/rights-management/develop/developers-guide
-      - name：管理
+        homepage: /rights-management/develop/developers-guide
+      - name: 管理
         href: /rights-management/administer/
-        homepage：/rights-management/administer/administering-azure-rights-management-with-powershell
-      - name：RMS 客户端
+        homepage: /rights-management/administer/administering-azure-rights-management-with-powershell
+      - name: RMS 客户端
         href: /rights-management/rms-client/
-        homepage：/rights-management/rms-client/rights-management-rms-client
-  - name：Microsoft 标识管理器
+        homepage: /rights-management/rms-client/rights-management-rms-client
+  - name: Microsoft 标识管理器
     href: /microsoft-identity-manager/
-    homepage：/microsoft-identity-manager
-    items：
-      - name：了解和探索
+    homepage: /microsoft-identity-manager
+    items:
+      - name: 了解和探索
         href: /microsoft-identity-manager/understand/
-        homepage：/microsoft-identity-manager/understand/journey-understand-evaluate
-      - name：规划和设计 
+        homepage: /microsoft-identity-manager/understand/journey-understand-evaluate
+      - name: 规划和设计 
         href: /microsoft-identity-manager/plandesign/
-        homepage：/microsoft-identity-manager/plandesign/journey-plan-design
-      - name：部署和使用
+        homepage: /microsoft-identity-manager/plandesign/journey-plan-design
+      - name: 部署和使用
         href: /microsoft-identity-manager/deployuse/
-        homepage：/microsoft-identity-manager/deployuse/journey-deploy-use-html
-      - name：参考
+        homepage: /microsoft-identity-manager/deployuse/journey-deploy-use-html
+      - name: 参考
         href: /microsoft-identity-manager/reference/
-        homepage：/microsoft-identity-manager/reference/journey-develop-applications
-      - name：入门
+        homepage: /microsoft-identity-manager/reference/journey-develop-applications
+      - name: 入门
         href: /microsoft-identity-manager/getstarted/
-        homepage：/microsoft-identity-manager/getstarted/journey-get-started
-  - name：参考
+        homepage: /microsoft-identity-manager/getstarted/journey-get-started
+  - name: 参考
     href: /active-directory/adal/
-    homepage：/active-directory/adal/microsoft.identitymodel.clients.activedirectory
+    homepage: /active-directory/adal/microsoft.identitymodel.clients.activedirectory
