@@ -4616,9 +4616,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/toc.yml)
-* Current Handback File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/79980b8833ca7ba10e2dffd94d6fa53577d9c59a/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-29 16:14:50
+* Current Target File: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/c27ae6d27aa61903e955c087d99fe5b0f1db5f47/EMDocs/toc.yml)
+* Current Handback File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/d2c016e928583a1591cc3c08ed4913653cb88700/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
+* Current Handback Datetime: 2016-05-18 08:46:38
 * [Back to Top](#report-top)
 
 ##### <a name='55514466f7f2092dbc8cf35057d4978ca9247ae6332'></a> Source: [EMDocs\Token\Active-Directory.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Active-Directory.md)
