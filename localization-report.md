@@ -1163,8 +1163,8 @@
 * Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/4bfb42e37bbaee4eb7e496f5db356535b26774e1/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
 * Handoff Datetime: 2016-05-19 00:39:36
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/index.md)
@@ -1190,8 +1190,8 @@
 * Handoff File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
@@ -1217,8 +1217,8 @@
 * Handoff File: [byod-app-reqs.b9000aee0e8857b584c534c29dd915e6442438d1.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/b33eb73737474f5f997772705c518d59bff5c6c0/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-app-reqs.b9000aee0e8857b584c534c29dd915e6442438d1.zh-cn.xlf)
 * Handoff Datetime: 2016-04-21 22:50:30
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-app-reqs.b9000aee0e8857b584c534c29dd915e6442438d1.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-app-reqs.b9000aee0e8857b584c534c29dd915e6442438d1.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-app-reqs.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-app-reqs.md)
@@ -1232,8 +1232,8 @@
 * Handoff File: [byod-data-access-and-protection-considerations.9823ea903a3e070a7234c6e0ef09aaa3875ae76a.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-data-access-and-protection-considerations.9823ea903a3e070a7234c6e0ef09aaa3875ae76a.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-data-access-and-protection-considerations.9823ea903a3e070a7234c6e0ef09aaa3875ae76a.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-data-access-and-protection-considerations.9823ea903a3e070a7234c6e0ef09aaa3875ae76a.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-data-access-and-protection-considerations.md)
@@ -1247,8 +1247,8 @@
 * Handoff File: [byod-data-access-protection-reqs.1db689a653714db8161990f6fcc1b5f4338de4bb.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/85e813a2a5fa59726f586a0a9fd028e8576e611d/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-data-access-protection-reqs.1db689a653714db8161990f6fcc1b5f4338de4bb.zh-cn.xlf)
 * Handoff Datetime: 2016-04-21 20:54:14
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-data-access-protection-reqs.1db689a653714db8161990f6fcc1b5f4338de4bb.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-data-access-protection-reqs.1db689a653714db8161990f6fcc1b5f4338de4bb.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-data-access-protection-reqs.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-data-access-protection-reqs.md)
@@ -1262,8 +1262,8 @@
 * Handoff File: [byod-design-considerations.07afe9d29e034eb4a4e3dcbe803a14afbe3f73d7.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/18441d18a09f70dec23a0c688e1c7a35cc02f423/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-design-considerations.07afe9d29e034eb4a4e3dcbe803a14afbe3f73d7.zh-cn.xlf)
 * Handoff Datetime: 2016-04-22 16:50:48
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-design-considerations.07afe9d29e034eb4a4e3dcbe803a14afbe3f73d7.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-design-considerations.07afe9d29e034eb4a4e3dcbe803a14afbe3f73d7.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-design-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-design-considerations.md)
@@ -1277,8 +1277,8 @@
 * Handoff File: [byod-design-considerations-guide.541d5e5bcea0d863185d9ca711288c7fe35eb32d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-design-considerations-guide.541d5e5bcea0d863185d9ca711288c7fe35eb32d.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-design-considerations-guide.541d5e5bcea0d863185d9ca711288c7fe35eb32d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-design-considerations-guide.541d5e5bcea0d863185d9ca711288c7fe35eb32d.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-design-considerations-guide.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-design-considerations-guide.md)
@@ -1292,8 +1292,8 @@
 * Handoff File: [byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-envisioning-the-byod-infrastructure-solution.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-envisioning-the-byod-infrastructure-solution.md)
@@ -1307,8 +1307,8 @@
 * Handoff File: [byod-management-considerations.0b86292377b4ae88afb7b88d44ced951a9eee9c2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/18441d18a09f70dec23a0c688e1c7a35cc02f423/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-management-considerations.0b86292377b4ae88afb7b88d44ced951a9eee9c2.zh-cn.xlf)
 * Handoff Datetime: 2016-04-22 16:50:48
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-management-considerations.0b86292377b4ae88afb7b88d44ced951a9eee9c2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-management-considerations.0b86292377b4ae88afb7b88d44ced951a9eee9c2.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-management-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-management-considerations.md)
@@ -1322,8 +1322,8 @@
 * Handoff File: [byod-management-reqs.8c99e701fdafa6c0344eb62e36237558dfe4e875.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-management-reqs.8c99e701fdafa6c0344eb62e36237558dfe4e875.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-management-reqs.8c99e701fdafa6c0344eb62e36237558dfe4e875.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-management-reqs.8c99e701fdafa6c0344eb62e36237558dfe4e875.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-management-reqs.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-management-reqs.md)
@@ -1349,8 +1349,8 @@
 * Handoff File: [byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 22:54:56
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-user-and-device-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-user-and-device-considerations.md)
@@ -1364,8 +1364,8 @@
 * Handoff File: [byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/806080662767773297429dc1b72a634cbcd3a4dc/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf)
 * Handoff Datetime: 2016-05-06 20:27:06
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-user-device-reqs.2adb886173f56743f2a0c1bb61e465397e9d9851.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/byod-user-device-reqs.md)
@@ -1379,8 +1379,8 @@
 * Handoff File: [conditional-access-intune.c339485628a2e3c42b06b61f1803663dfcc6ad14.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/627281b32059d0fde1544ddd448ea558fd8a0ce6/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune.c339485628a2e3c42b06b61f1803663dfcc6ad14.zh-cn.xlf)
 * Handoff Datetime: 2016-04-26 17:49:57
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune.c339485628a2e3c42b06b61f1803663dfcc6ad14.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune.c339485628a2e3c42b06b61f1803663dfcc6ad14.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune.md)
@@ -1394,8 +1394,8 @@
 * Handoff File: [conditional-access-intune-configmgr.66864f6deb09f91dd30ed7ed779303d53c9935ff.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/627281b32059d0fde1544ddd448ea558fd8a0ce6/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr.66864f6deb09f91dd30ed7ed779303d53c9935ff.zh-cn.xlf)
 * Handoff Datetime: 2016-04-26 17:49:57
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune-configmgr.66864f6deb09f91dd30ed7ed779303d53c9935ff.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-configmgr.66864f6deb09f91dd30ed7ed779303d53c9935ff.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune-configmgr.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune-configmgr.md)
@@ -1409,8 +1409,8 @@
 * Handoff File: [conditional-access-intune-configmgr-coexist.c14a1cb5d27308437cb869cb2a2c75962829aab4.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-coexist.c14a1cb5d27308437cb869cb2a2c75962829aab4.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune-configmgr-coexist.c14a1cb5d27308437cb869cb2a2c75962829aab4.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-configmgr-coexist.c14a1cb5d27308437cb869cb2a2c75962829aab4.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-coexist.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune-configmgr-coexist.md)
@@ -1424,8 +1424,8 @@
 * Handoff File: [conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/627281b32059d0fde1544ddd448ea558fd8a0ce6/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf)
 * Handoff Datetime: 2016-04-26 17:49:57
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune-configmgr-exchange.md)
@@ -1439,8 +1439,8 @@
 * Handoff File: [conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune-configmgr-exchange-online.md)
@@ -1454,8 +1454,8 @@
 * Handoff File: [conditional-access-intune-exchange.245c72088b5eacaa51099f7c853f12941e410350.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/627281b32059d0fde1544ddd448ea558fd8a0ce6/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange.245c72088b5eacaa51099f7c853f12941e410350.zh-cn.xlf)
 * Handoff Datetime: 2016-04-26 17:49:57
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune-exchange.245c72088b5eacaa51099f7c853f12941e410350.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-exchange.245c72088b5eacaa51099f7c853f12941e410350.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune-exchange.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune-exchange.md)
@@ -1469,8 +1469,8 @@
 * Handoff File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/627281b32059d0fde1544ddd448ea558fd8a0ce6/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
 * Handoff Datetime: 2016-04-26 17:49:57
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/conditional-access-intune-exchange-online.md)
@@ -1496,8 +1496,8 @@
 * Handoff File: [end-user-experience-conditional-access.4a68033662f5a0b862f762cdf275910eeb857a94.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/end-user-experience-conditional-access.4a68033662f5a0b862f762cdf275910eeb857a94.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [end-user-experience-conditional-access.4a68033662f5a0b862f762cdf275910eeb857a94.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/end-user-experience-conditional-access.4a68033662f5a0b862f762cdf275910eeb857a94.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\end-user-experience-conditional-access.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/end-user-experience-conditional-access.md)
@@ -1511,8 +1511,8 @@
 * Handoff File: [end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\end-user-experience-conditional-access-android.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/end-user-experience-conditional-access-android.md)
@@ -1526,8 +1526,8 @@
 * Handoff File: [end-user-experience-conditional-access-ios.1a35b3bc1d79141f39fb4c7ccc0686f48d56d2c6.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/end-user-experience-conditional-access-ios.1a35b3bc1d79141f39fb4c7ccc0686f48d56d2c6.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [end-user-experience-conditional-access-ios.1a35b3bc1d79141f39fb4c7ccc0686f48d56d2c6.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/end-user-experience-conditional-access-ios.1a35b3bc1d79141f39fb4c7ccc0686f48d56d2c6.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\end-user-experience-conditional-access-ios.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/end-user-experience-conditional-access-ios.md)
@@ -1541,8 +1541,8 @@
 * Handoff File: [end-user-experience-conditional-access-winphone.1a08db98003da80e09e00327f28d099398265b30.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/end-user-experience-conditional-access-winphone.1a08db98003da80e09e00327f28d099398265b30.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [end-user-experience-conditional-access-winphone.1a08db98003da80e09e00327f28d099398265b30.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/end-user-experience-conditional-access-winphone.1a08db98003da80e09e00327f28d099398265b30.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\end-user-experience-conditional-access-winphone.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/end-user-experience-conditional-access-winphone.md)
@@ -1556,8 +1556,8 @@
 * Handoff File: [enterprise-mobility-fasttrack-program.8fdf6ae6ebc6b7bfa3caf5d1c761a648ac221c49.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/enterprise-mobility-fasttrack-program.8fdf6ae6ebc6b7bfa3caf5d1c761a648ac221c49.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [enterprise-mobility-fasttrack-program.8fdf6ae6ebc6b7bfa3caf5d1c761a648ac221c49.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/enterprise-mobility-fasttrack-program.8fdf6ae6ebc6b7bfa3caf5d1c761a648ac221c49.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\enterprise-mobility-fasttrack-program.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/enterprise-mobility-fasttrack-program.md)
@@ -1571,8 +1571,8 @@
 * Handoff File: [fasttrack-center-benefit-for-enterprise-mobility-suite-ems.81b93a1d9b409b9c9854f09cc169f4a2aaca7ec8.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-for-enterprise-mobility-suite-ems.81b93a1d9b409b9c9854f09cc169f4a2aaca7ec8.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 22:54:56
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-for-enterprise-mobility-suite-ems.81b93a1d9b409b9c9854f09cc169f4a2aaca7ec8.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-for-enterprise-mobility-suite-ems.81b93a1d9b409b9c9854f09cc169f4a2aaca7ec8.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)
@@ -1586,8 +1586,8 @@
 * Handoff File: [fasttrack-center-benefit-process-for-ems-environment-expectations.f302b9f171eccebb1a199bdb66392027790ffabb.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-environment-expectations.f302b9f171eccebb1a199bdb66392027790ffabb.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 22:54:56
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-process-for-ems-environment-expectations.f302b9f171eccebb1a199bdb66392027790ffabb.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-environment-expectations.f302b9f171eccebb1a199bdb66392027790ffabb.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-environment-expectations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations.md)
@@ -1601,8 +1601,8 @@
 * Handoff File: [fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 22:54:56
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
@@ -1616,8 +1616,8 @@
 * Handoff File: [fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/ec9cc970b6cb3e5290f6be836335901a7cf7aea8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf)
 * Handoff Datetime: 2016-05-04 22:27:36
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-overview.e956d51b6fcce58eb53dace8c29c2bafa286d254.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-overview.md)
@@ -1631,8 +1631,8 @@
 * Handoff File: [fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/fbfe9ed3506bed7159f3d609a26169e7ddd1921c/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf)
 * Handoff Datetime: 2016-04-29 17:49:07
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-phases.md)
@@ -1646,8 +1646,8 @@
 * Handoff File: [fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 22:54:56
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-your-responsibilities.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
@@ -1661,8 +1661,8 @@
 * Handoff File: [fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.d38cb185a0d9f2f3fc5e75af3eaee5c385a63d14.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.d38cb185a0d9f2f3fc5e75af3eaee5c385a63d14.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 22:54:56
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.d38cb185a0d9f2f3fc5e75af3eaee5c385a63d14.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.d38cb185a0d9f2f3fc5e75af3eaee5c385a63d14.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
@@ -1676,8 +1676,8 @@
 * Handoff File: [implement-solution.ccf953cb02b058e8986bce34bb5fe583afd16eb5.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/implement-solution.ccf953cb02b058e8986bce34bb5fe583afd16eb5.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [implement-solution.ccf953cb02b058e8986bce34bb5fe583afd16eb5.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/implement-solution.ccf953cb02b058e8986bce34bb5fe583afd16eb5.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\implement-solution.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/implement-solution.md)
@@ -1691,8 +1691,8 @@
 * Handoff File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/27874c161cc2a0519c4ad1aea416ceb5ea94a7a1/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
@@ -4555,8 +4555,8 @@
 * Handoff File: [protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\protect-corporate-email-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/protect-corporate-email-documents.md)
@@ -4570,8 +4570,8 @@
 * Handoff File: [protect-email-attachments.7c12c124ed16c23b2319105d98c02bf87bea025f.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/protect-email-attachments.7c12c124ed16c23b2319105d98c02bf87bea025f.zh-cn.xlf)
 * Handoff Datetime: 2016-04-25 22:34:03
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [protect-email-attachments.7c12c124ed16c23b2319105d98c02bf87bea025f.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/protect-email-attachments.7c12c124ed16c23b2319105d98c02bf87bea025f.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\protect-email-attachments.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/protect-email-attachments.md)
@@ -4597,8 +4597,8 @@
 * Handoff File: [TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a22880c18798d31c4188fe7928e582cb18787fe5/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf)
 * Handoff Datetime: 2016-04-27 19:21:35
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\Solutions\TOC.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/TOC.md)
@@ -4612,8 +4612,8 @@
 * Handoff File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/9c2118c179675c19166e842e327e24c435b86cd2/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
 * Handoff Datetime: 2016-05-11 04:01:42
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/403db5d6fb65372ea7bb372313d9c7a99dc370fb/EMDocs/toc.yml)
