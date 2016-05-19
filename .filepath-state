@@ -1,43 +1,4 @@
 {
-  "bd870713d29cfef3d07c2650bd0ba668fe94a52e": [
-    "contributor-guide\\article-metadata.md"
-  ],
-  "b0dd2af4ed22c05279afeafea1c4e780d74a5e6f": [
-    "contributor-guide\\article-metadata.md"
-  ],
-  "9262fb48cd07ecb0430327526ff08f9162d4c767": [
-    "contributor-guide\\authoring-in-markdown.md"
-  ],
-  "ba1e846d4ce3029f3315fbbc381bf45544e01060": [
-    "contributor-guide\\content-channel-guidance.md"
-  ],
-  "2c1a7d32b942dac40fa0f4f5e042bdbf593c23e0": [
-    "contributor-guide\\content-channel-guidance.md"
-  ],
-  "da1cee35a09823cf69521242a7004897517492b4": [
-    "contributor-guide\\contributor-guide-index.md"
-  ],
-  "39cc82882215595514e978c62d87eb8e3337aed8": [
-    "contributor-guide\\create-tables-markdown.md"
-  ],
-  "c274ae4daf071245387599772945067b03dd9d82": [
-    "contributor-guide\\custom-markdown-extensions.md"
-  ],
-  "2a402428ce18d051fc0792b29028dd8d4e51be1e": [
-    "contributor-guide\\custom-markdown-extensions.md"
-  ],
-  "a2acee00c6aca19d00659702a5ef05485af4449b": [
-    "contributor-guide\\file-names-and-locations.md"
-  ],
-  "887b1294b2e63998084a5598858aad0c4469cd6d": [
-    "contributor-guide\\style-and-voice.md"
-  ],
-  "24edd27bbe1280c3401eaa78e6ed88d1758d82f2": [
-    "contributor-guide\\tools-and-setup.md"
-  ],
-  "66931315b777c7f7659088ca00eea24db16b8e4f": [
-    "contributor-guide\\work-with-git.md"
-  ],
   "def5daadf6869d5af0f3b6025eec48a04d152796": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
   ],
@@ -239,9 +200,6 @@
   ],
   "7d3125258de1ca06229ef352cb657444a8610e92": [
     "EMDocs\\Token\\wseblue_experience.md"
-  ],
-  "c8e83fb351623e5efe4cc27e3319b6bb80847536": [
-    "contributor-guide\\rename-or-retire-an-article.md"
   ],
   "88ebdc0082c1aa3e06394313e970d15db4cc3cea": [
     "EMDocs\\Solutions\\byod-summary-and-additional-resources.md"
