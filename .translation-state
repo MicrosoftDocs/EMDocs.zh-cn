@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "5d8d54a2add776f4ea37a0628fba2c0abd7c72d2",
+  "LastProcessedCommit": "3a2ee31d952d694e7443f48bc53923734cebc5cf",
   "LastTranslatedCommit": "403db5d6fb65372ea7bb372313d9c7a99dc370fb",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -27605,6 +27605,36 @@
       "ArchiveFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\archive\\index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf",
       "ArchiveFileCommit": "a0d959354664e5cadae0b37bf54f27297124a3b8",
       "ArchiveFileDateTime": "2016-05-19T21:37:18.326724Z",
+      "ArchiveException": null
+    },
+    "56e17f01653a3fe71f52a03235fb7e7feadd73c0": {
+      "FileHash": "56e17f01653a3fe71f52a03235fb7e7feadd73c0",
+      "SourceFileCommit": "69e648b4f6513f73349f67eb9113f6ad04f83506",
+      "SourceFilePath": "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
+      ],
+      "HasMetadata": true,
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\mdm-step-2-plan-for-mobile-device-management.6cd0f32e125ad2c468f1ac81df399531df9f5a2d.zh-cn.xlf",
+      "HandoffFileCommit": "c6a50fef3d34fb14a894edb2cdac1dab6932ad13",
+      "HandoffDateTime": "2016-05-20T04:40:59.8917752Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null
     }
   }
