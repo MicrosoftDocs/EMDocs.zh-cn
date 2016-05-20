@@ -11,7 +11,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
+ms.assetid: edc744d8-97d9-42e0-8906-6f0dedd8d629
 
 # optional metadata
 
@@ -100,10 +100,10 @@ ms.suite: ems
 ## 后续步骤
 有关如何部署用于保护公司电子邮件内容和附件的解决方案的分步说明，请参阅下面的一个主题，具体视你的特定环境而定：
 
-- [结合使用条件访问和 Microsoft Intune](../Solutions/conditional-access-intune.md)
-- [结合使用条件访问、Microsoft Intune 和 Configuration Manager](../Solutions/conditional-access-intune-configmgr.md)
+- [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
+- [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 
