@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "7f1d552d80dcc35c97e313ed8badaf2d1c7244ed",
+  "LastProcessedCommit": "3eb88213aeeedf717b41e38a0c39ab44ac3af6c5",
   "LastTranslatedCommit": "dd47ec9ea2d3719fda2a67823dce2e9729a4c946",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -27651,6 +27651,36 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\mdm-step-2-plan-for-mobile-device-management.6cd0f32e125ad2c468f1ac81df399531df9f5a2d.zh-cn.xlf",
       "HandoffFileCommit": "af90636289bfbaa680a0d581f655d1d3dc79b7f7",
       "HandoffDateTime": "2016-05-20T17:10:35.7548248Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a85f0c8c0513c1cce7a4b817de0cdbbd9ff32cc1": {
+      "FileHash": "a85f0c8c0513c1cce7a4b817de0cdbbd9ff32cc1",
+      "SourceFileCommit": "901c43b6d4a96e1403b5ebd7c53720f39c231dd5",
+      "SourceFilePath": "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-phases.md"
+      ],
+      "HasMetadata": true,
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf",
+      "HandoffFileCommit": "15791a348c9c0e279ca4a32e1da17432b2f64857",
+      "HandoffDateTime": "2016-05-25T16:00:53.5214781Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
