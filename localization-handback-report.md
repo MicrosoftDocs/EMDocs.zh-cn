@@ -1,14 +1,53 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 4
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [EMDocs\Solutions\end-user-experience-conditional-access-android.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/end-user-experience-conditional-access-android.md) | InSyncHandedBackSuccess | [Details](#5efa0fd3567b3f91e0edcddae929bdb494f013da82)
+ [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md](https://github.com/Microsoft/EMDocs-pr/blob/f85208c13caab7eb91e9db5e7baafb37cdd5244c/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md) | InSyncHandedBackSuccess | [Details](#5728ed625981ba5c4c72757210fcc01fb4f7075189)
+ [EMDocs\Solutions\protect-corporate-email-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/protect-corporate-email-documents.md) | InSyncHandedBackSuccess | [Details](#5911fc980156316c3b2466dae78d72801bf08934326)
  [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/2ea1a393022d1442cfe9d63728c2b363e804bc93/EMDocs/toc.yml) | HandedBackFailed | [Details](#d3e04fd275bfe844763a5e9097deb359062aa971330)
 
 ## Item Details
+##### <a name='5efa0fd3567b3f91e0edcddae929bdb494f013da82'></a> Source: [EMDocs\Solutions\end-user-experience-conditional-access-android.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/end-user-experience-conditional-access-android.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [EMDocs\Solutions\end-user-experience-conditional-access-android.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/7194d34cc02ce23609f26058a4ca716e099cb8b1/EMDocs/Solutions/end-user-experience-conditional-access-android.md)
+* Handoff File: [end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf)
+* Handoff Datetime: 2016-04-25 22:34:03
+* Handoff Reason: Include
+* Archive File: [end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
+* Handback File: [end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/d6651121aa7e7c9824aed0001fd822bdf6ec5cbb/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/end-user-experience-conditional-access-android.845fa27966cd14a9a4d7b9665112684b0fc7f2ac.zh-cn.xlf)
+* Handback Datetime: 2016-05-26 12:47:41
+* [Back to Top](#report-top)
+
+##### <a name='5728ed625981ba5c4c72757210fcc01fb4f7075189'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md](https://github.com/Microsoft/EMDocs-pr/blob/f85208c13caab7eb91e9db5e7baafb37cdd5244c/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/7194d34cc02ce23609f26058a4ca716e099cb8b1/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
+* Handoff File: [fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/44f8e54de5f5530264a319d3f54380a79d0d6a83/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf)
+* Handoff Datetime: 2016-04-27 22:54:56
+* Handoff Reason: Include
+* Archive File: [fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
+* Handback File: [fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/d6651121aa7e7c9824aed0001fd822bdf6ec5cbb/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.6090efa36a485414676b1fb6da1ddf93f37c5910.zh-cn.xlf)
+* Handback Datetime: 2016-05-26 12:47:41
+* [Back to Top](#report-top)
+
+##### <a name='5911fc980156316c3b2466dae78d72801bf08934326'></a> Source: [EMDocs\Solutions\protect-corporate-email-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/protect-corporate-email-documents.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [EMDocs\Solutions\protect-corporate-email-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/7194d34cc02ce23609f26058a4ca716e099cb8b1/EMDocs/Solutions/protect-corporate-email-documents.md)
+* Handoff File: [protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/dab0c8925388b6f4416a93ea0bd642725f55e3f8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf)
+* Handoff Datetime: 2016-04-25 22:34:03
+* Handoff Reason: Include
+* Archive File: [protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a0d959354664e5cadae0b37bf54f27297124a3b8/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf)
+* Archive Datetime: 2016-05-19 21:37:18
+* Handback File: [protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/d6651121aa7e7c9824aed0001fd822bdf6ec5cbb/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/protect-corporate-email-documents.7df859550118d68b674b8fc43b88af0acf77b9ec.zh-cn.xlf)
+* Handback Datetime: 2016-05-26 12:47:41
+* [Back to Top](#report-top)
+
 ##### <a name='d3e04fd275bfe844763a5e9097deb359062aa971330'></a> Source: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/2ea1a393022d1442cfe9d63728c2b363e804bc93/EMDocs/toc.yml)
 * Status: HandedBackFailed
 * Target File: 
