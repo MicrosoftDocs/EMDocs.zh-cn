@@ -26,7 +26,7 @@ ms.suite: ems
 ---
 
 # 将 Microsoft Intune 和 Configuration Manager 与 Exchange Online 结合部署
-你已通读[保护公司电子邮件和文档的体系结构指南](../Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)，现在可以继续部署解决方案了。
+你已通读了[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents.md)，现在可以继续部署解决方案。
 
 如果你已使用 System Center Configuration Manager 和 Exchange Online，则你可以集成 Intune 来管理移动设备上的电子邮件访问和保护电子邮件数据。 用于实施此解决方案的高级别过程如下所示：
 
@@ -99,9 +99,9 @@ ms.suite: ems
 
 ![显示“创建符合性策略向导”的“规则”页面的屏幕截图，你可以在该页面指定电子邮件配置文件必须由 Intune 管理](./media/ProtectEmail/Hybrid-Onprem-ExchSrvr-Wizard6.PNG)
 
-如果你指定此合规性策略，则已设置电子邮件帐户的用户必须手动删除它，之后 Intune 会通过[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)中描述的注册过程将其重新添加。
+如果你指定此合规性策略，则已设置电子邮件帐户的用户必须手动删除它，之后 Intune 会通过[条件访问的最终用户体验](end-user-experience-conditional-access.md)中描述的注册过程将其重新添加。
 
-创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” ****。
+创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” 。
 
 ### 步骤 2：配置条件访问策略。
 首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中的针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/en-us/library/mt131421.aspx) 中的步骤为 Exchange Online 启用条件访问策略。
@@ -127,7 +127,7 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 ## 报表
 如果配置了可选的 Exchange Server 连接器，则可以使用 Configuration Manager 控制台查看有关 Exchange Connector 已发现的设备的特定信息。 对于已实施条件访问的设备，你可以查看每个设备的当前状态、最后一次使用 Exchange Server 连接设备的时间等等。
 
-在 Configuration Manager 控制台中，单击“资产和合规性” **** ，然后单击“设备” ****。 在“Exchange 访问状态”列中可以查看每个设备的当前状态（隔离或允许） **** 。 如果该列尚未显示，可以右键单击列标题栏区域来添加该列。 通过添加“上次成功同步到 Exchange Server 的时间” **** 列，还可以查看如 Exchange 报告的每个设备的上次成功同步时间。
+在 Configuration Manager 控制台中，单击“资产和合规性”  ，然后单击“设备” 。 在“Exchange 访问状态”列中可以查看每个设备的当前状态（隔离或允许）  。 如果该列尚未显示，可以右键单击列标题栏区域来添加该列。 通过添加“上次成功同步到 Exchange Server 的时间”  列，还可以查看如 Exchange 报告的每个设备的上次成功同步时间。
 
 ![显示 Configuration Manager 控制台中的设备列表的屏幕截图](./media/ProtectEmail/Hybrid-Onprem-Verify-Devices-State.png)
 
@@ -137,13 +137,13 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 要查看 SSRS 报表，必须在主服务器上安装报表角色：
 
-1.  在 Configuration Manager 中，单击“管理”&gt;“层次结构配置”&gt;“站点配置”&gt;“服务器和站点系统角色”。 ****
+1.  在 Configuration Manager 中，单击“管理”&gt;“层次结构配置”&gt;“站点配置”&gt;“服务器和站点系统角色”。 
 
-2.  选择一个服务器，然后单击“添加站点系统角色” **** 以打开“添加站点系统角色”向导。
+2.  选择一个服务器，然后单击“添加站点系统角色”  以打开“添加站点系统角色”向导。
 
-3.  在“系统角色选择”页面上，选择“报表服务点” **** 复选框。 报表服务点将显示与客户端管理相关的报表。
+3.  在“系统角色选择”页面上，选择“报表服务点”  复选框。 报表服务点将显示与客户端管理相关的报表。
 
-4.  单击“下一步” ****。
+4.  单击“下一步” 。
 
 下面显示了配置策略的部署状态：
 
@@ -153,9 +153,9 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 使用新式的身份验证方法的设备将立即应用条件访问。 对于通过 EAS 协议进行连接的设备，根据默认设置，在实施条件访问之前会有高达 6 小时的延迟时间。 设备在此期间可视为合规。
 
 ## 后续步骤
-当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)的更多信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
+当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

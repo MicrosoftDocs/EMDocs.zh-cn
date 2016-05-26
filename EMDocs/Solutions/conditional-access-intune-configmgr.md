@@ -53,14 +53,14 @@ AAD DRS 将对 Intune 和 Office 365 客户自动激活。 已经部署了 ADFS 
 
 -   你必须使用包含 Exchange Online（例如 E3）的 Office 365 订阅，并且用户必须获得 Exchange Online 许可。
 
--   可选的 **Microsoft Intune 服务间连接器**将 Intune 连接到 Microsoft Exchange Online，并帮助你通过 Intune 控制台管理设备信息（请参阅[使用 Exchange ActiveSync 和 Microsoft Intune 管理移动设备](https://stage.docs.microsoft.com/en-us/intune/deployuse/mobile-device-management-with-exchange-activesync-and-microsoft-intune)）。 你不需要使用连接器来使用合规性策略或条件性访问策略，但要求你运行帮助评估条件性访问影响的报告。
+-   可选的 **Microsoft Intune 服务间连接器**将 Intune 连接到 Microsoft Exchange Online，并帮助你通过 Intune 控制台管理设备信息（请参阅[使用 Exchange ActiveSync 和 Microsoft Intune 管理移动设备](/intune/deploy-use/mobile-device-management-with-exchange-activesync-and-microsoft-intune)）。 你不需要使用连接器来使用合规性策略或条件性访问策略，但要求你运行帮助评估条件性访问影响的报告。
 
     如果你配置了连接器，那么 Intune 中的某些 Exchange ActiveSync 策略可能在 Office 控制台中可见，但没有设置为默认策略，因此不会影响设备。
 
     > [!IMPORTANT]
     > 如果你要同时对 Exchange Online 和 Exchange 内部部署使用条件访问，则不要配置服务间连接器。
 
-    现在，你就可以了解如何[使用 Intune 部署 Exchange Online](../Solutions/conditional-access-intune-exchange-online.md)。
+    现在，你就可以了解如何[使用 Intune 部署 Exchange Online](conditional-access-intune-exchange-online.md)。
 
 ## 对于本地 Exchange Server
 Exchange 内部部署支持的条件访问：
@@ -82,16 +82,16 @@ Exchange 内部部署支持的条件访问：
 
 -   可以基于身份验证或用户凭据条目使用证书来配置 Exchange ActiveSync。
 
--   必须使用**本地 Exchange 连接器**，它将 Intune 连接到本地 Microsoft Exchange Server。 这样就可以通过 Intune 控制台管理设备（请参阅[使用 Exchange ActiveSync 和 Microsoft Intune 管理移动设备](https://stage.docs.microsoft.com/en-us/intune/deployuse/mobile-device-management-with-exchange-activesync-and-microsoft-intune)）。
+-   必须使用**本地 Exchange 连接器**，它将 Intune 连接到本地 Microsoft Exchange Server。 这样就可以通过 Intune 控制台管理设备（请参阅[使用 Exchange ActiveSync 和 Microsoft Intune 管理移动设备](/intune/deploy-use/mobile-device-management-with-exchange-activesync-and-microsoft-intune)）。
 
   > [!IMPORTANT]
 > 请确保使用最新版本的本地 Exchange 连接器。 Intune 控制台中可供你使用的内部部署 Exchange 连接器特定于你的 Intune 租户，不能用于其他任何租户。 此外，还应确保仅在一台计算机（而不是多台计算机）上安装适用于你的租户的 Exchange 连接器。
 
-  现在，你就可以了解如何[使用 Intune 部署本地 Exchange Server](../Solutions/conditional-access-intune-exchange.md)。
+  现在，你就可以了解如何[使用 Intune 部署本地 Exchange Server](conditional-access-intune-exchange.md)。
 
-如果您的环境包括 Exchange Online 和 Exchange 内部部署，您可以阅读有关[使用 Microsoft Intune 和配置管理器部署 Exchange Online 和 Exchange 内部部署](../Solutions/conditional-access-intune-configmgr-coexist.md)。
+如果你的环境包括 Exchange Online 和 Exchange 内部部署，你可以阅读[使用 Microsoft Intune 和 Configuration Manager 部署 Exchange Online 和 Exchange 内部部署](conditional-access-intune-configmgr-coexist.md)的相关信息。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

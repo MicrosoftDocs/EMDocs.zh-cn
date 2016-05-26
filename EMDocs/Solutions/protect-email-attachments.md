@@ -1,17 +1,32 @@
 ---
+# required metadata
+
 title: 保护公司电子邮件附件
-ms.custom: na
-ms.reviewer: na
-ms.service: microsoft-intune
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
+description:
+keywords:
 author: karthikaraman
+manager: swadhwa
+ms.date: 04/28/2016
+ms.topic: article
+ms.prod:
+ms.service:
+ms.technology:
+ms.assetid: a1e630c1-7190-4ba9-b71d-ed9c2e93a6cc
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+ms.reviewer:
+ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
+
 ---
 
 # 保护电子邮件和附件，防止数据泄露
-[保护企业电子邮件和文档](../Solutions/protect-corporate-email-documents.md)讨论了如何才能确保只有合规的设备可以访问企业电子邮件。 但是，仅仅是保护访问权限并无法保护电子邮件和邮件附件中的内容。 内容可以复制、移动、保存到其他位置，或与其他用户共享。 EMS 使用移动应用程序管理 (MAM) 策略解决了这一问题。
+[保护企业电子邮件和文档](protect-corporate-email-documents.md)讨论了如何能确保只有合规的设备才可以访问企业电子邮件。 但是，仅仅是保护访问权限并无法保护电子邮件和邮件附件中的内容。 内容可以复制、移动、保存到其他位置，或与其他用户共享。 EMS 使用移动应用程序管理 (MAM) 策略解决了这一问题。
 
 托管应用是由 IT 管理员部署的符合公司安全要求的应用。 利用这些应用，IT 部门可以直接控制部署、行进中管理（如储存或更新），以及选择性擦除应用及其关联数据。 此外，通过一组移动应用程序管理 (MAM) 策略，Intune 允许你修改应用的功能并限制数据的共享，例如：
 
@@ -58,9 +73,9 @@ IT 管理员创建移动应用程序管理策略、将策略关联至应用，�
 最终用户可以安装托管应用并使用它们来完成工作。 他们只能移动或共享托管应用之间的数据。 任何将数据移出托管应用生态系统的尝试都会被阻止。
 
 ## 后续步骤
-现在，你已了解如何[保护企业电子邮件和文档](../Solutions/protect-corporate-email-documents.md)以及电子邮件附件，你可以阅读有关如何[实现保护你的企业电子邮件的解决方案](../Solutions/implement-solution.md)的信息。
+你已了解了[保护企业电子邮件和文档](protect-corporate-email-documents.md)以及电子邮件附件的相关内容，现在可以详细了解如何[实现保护你的企业电子邮件的解决方案](implement-solution.md)。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

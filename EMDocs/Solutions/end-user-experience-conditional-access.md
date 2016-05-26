@@ -18,7 +18,7 @@ ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: 
+ms.reviewer:
 ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:
@@ -36,17 +36,17 @@ ms.suite: ems
 
 ## Android
 
-[本主题](../Solutions/end-user-experience-conditional-access-android.md)描述在启用条件访问并且最终用户首次尝试在其 Android 移动设备上访问电子邮件之后的最终用户体验。
+[本主题](end-user-experience-conditional-access-android.md)描述在启用条件访问并且最终用户首次尝试在其 Android 移动设备上访问电子邮件之后的注册体验。
 
 ## iOS
 
-[本主题](../Solutions/end-user-experience-conditional-access-ios.md)描述在启用条件访问并且最终用户首次尝试在其 iOS 移动设备上访问电子邮件之后的最终用户体验。
+[本主题](end-user-experience-conditional-access-ios.md)描述在启用条件访问后，当最终用户首次尝试在其 iOS 移动设备上访问电子邮件时的用户体验。
 
 ## Windows Phone
 
-[本主题](../Solutions/end-user-experience-conditional-access-winphone.md)描述在启用条件访问并且最终用户首次尝试在其 Windows Phone 移动设备上访问电子邮件之后的最终用户体验。
+[本主题](end-user-experience-conditional-access-winphone.md)描述在启用条件访问并且最终用户首次尝试在其 Windows Phone 上访问电子邮件之后的最终用户体验。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

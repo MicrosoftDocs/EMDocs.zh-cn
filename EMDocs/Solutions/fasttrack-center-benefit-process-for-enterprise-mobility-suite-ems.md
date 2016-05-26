@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: 企业移动性套件 (EMS) 的 FastTrack 中心权益流程
+title: 企业移动性套件 (EMS) 的 FastTrack 中心权益
 description:
 keywords:
 author: 
@@ -11,11 +11,11 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: 484156c7-c3c4-469d-b718-9fa33d9d0ec2
+ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 
 # optional metadata
 
-ROBOTS: noindex
+#ROBOTS:
 #audience:
 #ms.devlang:
 ms.reviewer: 
@@ -26,7 +26,7 @@ ms.suite: ems
 ---
 
 # 企业移动性套件 (EMS) 的 FastTrack 中心权益流程
-如果你的组织符合享受 EMS 的 FastTrack 中心权益的条件，则你可以与 Microsoft 专家一同远程准备 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理，使其可供使用。 若要确定你的组织是否符合条件，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
+如果你的组织符合享受 EMS 的 FastTrack 中心权益的条件，则你可以与 Microsoft 专家一同远程准备 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理，使其可供使用。 若要确定你的组织是否符合条件，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md).
 
 
 FastTrack 中心权益流程的构成要素包括： 
@@ -39,7 +39,7 @@ FastTrack 中心权益流程的构成要素包括：
 
 -   [Microsoft 在每个阶段的职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
 
--   [你在每个阶段的职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
+-   每个阶段的[客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 
 载入完成后，您可以预期以下结果：
 
@@ -57,13 +57,13 @@ FastTrack 中心权益流程的构成要素包括：
 
     -   从本地 Active Directory 与 Windows Server 2012 R2 Active Directory 联合身份验证服务 (AD FS) 2.0 或更高版本联合。
 
-
+阅读有关 FastTrack 载入流程的下一部分：[载入流程概述](fasttrack-center-benefit-process-for-ems-overview.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

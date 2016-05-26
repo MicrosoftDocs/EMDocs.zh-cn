@@ -94,11 +94,10 @@ ms.suite: ems
 - 贵公司是否具有用来定义如何对访问数据进行分类的策略？
 - 贵公司是否必须遵守任何适用于数据处理和隐私的规定？
     - 如果是，这些规定如何推动当前适用于本地资源的数据访问策略？
-- 贵公司是否具有替代[移动设备管理 (MDM)](http://aka.ms/mdmdcg) 和移动应用程序管理 (MAM) 的策略？
+- 你的公司是否具有替代[移动设备管理 (MDM)](mdm-design-considerations-guide.md) 和[移动应用程序管理 (MAM)](https://blogs.technet.microsoft.com/cbernier/2016/01/05/microsoft-intune-mobile-application-management-mam-standalone/) 的策略？
 - 在发生诉讼或刑事侦查的情况下，贵公司是否具有适针对设备没收的策略？
 
 
-
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO3-->
 
 

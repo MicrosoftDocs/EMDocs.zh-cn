@@ -18,7 +18,7 @@ ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: 
+ms.reviewer:
 ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:
@@ -29,6 +29,8 @@ ms.suite: ems
 越来越多的公司允许员工通过其移动设备访问电子邮件、文档和公司资源，从而提高工作效率。 但是，存储在公司电子邮件和文档中的机密数据量会为公司带来重大的安全风险。
 
 本指南适用于你（即 IT 专业人员），可帮助为公司确定然后部署最佳解决方案，以便采用如下所述的配置之一来实施条件访问。 这会使员工可以使用其移动设备访问公司电子邮件，同时仍保护公司的数据。
+
+本节讨论如何部署用于保护公司电子邮件和文档的解决方案。 有关这些解决方案的体系结构的详细信息，请参阅[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents)。
 
 > [!TIP]
 > 可在 [TechNet 库](https://gallery.technet.microsoft.com/Deploying-Enterprise-16499404)中获取本完整主题的可下载副本。
@@ -44,10 +46,10 @@ Microsoft 企业移动性套件 (EMS) 通过跨四个层（标识、设备、应
 
 -   **保护电子邮件和附件中的内容：** 虽然条件访问使你可以确保只有合规设备才能访问电子邮件，但是仍存在保护电子邮件和电子邮件附件中的内容的问题。  内容可以复制、移动、保存到其他位置，或与其他用户共享。  EMS 使用移动应用程序管理策略解决了这一问题。
 
-    托管应用是应用了移动应用程序管理策略的应用，这些策略使它们符合公司的安全要求。 利用这些应用，你可以直接控制部署、行进中管理（如储存或更新），以及选择性擦除应用及其关联数据。 此外，通过一组移动应用程序管理 (MAM) 策略，Intune 可让你修改应用的功能并限制数据的共享。 有关此解决方案的工作原理的详细信息（包括体系结构详细信息），请参阅[保护公司电子邮件和文档](../Solutions/architecture-guidance-for-protecting-company-email-and-documents)。
+    托管应用是应用了移动应用程序管理策略的应用，这些策略使它们符合公司的安全要求。 利用这些应用，你可以直接控制部署、行进中管理（如储存或更新），以及选择性擦除应用及其关联数据。 此外，通过一组移动应用程序管理 (MAM) 策略，Intune 可让你修改应用的功能并限制数据的共享。 有关此解决方案的工作原理的详细信息（包括体系结构的详细信息），请参阅[保护公司电子邮件和文档](architecture-guidance-for-protecting-company-email-and-documents)。
 
     > [!NOTE]
-    > 可以创建和部署电子邮件配置文件，然后设置指定电子邮件配置文件必须由 Intune 进行管理（推荐）的合规性策略。 这使你能够从注销的设备中擦除电子邮件，并可确保对于 iOS，附件只能在 Intune 管理的应用程序中打开。 请参阅[步骤 5：创建合规性策略，并部署到用户。](../Solutions/conditional-access-intune-configmgr-exchange.md) 获取更多相关信息。
+    > 可以创建和部署电子邮件配置文件，然后设置指定电子邮件配置文件必须由 Intune 进行管理（推荐）的合规性策略。 这使你能够从注销的设备中擦除电子邮件，并可确保对于 iOS，附件只能在 Intune 管理的应用程序中打开。 请参阅[步骤 5：创建合规性策略，并部署到用户。](conditional-access-intune-configmgr-exchange.md) 获取更多相关信息。
 
 ### 本文中涵盖的解决方案
 本部分提供有关每个解决方案（Configuration Manager 与 Intune 的集成、Intune 本身、移动应用程序管理和 Azure 权限管理服务）的高级概述。
@@ -59,20 +61,20 @@ Microsoft 企业移动性套件 (EMS) 通过跨四个层（标识、设备、应
 -   **用于数据丢失防护策略的 Azure 权限管理服务：**Azure 权限管理 (Azure RMS) 使用加密、标识和授权策略来帮助跨多个设备（如手机、平板电脑和电脑）保护文件和电子邮件。 信息可以在公司内部和外部得到保护，因为保护会随数据而保持，即使在数据离开公司边界时。
 
 ### 评估所需实现
-面对用于管理移动设备的所有不同设计和配置选项时，难以确定可最好地满足公司需求的组合。 [移动设备管理设计注意事项指南](../Solutions/mdm-design-considerations-guide.md)可帮助你了解移动设备管理设计要求，并详细介绍了一系列步骤和任务，你可以遵循这些步骤和任务来设计最符合公司的业务和技术需求的解决方案。
+面对用于管理移动设备的所有不同设计和配置选项时，难以确定可最好地满足公司需求的组合。 [移动设备管理设计注意事项指南](mdm-design-considerations-guide.md)可帮助你了解移动设备管理设计要求，并详细介绍了一系列步骤和任务，你可以遵循这些步骤和任务来设计最符合公司的业务和技术需求的解决方案。
 
 ### 高级最终用户体验
 实现解决方案之后，最终用户只能在托管**且**合规的设备上访问公司电子邮件。 一旦他们能够在设备上访问电子邮件，公司数据便受到保护并且包含在应用生态系统内，只能由预期用户使用。 如果设备不合规，则可以随时撤消访问权限。
 
-具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 权限管理服务可以用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验的更详细描述，请参阅[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)。
+具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 权限管理服务可以用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验更详细的描述，请参阅[条件访问的最终用户体验](end-user-experience-conditional-access.md)。
 
 ### 后续步骤
 你已经通读了本主题，现在可以依据你的环境，了解有关如何部署用于保护公司电子邮件和文档的特定解决方案的详细信息：
 
-- [结合使用条件访问和 Microsoft Intune](../Solutions/conditional-access-intune.md)
-- [结合使用条件访问、Microsoft Intune 和 Configuration Manager](../Solutions/conditional-access-intune-configmgr.md)
+- [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
+- [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

@@ -11,7 +11,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: c576a1be-c706-4a12-a2e2-b3d85e632afa
+ms.assetid: bf0d4210-5edc-4ad7-bcb5-372099049630
 
 # optional metadata
 
@@ -27,7 +27,7 @@ ms.suite: ems
 
 # 管理要求
 
-设备管理是任何以人为中心的战略的基础之一，它必须根据公司的要求进行评估。 根据公司的成熟度，一个管理系统可能已经准备就绪，必须对它进行扩展以涵盖公司要采用的 BYOD 方案。 图 4 显示了管理用户、设备和数据时的管理交互。 必须对管理子域中的每个组件都进行考虑。
+设备管理是任何以人为中心的战略的基础之一，它必须根据公司的要求进行评估。 根据公司的成熟度，一个管理系统可能已经准备就绪，必须对它进行扩展以涵盖公司要采用的 BYOD 方案。 下图显示了管理用户、设备和数据时的管理交互。 必须对管理子域中的每个组件都进行考虑。
 
 ![管理要求](./media/BYOD_Figure4.png)
 
@@ -105,6 +105,6 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

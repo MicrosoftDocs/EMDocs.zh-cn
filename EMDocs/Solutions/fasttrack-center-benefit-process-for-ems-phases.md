@@ -28,13 +28,13 @@ ms.suite: ems
 # 企业移动性套件的 FastTrack 中心权益流程 – 阶段
 当你使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，该流程涉及几个阶段。 以下各部分描述了载入流程的每个阶段。
 
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+若要了解有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md).
 
 
 载入有 4 个主要阶段，如下图中所示：
 
 
-![](./media/Intune-onboarding-phases-9-15-15.png)
+![FastTrack 载入流程的四个阶段](./media/ft-2-onboarding-phases.png)
 
 
 ## 启动阶段
@@ -43,7 +43,7 @@ ms.suite: ems
 
 在此阶段，我们将讨论载入流程，验证数据并设置启动会议。
 
-![](./media/Intune-initiate-phase-9-15-15-v2.png)
+![载入启动阶段](./media/ft-3-initiate-phase.png)
 
 ## 评估阶段
 
@@ -53,12 +53,12 @@ Microsoft 还将与你联系，提供有关如何推动成功采用符合条件�
 
 根据你的当前设置，我们将提供一个修正计划，将你的源环境调整至满足成功载入到 EMS 或其单独的云服务的最低要求。 在修正阶段，我们还会设置相应的检查点调用。
 
-![](./media/Intune-assess-phase-9-15-15.png)
+![载入评估阶段](./media/ft-4-assess-phase.png)
 
 ## 修正阶段
 如果需要，你将针对源环境执行修正计划中的相关任务，以便满足载入和采用每项服务的要求。
 
-![](./media/Microsoft-Intune-onboarding-remediate-phase-1.png)
+![载入修正阶段](./media/ft-5-remediate-phase.png)
 
 在开始启用阶段之前，我们将共同验证修正活动的结果以确保您可以继续后续操作。
 
@@ -69,7 +69,7 @@ Microsoft 还将与你联系，提供有关如何推动成功采用符合条件�
 
 核心载入涉及服务设置以及租户和标识集成。 还包括提供载入联机服务（如 Azure Active Directory Premium、Microsoft Intune 和 Azure 权限管理高级版）的基础的步骤。
 
-![](./media/Intune-enable-phase-core-9-15-15.png)
+![载入启用阶段 - 核心功能](./media/ft-6-enable-phase-core.png)
 
 ###启用阶段 – Azure Active Directory Premium
 
@@ -83,13 +83,13 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
 -   Azure Multi-Factor Authentication (MFA)
 
--   服务型软件 (SaaS) 应用程序 – 从 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中设置一个 SaaS 应用程序
+-   服务型软件 (SaaS) 应用程序 – 从 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中设置一个 SaaS 应用程序.
 
 -   自助服务组管理 (SSGM)
 
 -   管理报表
 
-![](./media/Microsoft-Azure-AD-Premium-enable-phase-2.png)
+![载入启用阶段 - AADP](./media/ft-7-enable-phase-aadp.png)
 
 ###启用阶段 – Microsoft Intune
 
@@ -144,7 +144,7 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
 Microsoft 还将与你联系，提供有关如何推动成功采用符合条件的服务的指导。
 
-![](./media/Enable-phase-Intune-11-20-15.png)
+![载入启用阶段 - Intune](./media/ft-8-enable-phase-intune.png)
 
 ###启用阶段 – Azure 权限管理高级版
 
@@ -162,18 +162,15 @@ AzRMS 设置包括启用以下功能：
 
 -   Windows 和非 Windows 设备的 RMS 共享应用程序
 
-![](./media/Microsoft-Azure-AD-Premium-enable-phase-2.png)
+![载入启用阶段 - Azure RMS](./media/ft-7-enable-phase-aadp.png)
 
-
->[!div class="step-by-step"]
-[FastTrack 源环境](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
-[客户 FastTrack 职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
+请阅读有关 FastTrack 载入流程的下一部分：[Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO5-->
 
 

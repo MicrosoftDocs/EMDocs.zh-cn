@@ -29,7 +29,7 @@ ms.suite: ems
 
 你可以使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用。 使用本节中的信息来获取载入流程的图示概述。
 
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+若要了解有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md).
 
 
 载入包含两个主要部分：
@@ -40,7 +40,7 @@ ms.suite: ems
 
 下图说明了使用 FastTrack 中心权益的高级载入阶段。
 
-![](./media/1-rms-onboarding-process.png)
+![使用 FastTrack 中心权益的高级载入阶段](./media/ft-1-onboarding-process.png)
 
 基本流程如下所示：
 
@@ -54,19 +54,17 @@ ms.suite: ems
 
 -   FastTrack 中心针对指定区域在正常营业时间内提供载入支持。
 
--   提供繁体中文、英语、法语、德语、意大利语、日语、葡萄牙语（巴西）或西班牙语的载入支持。
+-   提供繁体中文、简体中文、英语、法语、德语、意大利语、日语、韩语、葡萄牙语(巴西)、西班牙语、泰语和越南语的载入支持。
 
 -   Microsoft 团队可直接与你或你的代表进行合作。
 
->[!div class="step-by-step"]
-[FastTrack 流程简介](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
-[FastTrack 源环境](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
+请阅读有关 FastTrack 载入流程的下一部分：[源环境预期](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=May16_HO1-->
 
 

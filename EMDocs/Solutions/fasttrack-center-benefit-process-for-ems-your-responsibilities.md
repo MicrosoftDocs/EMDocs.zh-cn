@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: 企业移动性套件的 FastTrack 中心权益流程 – 客户职责
+title: 企业移动性套件的 FastTrack 中心权益流程 – 你的职责
 description:
 keywords:
 author: 
@@ -25,10 +25,11 @@ ms.suite: ems
 
 ---
 
-# 企业移动性套件的 FastTrack 中心权益流程 – 客户职责
+# 企业移动性套件的 FastTrack 中心权益流程 – 你的职责
+
 当你使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，你的组织在该流程中将要承担一定的职责。 以下各部分描述了你在载入流程每个阶段的职责。
 
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+若要了解有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md).
 
 ## 常规职责
 
@@ -114,15 +115,13 @@ ms.suite: ems
 
 -   依照 Microsoft 的指导，启用各种服务。
 
->[!div class="step-by-step"]
-[Microsoft 的 FastTrack 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
-
+FastTrack 载入流程的最后部分。
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

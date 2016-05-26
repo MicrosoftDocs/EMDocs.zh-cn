@@ -53,7 +53,7 @@ ms.suite: ems
 - Microsoft 权限管理服务
 - Azure Rights Management 
 - SMB 加密
-- 单个 signSign-onOn (SS)
+- 单一登录(SSO)
 - 工作文件夹
 - Web 应用程序代理 (WAP)
 
@@ -87,6 +87,6 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

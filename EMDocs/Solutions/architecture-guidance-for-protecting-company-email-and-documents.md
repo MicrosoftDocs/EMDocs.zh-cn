@@ -18,7 +18,7 @@ ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: 
+ms.reviewer:
 ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:
@@ -28,18 +28,20 @@ ms.suite: ems
 # 有关保护公司电子邮件和文档的体系结构指南
 本主题首先概述了如何在确保最终用户体验简单且不影响工作效率的同时，为公司提供数据保护。 然后，我们将专门重点介绍如何使用 Microsoft 企业移动性套件解决方案，帮助提供对公司电子邮件的安全访问，以及帮助保护电子邮件和附件中的公司数据。
 
+本节讨论用于保护公司电子邮件和文档的体系结构。 有关部署解决方案的指南，请参阅[详细了解如何部署用于保护公司电子邮件和文档的解决方案](learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)。
+
 > [!TIP]
 > 请从 [TechNet 库](https://gallery.technet.microsoft.com/Managing-Access-and-Help-b7a05d0d/file/140056/1/Managing%20Access%20and%20Help%20Protect%20Corporate%20Email%20Data%20on%20Mobile%20Devices.pdf)中获取此完整主题的可下载副本。
 
-员工希望使用自己的设备访问公司资源和实用工具。 IT 部门需要确保员工能够这样做，但同时保护好公司的敏感数据。 [自带设备办公](../Solutions/byod-design-considerations-guide.md) (BYOD) 带来了一项特殊挑战，即需要在个人设备上区分个人数据和工作数据，并防止有意或无意中共享公司数据。
+员工希望使用自己的设备访问公司资源和实用工具。 IT 部门需要确保员工能够这样做，但同时保护好公司的敏感数据。 [自带设备办公](byod-design-considerations-guide.md) (BYOD) 带来了一项特殊挑战，即需要在个人设备上区分个人数据和工作数据，并防止有意或无意中共享公司数据。
 
-**研究显示：**
+**研究表明：**
 
--   全球 37% 的劳动力都采用移动办公方式&#42;
+-   全球 37% 的劳动力都采用移动办公方式
 
--   2014 年第 3 季度 53% 的电子邮件是在手机或平板电脑上打开的&#42;&#42;
+-   2014 年第 3 季度 53% 的电子邮件是在手机或平板电脑上打开的
 
--   61% 的员工在个人设备上处理个人事务和工作任务&#42;&#42;&#42;
+-   61% 的员工在个人设备上处理个人事务和工作任务
 
 考虑这一点：
 
@@ -82,38 +84,26 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 *Azure 权限管理 (Azure RMS)* 是安全模型的第四层，此层在文件级别对数据进行保护。 应用于数据的安全策略与数据一起传送、帮助保护传输中和未使用数据的安全，不受访问数据的设备影响。 这是安全模型的**数据层**。
 
 ## 后续步骤
-[观看](https://www.youtube.com/watch?v=ltcZvm4VOFU) 这段视频，了解如何注册试用帐户并开始使用。
+- [观看](https://www.youtube.com/watch?v=ltcZvm4VOFU) 这段视频，了解如何注册试用帐户并开始使用。
 
-请阅读[移动设备管理设计注意事项指南](../Solutions/mdm-design-considerations-guide.md)，更好地了解移动设备管理设计要求。
+- 请阅读[移动设备管理设计注意事项指南](mdm-design-considerations-guide.md)，更好地了解移动设备管理设计要求。
 
-[详细了解如何部署用于保护公司电子邮件和文档的解决方案](../Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)。
+- [详细了解如何部署用于保护公司电子邮件和文档的解决方案](learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)。
 
-脚注：
+此外，如果你希望了解有关 EMS 和 Azure Active Directory 的详细信息，你可以从以下这些文章中获取更多相关信息：
+- [EMS 体系结构](https://azure.microsoft.com/en-us/documentation/infographics/enterprise-mobility/)
 
-&#42;IDC：“全球移动工作人口 2011-2015 年预测”
+- [Azure Active Directory 是什么](https://azure.microsoft.com/en-us/documentation/articles/active-directory-whatis/)
 
-&#42;&#42;Experian：“每季度电子邮件基准报告”（2014 年第 3 季度）
+- [Azure Active Directory 如何支持 Office 365、Microsoft Intune 和其他 Microsoft 服务？](https://azure.microsoft.com/en-us/documentation/articles/active-directory-administer/#what-is-an-azure-ad-tenant)
 
-&#42;&#42;&#42;Forrester Research：“BT 未来报告：信息工作者将消除企业与消费者技术之间的界限”（2013 年 2 月 21 日）
+- [Azure Active Directory 如何帮你管理标识](https://azure.microsoft.com/en-us/documentation/articles/active-directory-administer/)
 
-### 另请参阅
-[EMS 体系结构](https://azure.microsoft.com/en-us/documentation/infographics/enterprise-mobility/)
+- [Azure 权限管理是什么？](https://technet.microsoft.com/en-us/library/jj585026.aspx)
 
-[开始使用 Intune](https://stage.docs.microsoft.com/en-us/intune/understand/introduction-to-microsoft-intune)
-
-[Azure Active Directory 是什么](https://azure.microsoft.com/en-us/documentation/articles/active-directory-whatis/)
-
-[Azure Active Directory 如何支持 Office 365、Microsoft Intune 和其他 Microsoft 服务？](https://azure.microsoft.com/en-us/documentation/articles/active-directory-administer/#what-is-an-azure-ad-tenant)
-
-[Azure Active Directory 如何帮你管理标识](https://azure.microsoft.com/en-us/documentation/articles/active-directory-administer/)
-
-[Azure 权限管理是什么？](https://technet.microsoft.com/en-us/library/jj585026.aspx)
-
-[应用程序如何支持 Azure 权限管理](https://technet.microsoft.com/en-us/library/jj585004.aspx)
-
-[使用 Exchange Online 和数据丢失预防策略自动保护电子邮件](https://technet.microsoft.com/en-us/library/jj585026.aspx#BKMK_Example_DLP)
+- [应用程序如何支持 Azure 权限管理](https://technet.microsoft.com/en-us/library/jj585004.aspx)
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

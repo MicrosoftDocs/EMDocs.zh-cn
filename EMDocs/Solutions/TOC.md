@@ -1,5 +1,3 @@
-# [方案和指南](scenarios-guides.md)
-
 # [FastTrack 入门](enterprise-mobility-fasttrack-program.md)
 ## [EMS 的 FastTrack 权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)
 ## [EMS 的 FastTrack 权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
@@ -75,6 +73,6 @@
 ### [iOS](end-user-experience-conditional-access-ios.md)
 ### [Windows Phone](end-user-experience-conditional-access-winphone.md)
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

@@ -26,7 +26,7 @@ ms.suite: ems
 ---
 
 # 将 Microsoft Intune 和 Configuration Manager 与本地 Exchange Server 结合部署
-你已通读[保护公司电子邮件和文档的体系结构指南](../Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)，现在可以继续部署解决方案了。
+你已通读了[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents.md)，现在可以继续部署解决方案。
 
 如果你已在你的本地基础结构中使用 System Center Configuration Manager 和 Exchange，则你可以集成 Intune 来管理移动设备上的电子邮件访问和保护电子邮件数据。 用于实施此解决方案的高级别过程如下所示：
 
@@ -55,9 +55,9 @@ ms.suite: ems
 确保你的环境满足实施此解决方案的要求。
 
 > [!NOTE]
-> 如果你已将 Configuration Manager 配置为通过 Intune 服务管理移动设备，则你可以继续 [部署步骤](#DeploySteps)。
+> 如果你已将 Configuration Manager 配置为通过 Intune 服务管理移动设备，则你可以继续[部署步骤](#deployment-steps)。
 
--   确认满足[本地连接器的硬件要求](https://stage.docs.microsoft.com/en-us/intune/getstarted/network-infrastructure-requirements-for-microsoft-intune)。
+-   确认满足[本地连接器的硬件要求](/intune/get-started/network-infrastructure-requirements-for-microsoft-intune)。
 
 -   确认你运行的是具有累积更新包 1 或更高版本的 System Center 2012 R2 Configuration Manager SP1。
 
@@ -100,7 +100,7 @@ ms.suite: ems
 > [!IMPORTANT]
 > 如果你尝试在没有所需 cmdlet 的情况下安装或使用 Exchange Server 连接器，你将看到以下错误消息：_在站点服务器计算机上的 EasDisc.log 文件中调用 cmdlet &lt;cmdlet&gt; 失败_。
 
-## <a name="DeploySteps"></a>部署步骤
+## 部署步骤
 请按照以下步骤来部署本地 Exchange 解决方案：
 
 ### 步骤 1：确保安装了 Intune Connector 角色。
@@ -116,11 +116,11 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 ### 步骤 3：运行完全同步来发现用户。
 
-1.  在 Configuration Manager 控制台中，单击“管理” ****，展开“层次结构配置” ****，然后选择“Exchange Server 连接器” ****。
+1.  在 Configuration Manager 控制台中，单击“管理” ，展开“层次结构配置” ，然后选择“Exchange Server 连接器” 。
 
 2.  选择在步骤 2 中安装的 Exchange Server 连接器。
 
-3.  单击“立即同步” ****。
+3.  单击“立即同步” 。
 
     ![显示在何处对 Configuration Manager 控制台执行完全同步的屏幕截图](./media/ProtectEmail/Hybrid-Onprem-Run-FullSync.png)
 
@@ -140,9 +140,9 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 ![显示“创建符合性策略向导”的“规则”页面的屏幕截图，你可以在该页面指定电子邮件配置文件必须由 Intune 管理](./media/ProtectEmail/Hybrid-Onprem-ExchSrvr-Wizard6.PNG)
 
-如果你指定此合规性策略，则已设置电子邮件帐户的用户必须手动删除它，之后 Intune 会通过[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)中描述的注册过程将其重新添加。
+如果你指定此合规性策略，则已设置电子邮件帐户的用户必须手动删除它，之后 Intune 会通过[条件访问的最终用户体验](end-user-experience-conditional-access.md)中描述的注册过程将其重新添加。
 
-创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” ****。
+创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” 。
 
 ### 步骤 6：配置条件访问策略。
 首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/en-us/library/mt131421.aspx)中的步骤为本地 Exchange 配置条件访问策略。
@@ -150,7 +150,7 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 ### 步骤 7：监视注册情况并实施条件访问。
 如果 Intune 中已经注册大量符合条件访问的用户，则你可以开始实施条件访问，方法是每天向大约 500 个用户推出条件访问。 对于 70,000 个用户，这将需要花费大约 4 到 5 个月的时间，并且你需要解决在未限制太多用户在同一时间访问电子邮件的情况下可能产生的任何问题。
 
-如果 Intune 中尚未注册大量用户，则条件访问将为用户提供针对注册的引导式体验，如[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)中所述。
+如果 Intune 中尚未注册大量用户，则条件访问将为用户提供针对注册的引导式体验，如[条件访问的最终用户体验](end-user-experience-conditional-access.md)中所述。
 
 ## 验证步骤
 使用 Configuration Manager 跟踪日志工具，可以打开 EasDisc.log 文件（位于安装 Configuration Manager 的 Microsoft Configuration Manager/Logs 文件夹）。 在日志文件中搜索 "Exchange Connector" 以查找有关 Exchange Connector 是否正在运行以及连接的设备数量的信息。
@@ -162,7 +162,7 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 ## 报表
 可以使用 Configuration Manager 控制台以查看有关 Exchange Connector 已发现的设备的特定信息。 对于已实施条件访问的设备，你可以查看每个设备的当前状态、最后一次使用 Exchange Server 连接设备的时间等等。
 
-在 Configuration Manager 控制台中，单击“资产和合规性” **** ，然后单击“设备” ****。 在“Exchange 访问状态”列中可以查看每个设备的当前状态（阻止或允许） **** 。 如果该列尚未显示，可以右键单击列标题栏区域来添加该列。 通过添加“上次成功同步到 Exchange Server 的时间” **** 列，还可以查看如 Exchange 报告的每个设备的上次成功同步时间。
+在 Configuration Manager 控制台中，单击“资产和合规性”  ，然后单击“设备” 。 在“Exchange 访问状态”列中可以查看每个设备的当前状态（阻止或允许）  。 如果该列尚未显示，可以右键单击列标题栏区域来添加该列。 通过添加“上次成功同步到 Exchange Server 的时间”  列，还可以查看如 Exchange 报告的每个设备的上次成功同步时间。
 
 ![显示 Configuration Manager 控制台中的设备列表的屏幕截图](./media/ProtectEmail/Hybrid-Onprem-Verify-Devices-State.png)
 
@@ -172,13 +172,13 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 要查看 SSRS 报表，必须在主服务器上安装报表角色：
 
-1.  在 Configuration Manager 中，依次单击“管理” ****、“层次结构配置” ****、“站点配置” ****和“服务器和站点系统角色” ****。
+1.  在 Configuration Manager 中，依次单击“管理” 、“层次结构配置” 、“站点配置” 和“服务器和站点系统角色” 。
 
-2.  选择一个服务器，然后单击“添加站点系统角色” **** 以打开“添加站点系统角色”向导。
+2.  选择一个服务器，然后单击“添加站点系统角色”  以打开“添加站点系统角色”向导。
 
-3.  在“系统角色选择”页面上，选择“报表服务点” **** 复选框。 报表服务点将显示与客户端管理相关的报表。
+3.  在“系统角色选择”页面上，选择“报表服务点”  复选框。 报表服务点将显示与客户端管理相关的报表。
 
-4.  单击“下一步” ****。
+4.  单击“下一步” 。
 
 下面显示了配置策略的部署状态：
 
@@ -188,9 +188,9 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 当 Exchange Connector 发现设备后，设备即被阻止。 阻止的延迟时间取决于完全同步和增量同步所配置的时间间隔以及设备连接到 Exchange Server 时这两个时间间隔之间的时间。 默认情况下，完全同步每 24 小时执行一次，增量同步每 240 分钟执行一次。 设备在延迟期间视为合规。
 
 ## 后续步骤
-当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)的更多信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
+当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

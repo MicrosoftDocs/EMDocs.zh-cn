@@ -11,7 +11,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: fda1b678-a5f7-4207-a9bf-1aa9e24cf54d
+ms.assetid: 181eb917-119d-4e56-8ead-1182b1dc5cab
 
 # optional metadata
 
@@ -38,9 +38,9 @@ ms.suite: ems
 
 如果你将存储视为内容的容器，则保护对该内容的消耗将带来很大的价值。 通过强制执行那些影响最终用户对存储中内容的使用方式的策略，可以防止数据泄露。 可使用 [Active Directory Rights Management Services (AD RMS)](https://technet.microsoft.com/library/hh831554.aspx) 通过保护使用信息权限管理 (IRM) 的文档来加强贵组织的安全策略。 AD RMS 允许个人和管理员通过 IRM 策略指定对文档、工作簿和演示文稿的访问权限。 这就有助于防止敏感信息被未经授权的人打印、转发或复制。 在使用 IRM 限制对文件的权限之后，无论信息在什么位置都会强制执行访问和使用限制，因为对文件的权限存储在该文件自身中。
 
-如果贵公司想要使用基于云的解决方案执行文件保护，那么还可以使用 [Azure 权限管理](https://technet.microsoft.com/en-us/library/jj585026.aspx)。 Azure RMS 使用加密、标识和授权策略来帮助保护你的文件和电子邮件，使公司的敏感信息得到保护。它可以在多种设备（手机、平板电脑和电脑）中运行。 可以保护组织内外的信息，因为该保护保留在数据中，即使数据离开了组织的边界，也是如此。 
+如果贵公司想要使用基于云的解决方案执行文件保护，那么还可以使用 [Azure 权限管理](https://technet.microsoft.com/en-us/library/jj585026.aspx)。 Azure 权限管理使用加密、标识和授权策略来帮助保护文件和电子邮件，使公司的敏感信息得到保护，它可以在多种设备（手机、平板电脑和电脑）中运行。 可以保护组织内外的信息，因为该保护保留在数据中，即使数据离开了组织的边界，也是如此。 
 
-Windows 操作系统中可用的其他存储技术还可用于增强对数据的总体保护，例如，用于驱动器加密的 BitLocker 和用于文件加密的加密文件系统 (EFS)。 使用下表查看存储保护的优缺点。 请记住，这些选项并不相互排斥。 换言之，你的设计决策可能推断出你在 BYOD 基础架构解决方案中需要以下所有选项来进行存储保护。
+Windows 操作系统中可用的其他存储技术还可用于增强对数据的总体保护，例如，用于驱动器加密的 BitLocker 和用于文件加密的[加密文件系统 (EFS)](https://technet.microsoft.com/library/cc700811.aspx)。 使用下表查看存储保护的优缺点。 请记住，这些选项并不相互排斥。 换言之，你的设计决策可能推断出你在 BYOD 基础架构解决方案中需要以下所有选项来进行存储保护。
 
 ### 存储保护选项 - 优点和缺点
 
@@ -123,7 +123,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
     - 密钥管理：应备份用于加密存储的密钥，而且应该提供密钥恢复代理，以便在你需要时使用它
     - 远程擦除：在必要时可以远程删除驻留在用户设备上的数据
 
-Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](https://technet.microsoft.com/library/dn280944.aspx)使用 [HTTPS](https://msdn.microsoft.com/library/aa767735(v=vs.85).aspx) 发布资源来保护数据。 此外，后端服务器之间的通信也可以使用 [IPsec](https://technet.microsoft.com/library/cc757613(v=ws.10).aspx) 或 [SMB 加密](http://support.microsoft.com/kb/2709568)进行加密，条件是网络流量纯粹基于 [SMB 协议](https://technet.microsoft.com/library/hh831795.aspx)。 使用下表评估哪个网络保护选项可以最好地满足你对后端服务器通信的设计要求。
+Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](https://technet.microsoft.com/library/dn280944.aspx)使用 [HTTPS](https://msdn.microsoft.com/library/aa767735.aspx) 发布资源来保护数据。 此外，后端服务器之间的通信也可以使用 [IPsec](https://technet.microsoft.com/library/cc757613.aspx) 或 [SMB 加密](http://support.microsoft.com/kb/2709568)进行加密，条件是网络流量纯粹基于 [SMB 协议](https://technet.microsoft.com/library/hh831795.aspx)。 使用下表评估哪个网络保护选项可以最好地满足你对后端服务器通信的设计要求。
 
 使用下一节评估哪个网络保护选项可以最好地满足你对后端服务器通信的设计要求。
 
@@ -208,7 +208,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 - 目录同步与密码同步：在 AD DS 和 Azure AD 之间结合使用目录同步和[密码哈希同步](https://technet.microsoft.com/library/dn246918.aspx)。
 - 使用单一登录的联合身份验证：使用目录同步来同步用户属性。 身份验证将通过联合 (AD FS) 传回，并针对 AD DS 完成。
 
-在 Windows 8.1 中使用设备注册服务时，证书安装在用户的设备中，并且将在 AD DS 中创建一条带有证书指纹编号的设备记录。 设备和用户之间的这一链接使 IT 可以跟踪每个用户注册了哪些设备。 此功能不要求企业 PKI。
+在 Windows 8.1 中使用设备注册服务时，证书安装在用户的设备中，并且将在 AD DS 中创建一条带有证书指纹编号的设备记录。 设备和用户之间的这一链接使 IT 可以跟踪每个用户注册了哪些设备。 此功能不要求企业 PKI。 设备注册同样在 Windows 10 和 Azure AD 中可用。 有关使用 Azure AD 和 Windows 10 进行设备注册的详细信息，请参阅 [Azure Active Directory 设备注册入门](https://azure.microsoft.com/en-us/documentation/articles/active-directory-conditional-access-device-registration-overview/)。
 
 ## 身份验证和授权
 
@@ -220,11 +220,11 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 由与 AD DS 相关的 AD FS 处理身份验证和授权。 在连接文件服务器角色和身份验证服务时，在数据中心内传输的数据也会使用 HTTPS 协议。
 
-要强制使用 Multi-Factor Authentication，公司可以使用 AD FS 中的内置功能或使用 Windows Azure Active Authentication（以前称为 PhoneFactor）。 利用 Windows Azure 的这一功能，IT 可以对通过 Extranet 访问公司资源的用户强制实施多重身份验证。 有关多重身份验证的详细信息，请参阅[使用适用于敏感应用程序的附加多重身份验证管理风险](https://technet.microsoft.com/library/dn280949.aspx)。
+若要强制使用 Multi-Factor Authentication，公司可以使用 AD FS 中的内置功能或使用 [Azure Multi-Factor Authentication (MFA)](https://azure.microsoft.com/en-us/documentation/articles/multi-factor-authentication/)。 利用 Azure 的这一功能，IT 可以对通过 Internet 访问公司资源的用户强制实施多重身份验证。 有关多重身份验证的详细信息，请参阅[使用适用于敏感应用程序的附加多重身份验证管理风险](https://technet.microsoft.com/library/dn280949.aspx)。
 
 若要针对从外部或内部网络访问应用的用户强制为每个应用授权，IT 可以利用 Web 应用程序代理。 通过使用 Web 应用程序代理，IT 部门可以创建特定规则以结合 AD FS 强制执行身份验证和授权。 Web 应用程序代理发布适用于任何用户设备；它们可以使用个人便携式计算机、平板电脑或智能手机。 此外，用户无需在设备上安装任何其他软件，即可访问已发布的应用。 Web 应用程序代理可用作通过它发布的任何应用的反向代理，因此用户体验与用户设备直接连接到应用时相同。 有关 Web 应用程序代理的详细信息，请参阅 [Web 应用程序代理概述](https://technet.microsoft.com/library/dn280944.aspx)。
 
-> AZURE.NOTE 如果你采用混合方案，且需要采用无缝式用户身份验证和授权体验，请参阅[混合标识设计注意事项指南](http://aka.ms/azhidcg)。
+>[!NOTE] 如果你采用混合方案，且需要体验无缝的用户身份验证和授权，请参阅[混合标识设计注意事项指南](http://aka.ms/azhidcg)。
 
 ## 策略和合规性
 
@@ -255,6 +255,6 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 动态访问控制是文件服务器角色的一种功能，使 IT 具有上表所示的能力。 有关动态访问控制的详细信息，请参阅[动态访问控制：方案概述](https://technet.microsoft.com/library/hh831717.aspx)。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 
