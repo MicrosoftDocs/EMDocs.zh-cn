@@ -1,13 +1,28 @@
 ---
+# required metadata
+
 title: 保护公司电子邮件和文档
-ms.custom: na
-ms.reviewer: na
-ms.service: microsoft-intune
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
-ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
+description:
+keywords:
 author: karthikaraman
+manager: swadhwa
+ms.date: 04/28/2016
+ms.topic: article
+ms.prod:
+ms.service:
+ms.technology:
+ms.assetid: 78d8368e-1bfe-4ac4-991d-467321a76ed7
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+ms.reviewer:
+ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
+
 ---
 
 # 保护企业电子邮件和文档
@@ -35,7 +50,7 @@ author: karthikaraman
 ## 高级最终用户体验
 实现解决方案之后，最终用户将只能在托管且合规的设备上访问公司电子邮件。 一旦他们能够在设备上访问电子邮件，公司数据便受到保护并且包含在应用生态系统内，只能由预期用户使用。 如果设备不合规，则可以随时撤消访问权限。
 
-具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 权限管理服务可以用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验的更详细描述，请参阅[条件访问的最终用户体验](../Solutions/end-user-experience-conditional-access.md)。
+具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 权限管理服务可以用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验更详细的描述，请参阅[条件访问的最终用户体验](end-user-experience-conditional-access.md)。
 
 
 观看 [这段](https://www.youtube.com/watch?feature=player_embedded&v=lYx3YIezccg) 四分钟的视频，了解条件性访问会如何影响最终用户。
@@ -109,9 +124,9 @@ Azure AD 或 Exchange 无需复杂的体系结构设置即可实现此目标。 
 设备被评定为已注册且合规后，几分钟内即会进行电子邮件同步。
 
 ## 后续步骤
-现在，你已了解如何保护企业电子邮件和文档，你可以阅读有关如何[保护电子邮件附件](../Solutions/protect-email-attachments.md)的信息。 或者，如果你已准备好，可详细了解如何[实现保护你的企业电子邮件的解决方案](../Solutions/implement-solution.md)。
+你已了解了保护企业电子邮件和文档的相关内容，现在可以阅读有关如何[保护电子邮件附件](protect-email-attachments.md)的详细信息。 或者，如果你已准备好了，则可详细了解如何[实现保护你的企业电子邮件的解决方案](implement-solution.md)。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

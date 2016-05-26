@@ -28,7 +28,7 @@ ms.suite: ems
 # 企业移动性套件的 FastTrack 中心权益流程 – Microsoft 的职责
 以下各部分描述了当你的组织使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，你可以预期 Microsoft 所能提供的结果。
 
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+若要了解有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md).
 
 
 ## 常规
@@ -124,7 +124,7 @@ ms.suite: ems
 
 -   对于目标为联合标识的单林：根据需要安装并配置 Active Directory 联合身份验证服务 (AD FS)，以在单个站点、容错配置中使用 Microsoft Azure AD Premium 对本地域进行身份验证。
 
-    > [!NOTE] 对于所有多林配置，AD FS 部署不在讨论范围内。
+    > [!NOTE] 对于多林配置，AD FS 部署不在讨论范围内。
 
 -   如果已部署单一登录 (SSO)，请测试其功能。
 
@@ -169,7 +169,7 @@ ms.suite: ems
 
     -   如果拥有 System Center Configuration Manager 的现有实施，且想要使用 Microsoft Intune 扩展其管理功能，则将 Configuration Manager 设置为你的 MDM 机构。
 
-        > [!NOTE] 如果你只希望对最终用户拥有的设备、共享或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
+        > [!NOTE] 如果只希望对最终用户拥有的设备、共享或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
 
 -   如果移动设备管理在你的作用域中，我们将提供以下方面的指导：
 
@@ -239,16 +239,13 @@ ms.suite: ems
 
 -   为 Windows 和非 Windows 设备设置 RMS 共享应用程序。
 
-
->[!div class="step-by-step"]
-[FastTrack 阶段](fasttrack-center-benefit-process-for-ems-phases.md)
-[客户 FastTrack 职责](fasttrack-center-benefit-process-for-ems-your-responsibilitiesmd)
+请阅读有关 FastTrack 载入流程的下一部分：[客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
 
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 

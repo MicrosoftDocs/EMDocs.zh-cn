@@ -11,14 +11,14 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
+ms.assetid: 0b5e4330-6fa5-445c-b73e-86ce5b9c7964
 
 # optional metadata
 
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: 
+ms.reviewer:
 ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:
@@ -33,53 +33,53 @@ ms.suite: ems
 
 1.  当用户尝试访问电子邮件时，会收到类似于此示例的隔离电子邮件：
 
-    ![](./media/ProtectEmail/EUX-Android-quarantine-Email.png)
+    ![显示用户在 Android 设备上接收到的隔离电子邮件的屏幕截图](./media/ProtectEmail/EUX-Android-quarantine-Email.png)
 
-    用户单击“立即开始” **** 以开始注册其设备。
+    用户单击“立即开始”  以开始注册其设备。
 
     > [!NOTE]
     > 如果用户没有为其设备设置默认浏览器，则系统会在设备注册过程中和注册激活过程中提示用户允许用于打开浏览器窗口的链接。 出现提示时，他们必须每次选择相同浏览器，否则注册过程会失败。
 
 2.  系统会提示用户从相应的应用商店安装 Intune 公司门户应用。
 
-    ![](./media/ProtectEmail/EUX-Android-Portal.png)
+    ![显示 Android 设备上 Intune 公司门户的屏幕截图](./media/ProtectEmail/EUX-Android-Portal.png)
 
     安装之后，用户会打开该应用并使用其公司凭据进行登录。
 
-3.  在“公司访问设置”屏幕上，用户单击“开始” **** 以开始设置其设备并检查它是否合规。
+3.  在“公司访问设置”屏幕上，用户单击“开始”  以开始设置其设备并检查它是否合规。
 
-    ![](./media/ProtectEmail/EUX-Android-company-Access-Setup.PNG)
+    ![显示 Android 设备上“公司访问设置”屏幕的屏幕截图](./media/ProtectEmail/EUX-Android-company-Access-Setup.PNG)
 
-4.  在“设备注册”屏幕上，用户单击“注册” **** 以开始注册其设备。
+4.  在“设备注册”屏幕上，用户单击“注册”  以开始注册其设备。
 
-    ![](./media/ProtectEmail/EUX-Android-device-Enroll.png)
+    ![显示 Android 设备上“设备注册”屏幕的屏幕截图](./media/ProtectEmail/EUX-Android-device-Enroll.png)
 
-5.  用户必须在出现提示时通过单击“激活” **** 来激活设备管理员，否则设备注册过程会取消。
+5.  用户必须在出现提示时通过单击“激活”  来激活设备管理员，否则设备注册过程会取消。
 
-    ![](./media/ProtectEmail/EUX-Android-activate-DeviceAdmin.PNG)
+    ![显示用户必须在 Android 设备上激活设备管理员的屏幕截图](./media/ProtectEmail/EUX-Android-activate-DeviceAdmin.PNG)
 
     设备注册开始。 根据设备，可能会在注册过程中出现证书安装提示或 Samsung KNOX 隐私策略提示。 为使你（即 IT 管理员）可以远程管理设备，这些是必需的。 设备会注册到 Intune，并通过 Azure Active Directory 建立设备标识。
 
-    ![](./media/ProtectEmail/EUX-Android-enrolling-Device.png)
+    ![显示 Android 设备上开始设备注册的屏幕截图](./media/ProtectEmail/EUX-Android-enrolling-Device.png)
 
-6.  注册成功完成之后，用户单击“继续” **** 以开始在设备上检查合规性。
+6.  注册成功完成之后，用户单击“继续”  以开始在设备上检查合规性。
 
-    ![](./media/ProtectEmail/EUX-Android-enroll-Success.png)
+    ![显示 Android 设备上设备注册成功的屏幕截图](./media/ProtectEmail/EUX-Android-enroll-Success.png)
 
-    如果存在合规性问题，则系统会提示用户解决问题（如创建有效密码），然后单击“检查法规遵从性” **** 以继续。
+    如果存在合规性问题，则系统会提示用户解决问题（如创建有效密码），然后单击“检查法规遵从性”  以继续。
 
-    ![](./media/ProtectEmail/EUX-Android-resolve-Compliance-Issues.png)
+    ![显示用户必须解决 Android 设备合规性问题的屏幕截图](./media/ProtectEmail/EUX-Android-resolve-Compliance-Issues.png)
 
-7.  设备完全合规之后，用户单击“继续” **** 以启动注册激活。 这会将 AAD 设备标识与 Exchange 提供的 EAS ID 相连接。
+7.  设备完全合规之后，用户单击“继续”  以启动注册激活。 这会将 AAD 设备标识与 Exchange 提供的 EAS ID 相连接。
 
     > [!NOTE]
     > 在 Android 上，默认浏览器会在注册激活过程中出现几秒钟。 如果用户尚未选择默认浏览器，则系统会提示他们选择浏览器。 完成公司访问设置时，用户在每次出现提示时必须选择相同浏览器。
 
-    ![](./media/ProtectEmail/EUX-Android-compliance-Successful.PNG)
+    ![显示 Android 设备合规的屏幕截图](./media/ProtectEmail/EUX-Android-compliance-Successful.PNG)
 
-8.  注册激活将完成，用户单击“完成” **** 以退出注册和合规性验证过程。
+8.  注册激活将完成，用户单击“完成”  以退出注册和合规性验证过程。
 
-    ![](./media/ProtectEmail/EUX-Android-all-Successful2.PNG)
+    ![显示 Android 设备上完成公司访问设置的屏幕截图](./media/ProtectEmail/EUX-Android-all-Successful2.PNG)
 
     注册了用户且验证了合规性之后，应该在几分钟内可访问电子邮件。
 
@@ -87,7 +87,7 @@ ms.suite: ems
 
 1.  首先，验证其设备是否已注册。 如果未注册，则用户执行以上步骤。
 
-2.  通过单击“检查法规遵从性” ****来验证设备是否合规。 如果发现合规性错误，则用户可以遵循特定于其移动设备的有关如何解决错误（如重置其密码）的说明。
+2.  通过单击“检查法规遵从性” 来验证设备是否合规。 如果发现合规性错误，则用户可以遵循特定于其移动设备的有关如何解决错误（如重置其密码）的说明。
 
 3.  致电技术支持。
 
@@ -98,20 +98,20 @@ ms.suite: ems
 
 2.  当用户尝试访问电子邮件时，他们会看到隔离电子邮件，告知他们必须先解决合规性问题，然后才能进行访问。 当用户单击隔离电子邮件中的超链接时，它会将他们重定向到 Intune 公司门户中的“公司访问设置”屏幕（通过默认浏览器和 Google Play），在其中会显示设备不合规。
 
-    ![](./media/ProtectEmail/EUX-Android-outOfCompliance.png)
+    ![显示 Android 设备变得不合规的屏幕截图](./media/ProtectEmail/EUX-Android-outOfCompliance.png)
 
-3.  用户单击“继续” **** ，会向其显示阻止访问电子邮件的合规性问题。
+3.  用户单击“继续”  ，会向其显示阻止访问电子邮件的合规性问题。
 
-    ![](./media/ProtectEmail/EUX-Android-resolve-Compliance-Issues.png)
+    ![显示用户必须解决 Android 设备合规性问题的屏幕截图](./media/ProtectEmail/EUX-Android-resolve-Compliance-Issues.png)
 
-4.  在他们解决了问题之后，他们会单击“检查法规遵从性” **** 以验证是否解决了问题。
+4.  在他们解决了问题之后，他们会单击“检查法规遵从性”  以验证是否解决了问题。
 
-5.  如果问题得到解决，则用户单击“继续” **** 以完成该过程。 应在几分钟内可再次访问电子邮件。
+5.  如果问题得到解决，则用户单击“继续”  以完成该过程。 应在几分钟内可再次访问电子邮件。
 
 ### 后续步骤
-最终用户体验在其他移动设备上会稍有不同。 你可以了解有关 [iOS](../Solutions/end-user-experience-conditional-access-ios.md) 和 [Windows Phone](../Solutions/end-user-experience-conditional-access-winphone.md) 最终用户体验的更多信息。
+最终用户体验在其他移动设备上会稍有不同。 你可以了解有关 [iOS](end-user-experience-conditional-access-ios.md) 和 [Windows Phone](end-user-experience-conditional-access-winphone.md) 的最终用户体验的详细信息。
 
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Apr16_HO4-->
 
 
