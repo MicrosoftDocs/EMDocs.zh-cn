@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/a29d18916f0fc449a71170c62039ab3ff9079ff2/EMDocs/index.md) | OutofSyncHandedBackSuccess | [Details](#fcbba5fdad7470d36e6d0fff0b6671060a33e06e59)
 
 ## Item Details
-##### <a name='fcbba5fdad7470d36e6d0fff0b6671060a33e06e59'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/a29d18916f0fc449a71170c62039ab3ff9079ff2/EMDocs/index.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/2db2f334140ffbbf0ed6e1c9613847aaa7521d22/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Handoff Datetime: 2016-05-27 18:01:15
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/977ae96bcb32298a75fbb06b2a6d431976f1c23d/EMDocs/index.md)
-* Current Handback File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/52a45f91bce6e9e5cf82c4b78dd6b3ba28d8c4f7/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
-* Current Handback Datetime: 2016-05-26 11:59:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
