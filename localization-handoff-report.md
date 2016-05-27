@@ -6,22 +6,22 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md](https://github.com/Microsoft/EMDocs-pr/blob/901c43b6d4a96e1403b5ebd7c53720f39c231dd5/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-phases.md) | OutofSyncHandedBackSuccess | [Details](#a85f0c8c0513c1cce7a4b817de0cdbbd9ff32cc191)
+ [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/a29d18916f0fc449a71170c62039ab3ff9079ff2/EMDocs/index.md) | OutofSyncHandedBackSuccess | [Details](#fcbba5fdad7470d36e6d0fff0b6671060a33e06e59)
 
 ## Item Details
-##### <a name='a85f0c8c0513c1cce7a4b817de0cdbbd9ff32cc191'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md](https://github.com/Microsoft/EMDocs-pr/blob/901c43b6d4a96e1403b5ebd7c53720f39c231dd5/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-phases.md)
+##### <a name='fcbba5fdad7470d36e6d0fff0b6671060a33e06e59'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/a29d18916f0fc449a71170c62039ab3ff9079ff2/EMDocs/index.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/15791a348c9c0e279ca4a32e1da17432b2f64857/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf)
-* Handoff Datetime: 2016-05-25 16:00:53
+* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/2db2f334140ffbbf0ed6e1c9613847aaa7521d22/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
+* Handoff Datetime: 2016-05-27 18:01:15
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/cbb3b23946ebf55f8f7dcfc988d6aa049cff9106/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-phases.md)
-* Current Handback File: [fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/79980b8833ca7ba10e2dffd94d6fa53577d9c59a/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-phases.fc223ce9feb08741b3340cf27c87d86b74dddef2.zh-cn.xlf)
-* Current Handback Datetime: 2016-04-29 16:14:50
+* Current Target File: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/977ae96bcb32298a75fbb06b2a6d431976f1c23d/EMDocs/index.md)
+* Current Handback File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/52a45f91bce6e9e5cf82c4b78dd6b3ba28d8c4f7/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
+* Current Handback Datetime: 2016-05-26 11:59:00
 * [Back to Top](#report-top)
 
 
