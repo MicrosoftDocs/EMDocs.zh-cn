@@ -1,33 +1,66 @@
 {
+  "2d8c4371a06ab1e006083f91f814028573b46141": [
+    "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
   "def5daadf6869d5af0f3b6025eec48a04d152796": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
+  ],
+  "d00421d4d27d8d8ed5efd29a82ccb9b115802611": [
+    "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
   "94801a7072a6a5211cd98fa80bc11334aafba5b5": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
+  "359f1ee290a3ea63e09a4724496290b359b1a046": [
+    "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
+  ],
   "fcb9b57ff0ada697ebd7a4aa91f089e950e9adf5": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
+  ],
+  "ce1d66225043cafdfb0b7658b288e8e7855c24a1": [
+    "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
   "58dfb42b11edda8700cd7ae33401709775c9adca": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
+  "38ce8928cc9ebca3ac8a092fcb031abbfd989d91": [
+    "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
+  ],
   "7a96c347f073850248b7d12c2abbcf10ea132935": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
+  ],
+  "e2b95366b6459690392afe5cc0acfeec8e47392c": [
+    "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
   "1ada8192acae3225187b5a1c403f33fd488e3e20": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
+  "208b478068e7757673edb76ff6f21b488c4559e2": [
+    "EMDocs\\Solutions\\mdm-email-management-options.md"
+  ],
   "4c6ac267f89cc25652f7f657a05fab91004da7d7": [
     "EMDocs\\Solutions\\mdm-email-management-options.md"
+  ],
+  "3a387d8e83431f5fd3fdd4e7466323f2d768edf1": [
+    "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
   ],
   "d1a4c8e75b74a60b91875f85388a984e8fd3dd14": [
     "EMDocs\\Solutions\\mdm-gather-monitoring-requirements.md"
   ],
+  "7e43f590182e6a2eacfa60114290848de0b24baa": [
+    "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
+  ],
   "a338f9b449551f257b8a55ded74b5775feb6df06": [
     "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
   ],
+  "92b3fcb41ca39e9deb4f04f2ac0d9dd15eb87a8c": [
+    "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
+  ],
   "47cd57aa3fb22482a282dc8bb3446f762f7f6750": [
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
+  ],
+  "68a291a3b26d73f5300251e23bbd214378a5a312": [
+    "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
   ],
   "16b50ff249ba2d88e16bc53aabb6f69b9a863f6e": [
     "EMDocs\\Solutions\\mdm-understand-mdm-lifecycle.md"
@@ -40,6 +73,9 @@
   ],
   "77f50da8a7dfc5a6fae15fa4c3eecab61caa99ab": [
     "EMDocs\\Solutions\\lp_selector.md"
+  ],
+  "453de29d00e5fef9ac210059ea62e07f16f4998a": [
+    "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
   ],
   "588f85c687e63f416bac82e632065f2687092d52": [
     "EMDocs\\Solutions\\mdm-next-steps-and-additional-resources.md"
@@ -55,6 +91,9 @@
   ],
   "130d6e4e8ba30c47e2e4df29e9527e48cd38fb6d": [
     "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
+  ],
+  "ee44a4de3b09d2380bcabaa0380f8e2968184b62": [
+    "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
   ],
   "0721029aec7bf0f47607b6c69f74dcea4f3c0eda": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
@@ -204,14 +243,26 @@
   "88ebdc0082c1aa3e06394313e970d15db4cc3cea": [
     "EMDocs\\Solutions\\byod-summary-and-additional-resources.md"
   ],
+  "8ed67b7a65af582f27c3328c74d99fddd722cf57": [
+    "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
+  ],
   "7f0eed2025625147d0e6c9f236ce2a74fb813d08": [
     "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
+  ],
+  "40fbc4d61c4ccf574f41753bd4795562ccc82be0": [
+    "EMDocs\\Solutions\\mdm-determine-network-requirements.md"
   ],
   "c54180e154caed5b58159dec22651c73b4a944f6": [
     "EMDocs\\Solutions\\mdm-determine-network-requirements.md"
   ],
+  "91d1498db006b387ff524b2b26c715c3a109dd8a": [
+    "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
+  ],
   "1f193851c08d5fae5d3093e0470921e28a04b5b6": [
     "EMDocs\\Solutions\\mdm-develop-saas-mdm-strategy.md"
+  ],
+  "949a049f3cfdae84b0203898f7c0a5f7e38fdb98": [
+    "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
   ],
   "de06585840b60ed19bfdfadb5544b6d7d6776691": [
     "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
@@ -251,6 +302,9 @@
   ],
   "8d2df20d71d83ccd38ef96c84600f234665ab27e": [
     "EMDocs\\Solutions\\mdm-step-3-plan-enhancing-mobile-devices-protection.md"
+  ],
+  "d5e660e87a80b7703a09214b1d1f07e41e8f5483": [
+    "EMDocs\\Solutions\\mdm-identify-saas-connectivity-requirements.md"
   ],
   "41adc6302c98576fadaa4e36b68b8d11fbba8054": [
     "EMDocs\\Solutions\\mdm-identify-saas-connectivity-requirements.md"
