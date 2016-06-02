@@ -4,9 +4,9 @@
 title: 电子邮件管理选项
 description:
 keywords:
-author: robmazz
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
 ms.prod:
 ms.service:
@@ -91,6 +91,6 @@ ms.suite: ems
 - ConfigMgr：启用[电子邮件配置文件](https://technet.microsoft.com/library/dn554227.aspx)和[有条件电子邮件访问](https://technet.microsoft.com/library/dn919655.aspx)
 - Office 365 的 MDM：[移动设备管理功能](https://technet.microsoft.com/library/ms.o365.cc.devicepolicysupporteddevice.aspx)
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Jun16_HO1-->
 
 

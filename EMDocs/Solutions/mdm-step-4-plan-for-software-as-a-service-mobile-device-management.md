@@ -4,9 +4,9 @@
 title: 步骤 4 - 规划软件即服务移动设备管理
 description:
 keywords:
-author: robmazz
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
 ms.prod:
 ms.service:
@@ -45,6 +45,6 @@ ms.suite: ems
 - [制定 SaaS 移动设备管理策略](mdm-develop-saas-mdm-strategy.md)
 - [确定 SaaS 连接要求](mdm-identify-saas-connectivity-requirements.md)
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Jun16_HO1-->
 
 
