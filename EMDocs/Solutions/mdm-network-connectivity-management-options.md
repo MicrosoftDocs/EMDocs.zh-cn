@@ -4,9 +4,9 @@
 title: 网络连接管理选项
 description:
 keywords:
-author: robmazz
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
 ms.prod:
 ms.service:
@@ -36,7 +36,7 @@ ms.suite: ems
 
 [Intune](/Intune/deployuse/vpn-connections-in-microsoft-intune) 和 [ConfigMgr](https://technet.microsoft.com/library/dn261217.aspx) 也可以将 VPN 配置文件直接部署到移动设备，从而让用户无需额外配置或手动操作即可访问内部企业资源。 此外，Intune 还可以将移动设备配置为自动启动基于资源类型或访问方法的 VPN 连接。 但请注意，不同类型的移动设备操作系统执行此操作会有不同的配置要求。
 
-对任务 3 中的问题的回答可以帮助你确定设备要如何连接企业资源。 请注意，目前， <token>Office 365 的 MDM</token> 不支持管理移动设备的无线和 VPN 网络资源。
+对任务 3 中的问题的回答可以帮助你确定设备要如何连接企业资源。 请注意，<token> Office 365 的 MDM</token> 当前不支持管理移动设备的无线和 VPN 网络资源。
 
 下表列出了使用 Intune 独立版和带 ConfigMgr 的 Intune 混合版来管理无线网络和 VPN 网络的优缺点。
 
@@ -77,6 +77,6 @@ Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 - Intune：启用[无线](/Intune/deployuse/wi-fi-connections-in-microsoft-intune)和 [VPN](/Intune/deployuse/vpn-connections-in-microsoft-intune) 配置文件
 - ConfigMgr：启用[无线](https://technet.microsoft.com/library/dn261221.aspx)和 [VPN](https://technet.microsoft.com/library/dn261217.aspx) 配置文件
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Jun16_HO1-->
 
 

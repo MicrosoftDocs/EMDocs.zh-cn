@@ -4,9 +4,9 @@
 title: 确定网络要求
 description:
 keywords:
-author: robmazz
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
 ms.prod:
 ms.service:
@@ -113,8 +113,8 @@ ms.suite: ems
 - 你需要分配用于访问不同网络服务的不同证书吗？ 这是否取决于访问网络的移动设备类型？
 
 >[!TIP]
->请务必记录下每个答案，并了解答案背后的基本原理。 稍后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
+>请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Jun16_HO1-->
 
 

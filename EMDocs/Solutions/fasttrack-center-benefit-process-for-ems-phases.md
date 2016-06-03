@@ -28,7 +28,7 @@ ms.suite: ems
 # 企业移动性套件的 FastTrack 中心权益流程 – 阶段
 当你使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，该流程涉及几个阶段。 以下各部分描述了载入流程的每个阶段。
 
-若要了解有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md).
+若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
 
 
 载入有 4 个主要阶段，如下图中所示：
@@ -83,7 +83,7 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
 -   Azure Multi-Factor Authentication (MFA)
 
--   服务型软件 (SaaS) 应用程序 – 从 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中设置一个 SaaS 应用程序.
+-   服务型软件 (SaaS) 应用程序 – 从 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中设置一个 SaaS 应用程序
 
 -   自助服务组管理 (SSGM)
 
@@ -107,8 +107,7 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
     -   如果拥有 System Center Configuration Manager 的现有实施，且想要使用 Microsoft Intune 扩展其管理功能，则将 Configuration Manager 设置为你的 MDM 机构。
 
-        > [!NOTE]
-        > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
+        > [!NOTE] 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
 
 -   如果移动设备管理在你的作用域中，我们将提供以下方面的指导：
 
@@ -120,7 +119,7 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
         -   条件性访问策略。
 
-        -   电子邮件配置文件部署。
+        -   部署电子邮件、Wi-Fi 和 VPN 配置文件。
 
         -   设置 Microsoft Intune Exchange Connector（如果适用）。
 
@@ -167,10 +166,10 @@ AzRMS 设置包括启用以下功能：
 请阅读有关 FastTrack 载入流程的下一部分：[Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
 
 
 
-<!--HONumber=Apr16_HO5-->
+<!--HONumber=May16_HO4-->
 
 

@@ -4,9 +4,9 @@
 title: 设备预配选项
 description:
 keywords:
-author: robmazz
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
 ms.prod:
 ms.service:
@@ -36,7 +36,7 @@ ms.suite: ems
 
 **使用混合 Intune 和 ConfigMgr 的移动设备的注册过程概述**
 
-1. 使用 <token>Windows Server 2012 R2，引入了名为设备注册的新概念。  用户可以使用工作区加入注册其设备以用于单一登录和访问企业数据。  作为此注册过程的一部分，将在设备上安装证书。 在用户已注册其设备并了解设备管理解决方案后，用户可以获得对原先仅在加入域的电脑上使用的企业资源的访问权限。
+1. 通过 <token>Windows Server 2012 R2，引入了名为设备注册的新概念。  用户可以使用工作区加入注册其设备以用于单一登录和访问企业数据。  作为此注册过程的一部分，将在设备上安装证书。 在用户已注册其设备并了解设备管理解决方案后，用户可以获得对原先仅在加入域的电脑上使用的企业资源的访问权限。
 2. 用户通过[使用公司门户](/Intune/deployuse/enroll-devices-in-microsoft-intune)对要配置以供管理的设备进行注册，之后利用 Microsoft Intune 公司门户不仅可以轻松访问企业应用程序、数据，还能管理他们自己的设备，并在设备丢失、被盗或更换时执行诸如远程擦除等任务。
 3. 根据设备感知（即设备是否已注册）和用户标识，你可以通过 Windows Server 2012 R2 中名为 [Web 应用程序代理](https://technet.microsoft.com/library/dn584107.aspx)的内置功能发布企业资源的访问权限。 如果你正在使用企业移动性套件，你还可以发布使用 Azure AD 应用程序代理的应用程序。 多重身份验证可通过 [Azure Active 身份验证](https://azure.microsoft.com/documentation/articles/multi-factor-authentication-get-started-cloud/)进行使用。
 4. 为了向管理员提供整个环境的统一视图，Intune 中的数据将与在本地和云中提供统一管理的 ConfigMgr 同步。
@@ -87,6 +87,6 @@ ms.suite: ems
 
 有关移动设备注册和预配选项的详细信息，请确保查看在 Intune 中如何[启用移动设备注册](/Intune/deployuse/enroll-devices-in-microsoft-intune)，并将这些要求和步骤与在 ConfigMgr 和 Office 365 的 MDM 中[启用移动设备注册](https://technet.microsoft.com/library/jj884158.aspx)的要求和步骤进行比较。
 
-<!--HONumber=Apr16_HO2-->
+<!--HONumber=Jun16_HO1-->
 
 
