@@ -11,6 +11,9 @@
   "94801a7072a6a5211cd98fa80bc11334aafba5b5": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
+  "e2981aa5b7f7a7813df44db4bd699dbbbd3c500c": [
+    "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
+  ],
   "359f1ee290a3ea63e09a4724496290b359b1a046": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
   ],
@@ -225,6 +228,9 @@
   "88ebdc0082c1aa3e06394313e970d15db4cc3cea": [
     "EMDocs\\Solutions\\byod-summary-and-additional-resources.md"
   ],
+  "e654e802c25d7806536c8192850cab7329fca9bb": [
+    "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
+  ],
   "8ed67b7a65af582f27c3328c74d99fddd722cf57": [
     "EMDocs\\Solutions\\mdm-design-considerations-guide.md"
   ],
@@ -245,6 +251,9 @@
   ],
   "8670e37bc847485053009db781cabac54e9bc922": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
+  "b43a8e20d485c970bb90f4ce619518377423b6db": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
   ],
   "9fbc103fea6184c051f34541dc2e823750ae3792": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
