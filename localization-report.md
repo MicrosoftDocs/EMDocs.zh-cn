@@ -593,11 +593,11 @@
 * Handoff File: [2d08efb791b678300b989ad425dd93e6e077d982.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/2d08efb791b678300b989ad425dd93e6e077d982.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\authoring-in-markdown.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\authoring-in-markdown.md
 * [Back to Top](#report-top)
 
 ##### <a name='e974b636f9cfd1ffecae45f7df4ea93e4d1e1bd114'></a> Source: [contributor-guide\media\break-tables.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/contributor-guide/media/break-tables.png)
@@ -630,11 +630,11 @@
 * Handoff File: [3560ca3350c05a522e09bd1cca4acfc7f3433b11.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/3560ca3350c05a522e09bd1cca4acfc7f3433b11.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\article-metadata.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\article-metadata.md
 * [Back to Top](#report-top)
 
 ##### <a name='79dad577764e71dc6c35f19c50d667e287487e8f17'></a> Source: [contributor-guide\media\content-channels-small.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/content-channels-small.png)
@@ -643,11 +643,11 @@
 * Handoff File: [79dad577764e71dc6c35f19c50d667e287487e8f.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/79dad577764e71dc6c35f19c50d667e287487e8f.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\content-channel-guidance.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\content-channel-guidance.md
 * [Back to Top](#report-top)
 
 ##### <a name='1607e356edc9e92918ffb86d896f488e1c628e3618'></a> Source: [contributor-guide\media\contributetogit.png](https://github.com/Microsoft/EMDocs-pr/blob/b692a11d1fa3dd6654ebf7793279d27e4fb1034c/contributor-guide/media/contributetogit.png)
@@ -656,11 +656,11 @@
 * Handoff File: [1607e356edc9e92918ffb86d896f488e1c628e36.png](https://github.com/Microsoft/EM.handoff/blob/50ca7737e94ec56ddf94d722683e1ccab6034f54/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/1607e356edc9e92918ffb86d896f488e1c628e36.png)
 * Handoff Datetime: 2016-02-26 21:29:37
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\tools-and-setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\tools-and-setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='722b4d4e36c316c9cc964aefddc13792be114a2f19'></a> Source: [contributor-guide\media\discus.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/contributor-guide/media/discus.png)
@@ -681,11 +681,11 @@
 * Handoff File: [a2e03096796b1e06104bde91021f6e29475c2b5a.png](https://github.com/Microsoft/EM.handoff/blob/50ca7737e94ec56ddf94d722683e1ccab6034f54/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/a2e03096796b1e06104bde91021f6e29475c2b5a.png)
 * Handoff Datetime: 2016-02-26 21:29:37
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\tools-and-setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\tools-and-setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='46a0af3dc9b01ac57bf81697c92c611efcdc15a321'></a> Source: [contributor-guide\media\ems-markdown-cheat-sheet.pdf](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/contributor-guide/media/ems-markdown-cheat-sheet.pdf)
@@ -706,11 +706,11 @@
 * Handoff File: [2b30bbf5da82de5798871e5ac645873872bb15ea.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/2b30bbf5da82de5798871e5ac645873872bb15ea.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\tools-and-setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\tools-and-setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='56191f512110bae8fb0b8bdbc6a370850d6ee4a923'></a> Source: [contributor-guide\media\github-icon-replica.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/contributor-guide/media/github-icon-replica.png)
@@ -731,11 +731,11 @@
 * Handoff File: [b9d4b138efb81efaaaf82fc99a255f23f2ef0ab6.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/b9d4b138efb81efaaaf82fc99a255f23f2ef0ab6.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\tools-and-setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\tools-and-setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='d78ec5ab9f103d96cc0b8c0c869110f0276b12dc25'></a> Source: [contributor-guide\media\grey-border-in-paint.png](https://github.com/Microsoft/EMDocs-pr/blob/f05319371ed6309b02f54a6daca7042d6762515d/contributor-guide/media/grey-border-in-paint.png)
@@ -744,11 +744,11 @@
 * Handoff File: [d78ec5ab9f103d96cc0b8c0c869110f0276b12dc.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/d78ec5ab9f103d96cc0b8c0c869110f0276b12dc.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\authoring-in-markdown.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\authoring-in-markdown.md
 * [Back to Top](#report-top)
 
 ##### <a name='781cfb78be55999ba9216b7e3a4c56aeb9b51d0226'></a> Source: [contributor-guide\media\gs13noauth.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/gs13noauth.png)
@@ -757,11 +757,11 @@
 * Handoff File: [781cfb78be55999ba9216b7e3a4c56aeb9b51d02.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/781cfb78be55999ba9216b7e3a4c56aeb9b51d02.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\authoring-in-markdown.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\authoring-in-markdown.md
 * [Back to Top](#report-top)
 
 ##### <a name='95c140f4202e35cf01328e48acb2325c910e8c0427'></a> Source: [contributor-guide\media\helloworldlocal.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/helloworldlocal.png)
@@ -770,11 +770,11 @@
 * Handoff File: [95c140f4202e35cf01328e48acb2325c910e8c04.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/95c140f4202e35cf01328e48acb2325c910e8c04.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\authoring-in-markdown.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\authoring-in-markdown.md
 * [Back to Top](#report-top)
 
 ##### <a name='0c57fad8039fa105a40f9a6f447ed0d3c37c42e928'></a> Source: [contributor-guide\media\ic727360.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/ic727360.png)
@@ -783,11 +783,11 @@
 * Handoff File: [0c57fad8039fa105a40f9a6f447ed0d3c37c42e9.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/0c57fad8039fa105a40f9a6f447ed0d3c37c42e9.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\authoring-in-markdown.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\authoring-in-markdown.md
 * [Back to Top](#report-top)
 
 ##### <a name='a7e1b64ce447ad815525d0000fb9a76e72feeab329'></a> Source: [contributor-guide\media\include.png](https://github.com/Microsoft/EMDocs-pr/blob/f5780d08b000821fd2bc9bb83146ae693a2d0bcb/contributor-guide/media/include.png)
@@ -796,11 +796,11 @@
 * Handoff File: [a7e1b64ce447ad815525d0000fb9a76e72feeab3.png](https://github.com/Microsoft/EM.handoff/blob/224f8b341262f835166dc40ab95e87fa5a23fb75/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/a7e1b64ce447ad815525d0000fb9a76e72feeab3.png)
 * Handoff Datetime: 2016-02-27 00:45:47
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='3ec8512641f8fb7b2fa619c59cf4a9dacd4bf49830'></a> Source: [contributor-guide\media\ms-logo.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/contributor-guide/media/ms-logo.png)
@@ -821,11 +821,11 @@
 * Handoff File: [7292c31d8b011f392c81e2a4d49573aff94094df.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/7292c31d8b011f392c81e2a4d49573aff94094df.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='9f9c9e1b899cf50afec5abf8c24372b41e3c9b8d32'></a> Source: [contributor-guide\media\notes-note.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/notes-note.png)
@@ -834,11 +834,11 @@
 * Handoff File: [9f9c9e1b899cf50afec5abf8c24372b41e3c9b8d.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/9f9c9e1b899cf50afec5abf8c24372b41e3c9b8d.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='caf83ac0135931364a2973d59520b8ed0145c9f033'></a> Source: [contributor-guide\media\notes-tip.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/notes-tip.png)
@@ -847,11 +847,11 @@
 * Handoff File: [caf83ac0135931364a2973d59520b8ed0145c9f0.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/caf83ac0135931364a2973d59520b8ed0145c9f0.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='49ea1ff5469cc6d06b8a04d813d2af4238d66e8934'></a> Source: [contributor-guide\media\notes-warning.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/notes-warning.png)
@@ -860,11 +860,11 @@
 * Handoff File: [49ea1ff5469cc6d06b8a04d813d2af4238d66e89.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/49ea1ff5469cc6d06b8a04d813d2af4238d66e89.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='450c0f68e3f8473716099a76e2bea13452f5323f35'></a> Source: [contributor-guide\media\selector-list.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/selector-list.png)
@@ -873,11 +873,11 @@
 * Handoff File: [450c0f68e3f8473716099a76e2bea13452f5323f.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/450c0f68e3f8473716099a76e2bea13452f5323f.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='a19d1f0c651f1fd944af8c89b1bef5cdde57ba7936'></a> Source: [contributor-guide\media\selectors.png](https://github.com/Microsoft/EMDocs-pr/blob/f07f7d73c5c41f1288103ecd20ea04b2e8941914/contributor-guide/media/selectors.png)
@@ -886,11 +886,11 @@
 * Handoff File: [a19d1f0c651f1fd944af8c89b1bef5cdde57ba79.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/a19d1f0c651f1fd944af8c89b1bef5cdde57ba79.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: contributor-guide\custom-markdown-extensions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: contributor-guide\custom-markdown-extensions.md
 * [Back to Top](#report-top)
 
 ##### <a name='e2e8a3033043af49687d694c126f19f6629cf91837'></a> Source: [contributor-guide\media\table-markdown-1.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/contributor-guide/media/table-markdown-1.png)
@@ -1007,11 +1007,11 @@
 * Handoff File: [84421bf7f4ba657e685239fb27f4798a46485f71.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/84421bf7f4ba657e685239fb27f4798a46485f71.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Sample.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Sample.md
 * [Back to Top](#report-top)
 
 ##### <a name='887febf591b5b91a952a863e8d17e71316b8932b47'></a> Source: [EMDocs\Image\azure_active_directory_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Image/azure_active_directory_icon.png)
@@ -2118,11 +2118,11 @@
 * Handoff File: [84421bf7f4ba657e685239fb27f4798a46485f71.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/84421bf7f4ba657e685239fb27f4798a46485f71.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Sample.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Sample.md
 * [Back to Top](#report-top)
 
 ##### <a name='5eac3f12f94f18d6da8d5191fbc2087b8baa461e135'></a> Source: [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png)
@@ -2143,11 +2143,11 @@
 * Handoff File: [d7641e47928129e58192ac12d9e36cd56c57be4d.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/d7641e47928129e58192ac12d9e36cd56c57be4d.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='0478b1d6b50ed08e780f0de7ba57e26d9a653c70138'></a> Source: [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png)
@@ -2168,11 +2168,11 @@
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='c35f1ea3e19ceb9319688b7b85b0cce91505ebbe140'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v4.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/4-aadp-assess-phase-v4.png)
@@ -2193,11 +2193,11 @@
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='9bed1304e951c05174f2f0c3f745b16b343c5122142'></a> Source: [EMDocs\Solutions\media\ADFS_WinBLue_DRSandWorkplaceJoin.gif](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/ADFS_WinBLue_DRSandWorkplaceJoin.gif)
@@ -2302,11 +2302,11 @@
 * Handoff File: [aabe382609d02cede8900395d3aefa7398234f23.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/aabe382609d02cede8900395d3aefa7398234f23.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\BYOD-Introduction.md, EMDocs\Solutions\BYOD-design-considerations-guide.md, EMDocs\Solutions\byod-design-considerations-guide.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\BYOD-Introduction.md, EMDocs\Solutions\BYOD-design-considerations-guide.md, EMDocs\Solutions\byod-design-considerations-guide.md
 * [Back to Top](#report-top)
 
 ##### <a name='ae128e3fb940d06d4e7f1b88fde3490c3367cb9a151'></a> Source: [EMDocs\Solutions\media\BYOD_Figure2.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure2.png)
@@ -2315,11 +2315,11 @@
 * Handoff File: [ae128e3fb940d06d4e7f1b88fde3490c3367cb9a.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/ae128e3fb940d06d4e7f1b88fde3490c3367cb9a.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\BYOD-User-Device-Reqs.md, EMDocs\Solutions\byod-user-device-reqs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\BYOD-User-Device-Reqs.md, EMDocs\Solutions\byod-user-device-reqs.md
 * [Back to Top](#report-top)
 
 ##### <a name='604041a7552fae3e707a1987c65dbd5ee845e069152'></a> Source: [EMDocs\Solutions\media\BYOD_Figure3.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure3.png)
@@ -2328,11 +2328,11 @@
 * Handoff File: [604041a7552fae3e707a1987c65dbd5ee845e069.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/604041a7552fae3e707a1987c65dbd5ee845e069.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\BYOD-data-access-protection-reqs.md, EMDocs\Solutions\byod-data-access-protection-reqs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\BYOD-data-access-protection-reqs.md, EMDocs\Solutions\byod-data-access-protection-reqs.md
 * [Back to Top](#report-top)
 
 ##### <a name='b2cef36ab9cd1484bafcb96595605fcc83ee960d153'></a> Source: [EMDocs\Solutions\media\BYOD_Figure4.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure4.png)
@@ -2341,11 +2341,11 @@
 * Handoff File: [b2cef36ab9cd1484bafcb96595605fcc83ee960d.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/b2cef36ab9cd1484bafcb96595605fcc83ee960d.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\BYOD-management-reqs.md, EMDocs\Solutions\byod-management-reqs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\BYOD-management-reqs.md, EMDocs\Solutions\byod-management-reqs.md
 * [Back to Top](#report-top)
 
 ##### <a name='75f14a341be8bb330b417b6151f6151de8b0c563154'></a> Source: [EMDocs\Solutions\media\BYOD_Figure5.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure5.png)
@@ -2354,11 +2354,11 @@
 * Handoff File: [75f14a341be8bb330b417b6151f6151de8b0c563.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/75f14a341be8bb330b417b6151f6151de8b0c563.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\BYOD-app-reqs.md, EMDocs\Solutions\byod-app-reqs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\BYOD-app-reqs.md, EMDocs\Solutions\byod-app-reqs.md
 * [Back to Top](#report-top)
 
 ##### <a name='7b73c083206500b7d32acb4e06bf0c44088b670b155'></a> Source: [EMDocs\Solutions\media\BYOD_Figure6.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure6.png)
@@ -2367,11 +2367,11 @@
 * Handoff File: [7b73c083206500b7d32acb4e06bf0c44088b670b.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/7b73c083206500b7d32acb4e06bf0c44088b670b.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\BYOD-data-access-and-protection-considerations.md, EMDocs\Solutions\byod-data-access-and-protection-considerations.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\BYOD-data-access-and-protection-considerations.md, EMDocs\Solutions\byod-data-access-and-protection-considerations.md
 * [Back to Top](#report-top)
 
 ##### <a name='8ef051a2ae4b94978521d0bd8c72ff23a30eca53156'></a> Source: [EMDocs\Solutions\media\ECSoln_IntuneStandalone.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/ECSoln_IntuneStandalone.png)
@@ -2440,11 +2440,11 @@
 * Handoff File: [f333254dcf8caec6a8f47f282b8f9e82fed06ddc.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/f333254dcf8caec6a8f47f282b8f9e82fed06ddc.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='f0db5300f58aef37da4c0f87bc02e14cbd2c51f3162'></a> Source: [EMDocs\Solutions\media\fasttrack-intune-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/fasttrack-intune-enable-phase.png)
@@ -2453,11 +2453,11 @@
 * Handoff File: [f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='996dffc75ee4054ec3e0e24301eb2f118b1f16d3163'></a> Source: [EMDocs\Solutions\media\ForwardingSubnets.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/ForwardingSubnets.png)
@@ -2478,11 +2478,11 @@
 * Handoff File: [f85ebf65dea2a2e9a365a9a8890e4ca32aef2426.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/f85ebf65dea2a2e9a365a9a8890e4ca32aef2426.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='fef1b4406ff5870b97ac1c1b570c9ecebed54b88165'></a> Source: [EMDocs\Solutions\media\ft-2-onboarding-phases.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-2-onboarding-phases.png)
@@ -2491,11 +2491,11 @@
 * Handoff File: [fef1b4406ff5870b97ac1c1b570c9ecebed54b88.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fef1b4406ff5870b97ac1c1b570c9ecebed54b88.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='0cf08580770cad9276d9becb0212343f948e3079166'></a> Source: [EMDocs\Solutions\media\ft-3-initiate-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-3-initiate-phase.png)
@@ -2504,11 +2504,11 @@
 * Handoff File: [0cf08580770cad9276d9becb0212343f948e3079.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/0cf08580770cad9276d9becb0212343f948e3079.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='0922facbfff7a8b0d6722cdb0dc59afbdb7eaa92167'></a> Source: [EMDocs\Solutions\media\ft-4-assess-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-4-assess-phase.png)
@@ -2517,11 +2517,11 @@
 * Handoff File: [0922facbfff7a8b0d6722cdb0dc59afbdb7eaa92.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/0922facbfff7a8b0d6722cdb0dc59afbdb7eaa92.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='fcf307e0f15a30a0874c69103fc98b1f6a5fabe5168'></a> Source: [EMDocs\Solutions\media\ft-5-remediate-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-5-remediate-phase.png)
@@ -2530,11 +2530,11 @@
 * Handoff File: [fcf307e0f15a30a0874c69103fc98b1f6a5fabe5.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fcf307e0f15a30a0874c69103fc98b1f6a5fabe5.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='0f3fe832a2802803df8da58c06efa501a39268ee169'></a> Source: [EMDocs\Solutions\media\ft-6-enable-phase-core.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-6-enable-phase-core.png)
@@ -2543,11 +2543,11 @@
 * Handoff File: [0f3fe832a2802803df8da58c06efa501a39268ee.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/0f3fe832a2802803df8da58c06efa501a39268ee.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='774cc4f154abe8f1c2493f98c12e7e5419c581b3170'></a> Source: [EMDocs\Solutions\media\ft-7-enable-phase-aadp.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-7-enable-phase-aadp.png)
@@ -2556,11 +2556,11 @@
 * Handoff File: [774cc4f154abe8f1c2493f98c12e7e5419c581b3.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/774cc4f154abe8f1c2493f98c12e7e5419c581b3.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='e83db56954e7f3b8e434c2172eab19beb57b4b98171'></a> Source: [EMDocs\Solutions\media\ft-8-enable-phase-intune.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-8-enable-phase-intune.png)
@@ -2569,11 +2569,11 @@
 * Handoff File: [e83db56954e7f3b8e434c2172eab19beb57b4b98.png](https://github.com/Microsoft/EM.handoff/blob/69dc641f1f6b1715d6a5301882b4c0bc1cca0a40/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/e83db56954e7f3b8e434c2172eab19beb57b4b98.png)
 * Handoff Datetime: 2016-04-27 21:00:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='27e12097930e9f48914cd12fcf52d17f76d195bf172'></a> Source: [EMDocs\Solutions\media\HYB_ID_1.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/HYB_ID_1.png)
@@ -2762,11 +2762,11 @@
 * Handoff File: [6a11a1e2706c4efd32f958d4f096e0a91bd163e1.png](https://github.com/Microsoft/EM.handoff/blob/aa1339bfbaa6a74d13399b8f5c4f103bcf2450e0/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/6a11a1e2706c4efd32f958d4f096e0a91bd163e1.png)
 * Handoff Datetime: 2016-03-28 21:20:26
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-application-management-options.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-application-management-options.md
 * [Back to Top](#report-top)
 
 ##### <a name='989a623c0d4d648a6411d300d24e7b166b79dcc5187'></a> Source: [EMDocs\Solutions\media\Intune-assess-phase-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/Intune-assess-phase-9-15-15.png)
@@ -2775,11 +2775,11 @@
 * Handoff File: [989a623c0d4d648a6411d300d24e7b166b79dcc5.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/989a623c0d4d648a6411d300d24e7b166b79dcc5.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='468d344e2a354c889a0b77b3f0a7796d27208641188'></a> Source: [EMDocs\Solutions\media\Intune-enable-phase-core-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/Intune-enable-phase-core-9-15-15.png)
@@ -2788,11 +2788,11 @@
 * Handoff File: [468d344e2a354c889a0b77b3f0a7796d27208641.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/468d344e2a354c889a0b77b3f0a7796d27208641.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='2bc0c71f97011edd2d72fb6191548a27ce19949c189'></a> Source: [EMDocs\Solutions\media\Intune-enable-phase-sccm-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/Intune-enable-phase-sccm-9-15-15.png)
@@ -2825,11 +2825,11 @@
 * Handoff File: [f0021622ea4a945d276e049e1f53980ef5bbcb47.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/f0021622ea4a945d276e049e1f53980ef5bbcb47.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='01dceb32e182d5a32c095ee441855d58848f2ef2192'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-phases-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/Intune-onboarding-phases-9-15-15.png)
@@ -2838,11 +2838,11 @@
 * Handoff File: [01dceb32e182d5a32c095ee441855d58848f2ef2.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/01dceb32e182d5a32c095ee441855d58848f2ef2.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='cff679acaea06114e77da7e149b6810504c43b0d194'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15_old.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15_old.png)
@@ -2887,11 +2887,11 @@
 * Handoff File: [e123b9d4bbd388b802592c5e989d9d7c0a37cba1.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/e123b9d4bbd388b802592c5e989d9d7c0a37cba1.png)
 * Handoff Datetime: 2016-03-12 03:50:08
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md, EMDocs\Solutions\mdm-design-considerations-guide.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Mobile-Device-Management-Design-Considerations-Guide.md, EMDocs\Solutions\mdm-design-considerations-guide.md
 * [Back to Top](#report-top)
 
 ##### <a name='1fcc8e21bd2d3e74e6a62014716ca97cfc692327198'></a> Source: [EMDocs\Solutions\media\MDM_Figure_02.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/MDM_Figure_02.png)
@@ -2912,11 +2912,11 @@
 * Handoff File: [859f140412773ac6c7c7f82a6b461d51b882f4b7.png](https://github.com/Microsoft/EM.handoff/blob/a7a2992bb789ce600ed871ff38a2ea3c95f1f08d/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/859f140412773ac6c7c7f82a6b461d51b882f4b7.png)
 * Handoff Datetime: 2016-03-16 23:02:59
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-understand-mdm-lifecycle.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-understand-mdm-lifecycle.md
 * [Back to Top](#report-top)
 
 ##### <a name='64b99a1c8af27bb4266d5ee89c5add679090a873200'></a> Source: [EMDocs\Solutions\media\MDM_Figure_04.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_04.png)
@@ -2925,11 +2925,11 @@
 * Handoff File: [64b99a1c8af27bb4266d5ee89c5add679090a873.png](https://github.com/Microsoft/EM.handoff/blob/4c4714144bee0e2c33cb8859d812aa7d0a703a51/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/64b99a1c8af27bb4266d5ee89c5add679090a873.png)
 * Handoff Datetime: 2016-03-18 13:59:18
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-device-provisioning-options.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-device-provisioning-options.md
 * [Back to Top](#report-top)
 
 ##### <a name='4ed8bad92b41a367b716a3b3af0e808debf6ada1201'></a> Source: [EMDocs\Solutions\media\MDM_Figure_05.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_05.png)
@@ -2938,11 +2938,11 @@
 * Handoff File: [4ed8bad92b41a367b716a3b3af0e808debf6ada1.png](https://github.com/Microsoft/EM.handoff/blob/4c4714144bee0e2c33cb8859d812aa7d0a703a51/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/4ed8bad92b41a367b716a3b3af0e808debf6ada1.png)
 * Handoff Datetime: 2016-03-18 13:59:18
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-device-monitoring-options.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-device-monitoring-options.md
 * [Back to Top](#report-top)
 
 ##### <a name='5bcabf7c79e2d0775758a3d5fa3922aa75bd3814202'></a> Source: [EMDocs\Solutions\media\MDM_Figure_06.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_06.png)
@@ -2951,11 +2951,11 @@
 * Handoff File: [5bcabf7c79e2d0775758a3d5fa3922aa75bd3814.png](https://github.com/Microsoft/EM.handoff/blob/4c4714144bee0e2c33cb8859d812aa7d0a703a51/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/5bcabf7c79e2d0775758a3d5fa3922aa75bd3814.png)
 * Handoff Datetime: 2016-03-18 13:59:18
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-email-management-options.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-email-management-options.md
 * [Back to Top](#report-top)
 
 ##### <a name='3356d764209e01e636eba75f2174a22ca0e94ca6203'></a> Source: [EMDocs\Solutions\media\MDM_Figure_07.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_07.png)
@@ -2964,11 +2964,11 @@
 * Handoff File: [3356d764209e01e636eba75f2174a22ca0e94ca6.png](https://github.com/Microsoft/EM.handoff/blob/4c4714144bee0e2c33cb8859d812aa7d0a703a51/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/3356d764209e01e636eba75f2174a22ca0e94ca6.png)
 * Handoff Datetime: 2016-03-18 13:59:18
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-certificate-management-options.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-certificate-management-options.md
 * [Back to Top](#report-top)
 
 ##### <a name='b7f78c809a3e137d0acbefc0819ffce9de37fa29204'></a> Source: [EMDocs\Solutions\media\MDM_Figure_08.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_08.png)
@@ -2977,11 +2977,11 @@
 * Handoff File: [b7f78c809a3e137d0acbefc0819ffce9de37fa29.png](https://github.com/Microsoft/EM.handoff/blob/65ef95c7c6243dcaa2f4f306316b66e84198ca8b/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/b7f78c809a3e137d0acbefc0819ffce9de37fa29.png)
 * Handoff Datetime: 2016-03-17 21:58:17
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-step-3-plan-enhancing-mobile-devices-protection.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-step-3-plan-enhancing-mobile-devices-protection.md
 * [Back to Top](#report-top)
 
 ##### <a name='e361c053ec94b0bb1df7f369a838afb1f88e2b65205'></a> Source: [EMDocs\Solutions\media\MDM_Figure_09.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_09.png)
@@ -2990,11 +2990,11 @@
 * Handoff File: [e361c053ec94b0bb1df7f369a838afb1f88e2b65.png](https://github.com/Microsoft/EM.handoff/blob/65ef95c7c6243dcaa2f4f306316b66e84198ca8b/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/e361c053ec94b0bb1df7f369a838afb1f88e2b65.png)
 * Handoff Datetime: 2016-03-17 21:58:17
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-data-encryption.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-data-encryption.md
 * [Back to Top](#report-top)
 
 ##### <a name='bc6ea010f15c372098eef559a50343fcc71bc911206'></a> Source: [EMDocs\Solutions\media\MDM_Figure_10.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_10.png)
@@ -3003,11 +3003,11 @@
 * Handoff File: [bc6ea010f15c372098eef559a50343fcc71bc911.png](https://github.com/Microsoft/EM.handoff/blob/65ef95c7c6243dcaa2f4f306316b66e84198ca8b/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/bc6ea010f15c372098eef559a50343fcc71bc911.png)
 * Handoff Datetime: 2016-03-17 21:58:17
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-data-segregation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-data-segregation.md
 * [Back to Top](#report-top)
 
 ##### <a name='3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c207'></a> Source: [EMDocs\Solutions\media\MDM_Figure_11.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_11.png)
@@ -3016,11 +3016,11 @@
 * Handoff File: [3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c.png](https://github.com/Microsoft/EM.handoff/blob/65ef95c7c6243dcaa2f4f306316b66e84198ca8b/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/3d102f7c60df4ec2a61b37bc1d22b2cbdad9be7c.png)
 * Handoff Datetime: 2016-03-17 21:58:17
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-data-segregation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-data-segregation.md
 * [Back to Top](#report-top)
 
 ##### <a name='229fc686019615d0fff176eeceb7db8530e0caf8208'></a> Source: [EMDocs\Solutions\media\MDM_Figure_12.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_12.png)
@@ -3029,11 +3029,11 @@
 * Handoff File: [229fc686019615d0fff176eeceb7db8530e0caf8.png](https://github.com/Microsoft/EM.handoff/blob/d420ca27c24e8ee0384919e69e1aeaac766fc414/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/229fc686019615d0fff176eeceb7db8530e0caf8.png)
 * Handoff Datetime: 2016-03-18 23:25:21
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-hardening-mobile-devices.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-hardening-mobile-devices.md
 * [Back to Top](#report-top)
 
 ##### <a name='6d9d1a6c55c5d580c83fda80193ee1362c6e462c209'></a> Source: [EMDocs\Solutions\media\MDM_Figure_13.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/MDM_Figure_13.png)
@@ -3042,11 +3042,11 @@
 * Handoff File: [6d9d1a6c55c5d580c83fda80193ee1362c6e462c.png](https://github.com/Microsoft/EM.handoff/blob/d420ca27c24e8ee0384919e69e1aeaac766fc414/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/6d9d1a6c55c5d580c83fda80193ee1362c6e462c.png)
 * Handoff Datetime: 2016-03-18 23:25:21
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-access-control-resources.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-access-control-resources.md
 * [Back to Top](#report-top)
 
 ##### <a name='8f770b4a601ba5e2005417fb949ff26d916be936210'></a> Source: [EMDocs\Solutions\media\MDM_Figure_14.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/MDM_Figure_14.png)
@@ -3067,11 +3067,11 @@
 * Handoff File: [ef35bc0ea3385158b47172ac26453847ce4d4552.png](https://github.com/Microsoft/EM.handoff/blob/4c4714144bee0e2c33cb8859d812aa7d0a703a51/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/ef35bc0ea3385158b47172ac26453847ce4d4552.png)
 * Handoff Datetime: 2016-03-18 13:59:18
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\mdm-identify-saas-connectivity-requirements.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\mdm-identify-saas-connectivity-requirements.md
 * [Back to Top](#report-top)
 
 ##### <a name='ac1bd2393bc0f462a95006647c43ddefd6d949bb212'></a> Source: [EMDocs\Solutions\media\MDM_pre-solution_2007.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/MDM_pre-solution_2007.png)
@@ -3116,11 +3116,11 @@
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='26daa6e1884a8ce4de143613028982078df21772216'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-enable-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-enable-phase-1.png)
@@ -3141,11 +3141,11 @@
 * Handoff File: [64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='fec59b8ac1555666e5908fb2674e5f4012577f90218'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-1.png)
@@ -3202,11 +3202,11 @@
 * Handoff File: [d1e213fe38089e6c98e3b9ee3982becd98dd9eb5.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/d1e213fe38089e6c98e3b9ee3982becd98dd9eb5.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Active-Directory-Premium-.md, EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Azure-Rights-Management.md
 * [Back to Top](#report-top)
 
 ##### <a name='22f361ce1f2b313eacd240ef391cb8d9b6068747237'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningLearnAbout.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/MicrosoftIntuneLearningLearnAbout.png)
@@ -3479,11 +3479,11 @@
 * Handoff File: [2e96017cee5dfb3a87d86e56fde978d6260c7ff5.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/2e96017cee5dfb3a87d86e56fde978d6260c7ff5.png)
 * Handoff Datetime: 2016-03-24 17:18:56
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\FastTrack-Center-Benefit-Process-for-Intune.md, EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-phases.md
 * [Back to Top](#report-top)
 
 ##### <a name='cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011246'></a> Source: [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/Mobile Engagement_Gray_150px.png)
@@ -3528,11 +3528,11 @@
 * Handoff File: [1de96d7238974caec298c6a3a88377762aef55b2.png](https://github.com/Microsoft/EM.handoff/blob/015a546abaf0a7c16f95dd4964dd988815c2332a/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/1de96d7238974caec298c6a3a88377762aef55b2.png)
 * Handoff Datetime: 2016-03-15 14:34:32
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\protect-corporate-email-documents.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\protect-corporate-email-documents.md
 * [Back to Top](#report-top)
 
 ##### <a name='02351507eea49372935426f27f2275fcecaa8a18250'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Access-Control-Flow-For-Outlook-App.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Access-Control-Flow-For-Outlook-App.png)
@@ -3541,11 +3541,11 @@
 * Handoff File: [02351507eea49372935426f27f2275fcecaa8a18.png](https://github.com/Microsoft/EM.handoff/blob/015a546abaf0a7c16f95dd4964dd988815c2332a/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/02351507eea49372935426f27f2275fcecaa8a18.png)
 * Handoff Datetime: 2016-03-15 14:34:32
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\protect-corporate-email-documents.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\protect-corporate-email-documents.md
 * [Back to Top](#report-top)
 
 ##### <a name='768b0e9f05d991171b1255ba410cd4911d0db663251'></a> Source: [EMDocs\Solutions\media\ProtectEmail\CADataSheet-Diagram-Apps.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/CADataSheet-Diagram-Apps.png)
@@ -3554,11 +3554,11 @@
 * Handoff File: [768b0e9f05d991171b1255ba410cd4911d0db663.png](https://github.com/Microsoft/EM.handoff/blob/015a546abaf0a7c16f95dd4964dd988815c2332a/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/768b0e9f05d991171b1255ba410cd4911d0db663.png)
 * Handoff Datetime: 2016-03-15 14:34:32
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\protect-email-attachments.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\protect-email-attachments.md
 * [Back to Top](#report-top)
 
 ##### <a name='495a0e184d5b0f7d60292dd23b38e57fdad93e87252'></a> Source: [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-1.png](https://github.com/Microsoft/EMDocs-pr/blob/0194ed2a4c36b6dad96747fbfa6668790095f278/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-1.png)
@@ -3567,11 +3567,11 @@
 * Handoff File: [495a0e184d5b0f7d60292dd23b38e57fdad93e87.png](https://github.com/Microsoft/EM.handoff/blob/1ad37812351bb413d715bb758f90a6bf20b29a79/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/495a0e184d5b0f7d60292dd23b38e57fdad93e87.png)
 * Handoff Datetime: 2016-03-18 17:57:31
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-exchange-online.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-exchange-online.md
 * [Back to Top](#report-top)
 
 ##### <a name='6dc6d327b445e37e8e0a9f52afd82c3342c3101a253'></a> Source: [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2.png](https://github.com/Microsoft/EMDocs-pr/blob/0194ed2a4c36b6dad96747fbfa6668790095f278/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2.png)
@@ -3580,11 +3580,11 @@
 * Handoff File: [6dc6d327b445e37e8e0a9f52afd82c3342c3101a.png](https://github.com/Microsoft/EM.handoff/blob/1ad37812351bb413d715bb758f90a6bf20b29a79/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/6dc6d327b445e37e8e0a9f52afd82c3342c3101a.png)
 * Handoff Datetime: 2016-03-18 17:57:31
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='1dde0f9c701974b72ef12e63ecc4ed76f84f053e254'></a> Source: [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2b.png](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2b.png)
@@ -3605,11 +3605,11 @@
 * Handoff File: [fd7f2b3da02bf77b660fbbae92368d2faf42b772.png](https://github.com/Microsoft/EM.handoff/blob/015a546abaf0a7c16f95dd4964dd988815c2332a/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fd7f2b3da02bf77b660fbbae92368d2faf42b772.png)
 * Handoff Datetime: 2016-03-15 14:34:32
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md
 * [Back to Top](#report-top)
 
 ##### <a name='83827620f471ee512b8b4056b3c06deb5aba666d256'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-activate-DeviceAdmin.PNG](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-activate-DeviceAdmin.PNG)
@@ -3618,11 +3618,11 @@
 * Handoff File: [83827620f471ee512b8b4056b3c06deb5aba666d.PNG](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/83827620f471ee512b8b4056b3c06deb5aba666d.PNG)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='7228339d2ad00502eb81544405759794c5c120e2257'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-all-Successful2.PNG](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-all-Successful2.PNG)
@@ -3631,11 +3631,11 @@
 * Handoff File: [7228339d2ad00502eb81544405759794c5c120e2.PNG](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/7228339d2ad00502eb81544405759794c5c120e2.PNG)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='4141c810edbf342add7c73227f29dd3b4d802673258'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-company-Access-Setup.PNG](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-company-Access-Setup.PNG)
@@ -3644,11 +3644,11 @@
 * Handoff File: [4141c810edbf342add7c73227f29dd3b4d802673.PNG](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/4141c810edbf342add7c73227f29dd3b4d802673.PNG)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='9819b66c89c082253891382f399306e0292e4d22259'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-compliance-Successful.PNG](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-compliance-Successful.PNG)
@@ -3657,11 +3657,11 @@
 * Handoff File: [9819b66c89c082253891382f399306e0292e4d22.PNG](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/9819b66c89c082253891382f399306e0292e4d22.PNG)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='38178f98dd79cc09555ed4f193b91b5bc8cc412d260'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-device-Enroll.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-device-Enroll.png)
@@ -3670,11 +3670,11 @@
 * Handoff File: [38178f98dd79cc09555ed4f193b91b5bc8cc412d.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/38178f98dd79cc09555ed4f193b91b5bc8cc412d.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='13e8aa977383c8046f57db285aedd0b560f447da262'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-enrolling-Device.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-enrolling-Device.png)
@@ -3683,11 +3683,11 @@
 * Handoff File: [13e8aa977383c8046f57db285aedd0b560f447da.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/13e8aa977383c8046f57db285aedd0b560f447da.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='3b43530a1dd1ea5f9bec41982170745c077672ce261'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-enroll-Success.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-enroll-Success.png)
@@ -3696,11 +3696,11 @@
 * Handoff File: [3b43530a1dd1ea5f9bec41982170745c077672ce.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/3b43530a1dd1ea5f9bec41982170745c077672ce.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='00fcb98bc7dc4362f1c54c413d06b80632981b98263'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-outOfCompliance.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-outOfCompliance.png)
@@ -3709,11 +3709,11 @@
 * Handoff File: [00fcb98bc7dc4362f1c54c413d06b80632981b98.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/00fcb98bc7dc4362f1c54c413d06b80632981b98.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='abd04f5c3b5d6b95206c3b9e2d78d4dce517fa6d264'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-Portal.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-Portal.png)
@@ -3722,11 +3722,11 @@
 * Handoff File: [abd04f5c3b5d6b95206c3b9e2d78d4dce517fa6d.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/abd04f5c3b5d6b95206c3b9e2d78d4dce517fa6d.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='c2744ba367b9929d0eed8b0deae75d97a0aa470d265'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-quarantine-Email.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-quarantine-Email.png)
@@ -3735,11 +3735,11 @@
 * Handoff File: [c2744ba367b9929d0eed8b0deae75d97a0aa470d.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/c2744ba367b9929d0eed8b0deae75d97a0aa470d.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='2a37a18a6270d1ef5b73a3d12a91d0b81216f423266'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Android-resolve-Compliance-Issues.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Android-resolve-Compliance-Issues.png)
@@ -3748,11 +3748,11 @@
 * Handoff File: [2a37a18a6270d1ef5b73a3d12a91d0b81216f423.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/2a37a18a6270d1ef5b73a3d12a91d0b81216f423.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-android.md
 * [Back to Top](#report-top)
 
 ##### <a name='b38a1674ba07c788118b742050e6311c55a6b005267'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-check-Compliance.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-check-Compliance.png)
@@ -3761,11 +3761,11 @@
 * Handoff File: [b38a1674ba07c788118b742050e6311c55a6b005.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/b38a1674ba07c788118b742050e6311c55a6b005.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='ab02023366504ef8a9a710222065b975f1419a34268'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-company-AccessSetup.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-company-AccessSetup.png)
@@ -3774,11 +3774,11 @@
 * Handoff File: [ab02023366504ef8a9a710222065b975f1419a34.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/ab02023366504ef8a9a710222065b975f1419a34.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='ac2e71ff4b84f7c86225477d9c83f873d51f4902269'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-compliance-Check-Completed.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-compliance-Check-Completed.png)
@@ -3787,11 +3787,11 @@
 * Handoff File: [ac2e71ff4b84f7c86225477d9c83f873d51f4902.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/ac2e71ff4b84f7c86225477d9c83f873d51f4902.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='8ff856610479e9971341176175663d4703d70815270'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-device-Compliance-Check.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-device-Compliance-Check.png)
@@ -3800,11 +3800,11 @@
 * Handoff File: [8ff856610479e9971341176175663d4703d70815.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/8ff856610479e9971341176175663d4703d70815.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='e72506bd7fa4d1095dc8ef3a1c0a3770489218db271'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-device-Enrollment.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-device-Enrollment.png)
@@ -3813,11 +3813,11 @@
 * Handoff File: [e72506bd7fa4d1095dc8ef3a1c0a3770489218db.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/e72506bd7fa4d1095dc8ef3a1c0a3770489218db.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='107831d0600d893670276d0247ba90a489e966fe272'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-fallOut-Compliance.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-fallOut-Compliance.png)
@@ -3826,11 +3826,11 @@
 * Handoff File: [107831d0600d893670276d0247ba90a489e966fe.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/107831d0600d893670276d0247ba90a489e966fe.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc273'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-Get-Started.PNG](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-Get-Started.PNG)
@@ -3839,11 +3839,11 @@
 * Handoff File: [04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc.PNG](https://github.com/Microsoft/EM.handoff/blob/a4606c9ed6e2df5498990930d17d4d8f41f0d67b/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/04db2ed2f8e45f7876a299f47dd2d9ea5c8939bc.PNG)
 * Handoff Datetime: 2016-04-15 20:51:38
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='28626b232e24eaa39af284a023205a1423f6090d274'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-iOS-intune-Company-Portal.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-iOS-intune-Company-Portal.png)
@@ -3852,11 +3852,11 @@
 * Handoff File: [28626b232e24eaa39af284a023205a1423f6090d.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/28626b232e24eaa39af284a023205a1423f6090d.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-ios.md
 * [Back to Top](#report-top)
 
 ##### <a name='5e5a32e2b77ebff3d0a230c3003fbb19597ed1d5277'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows10-activating-Enrollment.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows10-activating-Enrollment.png)
@@ -3865,11 +3865,11 @@
 * Handoff File: [5e5a32e2b77ebff3d0a230c3003fbb19597ed1d5.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/5e5a32e2b77ebff3d0a230c3003fbb19597ed1d5.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='4438a2285d0a566feab7ea6c1b1515c09e7d9a6d278'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows11-COMPLETE.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows11-COMPLETE.png)
@@ -3878,11 +3878,11 @@
 * Handoff File: [4438a2285d0a566feab7ea6c1b1515c09e7d9a6d.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/4438a2285d0a566feab7ea6c1b1515c09e7d9a6d.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='e93433442f2c2087d786b65636feaae7d4393dd0279'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows13-resolve-Compliance.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows13-resolve-Compliance.png)
@@ -3891,11 +3891,11 @@
 * Handoff File: [e93433442f2c2087d786b65636feaae7d4393dd0.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/e93433442f2c2087d786b65636feaae7d4393dd0.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='3e26018a2a69b87f1b9801d86d08c84533f25190280'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows14-OutOfCompliance.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows14-OutOfCompliance.png)
@@ -3904,11 +3904,11 @@
 * Handoff File: [3e26018a2a69b87f1b9801d86d08c84533f25190.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/3e26018a2a69b87f1b9801d86d08c84533f25190.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='761e7a6954ed910c085e4020286f9fbfbde37493276'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows1-company-Access-Setup.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows1-company-Access-Setup.png)
@@ -3917,11 +3917,11 @@
 * Handoff File: [761e7a6954ed910c085e4020286f9fbfbde37493.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/761e7a6954ed910c085e4020286f9fbfbde37493.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='a0b3c635172d44c77c9114a6b4c529a696e9379d281'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows3-enroll-Device.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows3-enroll-Device.png)
@@ -3930,11 +3930,11 @@
 * Handoff File: [a0b3c635172d44c77c9114a6b4c529a696e9379d.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/a0b3c635172d44c77c9114a6b4c529a696e9379d.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='40eeeb0e98622055aaa13e8addd620625c2ebce9282'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows4-workplaceJoin1.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows4-workplaceJoin1.png)
@@ -3943,11 +3943,11 @@
 * Handoff File: [40eeeb0e98622055aaa13e8addd620625c2ebce9.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/40eeeb0e98622055aaa13e8addd620625c2ebce9.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='377acb93e0b4aaf1b0d37521f733588d58ff64cf283'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows5-workplaceJoin2.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows5-workplaceJoin2.png)
@@ -3956,11 +3956,11 @@
 * Handoff File: [377acb93e0b4aaf1b0d37521f733588d58ff64cf.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/377acb93e0b4aaf1b0d37521f733588d58ff64cf.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='347f36903c2ca384caf4182d4b366d38687f1103284'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows6-checking-Enrollment.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows6-checking-Enrollment.png)
@@ -3969,11 +3969,11 @@
 * Handoff File: [347f36903c2ca384caf4182d4b366d38687f1103.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/347f36903c2ca384caf4182d4b366d38687f1103.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='46a481c3f43f7f323c540d837e62c6f888b35a9a285'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows7-confirm-Device.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows7-confirm-Device.png)
@@ -3982,11 +3982,11 @@
 * Handoff File: [46a481c3f43f7f323c540d837e62c6f888b35a9a.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/46a481c3f43f7f323c540d837e62c6f888b35a9a.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='bd4a5190f12d1beecccfa2816565c4d3f884ae47286'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows9-checking-Compliance.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows9-checking-Compliance.png)
@@ -3995,11 +3995,11 @@
 * Handoff File: [bd4a5190f12d1beecccfa2816565c4d3f884ae47.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/bd4a5190f12d1beecccfa2816565c4d3f884ae47.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='bc448048fe6681f2bc484ca733199f8a8c55abb0275'></a> Source: [EMDocs\Solutions\media\ProtectEmail\EUX-Windows-quarantineEmail.png](https://github.com/Microsoft/EMDocs-pr/blob/99b0c9a443ae4b6a25d7b05c71f8d5e8e1c3468b/EMDocs/Solutions/media/ProtectEmail/EUX-Windows-quarantineEmail.png)
@@ -4008,11 +4008,11 @@
 * Handoff File: [bc448048fe6681f2bc484ca733199f8a8c55abb0.png](https://github.com/Microsoft/EM.handoff/blob/6494ebaafead138387a2e042ec5ce36a97d0dbee/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/bc448048fe6681f2bc484ca733199f8a8c55abb0.png)
 * Handoff Datetime: 2016-03-16 16:56:10
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\End-user-experience-of-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access.md, EMDocs\Solutions\end-user-experience-conditional-access-winphone.md
 * [Back to Top](#report-top)
 
 ##### <a name='4acb3dc7c3580e7bf319b367387423449d38c4f8287'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Exchange-Online-CA-architecture.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Exchange-Online-CA-architecture.png)
@@ -4021,11 +4021,11 @@
 * Handoff File: [4acb3dc7c3580e7bf319b367387423449d38c4f8.png](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/4acb3dc7c3580e7bf319b367387423449d38c4f8.png)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md
 * [Back to Top](#report-top)
 
 ##### <a name='a9398cffc2653d5a4251a95aa42647f8a197e4d4288'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-on-prem-CA-architecture.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-on-prem-CA-architecture.png)
@@ -4034,11 +4034,11 @@
 * Handoff File: [a9398cffc2653d5a4251a95aa42647f8a197e4d4.png](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/a9398cffc2653d5a4251a95aa42647f8a197e4d4.png)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='00f6c80457b1d64bb088936747ac26ec93f83c5a289'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Onprem-Eas-DiscLog-Sample.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Onprem-Eas-DiscLog-Sample.png)
@@ -4047,11 +4047,11 @@
 * Handoff File: [00f6c80457b1d64bb088936747ac26ec93f83c5a.PNG](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/00f6c80457b1d64bb088936747ac26ec93f83c5a.PNG)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='31469f3df0b9951cb42496e8adf072ea60748c11290'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Onprem-ExchSrvr-Wizard6.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Onprem-ExchSrvr-Wizard6.png)
@@ -4060,11 +4060,11 @@
 * Handoff File: [31469f3df0b9951cb42496e8adf072ea60748c11.PNG](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/31469f3df0b9951cb42496e8adf072ea60748c11.PNG)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-exchange.md, EMDocs\Solutions\conditional-access-intune-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-exchange.md, EMDocs\Solutions\conditional-access-intune-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='2508565ee350f44535945187882b18356955bb59291'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Onprem-Run-FullSync.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Onprem-Run-FullSync.png)
@@ -4073,11 +4073,11 @@
 * Handoff File: [2508565ee350f44535945187882b18356955bb59.png](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/2508565ee350f44535945187882b18356955bb59.png)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='1d2a8737299ec8316484218a22931eca82a39d0c292'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Onprem-Verify-Devices-State.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Onprem-Verify-Devices-State.png)
@@ -4086,11 +4086,11 @@
 * Handoff File: [1d2a8737299ec8316484218a22931eca82a39d0c.png](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/1d2a8737299ec8316484218a22931eca82a39d0c.png)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='d3c779deba937feff2e602fa78cfc3cf2c2d1151293'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Reports-CA.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Reports-CA.png)
@@ -4099,11 +4099,11 @@
 * Handoff File: [d3c779deba937feff2e602fa78cfc3cf2c2d1151.png](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/d3c779deba937feff2e602fa78cfc3cf2c2d1151.png)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='3c17bb0e80792952c86ce97f9b623cd85518001f294'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Hybrid-Reports-Deployment-Status.png](https://github.com/Microsoft/EMDocs-pr/blob/7f7f39751b4ba314fede7699c813ff4eb34d346b/EMDocs/Solutions/media/ProtectEmail/Hybrid-Reports-Deployment-Status.png)
@@ -4112,11 +4112,11 @@
 * Handoff File: [3c17bb0e80792952c86ce97f9b623cd85518001f.png](https://github.com/Microsoft/EM.handoff/blob/3c746156f34a8a20560f0626f0d5ba8e476b23ef/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/3c17bb0e80792952c86ce97f9b623cd85518001f.png)
 * Handoff Datetime: 2016-03-16 14:55:37
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\v-craic_test_Use-conditional-access-with-Intune-and-Configuration-Manager.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md, EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md
 * [Back to Top](#report-top)
 
 ##### <a name='49427494881cb50b4baadf18311da0f9744f6c43295'></a> Source: [EMDocs\Solutions\media\ProtectEmail\intune-sa-6blocked-devices.PNG](https://github.com/Microsoft/EMDocs-pr/blob/0194ed2a4c36b6dad96747fbfa6668790095f278/EMDocs/Solutions/media/ProtectEmail/intune-sa-6blocked-devices.PNG)
@@ -4125,11 +4125,11 @@
 * Handoff File: [49427494881cb50b4baadf18311da0f9744f6c43.PNG](https://github.com/Microsoft/EM.handoff/blob/1ad37812351bb413d715bb758f90a6bf20b29a79/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/49427494881cb50b4baadf18311da0f9744f6c43.PNG)
 * Handoff Datetime: 2016-03-18 17:57:31
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-exchange.md, EMDocs\Solutions\conditional-access-intune-exchange-online.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\use-conditional-access-with-intune.md.md, EMDocs\Solutions\use-conditional-access-with-intune.md, EMDocs\Solutions\conditional-access-intune-exchange.md, EMDocs\Solutions\conditional-access-intune-exchange-online.md
 * [Back to Top](#report-top)
 
 ##### <a name='5d23feda97afbd203a4d57d0f958baca68438c2c296'></a> Source: [EMDocs\Solutions\media\ProtectEmail\Protecting_your_data.png](https://github.com/Microsoft/EMDocs-pr/blob/0d597abfd03d1e5a5b148e72441b459e4535bfae/EMDocs/Solutions/media/ProtectEmail/Protecting_your_data.png)
@@ -4138,11 +4138,11 @@
 * Handoff File: [5d23feda97afbd203a4d57d0f958baca68438c2c.png](https://github.com/Microsoft/EM.handoff/blob/015a546abaf0a7c16f95dd4964dd988815c2332a/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/5d23feda97afbd203a4d57d0f958baca68438c2c.png)
 * Handoff Datetime: 2016-03-15 14:34:32
 * Handoff Reason: IsDependency
+* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: EMDocs\Solutions\Architecture-guidance-for-protecting-company-email-and-documents.md, EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md
 * [Back to Top](#report-top)
 
 ##### <a name='4462c0d06e2d8b59588d001b2a89dc36ac7dedf8297'></a> Source: [EMDocs\Solutions\media\SM_Solutions_MSITVideoImage.JPG](https://github.com/Microsoft/EMDocs-pr/blob/3fc94dd3cf03077f5cdc11815d66b2702c64b54c/EMDocs/Solutions/media/SM_Solutions_MSITVideoImage.JPG)
