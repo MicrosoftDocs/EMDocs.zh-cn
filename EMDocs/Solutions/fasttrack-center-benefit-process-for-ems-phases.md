@@ -4,8 +4,8 @@
 title: 企业移动性套件的 FastTrack 中心权益流程 – 阶段
 description:
 keywords:
-author: 
-manager: swadhwa
+author: staciebarker
+manager: jeffgilb
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod:
@@ -170,6 +170,6 @@ AzRMS 设置包括启用以下功能：
 
 
 
-<!--HONumber=May16_HO4-->
+<!--HONumber=Jun16_HO1-->
 
 

@@ -4,8 +4,8 @@
 title: 企业移动性套件 (EMS) 的 FastTrack 中心权益
 description:
 keywords:
-author: 
-manager: swadhwa
+author: staciebarker
+manager: jeffgilb
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod:
@@ -26,7 +26,7 @@ ms.suite: ems
 ---
 
 # 企业移动性套件 (EMS) 的 FastTrack 中心权益流程
-如果你的组织符合享受 EMS 的 FastTrack 中心权益的条件，则你可以与 Microsoft 专家一同远程准备 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理，使其可供使用。 若要确定你的组织是否符合条件，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md).
+如果你的组织符合享受 EMS 的 FastTrack 中心权益的条件，则你可以与 Microsoft 专家一同远程准备 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理，使其可供使用。 若要确定你的组织是否符合条件，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
 
 
 FastTrack 中心权益流程的构成要素包括： 
@@ -60,10 +60,10 @@ FastTrack 中心权益流程的构成要素包括：
 阅读有关 FastTrack 载入流程的下一部分：[载入流程概述](fasttrack-center-benefit-process-for-ems-overview.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx).
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
 
 
 
-<!--HONumber=Apr16_HO4-->
+<!--HONumber=Jun16_HO1-->
 
 
