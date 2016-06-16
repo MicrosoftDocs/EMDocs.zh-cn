@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "04f4a0a367f2a376ea67cf01cbe550bedbacdd27",
+  "LastProcessedCommit": "2a127ee6b60d3ba88401eeb9936da668d34b9bde",
   "LastTranslatedCommit": "f2d4638f4d4de7935343a1fdc5c9b5f05a3ae611",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -32393,6 +32393,40 @@
       "ArchiveFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\archive\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.d38cb185a0d9f2f3fc5e75af3eaee5c385a63d14.zh-cn.xlf",
       "ArchiveFileCommit": "15ff7a582d1a3caa7a4e7c9e238e975189108a37",
       "ArchiveFileDateTime": "2016-06-09T00:35:02.0070186Z",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "22bb62ab2ba5d0c3f36cccbb0a12b3a8cab8e609": {
+      "FileHash": "22bb62ab2ba5d0c3f36cccbb0a12b3a8cab8e609",
+      "SourceFileCommit": "7ba1b97328f25203cbdfd86c654337cc0e2c7ab3",
+      "SourceFilePath": "EMDocs\\subscription-might-include-downloadable-software.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\subscription-might-include-downloadable-software.md"
+      ],
+      "HasMetadata": true,
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\subscription-might-include-downloadable-software.b76f8a50c3b251f698496d464fbc73275ec9ff8e.zh-cn.xlf",
+      "HandoffFileCommit": "7fc042e5f882aa2a59ff97533149a8343b345baf",
+      "HandoffDateTime": "2016-06-16T22:23:43.038992Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
