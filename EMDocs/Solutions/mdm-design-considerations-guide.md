@@ -50,7 +50,9 @@ ms.suite: ems
  
 本指南详细介绍一系列你应该遵循的步骤，以协助你设计满足你的组织的独特要求的自定义 MDM 解决方案。 在以下步骤和任务中，本指南涵盖了你可用于满足 MDM 的功能和服务质量级别要求的相关技术和功能选项。 
 
-尽管本指南可帮助你设计 MDM 解决方案，但它不讨论管理解决方案的具体实现或操作选项。 你可以使用位于本指南末尾的**后续步骤和其他资源**部分中提供的链接在 docs.microsoft.com 和 TechNet 库中查找[ Microsoft Intune ](/Intune/)、[适用于 Office 365 的移动设备管理](https://technet.microsoft.com/library/ms.o365.cc.devicepolicy.aspx)和 [Microsoft System Center Configuration Manager](https://technet.microsoft.com/library/cc507089.aspx) 的部署和配置步骤。
+尽管本指南可帮助你设计 MDM 解决方案，但它不讨论管理解决方案的具体实现、操作选项或如何从现有第三方 MDM 解决方案迁移。 你可以使用位于本指南末尾的**后续步骤和其他资源**部分中提供的链接在 docs.microsoft.com 和 TechNet 库中查找 [Microsoft Intune](/Intune/)、[适用于 Office 365 的移动设备管理](https://technet.microsoft.com/library/ms.o365.cc.devicepolicy.aspx)和 [Microsoft System Center Configuration Manager](https://technet.microsoft.com/library/cc507089.aspx) 的详细部署和配置步骤。
+
+你还可以在[此处](https://blogs.technet.microsoft.com/intunesupport/2016/02/10/new-guide-on-how-to-migrate-from-other-mdm-technologies-to-microsoft-intune/)查找关于如何从其他 MDM 解决方案迁移到 Microsoft Intune 的指导。
 
 **假设：**具有使用 Microsoft Intune、System Center 2012 R2 Configuration Manager (ConfigMgr)、Windows Server 2012 R2 和运行 Android、iOS 和 Windows Phone 的移动设备的经验。 你可能在初始 MDM 测试或有限生成环境中部署过其中一个解决方案。 在本指南中，我们假设你正在查找这些解决方案如何单独或在集成的解决方案中满足你的业务需求。
 
