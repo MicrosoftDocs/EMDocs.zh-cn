@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a098765ed9eeb59a91ea85538a7ec10c7bef488d",
+  "LastProcessedCommit": "2bb2cb00e74cfbd9954dc5bb2e23ae3caad22f11",
   "LastTranslatedCommit": "556187cb4a0d86d5e97cd749a337e14988235d10",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -32651,6 +32651,40 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\TOC.e29f8b07f05eb535130e3e140ad0aff9a4134726.zh-cn.xlf",
       "HandoffFileCommit": "bc25be4f59389878b44d59d86a3ecbdd51aa54d5",
       "HandoffDateTime": "2016-06-22T18:26:22.4105093Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "2086870cbad8d5981f461793857cb62f49ce230b": {
+      "FileHash": "2086870cbad8d5981f461793857cb62f49ce230b",
+      "SourceFileCommit": "e10a2cb8001935d27c54689230385528df9c8caf",
+      "SourceFilePath": "EMDocs\\index.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\index.md"
+      ],
+      "HasMetadata": true,
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf",
+      "HandoffFileCommit": "5d5e282f97ca4fe98220aea2caf2d1a711fbbc50",
+      "HandoffDateTime": "2016-06-23T18:26:10.0475616Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
