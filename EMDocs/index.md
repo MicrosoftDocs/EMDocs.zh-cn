@@ -21,12 +21,12 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
     <section id="hero-content" class="graph">
         <h1>Microsoft 企业移动性文章</h1>
         <h2>欢迎使用 Microsoft 企业移动性的技术文档。 这些文档将帮助你了解并探索企业移动性中的解决方案和产品，助你服务入门以及计划你的实现。 你还可以找到有助于部署和使用服务、部署应用程序以及解决问题更深入的技术内容。</h2>
-        <h3>对企业移动性还不熟悉？ <a href="https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx" target="_blank">请访问 Microsoft 企业移动性页面 &rarr;</a></h3>
+        <h3>对企业移动性还不熟悉？ <a href="http://go.microsoft.com/fwlink/?LinkId=816837" target="_blank">请访问 Microsoft 企业移动性页面 &rarr;</a></h3>
     </section>
     <aside class="alert section-border">
         <p>注册企业移动性套件的 30 天试用版</p>
         <ol class="action-list">
-        <li><a href="https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/ems-trial.aspx" target="_blank" class="button-bordered button-translucent">免费试用版</a></li>
+        <li><a href="http://go.microsoft.com/fwlink/?LinkId=816834" target="_blank" class="button-bordered button-translucent">免费试用版</a></li>
         </ol>
     </aside>
     <section id="featured" class="container">
@@ -36,6 +36,7 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
                 <li><a href="/enterprise-mobility/solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems">EMS 的 FastTrack 权益</a></li>
                 <li><a href="/intune/understand-explore/introduction-to-microsoft-intune">什么是 Microsoft Intune？</a></li>
                 <li><a href="/advanced-threat-analytics/understand-explore/what-is-ata">什么是高级威胁分析？</a></li>
+                <li><a href="/active-directory/active-directory-whatis">什么是 Azure Active Directory？</a></li>
             </ul>
             <ul class="column-half">
                 <li><a href="/microsoft-identity-manager/understand-explore/microsoft-identity-manager-2016">什么是 Microsoft Identity Manager？</a></li>
@@ -175,6 +176,6 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 </article>
 
 
-<!--HONumber=May16_HO3-->
+<!--HONumber=Jun16_HO4-->
 
 
