@@ -5,11 +5,17 @@
   "def5daadf6869d5af0f3b6025eec48a04d152796": [
     "EMDocs\\Solutions\\mdm-application-management-options.md"
   ],
+  "fed75819dbc13755b5ef28cbe3abe008d46c8473": [
+    "EMDocs\\Solutions\\mdm-certificate-management-options.md"
+  ],
   "d00421d4d27d8d8ed5efd29a82ccb9b115802611": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
   "94801a7072a6a5211cd98fa80bc11334aafba5b5": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
+  ],
+  "90604329992f8ecb881ac1b83358af16de5b65cb": [
+    "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
   ],
   "e2981aa5b7f7a7813df44db4bd699dbbbd3c500c": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
@@ -20,11 +26,17 @@
   "58dfb42b11edda8700cd7ae33401709775c9adca": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
+  "f543376b1e850c7d6e868c91d942aa8058e11b41": [
+    "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
+  ],
   "38ce8928cc9ebca3ac8a092fcb031abbfd989d91": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
   ],
   "7a96c347f073850248b7d12c2abbcf10ea132935": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
+  ],
+  "8185d89d5be464a902aa56f30f15cc6d8f59dff5": [
+    "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
   "e2b95366b6459690392afe5cc0acfeec8e47392c": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
@@ -40,6 +52,9 @@
   ],
   "7e43f590182e6a2eacfa60114290848de0b24baa": [
     "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
+  ],
+  "675953e58a32e6c609380f10dd19008338a128c5": [
+    "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
   ],
   "92b3fcb41ca39e9deb4f04f2ac0d9dd15eb87a8c": [
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
@@ -276,6 +291,9 @@
   "bfeb1fd4cceacf225093d3a5c2d808ebeb21c825": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
   ],
+  "19ddd4da5796af41b84b979e1382a78856646a6b": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
+  ],
   "dd175d4099997c7d77b4379d71e5a00cac4f3f87": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
@@ -300,6 +318,9 @@
   "41adc6302c98576fadaa4e36b68b8d11fbba8054": [
     "EMDocs\\Solutions\\mdm-identify-saas-connectivity-requirements.md"
   ],
+  "35a01a69e89762da314905c58a4868c6443d32e8": [
+    "EMDocs\\Solutions\\mdm-access-control-resources.md"
+  ],
   "1714d8042f5a4eb6e72c45cf4db12ab24404992c": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
   ],
@@ -309,11 +330,20 @@
   "f21804685d123161b83ba6ba1d4ffe2ad457bded": [
     "EMDocs\\Solutions\\mdm-client-privacy.md"
   ],
+  "b2025b8b3d976b7a14c050c095d199c5a4c73cb8": [
+    "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
   "def6e3c2e3d30ba7e4cc5ed67a26dfc182eee9c8": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
   ],
+  "1a8b4be857a8fede2df37db1eabd7b95cea1dba9": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
+  ],
   "27bb02a1273fc0bef733d5478faaa810f049a803": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
+  ],
+  "8968af180d2006465227853ccfd66ca673a2510c": [
+    "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
   "452adba9b639747c7477c814c1441d463e5515ec": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
@@ -330,8 +360,14 @@
   "b2772f555ac064a286b084c1ef50ef5449083d90": [
     "EMDocs\\Solutions\\conditional-access-intune-configmgr-exchange-online.md"
   ],
+  "6ed28a5ec5449dbca6e4f885dd0fa60bf30c3d91": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
+  ],
   "cc13e4d598898f00da27998814cafda3c75dcef6": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
+  ],
+  "6baacfcd4d929deda383be0331c192ee4e3a9cf4": [
+    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
   ],
   "079886fd536510c948ee32f1c6b927f4f26ceb40": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
