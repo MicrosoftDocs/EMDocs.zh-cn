@@ -300,12 +300,12 @@
  [contributor-guide\media\table-markdown-2.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/contributor-guide/media/table-markdown-2.png) | Ignored | [Details](#7c9f348175dcaa7cf56d65dafa6842a9078fb33d38)
  [contributor-guide\media\table-markdown-3.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/contributor-guide/media/table-markdown-3.png) | Ignored | [Details](#529cf68bafb5f4ea233515c7854844d09acffd8439)
  [contributor-guide\media\table-markdown-4.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/contributor-guide/media/table-markdown-4.png) | Ignored | [Details](#7631dd51141574cd21d737549ef7ab8834267ce540)
- [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/docfx.json) | Ignored | [Details](#3724242d4678f020c97afc354c26051586bc729b45)
+ [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/docfx.json) | Ignored | [Details](#77d496e4eecd02e7a8e0a92208041c4b3433070b45)
  [EMDocs\Image\azure_active_directory_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/azure_active_directory_icon.png) | Ignored | [Details](#887febf591b5b91a952a863e8d17e71316b8932b47)
  [EMDocs\Image\azure_rights_management_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/azure_rights_management_icon.png) | Ignored | [Details](#81ffc650bd7ce3d04eb77d01bcfbe37f26b22bf148)
  [EMDocs\Image\byod_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/byod_dcg_icon.png) | Ignored | [Details](#8d5aeaccaab93cb0b11a1aac837fb9f5118e2e2249)
  [EMDocs\Image\Cloud_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/Cloud_icon.png) | Ignored | [Details](#659713084ea252eb2a14da1f991f82f73dfe0f0b50)
- [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/conditional access_exchange_icon.png) | Ignored | [Details](#e095fb4702c92b961abdb5889f6fa915b53089f351)
+ [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/conditional%20access_exchange_icon.png) | Ignored | [Details](#e095fb4702c92b961abdb5889f6fa915b53089f351)
  [EMDocs\Image\intune_byod_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/intune_byod_icon.png) | Ignored | [Details](#4801d4b24f8c66abc1da68e075962c5cc820f93052)
  [EMDocs\Image\intune_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/intune_icon.png) | Ignored | [Details](#a37eed6927ded3aca957701e4a7f55d818f3d2db53)
  [EMDocs\Image\logo-ms.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/logo-ms.png) | Ignored | [Details](#8245763cd88ee1159f875f092bbae023355f31b254)
@@ -314,7 +314,7 @@
  [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
  [EMDocs\md.style](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda60)
- [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/docfx.json) | Ignored | [Details](#1255d7bb9302b469e6abd164648944b821b8a91581)
+ [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/docfx.json) | Ignored | [Details](#26d957dc68dd6355655bac42b264a21beb44a5ba81)
  [EMDocs\Solutions\md.style](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda99)
  [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e135)
  [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png) | Ignored | [Details](#0478b1d6b50ed08e780f0de7ba57e26d9a653c70138)
@@ -385,7 +385,7 @@
  [EMDocs\Solutions\media\Microsoft-Intune-onboarding-initiate-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Microsoft-Intune-onboarding-initiate-phase-1.png) | Ignored | [Details](#6af57a2acb56416c9aa83b13914a3c2f0531b5b0233)
  [EMDocs\Solutions\media\Microsoft-Intune-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Microsoft-Intune-onboarding-phases-1.png) | Ignored | [Details](#fec59b8ac1555666e5908fb2674e5f4012577f90234)
  [EMDocs\Solutions\media\Microsoft-Intune-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Microsoft-Intune-onboarding-process-1.png) | Ignored | [Details](#e3004e964445eead2fe038024847861048fb82c5235)
- [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Mobile Engagement_Gray_150px.png) | Ignored | [Details](#cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011246)
+ [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Mobile%20Engagement_Gray_150px.png) | Ignored | [Details](#cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011246)
  [EMDocs\Solutions\media\OSD_ECM_Problem.jpg](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/OSD_ECM_Problem.jpg) | Ignored | [Details](#3f3040f1b93a0635196ceaf2d912f51f64fae567247)
  [EMDocs\Solutions\media\OSD_ECM_Solution.jpg](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/OSD_ECM_Solution.jpg) | Ignored | [Details](#24d9051d263fa2040d872264d92aa16afc9d39c4248)
  [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2b.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2b.png) | Ignored | [Details](#1dde0f9c701974b72ef12e63ecc4ed76f84f053e254)
@@ -990,7 +990,7 @@
 * Handback Datetime: 2016-04-29 16:14:50
 * [Back to Top](#report-top)
 
-##### <a name='3724242d4678f020c97afc354c26051586bc729b45'></a> Source: [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/docfx.json)
+##### <a name='77d496e4eecd02e7a8e0a92208041c4b3433070b45'></a> Source: [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1063,7 +1063,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e095fb4702c92b961abdb5889f6fa915b53089f351'></a> Source: [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/conditional access_exchange_icon.png)
+##### <a name='e095fb4702c92b961abdb5889f6fa915b53089f351'></a> Source: [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Image/conditional%20access_exchange_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1432,7 +1432,7 @@
 * Current Handback Datetime: 2016-05-26 11:59:00
 * [Back to Top](#report-top)
 
-##### <a name='1255d7bb9302b469e6abd164648944b821b8a91581'></a> Source: [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/docfx.json)
+##### <a name='26d957dc68dd6355655bac42b264a21beb44a5ba81'></a> Source: [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3505,7 +3505,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011246'></a> Source: [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Mobile Engagement_Gray_150px.png)
+##### <a name='cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011246'></a> Source: [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/f9e76c168b93f752e5e3b6d03ff68065a5a5abeb/EMDocs/Solutions/media/Mobile%20Engagement_Gray_150px.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
