@@ -1,8 +1,8 @@
 ---
 # required metadata
 
-title: 使用条款
-description: Docs.microsoft.com 上文档的使用条款。
+title: Terms of Use
+description: Terms of use for documentation on docs.microsoft.com.
 keywords:
 author: 
 manager: 
@@ -19,116 +19,112 @@ ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 <a name="top"></a>
 ## 接受条款
 
-Microsoft 提供的服务遵循以下使用条款（“TOU”）。 Microsoft 保留随时更新 TOU 的权利，恕不另行通知。 可通过单击位于网页底部的“使用条款”超文本链接查看最新版本的 TOU。
+Microsoft 提供的服务须受以下使用条款（以下简称“TOU”）的约束。微软保留随时更新 TOU 的权利，恕不另行通知。单击网页底部的“使用条款”超文本链接，可查看最新版本的 TOU。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 服务的说明
-通过其对这些 Web 属性的网络，Microsoft 为你提供访问各种资源的权限，包括文档、开发人员工具、下载区域、交流论坛和产品信息（统称“服务”）。 “服务”（包括任何更新、增强功能、新功能和/或添加任何新的 Web 属性）符合 TOU 的规定。
+## 服务说明
+通过其 Web 资产网络，Microsoft 允许您访问各种资源，包括文档、开发人员工具、下载区域、交流论坛和产品信息（以下统称为“服务”）。服务（包括任何更新、增强、新功能和/或增加任何新 Web 资产）都须受 TOU 约束。
 
-[返回页首](#top)
-## 个人和非商业使用限制
-除非另外指定，否则服务只供你个人和非商业使用。  在未事先得到 Microsoft 书面同意的情况下，你不得传输或销售从“服务”获得的任何信息、软件、产品或服务。
+[Top of Page](#top)
+## 个人和非商业用途限制
+除非另有说明，服务只适用于个人与非商业用途。未经 Microsoft 事先书面同意，您不得转让或销售从服务中获取的任何信息、软件、产品或服务。
 
-[返回页首](#top)
+[Top of Page](#top)
 ## 隐私和个人信息保护
-请参阅有关你的信息的收集和使用的[隐私声明](http://www.microsoft.com/privacystatement/en-us/core/default.aspx)披露。
+请参见 [隐私声明](http://www.microsoft.com/privacystatement/en-us/core/default.aspx)，了解有关收集和使用个人信息的披露规则。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 对此网站上提供的软件的特定说明
-可从“服务”下载的任何软件（“软件”）都是受 Microsoft 和/或其供应商版权保护的作品。 A utilização do Software é regida pelos termos do contrato de licença do utilizador final, se aplicável, que acompanham ou se encontram incluídos no Software ("Contrato de Licença"). 只有当最终用户首先同意许可协议条款，他或她才能够安装任何带有或包含许可协议的软件。 链接到此网站或从中引用的第三方脚本或代码由拥有此类代码的第三方（而非 Microsoft）授权给你。 
+## 有关本网站提供的软件的声明
+从服务（以下简称“软件”）下载使用的任何软件均是微软和/或其供应商的版权作品。软件的使用受限于软件随附或包含的最终用户许可协议（以下简称“许可协议”）条款（如果有的话）。如果最终用户没有事先同意许可协议条款，则最终用户将无法安装随附或包括许可协议的任何软件。链接到本网站或通过本网站引用的第三方脚本或代码由拥有此类代码的第三方而不是 Microsoft 向您授予许可。
 
-根据许可协议，该软件仅允许目的在于供最终用户使用的下载。 任何不遵守许可协议而擅自复制或重新分发软件的行为都被法律明确禁止，并可能导致严重的民事及刑事处罚。 违反者将受到最大程度的控告。
+软件只能由最终用户根据许可协议下载并使用。法律明确禁止用户违反许可协议对软件进行任何复制或再分发的行为，这种行为可能导致严重的民事和刑事处罚。违约者将受到最大限度的起诉。
 
-在不限制上述规定的情况下，将软件复制到任何其他服务器或位置以供进一步复制或重新分发的行为是明确禁止的，除非此类复制或重新分发是伴随此类软件的许可协议明确允许的。
+在不影响前述规定的情况下，严禁将软件复制到任何其他服务器或位置以便进一步复制或再分发，但软件随附的许可协议明确允许进行此类复制或再分发的情况除外。
 
-O SOFTWARE ÉGARANTIDO, SE DE TODO, UNICAMENTE DE ACORDO COM OS TERMOS DO CONTRATO DE LICENÇA. 除了许可协议中保证的以外，MICROSOFT CORPORATION 特此否认关于该软件的所有保证和条件，包括对适销性的所有保证和条件（无论明示、默示或法定），适用于某种特定用途、所有权和不侵权的所有保证和条件。 为方便起见，MICROSOFT 可能将供使用和/或下载的工具和实用程序作为“服务”或其软件产品的一部分。 MICROSOFT 不对因使用任何此类工具和实用程序而产生的结果或输出的准确性做保证。 在使用“服务”或 MICROSOFT 软件产品提供的工具和实用程序时，请尊重他人的知识产权。
+软件的保证（如有）仅依照许可协议条款提供。除非许可协议中另有保证，否则微软公司在此排除与软件相关的所有保证和条件，包括所有有关适销性、针对特定目的的适用性、所有权和非侵权的保证和条件，无论是明示、默示或法定保证。为了方便起见，微软可能作为服务的一部分或在其软件产品内提供各种工具和实用程序，供用户使用和/或下载。微软不能保证使用此类工具和实用程序所获得的结果或输出的准确性。在使用服务或微软软件产品提供的工具和实用程序时，请尊重其他人的知识产权。
 
-LEGENDA DE DIREITOS RESTRITOS. 任何从“服务”针对或代表美国、其机构和/或执行部门（“美国政府”）而下载的软件，均提供了“受限权限”。 由美国使用、复制或公开。政府遵循如 DFARS 252.227-7013 技术数据和计算机软件中的权限条款的 (c)(1)(ii) 子段或 48 CFR 52.227-19 商业计算机软件 - 受限权限的 (c)(1) 和 (2) 子段中所述的限制，如果适用的话。 O fabricante tem a designação Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.
+限制权利图例。如果您代表美国、其政府部门和/或机关（以下简称“美国政府”）或者为了它们从服务下载任何软件，这些软件的权利均受限。美国政府在使用、复制或披露这些软件时受限于 DFARS 252.227-7013 中“技术数据和计算机软件权利”条款的第 (c)(1)(ii) 项规定，或者受限于 48 CFR 52.227-19 中“商业计算机软件 － 有限权利”的第 (c)(1) 和 (2) 项规定（如果适用）。制造商是微软公司，One Microsoft Way, Redmond, WA 98052-6399。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 对此网站上提供的文档的特定说明
-某些文档可能受到独立于此处包含的条款的明文许可条款的限制。  条款冲突的程度由明文许可条款控制。
+## 有关本网站提供的文档的声明
+某些文档可能受独立于本协议条款的明确许可条款的约束。如果条款间存在冲突，应以明确的许可条款为准。
 
-MICROSOFT 和/或其各个供应商不对文档和出于任何目的作为“服务”的一部分发布的相关图形中包含的信息的适用性做任何陈述。 所有这些文档和相关图形会“按原样”提供，而无需任何形式的保证。 MICROSOFT 和/或其各个供应商特此否认关于此信息的所有保证和条件，包括对适销性的所有保证和条件（无论明示、默示或法定），适用于某种特定用途、所有权和不侵权的所有保证和条件。 在任何情况下，MICROSOFT 和/或其各个供应商概不对任何特殊、间接或后果性损害或使用损失、数据丢失或利润损失造成的任何损害负责，无论是合同之诉、过失或其他侵权行为，还是从“服务”获得的信息的使用或执行或与之相关的行为而导致该损失。
+对于出于任何目的，而作为该服务的组成部分发布的该文档所含信息和相关图形，微软和/或其供应商没有做出有关其适用性的陈述。所有此类文档和相关图形按“现状”提供，无任何形式的保证。微软和/或其供应商在此拒绝承担有关该信息的所有明示、默示或法定的保证和条件，包括针对适销性、特定用途之适用性、所有权和无侵权行为的保证。对于因使用或执行服务提供的信息引起的或与其相关的使用中断、数据或利润损失，无论是由合同行为、过失或其他侵权行为导致，微软和/或其供应商对由此造成的任何特别的、间接的、后果性损害或任何其他损害概不负责。
 
-“服务”上发布的文档和相关图形可能包括技术错误或排版错误。 我们会定期将更改添加到此处信息。 MICROSOFT 和/或其各个供应商可以随时对文中所述的产品和/或程序进行改进和/或更改。
+本服务发布的文档和相关图形可能会有技术错误或排印错误。此处会定期添加变更信息。微软和/或其供应商可能会随时对此处所述的产品和/或程序进行改进和/或更改。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 有关此网站上提供的软件、文档和服务的说明
-在任何情况下，MICROSOFT 和/或其各个供应商概不对任何特殊、间接或后果性损害或使用损失、数据丢失或利润损失造成的任何损害负责，无论是合同之诉、过失或其他侵权行为，还是软件、文档的使用或执行、服务的提供或未能提供，或从“服务”获得的信息或与之相关的行为而导致该损失。
+## 有关本网站提供的软件、文档和服务的声明
+对于因使用或执行软件、文档、提供或未能提供服务，或者服务提供的信息引起的或与其相关的使用中断、数据或利润损失，无论是由合同行为、过失或其他侵权行为导致，微软和/或其供应商对由此造成的任何特别的、间接的、后果性损害或任何其他损害概不负责。
 
-[返回页首](#top)
+[Top of Page](#top)
 
 ## 成员帐户、密码和安全性
-如果任何“服务”要求你开设帐户，则必须通过向我们提供按适用注册表所提示的完整准确的最新信息来完成注册过程。 你还要选择用户名和密码。 你对你的密码和帐户的保密性的维护负全部责任。 此外，你对发生在你帐户下的任何和所有活动负全部责任。 O Utilizador concorda em notificar imediatamente a Microsoft a respeito de qualquer utilização não autorizada da conta ou qualquer outra violação de segurança. Microsoft 不负责因其他人使用你的密码或帐户而引发的任何损失，无论你是否知情。 No entanto, o Utilizador poderá ser responsabilizado por perdas incorridas pela Microsoft ou por terceiros devido à utilização da sua conta ou palavra-passe por parte de terceiros. O Utilizador não está autorizado a utilizar a conta de qualquer outra pessoa, em momento algum, sem a permissão do titular da conta.
+如果任何服务要求您开设帐户，您必须根据相应注册表上的说明，向我们提供最新的、完整的、准确的相关信息，以便完成注册过程。您还要选择一个密码和用户名。您必须对维护密码和帐户的机密性承担全部责任。此外，您需要对帐户中发生的所有活动承担全部责任。您同意，一旦发现帐户存在未经授权的使用或任何其他不安全的行为，马上向微软通知相关情况。如果其他人在您知情或不知情的情况下使用您的密码或帐户，微软对您因此可能蒙受的任何损失不承担任何责任。然而，如微软或第三方因其他人使用您的帐户或密码而蒙受损失，您则应承担相应责任。在任何时候，未经帐户持有人的同意，您都不得使用其他人的帐户。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 无非法或禁止使用
-作为使用本“服务”的条件，你将不能出于非法或被这些条款、条件和声明禁止的目的使用“服务”。 不得以任何可能损坏、瘫痪、过载或危害任何 Microsoft 服务器或连接到任何 Microsoft 服务器的网络，或干扰任何其他方使用和享有任何“服务”的方式使用本“服务”。 不得通过黑客攻击、密码盗取或任何其他方式试图获得对任何“服务”、其他帐户、计算机系统，或连接到任何 Microsoft 服务器或任何“服务”的网络的未经授权的访问。 不得通过任何方式获取或试图获取未通过本“服务”有意提供的材料或信息。
+## 不得用于非法或禁止的用途
+您在使用服务时，不得将服务用于任何非法用途或这些条款、条件和声明禁止的用途。在使用服务时，不得以任何方式损坏、禁用、过载或妨碍任何微软服务器或连接到任何微软服务器的网络，也不得干扰任何其他用户使用和享有任何服务。您不得尝试通过入侵、密码盗取或任何其他手段擅自使用任何服务、其他帐户、计算机系统或连接到任何微软服务器或任何服务的网络。您不得通过任何手段获取或尝试获取服务未明确提供的任何资料或信息。
 
-[返回页首](#top)
+[Top of Page](#top)
 
 ## 服务的使用
-“服务”可能包含电子邮件服务、公告板服务、聊天区、新闻组、论坛、社区、个人网页、日历、相册、文件柜和/或其他消息或旨在方便你与他人进行通信的通信设施（各自为“通信服务 (Communication Service)”，共同则为“通信服务 (Communication Services)”）。 O Utilizador aceita utilizar os Serviços de Comunicação unicamente para publicar, enviar e receber mensagens e materiais adequados e, quando aplicável, relacionados com o Serviço de Comunicação em questão. A título de exemplo, e não como uma limitação, o Utilizador aceita que, quando utilizar os Serviços de Comunicação, não poderá:
-- Utilizar os Serviços de Comunicação em inquéritos, concursos, esquemas de pirâmide, cartas em cadeia, mensagens de e-mail de lixo, spam ou mensagens duplicadas ou não solicitadas (comerciais ou para outros fins).
-- Difamar, injuriar, assediar, perseguir, ameaçar ou, de outro modo, violar os direitos legais (como, por exemplo, direitos de privacidade e de publicidade) de terceiros.
-- Publicar, colocar, carregar, distribuir ou disseminar tópicos, nomes, materiais ou informações inadequadas, profanas, difamatórias, obscenas, indecentes ou ilegítimas.
-- 上传或以其他方式提供包含图像、照片、软件或其他受知识产权法保护的资料，举例来说，包括但不限于版权法或商标法（或通过隐私权或公开权），除非你拥有或控制对此的权利或已收到执行相同操作所有必要的许可。
-- 使用任何资料或信息，包括图像或照片，它们通过“服务”以侵犯任何版权、商标、专利、商业秘密或任何一方的其他所有权的任何方式提供。
-- Carregar ficheiros que contenham vírus, Trojans, worms, time bombs, cancelbots, ficheiros danificados ou qualquer outro software ou programa semelhante que possa prejudicar o funcionamento do computador ou a propriedade de terceiros.
-- Anunciar ou propor a venda ou compra de bens ou serviços para qualquer fim comercial, a menos que os Serviços de Comunicação em causa permitam especificamente esse tipo de mensagem.
-- Transferir ficheiros publicados por outro utilizador de um Serviço de Comunicação cujo conteúdo sabe ou deveria saber, dentro de limites razoáveis, não poder ser reproduzido, apresentado, executado e/ou distribuído legalmente desta forma.
-- Falsificar ou eliminar informações de gestão de direitos de autor, como, por exemplo, atribuições de autoria, avisos legais ou outros avisos apropriados, ou designações de propriedade ou etiquetas da origem ou proveniência do software ou outro material contido num ficheiro carregado.
-- Limitar ou inibir qualquer outro utilizador de utilizar e desfrutar dos Serviços de Comunicação.
-- Violar os códigos de conduta ou outras diretrizes aplicáveis a qualquer Serviço de Comunicação específico.
-- Recolher informações sobre terceiros, incluindo endereços de e-mail.
-- Violar as leis ou regulamentos aplicáveis.
-- Criar uma falsa identidade com o objetivo de enganar terceiros.
-- 使用、下载或以其他方式复制，或者向个人或实体提供（无论是否出于营利目的）任何“服务”的用户目录或其他用户或使用情况信息或其中任何部分。
+服务可能包括电子邮件服务、公告板服务、聊天区、新闻组、论坛、社区、个人网页、日历、相簿、文件柜和/或其他消息或通信设施，方便您与其他人进行通信（以下统称为“通信服务”）。您同意仅使用通信服务张贴和收发恰当的、与特定通信服务相关（如果适用）的消息和资料。例如，您同意在使用通信服务时，您不会进行（包括但不限于）以下活动：
+- 使用通信服务发送调查、竞赛、传销信息、连锁信、垃圾邮件或者任何复制性或主动提供的消息（商业或其他目的）。
+- 诽谤、辱骂、骚扰、恐吓、威胁其他人或以其他方式侵犯其他人的合法权利（如隐私权和公开权）。
+- 发布、张贴、上传、分发或散布任何不恰当的、亵渎的、诽谤的、猥亵的、下流的或其他非法主题、名称、资料或信息。
+- 上传或以其他方式提供包含受知识产权法（包括但不限于，版权法或商标法）、隐私权或公开权保护的图像、照片、软件或其他资料的文件，但您自己拥有或控制这些权利或者获得所有必要许可的情况除外。
+- 在使用通过服务获取的任何资料或信息（包括图像、照片）时，以任何方式侵犯任何当事方的任何版权、商标、专利、商业秘密或其他专有权。
+- 上传含病毒、木马、蠕虫、定时炸弹、清除器、损坏的文件或者任何类似的、可能损害其他人的计算机或资产的软件或程序。
+- 出于任何商业目的进行广告宣传或者提出销售、购买任何商品或服务，但通信服务明确允许此类消息的情况除外。
+- 下载另一名通信服务用户张贴的、您明确知道或者理应知道不得以这种方式进行非法复制、展示、执行和/或分发的任何文件。
+- 伪造或删除任何版权管理信息，如作者归属、法律声明或其他相应的声明、专有标志、上传文件所含的软件或其他资料的来源或出处标签。
+- 限制或禁止其他用户使用和享有通信服务。
+- 违反适用于任何特定通信服务的任何行为准则或其他准则。
+- 获取或以其他方式收集其他人的信息，包括电子邮件地址。
+- 违反任何适用的法律法规。
+- 虚构身份以误导他人。
+- 使用、下载或以其他方式复制、或者向其他人或实体（免费或收费）提供服务用户或其他用户的任何目录、使用信息或其部分信息。
 
-Não é obrigação da Microsoft monitorizar os Serviços de Comunicação. No entanto, a Microsoft reserva-se o direito de analisar os materiais publicados nos Serviços de Comunicação e de remover quaisquer materiais ao seu critério. A Microsoft reserva-se o direito de cessar o acesso do Utilizador a qualquer um ou a todos os Serviços de Comunicação, em qualquer altura, sem aviso prévio, sob qualquer pretexto.
+微软不承担监控通信服务的义务。不过，微软保留查看张贴到通信服务上的资料以及自行决定移除任何资料的权利。微软保留出于任何原因随时终止您访问任何或所有通信服务的权利，并且不会另行通知。
 
-A Microsoft reserva-se o direito de, sempre que o entender, divulgar as informações que considere necessário para agir em conformidade com qualquer lei, regulamento, processo judicial ou pedido governamental aplicável, ou de editar, recusar a publicação ou remover quaisquer informações ou materiais, no seu todo ou em parte, ao seu critério.
+微软保留根据任何适用法律、法规、法律程序或政府要求、在微软认为必要的情况下随时披露任何信息的权利。微软保留自行决定编辑、拒绝张贴或移除任何信息、资料（全部或部分内容）的权利。
 
-Tome sempre todas as medidas de precaução necessárias quando fornecer informações pessoais, próprias ou de menores, em qualquer Serviço de Comunicação. A Microsoft não controla nem apoia o conteúdo, as mensagens ou as informações que possam ser encontradas em qualquer Serviço de Comunicação, pelo que a Microsoft exclui especificamente qualquer responsabilidade com relação aos Serviços de Comunicação e a quaisquer ações resultantes da participação do Utilizador em qualquer Serviço de Comunicação. Os gestores e anfitriões não são porta-vozes autorizados da Microsoft e os seus pontos de vista não refletem necessariamente os da Microsoft.
+在任何通信服务中提供任何有关您自己或孩子的个人身份信息时，请始终谨慎行事。微软不会控制或认可任何通信服务中出现的内容、消息或信息。因此，微软对通信服务以及因您加入通信服务导致的任何行为不承担任何责任。管理人员和托管不是微软的授权发言人，他们的言论不一定代表微软的观点。
 
-Os materiais carregados nos Serviços de Comunicação poderão estar sujeitos a limitações publicadas em matéria de utilização, reprodução e/ou disseminação; o Utilizador é responsável pelo cumprimento dessas limitações se transferir os materiais.
+上载到通信服务的资料可能受到有关使用、复制和/或散布的公开限制；如果您下载资料，应遵守这些限制。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 向 Microsoft 提供的资料或公布在任何 Microsoft 网站的资料
-Microsoft 不主张对提供给 Microsoft（包括反馈和建议）的资料的所有权，或公布、上传、输入或提交到任何“服务”或其相关服务以供公众查看或任何公共或私人社区成员查看的资料的所有权（各自为“提交 (Submission)”，共同则为“提交 (Submissions)”）。 但是，通过发布、上传、输入、提供或提交（“发布”）你的“提交”，你授予 Microsoft 及其附属公司和必要的从属许可证持有人权限，该权限允许使用与其 Internet 业务运营相关的“提交”（包括但不限于所有 Microsoft 服务），包括但不限于对以下操作的许可权：复制、分发、传输、公开展示、公开执行、再造、编辑、翻译和重新格式化你的“提交”；发布与你的“提交”相关的名称；以及将此类权限转授权给本服务的任何供应商的权利。
+## 向微软提供的材料或者在任何微软网站上发布的材料
+微软不会对您向微软提供的资料（包括反馈和建议），或者张贴、上传、输入或提交给任何服务或其关联服务供一般公众或任何公共、私有社区成员查看的资料（以下统称为但是，如果您张贴、上传、输入、提供或提交（以下简称“张贴”）您的提交，即表明您授予微软、其关联公司、必要的分许可的被许可人使用与其互联网业务（包括但不限于所有的微软服务）运作相关的提交内容的权利，包括但不限于以下许可权利：复制、分发、传送、公开展示、公开执行、复制、编辑、翻译和重新排印您的提交；公布与提交相关的您的姓名；以及向服务的任何供应商分许可此类权利的权利。
 
-如此处所述，对你的“提交”的使用不支付任何补偿。 Microsoft 没有义务公布或使用你可能会提供的任何“提交”，并且 Microsoft 可自行决定在任何时候删除任何“提交”。
+据此规定，在使用您的提交内容时，不会支付任何补偿金。微软没有义务张贴或使用您可能提供的任何提交，并且微软可以自行决定随时移除任何提交。
 
-通过发布“提交”，你保证并声明你拥有或以其他方式控制对你的“提交”的所有权限，如这些使用条款中所述，包括但不限于你提供、发布、上传、输入或提交“提交”所需的所有权限。
+如果您张贴提交，即表明您保证并声明，您对该提交拥有或以其他方式控制本使用条款描述的所有权利，包括但不限于，您提供、张贴、上载、输入或提交所需的所有权利。
 
-除了上述保证和声明，通过发布包含图像、照片、图片的“提交”或者全部或部分为图形（“图像”）的“提交”，你保证并表示 (a) 你是该图像的版权所有者，或该图像的版权所有者已授予你权限使用该图像或该图像中包含的任何内容和/或图像，其与你的使用的方式和目的一致，并除另有说明已得到这些使用条款和服务条款的允许，(b) 你拥有授予这些使用条款中所述的许可证和从属许可证所必需的权限，以及 (c) 该图像中所描画的每个人（如果存在）已经同意图像的使用，如这些使用条款中所规定，举例说明，包括但不限于分发、公开展示和再现该图像。 通过发布图像，你授予 (a) 你的私人社区的所有成员（对于提供给此类私人社区的成员的每个此类图像）和/或 (b) 公众（对于私人社区以外的“服务”上任意位置提供的每个此类图像）使用与任何“服务”的使用（经这些使用条款允许）相关的图像的权限，（举例说明，包括但不限于制造包含此类图像的打印和礼品项目）并且包括但不限于非排他性、全球范围内的免版税许可：复制、分发、传输、公开展示、公开执行、再造、编辑、翻译和重新格式化你的图像，而无需将你的名字附加到此类图像，以及将此类权限转授权给本服务的任何供应商的权利。 上述条款中授予的图像的许可将在你从“服务”中完全删除该图像时终止，前提条件是，此类终止应不影响你完全删除该图像之前与该图像相关的授予的任何许可。 对你的图像的使用将不支付任何补偿。
+除了上述保证和声明之外，如果您张贴含图像、照片、图片或其他全部或部分是图形（以下简称“图像”）的提交，即表明您保证并声明：(a) 您是此类图像的版权所有人，或者此类图像的版权所有人已经允许您使用此类图像或此类图像包含的任何内容和/或图像，并且您的使用方式和使用目的与授权和本使用条款和服务的规定一致，(b) 您拥有授予许可证和分许可证所需的权利（如本使用条款所述），并且 (c) 此类图像中的每个人（如果有的话）已经同意本使用条款规定的图像用途，包括但不限于，分发、公开展示和复制此类图像。如果您张贴图像，即表明您授予 (a) 私有社区的所有成员（因为每张此类图像可供此类私有社区的成员查看），和/或 (b) 一般公众（因为每张此类图像可放在服务上除私有社区之外的任何地方）在使用任何服务时根据本使用条款使用您的图像（包括但不限于，制作含此类图像的印刷品和礼品）的权利，包括但不限于，非排他性的、全球性的、免版税的许可证，以便：复制、分发、传送、公开展示、公开执行、复制、编辑、翻译和重新排印您的图像，且无需在此类图像上附您的名字；以及向服务的任何供应商分许可此类权利的权利。当您从服务彻底移除此类图像时，前一句中授予的图像许可证即终止，但前提是，此类终止不应影响在您彻底移除此类图像之前授予的、与此图像相关的任何许可证。在使用您的图像时，不会支付任何补偿金。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 认定版权侵犯的说明和程序
-Nos termos do disposto no Título 17, do Código dos Estados Unidos, Secção 512(c)(2), as notificações de alegada violação de direitos de autor devem ser enviadas para o Agente Designado do Fornecedor de Serviços. TODAS AS CONSULTAS QUE NÃO SEJAM RELEVANTES PARA O PROCEDIMENTO SEGUINTE NÃO RECEBERÃO QUALQUER RESPOSTA.
+## 有关版权侵权索赔的通告和程序
+根据美国联邦法第 17 卷第 512 (c) (2) 条的规定，版权侵权索赔的通知应送到服务提供商的指定代理处。与下列程序无关的所有询问将不会收到答复。
 
-请参阅[认定版权侵犯的说明和程序](http://www.microsoft.com/info/cpyrtinfrg.aspx)。 
+请参见 [版权侵权索赔通知和程序](http://www.microsoft.com/info/cpyrtinfrg.aspx)。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 指向第三方网站的链接
-此区域中的链接将可让你离开 MICROSOFT 的网站。 这些链接的网站不处于 Microsoft 控制下，Microsoft 对任何链接的网站内容、链接网站中包含的任何链接或者这些网站的任何更改或更新不承担任何责任。 Microsoft 对网络广播或从任何链接的网站接收的任何其他传输形式不承担任何责任。 Microsoft 向你提供这些链接只是为了你的方便，包含任何链接并不表示 Microsoft 为该网站提供担保。
+## 到第三方站点的链接
+此处的一些链接可能会引导您离开微软站点。链接的站点不在微软的控制之内，微软不对任何链接站点的内容、链接站点中包含的任何链接或此类站点的任何更改或更新负责。微软不对源自任何链接站点的微软仅为了提供便利的目的而向您提供这些链接，并且包括任何链接的并不暗示微软认可相应的第三方站点。
 
-[返回页首](#top)
+[Top of Page](#top)
 
-## 未经请求的意见提交政策
-MICROSOFT 或其任何员工不接受或考虑未经请求的意见，包括新广告活动、新促销、新的产品或技术、流程、资料、营销计划或新产品名称的意见。 请不要发送任何原创作品、示例、演示、或其他作品。 此政策的唯一目的是当 MICROSOFT 的产品或市场营销策略可能类似于提交给 MICROSOFT 的意见时，避免可能的误解或争执。 因此，请不要将未经请求的意见发送到 MICROSOFT 或在 MICROSOFT 的任何人。 虽然我们请求你不要向我们发送你的意见和资料，如果你仍发送它们，请了解 MICROSOFT 不保证你的意见和资料将被视为机密或专有。
+## 主动提供的意见的提交政策
+微软及其所有员工既不接受也不考虑主动提供的意见，包括关于新广告宣传、新促销、新产品或技术、程序、材料、市场推广计划或新产品名称的意见。请不要发送任何原创美术品、样品、演示版或其他作品。本政策的唯一目的是在微软产品或市场推广策略与提交至微软的意见有相似之处时，避免可能发生的误会或纠纷。因此请不要把您主动提供的意见发送给微软或微软任何内部人员。如果您不顾我们劝阻您发送意见和材料的请求，仍然发送了它们，则请您理解，对于您的意见和材料是否会被视为机密或专有信息，微软不做任何保证。
 
-[返回页首](#top)
-
-<!--HONumber=Jun16_HO1-->
-
-
+[Top of Page](#top)
