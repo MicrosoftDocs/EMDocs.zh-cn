@@ -80,6 +80,9 @@
   "80f16e5851e574014594e4d93ba194beb2cc9653": [
     "EMDocs\\Solutions\\Sample.md"
   ],
+  "f5223794a8dbb9a9318de90965fd01bd3e98bcaf": [
+    "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
+  ],
   "4e3f6c3bf9f75a3be46b64413db91ad5e398e01d": [
     "EMDocs\\Solutions\\mdm-step-2-plan-for-mobile-device-management.md"
   ],
@@ -444,11 +447,17 @@
   "42a320985cf1062a5e239bf55317f10b46062ee8": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md"
   ],
+  "4c9422a04ac855b8e1b97445e7f84685be0dba77": [
+    "EMDocs\\Solutions\\byod-app-considerations.md"
+  ],
   "8bbc91330f63b38b7f9b9c0578385701a4293edb": [
     "EMDocs\\Solutions\\byod-app-considerations.md"
   ],
   "aaf8e9c07d87798d4945ff3156ac8425a49b1d39": [
     "EMDocs\\Solutions\\architecture-guidance-for-protecting-company-email-and-documents.md"
+  ],
+  "2dc585131b1897109afeb3ace9f8b9f6a245a313": [
+    "EMDocs\\Solutions\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
   ],
   "a90da0adacec67e1e5264a4848829336f2996c50": [
     "EMDocs\\Solutions\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
@@ -458,6 +467,9 @@
   ],
   "d7ee9f5c3eaa76d259e4d1cf0f1f1b32bf27b8a8": [
     "EMDocs\\toc.yml"
+  ],
+  "284ed028775bd5f2f600516b7d41d4f38ae7ab0e": [
+    "EMDocs\\index.md"
   ],
   "2086870cbad8d5981f461793857cb62f49ce230b": [
     "EMDocs\\index.md"
