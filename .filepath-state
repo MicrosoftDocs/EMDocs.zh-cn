@@ -20,6 +20,9 @@
   "e2981aa5b7f7a7813df44db4bd699dbbbd3c500c": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
   ],
+  "3393393abd35b0f61e371325c3e15f67123599f6": [
+    "EMDocs\\Solutions\\mdm-device-management-options.md"
+  ],
   "ce1d66225043cafdfb0b7658b288e8e7855c24a1": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
@@ -40,6 +43,9 @@
   ],
   "e2b95366b6459690392afe5cc0acfeec8e47392c": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
+  ],
+  "13749f7100df8a157ae8204641442aadfa3c7f16": [
+    "EMDocs\\Solutions\\mdm-email-management-options.md"
   ],
   "208b478068e7757673edb76ff6f21b488c4559e2": [
     "EMDocs\\Solutions\\mdm-email-management-options.md"
@@ -94,6 +100,9 @@
   ],
   "ee44a4de3b09d2380bcabaa0380f8e2968184b62": [
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
+  ],
+  "76e6b60c50ea6e5ebedafe077a514e2b036d194b": [
+    "EMDocs\\Solutions\\TOC.md"
   ],
   "c67295b25b914902f6f84ea448a40696e5e7a008": [
     "EMDocs\\Solutions\\TOC.md"
@@ -482,5 +491,17 @@
   ],
   "22bb62ab2ba5d0c3f36cccbb0a12b3a8cab8e609": [
     "EMDocs\\subscription-might-include-downloadable-software.md"
+  ],
+  "4d1db666c95ef845802952369eb0d505ef4a3dd0": [
+    "EMDocs\\Solutions\\end-user-experience-mam.md"
+  ],
+  "48f0f43b925090aec2cf0585b1372f5c27d1bd5b": [
+    "EMDocs\\Solutions\\mam-configmgr.md"
+  ],
+  "6e1c55e17c37c5e470c4b391cc8aea4ea777856f": [
+    "EMDocs\\Solutions\\mam-intune.md"
+  ],
+  "e925f84d1e885c8427dbd13eb060e8e2761aaeb6": [
+    "EMDocs\\Solutions\\protect-company-data-on-mobile-devices-through-application-management-policies.md"
   ]
 }
