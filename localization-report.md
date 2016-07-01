@@ -36,22 +36,22 @@
  [contributor-guide\media\notes-warning.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/notes-warning.png) | HandedOffSuccess | [Details](#49ea1ff5469cc6d06b8a04d813d2af4238d66e8934)
  [contributor-guide\media\selector-list.png](https://github.com/Microsoft/EMDocs-pr/blob/93afa79b8a4e774e5760c6636a0464331a61ef4b/contributor-guide/media/selector-list.png) | HandedOffSuccess | [Details](#450c0f68e3f8473716099a76e2bea13452f5323f35)
  [contributor-guide\media\selectors.png](https://github.com/Microsoft/EMDocs-pr/blob/f07f7d73c5c41f1288103ecd20ea04b2e8941914/contributor-guide/media/selectors.png) | HandedOffSuccess | [Details](#a19d1f0c651f1fd944af8c89b1bef5cdde57ba7936)
- [EMDocs\Image\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/150x150.png) | HandedOffSuccess | [Details](#84421bf7f4ba657e685239fb27f4798a46485f7146)
+ [EMDocs\Image\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/150x150.png) | HandedOffSuccess | [Details](#84421bf7f4ba657e685239fb27f4798a46485f7146)
  [EMDocs\Solutions\end-user-experience-mam.md](https://github.com/Microsoft/EMDocs-pr/blob/276a4ee6ceab6b39b9add2ea844cdf03f142a253/EMDocs/Solutions/end-user-experience-mam.md) | HandedOffSuccess | [Details](#4d1db666c95ef845802952369eb0d505ef4a3dd086)
  [EMDocs\Solutions\mam-configmgr.md](https://github.com/Microsoft/EMDocs-pr/blob/276a4ee6ceab6b39b9add2ea844cdf03f142a253/EMDocs/Solutions/mam-configmgr.md) | HandedOffSuccess | [Details](#48f0f43b925090aec2cf0585b1372f5c27d1bd5b100)
  [EMDocs\Solutions\mam-intune.md](https://github.com/Microsoft/EMDocs-pr/blob/276a4ee6ceab6b39b9add2ea844cdf03f142a253/EMDocs/Solutions/mam-intune.md) | HandedOffSuccess | [Details](#6e1c55e17c37c5e470c4b391cc8aea4ea777856f101)
  [EMDocs\Solutions\media\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/1aaad6ccaca53d4bd6293a1da75eee95a2fa449a/EMDocs/Solutions/media/150x150.png) | HandedOffSuccess | [Details](#84421bf7f4ba657e685239fb27f4798a46485f71140)
  [EMDocs\Solutions\media\1-rms-onboarding-process.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/1-rms-onboarding-process.png) | HandedOffSuccess | [Details](#d7641e47928129e58192ac12d9e36cd56c57be4d139)
- [EMDocs\Solutions\media\4-aadp-assess-phase-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/4-aadp-assess-phase-v3.png) | HandedOffSuccess | [Details](#37eebe7c7d8e52eb31e73bd024985eac7486d0a3142)
- [EMDocs\Solutions\media\4-aadp-assess-phase-v5.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/4-aadp-assess-phase-v5.png) | HandedOffSuccess | [Details](#37eebe7c7d8e52eb31e73bd024985eac7486d0a3144)
+ [EMDocs\Solutions\media\4-aadp-assess-phase-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/4-aadp-assess-phase-v3.png) | HandedOffSuccess | [Details](#37eebe7c7d8e52eb31e73bd024985eac7486d0a3142)
+ [EMDocs\Solutions\media\4-aadp-assess-phase-v5.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/4-aadp-assess-phase-v5.png) | HandedOffSuccess | [Details](#37eebe7c7d8e52eb31e73bd024985eac7486d0a3144)
  [EMDocs\Solutions\media\BYOD_Figure1.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure1.png) | HandedOffSuccess | [Details](#aabe382609d02cede8900395d3aefa7398234f23153)
  [EMDocs\Solutions\media\BYOD_Figure2.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure2.png) | HandedOffSuccess | [Details](#ae128e3fb940d06d4e7f1b88fde3490c3367cb9a154)
  [EMDocs\Solutions\media\BYOD_Figure3.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure3.png) | HandedOffSuccess | [Details](#604041a7552fae3e707a1987c65dbd5ee845e069155)
  [EMDocs\Solutions\media\BYOD_Figure4.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure4.png) | HandedOffSuccess | [Details](#b2cef36ab9cd1484bafcb96595605fcc83ee960d156)
  [EMDocs\Solutions\media\BYOD_Figure5.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure5.png) | HandedOffSuccess | [Details](#75f14a341be8bb330b417b6151f6151de8b0c563157)
  [EMDocs\Solutions\media\BYOD_Figure6.png](https://github.com/Microsoft/EMDocs-pr/blob/bef88dbfdf467706b88aad10d456bf18f70054bb/EMDocs/Solutions/media/BYOD_Figure6.png) | HandedOffSuccess | [Details](#7b73c083206500b7d32acb4e06bf0c44088b670b158)
- [EMDocs\Solutions\media\fasttrack-azrms-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/fasttrack-azrms-enable-phase.png) | HandedOffSuccess | [Details](#f333254dcf8caec6a8f47f282b8f9e82fed06ddc164)
- [EMDocs\Solutions\media\fasttrack-intune-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/fasttrack-intune-enable-phase.png) | HandedOffSuccess | [Details](#f0db5300f58aef37da4c0f87bc02e14cbd2c51f3165)
+ [EMDocs\Solutions\media\fasttrack-azrms-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/fasttrack-azrms-enable-phase.png) | HandedOffSuccess | [Details](#f333254dcf8caec6a8f47f282b8f9e82fed06ddc164)
+ [EMDocs\Solutions\media\fasttrack-intune-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/fasttrack-intune-enable-phase.png) | HandedOffSuccess | [Details](#f0db5300f58aef37da4c0f87bc02e14cbd2c51f3165)
  [EMDocs\Solutions\media\ft-1-onboarding-process.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-1-onboarding-process.png) | HandedOffSuccess | [Details](#f85ebf65dea2a2e9a365a9a8890e4ca32aef2426167)
  [EMDocs\Solutions\media\ft-2-onboarding-phases.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-2-onboarding-phases.png) | HandedOffSuccess | [Details](#fef1b4406ff5870b97ac1c1b570c9ecebed54b88168)
  [EMDocs\Solutions\media\ft-3-initiate-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/f034ba0e33cdaad62391021986887afff2e376b6/EMDocs/Solutions/media/ft-3-initiate-phase.png) | HandedOffSuccess | [Details](#0cf08580770cad9276d9becb0212343f948e3079169)
@@ -164,7 +164,7 @@
  [EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md](https://github.com/Microsoft/EMDocs-pr/blob/da76ba04d70ece8f20fdbe0fb19ad310f1fb8d28/EMDocs/Solutions/conditional-access-intune-configmgr-exchange.md) | OutofSyncHandedBackSuccess | [Details](#ca38c22f5de2a33e399d7d7a7a9beafdc49e568676)
  [EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/conditional-access-intune-configmgr-exchange-online.md) | OutofSyncHandedBackSuccess | [Details](#b2772f555ac064a286b084c1ef50ef5449083d9075)
  [EMDocs\Solutions\conditional-access-intune-exchange.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/conditional-access-intune-exchange.md) | OutofSyncHandedBackSuccess | [Details](#6ed28a5ec5449dbca6e4f885dd0fa60bf30c3d9179)
- [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/conditional-access-intune-exchange-online.md) | OutofSyncHandedBackSuccess | [Details](#6baacfcd4d929deda383be0331c192ee4e3a9cf478)
+ [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/4e6a2c100c63ff21b7ccb89d59517dd63195b657/EMDocs/Solutions/conditional-access-intune-exchange-online.md) | OutofSyncHandedBackSuccess | [Details](#82b00a5ce54a25b50563c9e5ef3c33b3c648639d78)
  [EMDocs\Solutions\end-user-experience-conditional-access.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/end-user-experience-conditional-access.md) | OutofSyncHandedBackSuccess | [Details](#e0843fc9808963fcc61d48abdc58953f57dcc47185)
  [EMDocs\Solutions\end-user-experience-conditional-access-android.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/end-user-experience-conditional-access-android.md) | OutofSyncHandedBackSuccess | [Details](#5efa0fd3567b3f91e0edcddae929bdb494f013da82)
  [EMDocs\Solutions\end-user-experience-conditional-access-ios.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/end-user-experience-conditional-access-ios.md) | OutofSyncHandedBackSuccess | [Details](#6ff6f8c66e5b4ed838c72dd06f200118c6461cb083)
@@ -226,7 +226,7 @@
  [EMDocs\Token\Active-Directory.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Active-Directory.md) | OutofSyncHandedBackSuccess | [Details](#55514466f7f2092dbc8cf35057d4978ca9247ae6338)
  [EMDocs\Token\Active-Directory-Federation-Services.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Active-Directory-Federation-Services.md) | OutofSyncHandedBackSuccess | [Details](#5b72cde38cf4fd1e3675899bccdd7a1f61a4539b337)
  [EMDocs\Token\Azure.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Azure.md) | OutofSyncHandedBackSuccess | [Details](#8c168dcf0f5cc49c49de658a16650db0f93832c0340)
- [EMDocs\Token\azure_2.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/azure_2.md) | OutofSyncHandedBackSuccess | [Details](#8c168dcf0f5cc49c49de658a16650db0f93832c0341)
+ [EMDocs\Token\azure_2.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/azure_2.md) | OutofSyncHandedBackSuccess | [Details](#8c168dcf0f5cc49c49de658a16650db0f93832c0341)
  [EMDocs\Token\Azure-Active-Directory.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Azure-Active-Directory.md) | OutofSyncHandedBackSuccess | [Details](#28ab389c1991c87dcf5940259fc437eddb17f39d339)
  [EMDocs\Token\cmshort.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/cmshort.md) | OutofSyncHandedBackSuccess | [Details](#d71edd347bbd5ea3371e35b5e890fc07b8843504342)
  [EMDocs\Token\ConfigMgr.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/ConfigMgr.md) | OutofSyncHandedBackSuccess | [Details](#22d729cee559eca2f7a1951dc76827ee1de29133343)
@@ -254,7 +254,7 @@
  [EMDocs\Token\System-Center.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/System-Center.md) | OutofSyncHandedBackSuccess | [Details](#2f8c93e73300f5e7ca93316b275cdc721550cbea369)
  [EMDocs\Token\System-Center-2012.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/System-Center-2012.md) | OutofSyncHandedBackSuccess | [Details](#8024a2c2b501af6d099d40e0d60505e307613766367)
  [EMDocs\Token\System-Center-2012-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/System-Center-2012-Configuration-Manager.md) | OutofSyncHandedBackSuccess | [Details](#9af04e46b68b328c29cf635a880144c6d56d3848365)
- [EMDocs\Token\System-Center-2012-R2-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/System-Center-2012-R2-Configuration-Manager.md) | OutofSyncHandedBackSuccess | [Details](#745e57cb646c59dcdc9eae28f613b2f4c657b141366)
+ [EMDocs\Token\System-Center-2012-R2-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/System-Center-2012-R2-Configuration-Manager.md) | OutofSyncHandedBackSuccess | [Details](#745e57cb646c59dcdc9eae28f613b2f4c657b141366)
  [EMDocs\Token\System-Center-Configuration-Manager-2007.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/System-Center-Configuration-Manager-2007.md) | OutofSyncHandedBackSuccess | [Details](#1eeded8f5c2b65b278baea88b8031b29b568c9dc368)
  [EMDocs\Token\vmmblue_1.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/vmmblue_1.md) | OutofSyncHandedBackSuccess | [Details](#589e630a9572813d02b6a335218e36f42ff0fe90370)
  [EMDocs\Token\vmmblue_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/vmmblue_2.md) | OutofSyncHandedBackSuccess | [Details](#bf0e911029698ac65d18c0d5d08d362fdb4022e0371)
@@ -265,10 +265,10 @@
  [EMDocs\Token\winblue_server_datacenter_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/winblue_server_datacenter_2.md) | OutofSyncHandedBackSuccess | [Details](#4193a09d67f7cd8250e24cf39801b65f4ca24b62376)
  [EMDocs\Token\winblue_server_standard_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/winblue_server_standard_2.md) | OutofSyncHandedBackSuccess | [Details](#0223d421d1810ddc192ca96fad9f5656665f2b84377)
  [EMDocs\Token\Windows-Phone.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Windows-Phone.md) | OutofSyncHandedBackSuccess | [Details](#9a9068f4719e41379e03a21e809504cc5a4b472a378)
- [EMDocs\Token\Windows-Server-2012-R2.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/Windows-Server-2012-R2.md) | OutofSyncHandedBackSuccess | [Details](#a99ca498e1303515f4e5c74740e63fb45ad71cd7379)
+ [EMDocs\Token\Windows-Server-2012-R2.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/Windows-Server-2012-R2.md) | OutofSyncHandedBackSuccess | [Details](#a99ca498e1303515f4e5c74740e63fb45ad71cd7379)
  [EMDocs\Token\winphone8_client_1.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/winphone8_client_1.md) | OutofSyncHandedBackSuccess | [Details](#737f108760e66f61e788bd872266f7e0199efbd9380)
  [EMDocs\Token\winrt_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/winrt_2.md) | OutofSyncHandedBackSuccess | [Details](#719ac9a9e298a04838c41bd5e1b906712edb6bd2381)
- [EMDocs\Token\wit_2.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/wit_2.md) | OutofSyncHandedBackSuccess | [Details](#2c345c2d3e8679f8fc1a0e94304ace9e9e291d05382)
+ [EMDocs\Token\wit_2.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/wit_2.md) | OutofSyncHandedBackSuccess | [Details](#2c345c2d3e8679f8fc1a0e94304ace9e9e291d05382)
  [EMDocs\Token\wps_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/wps_2.md) | OutofSyncHandedBackSuccess | [Details](#e9096a16bdd11b30f840ceba6f1cb16bd4cf25e8383)
  [EMDocs\Token\wseblue_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/wseblue_2.md) | OutofSyncHandedBackSuccess | [Details](#89a7db3fee08b74dc93b8862f88b2685bbbd7714384)
  [EMDocs\Token\wseblue_experience.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/wseblue_experience.md) | OutofSyncHandedBackSuccess | [Details](#7d3125258de1ca06229ef352cb657444a8610e92385)
@@ -288,146 +288,146 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.gitignore) | Ignored | [Details](#7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0)
- [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.gitmodules) | Ignored | [Details](#f0a2a6ffbe0ea0b065b096dbcf264b7bbe587cf61)
- [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.localization-config) | Ignored | [Details](#dc82f78801895699521807fa142b145ab07443272)
- [.openpublishing.build.ps1](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.openpublishing.build.ps1) | Ignored | [Details](#9103b6933f2481864ecb6a66b76ba730e7f133b43)
- [.openpublishing.publish.config.json](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.openpublishing.publish.config.json) | Ignored | [Details](#bc7448437db0fde042ab8db8170f813a9a31a3404)
- [contributor-guide\media\agent.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/agent.png) | Ignored | [Details](#9e48efe97bfbf75cd53a823aa66a9379fd42e83013)
- [contributor-guide\media\break-tables.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/break-tables.png) | Ignored | [Details](#e974b636f9cfd1ffecae45f7df4ea93e4d1e1bd114)
- [contributor-guide\media\channel-guidance.pdf](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/channel-guidance.pdf) | Ignored | [Details](#56ddb4bfe6c0f633eef78f2cf035f0e476c4fe6d15)
- [contributor-guide\media\discus.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/discus.png) | Ignored | [Details](#722b4d4e36c316c9cc964aefddc13792be114a2f19)
- [contributor-guide\media\ems-markdown-cheat-sheet.pdf](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/ems-markdown-cheat-sheet.pdf) | Ignored | [Details](#46a0af3dc9b01ac57bf81697c92c611efcdc15a321)
- [contributor-guide\media\github-icon-replica.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/github-icon-replica.png) | Ignored | [Details](#56191f512110bae8fb0b8bdbc6a370850d6ee4a923)
- [contributor-guide\media\ms-logo.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/ms-logo.png) | Ignored | [Details](#3ec8512641f8fb7b2fa619c59cf4a9dacd4bf49830)
- [contributor-guide\media\table-markdown-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-1.png) | Ignored | [Details](#e2e8a3033043af49687d694c126f19f6629cf91837)
- [contributor-guide\media\table-markdown-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-2.png) | Ignored | [Details](#7c9f348175dcaa7cf56d65dafa6842a9078fb33d38)
- [contributor-guide\media\table-markdown-3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-3.png) | Ignored | [Details](#529cf68bafb5f4ea233515c7854844d09acffd8439)
- [contributor-guide\media\table-markdown-4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-4.png) | Ignored | [Details](#7631dd51141574cd21d737549ef7ab8834267ce540)
- [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/docfx.json) | Ignored | [Details](#e1e675b93ee4ed935ccded6730bd4057a92a252b45)
- [EMDocs\Image\azure_active_directory_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/azure_active_directory_icon.png) | Ignored | [Details](#887febf591b5b91a952a863e8d17e71316b8932b47)
- [EMDocs\Image\azure_rights_management_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/azure_rights_management_icon.png) | Ignored | [Details](#81ffc650bd7ce3d04eb77d01bcfbe37f26b22bf148)
- [EMDocs\Image\byod_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/byod_dcg_icon.png) | Ignored | [Details](#8d5aeaccaab93cb0b11a1aac837fb9f5118e2e2249)
- [EMDocs\Image\Cloud_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/Cloud_icon.png) | Ignored | [Details](#659713084ea252eb2a14da1f991f82f73dfe0f0b50)
- [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/conditional%20access_exchange_icon.png) | Ignored | [Details](#e095fb4702c92b961abdb5889f6fa915b53089f351)
- [EMDocs\Image\intune_byod_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/intune_byod_icon.png) | Ignored | [Details](#4801d4b24f8c66abc1da68e075962c5cc820f93052)
- [EMDocs\Image\intune_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/intune_icon.png) | Ignored | [Details](#a37eed6927ded3aca957701e4a7f55d818f3d2db53)
- [EMDocs\Image\logo-ms.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/logo-ms.png) | Ignored | [Details](#8245763cd88ee1159f875f092bbae023355f31b254)
- [EMDocs\Image\mdmdcg_icon.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mdmdcg_icon.jpg) | Ignored | [Details](#a1f374427902d6a123a3bbe1e20f51216f9d966c56)
- [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mdm-dcg-icon.png) | Ignored | [Details](#48120e0469d0cf1f25ccae705922846592e9f13655)
- [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
- [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
- [EMDocs\md.style](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda60)
- [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/docfx.json) | Ignored | [Details](#dab772c7718a3feda025e19cfaff388d8dd882d481)
- [EMDocs\Solutions\md.style](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda102)
- [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e138)
- [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png) | Ignored | [Details](#0478b1d6b50ed08e780f0de7ba57e26d9a653c70141)
- [EMDocs\Solutions\media\4-aadp-assess-phase-v4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/4-aadp-assess-phase-v4.png) | Ignored | [Details](#c35f1ea3e19ceb9319688b7b85b0cce91505ebbe143)
- [EMDocs\Solutions\media\ADFS_WinBLue_DRSandWorkplaceJoin.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ADFS_WinBLue_DRSandWorkplaceJoin.gif) | Ignored | [Details](#9bed1304e951c05174f2f0c3f745b16b343c5122145)
- [EMDocs\Solutions\media\AIP_ADCapabilities.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP_ADCapabilities.png) | Ignored | [Details](#aaafe8a34fd1cf9eb5a2a0af568afa4324441547148)
- [EMDocs\Solutions\media\AIP_SolutionOverview.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP_SolutionOverview.gif) | Ignored | [Details](#6396c0fc95b7070c390da85987dc08930cbaa9b6149)
- [EMDocs\Solutions\media\AIP1.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP1.gif) | Ignored | [Details](#e4b7f822de21e282f40b9a6f5e0ff61beff85455146)
- [EMDocs\Solutions\media\AIP2.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP2.gif) | Ignored | [Details](#713346d771d77005b738764bf0dd0354307c97c1147)
- [EMDocs\Solutions\media\All_Symbols_Cloud.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/All_Symbols_Cloud.png) | Ignored | [Details](#811c78666692e6140b800b3f864f3d783e5712f1150)
- [EMDocs\Solutions\media\BlueSolution_BusinessContBackup.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/BlueSolution_BusinessContBackup.png) | Ignored | [Details](#2ce2a7d01b2e65a37ddab24557463cd78a4dc3c3151)
- [EMDocs\Solutions\media\BlueSolution_BusinessContBackup2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/BlueSolution_BusinessContBackup2.png) | Ignored | [Details](#73513cd15e46f87a556cd3bc42c0fe1b7ac40f05152)
- [EMDocs\Solutions\media\ECSoln_IntuneStandalone.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ECSoln_IntuneStandalone.png) | Ignored | [Details](#8ef051a2ae4b94978521d0bd8c72ff23a30eca53159)
- [EMDocs\Solutions\media\ECSoln_IntuneStandalone_Fig2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ECSoln_IntuneStandalone_Fig2.png) | Ignored | [Details](#d28e9f2094ac4ead1d48e436ab022aae13f5010e160)
- [EMDocs\Solutions\media\EM_HybridMgmt.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/EM_HybridMgmt.png) | Ignored | [Details](#938d56f5f27cd302c4f515a1fe922be97b1311af161)
- [EMDocs\Solutions\media\EM_HybridMgmt_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/EM_HybridMgmt_Solution.png) | Ignored | [Details](#713d729fc0da8a1bf17322ec17d3bd6bab6ff306162)
- [EMDocs\Solutions\media\EM_IntuneEval_Solution.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/EM_IntuneEval_Solution.PNG) | Ignored | [Details](#96a4ccb4c63adb84ba97e57c70102647094bd6cd163)
- [EMDocs\Solutions\media\ForwardingSubnets.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ForwardingSubnets.png) | Ignored | [Details](#996dffc75ee4054ec3e0e24301eb2f118b1f16d3166)
- [EMDocs\Solutions\media\HYB_ID_1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_1.png) | Ignored | [Details](#27e12097930e9f48914cd12fcf52d17f76d195bf175)
- [EMDocs\Solutions\media\HYB_ID_2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_2.png) | Ignored | [Details](#419d643f576993a215e61759dce25abc186d8d35176)
- [EMDocs\Solutions\media\HYB_ID_3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_3.png) | Ignored | [Details](#6447a29eff44d923b77ece3901ad0c1a11fdb492177)
- [EMDocs\Solutions\media\HYB_ID_4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_4.png) | Ignored | [Details](#ece9089a3cb99c47ab72e7bfd0ba14d59c354f7d178)
- [EMDocs\Solutions\media\HybridCloudMulti-TenantNetworkingSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridCloudMulti-TenantNetworkingSolutionArchitecture.png) | Ignored | [Details](#4ef48673c4811894fb24366fc46d8e991cbaf1e8180)
- [EMDocs\Solutions\media\hybrid-identity_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/hybrid-identity_dcg_icon.png) | Ignored | [Details](#8a813dea3d60a0be54045e0f1bbcc6b630cdb162179)
- [EMDocs\Solutions\media\HybridNetworkingSolution-.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-.png) | Ignored | [Details](#158be1a69f0d5216fb0caf2102cceb21ce692e28181)
- [EMDocs\Solutions\media\HybridNetworkingSolution-Clusters.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-Clusters.png) | Ignored | [Details](#afdbaf895cc0f192166753f25ea7f63414d11557182)
- [EMDocs\Solutions\media\HybridNetworkingSolution-MigrationSettings.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-MigrationSettings.png) | Ignored | [Details](#760b0b0f0cdf0030b5abb96dc0ecdcb3d4823880183)
- [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkInterfaces.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkInterfaces.png) | Ignored | [Details](#f84b8a846f76173dcff466e4d1e6b0739d4256a7184)
- [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkServiceConnectionString.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkServiceConnectionString.png) | Ignored | [Details](#852623e8b17dff3ac845b9272c6f48abc94171f3185)
- [EMDocs\Solutions\media\HybridNetworkingSolution-ProblemDiagram.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-ProblemDiagram.png) | Ignored | [Details](#236a61f5ce04964e653d66b3be1f829373f227dc186)
- [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitch.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitch.png) | Ignored | [Details](#add6525ddef28dff85e532579ce538c722774e2e187)
- [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png) | Ignored | [Details](#f0d9c9804b461dd5cc455aab9819890d102ffba0188)
- [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png) | Ignored | [Details](#66620872fdc485357a6331ca6646db45d15f108e189)
- [EMDocs\Solutions\media\Intune-enable-phase-sccm-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-enable-phase-sccm-9-15-15.png) | Ignored | [Details](#2bc0c71f97011edd2d72fb6191548a27ce19949c192)
- [EMDocs\Solutions\media\Intune-enable-phase-standalone-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-enable-phase-standalone-9-15-15.png) | Ignored | [Details](#25e1a4520e0474db9a5e98dbd44469f260cadae3193)
- [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15_old.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15_old.png) | Ignored | [Details](#cff679acaea06114e77da7e149b6810504c43b0d197)
- [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15-v2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15-v2.png) | Ignored | [Details](#b884f9b50170025979216b2a434540566414442a196)
- [EMDocs\Solutions\media\Intune-onboarding-process-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-onboarding-process-9-15-15.png) | Ignored | [Details](#b05f0f8dc9624d145b8b9bce226458a437fc1059198)
- [EMDocs\Solutions\media\MDM_Figure_02.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_Figure_02.png) | Ignored | [Details](#1fcc8e21bd2d3e74e6a62014716ca97cfc692327201)
- [EMDocs\Solutions\media\MDM_Figure_14.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_Figure_14.png) | Ignored | [Details](#8f770b4a601ba5e2005417fb949ff26d916be936213)
- [EMDocs\Solutions\media\MDM_pre-solution_2007.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_pre-solution_2007.png) | Ignored | [Details](#ac1bd2393bc0f462a95006647c43ddefd6d949bb215)
- [EMDocs\Solutions\media\MDM_sidebyside.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_sidebyside.png) | Ignored | [Details](#75f1034538020eac89e2f8ed38394ec6defc375a216)
- [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-assess-phase-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-assess-phase-2.png) | Ignored | [Details](#a056561c587322cb30eceefdb1352f3e572ad8be217)
- [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-enable-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-enable-phase-1.png) | Ignored | [Details](#26daa6e1884a8ce4de143613028982078df21772219)
- [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-1.png) | Ignored | [Details](#fec59b8ac1555666e5908fb2674e5f4012577f90221)
- [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-2.png) | Ignored | [Details](#697f3678b426931f87ee9057422018872aa1f19a222)
- [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-1.png) | Ignored | [Details](#6543b2d807068beb1fad313683005a8fecfc3e7a223)
- [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-2.png) | Ignored | [Details](#f0e0cb44afadc4521715fbb0f4e80d631bbc11f4224)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningLearnAbout.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningLearnAbout.png) | Ignored | [Details](#22f361ce1f2b313eacd240ef391cb8d9b6068747240)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMap.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMap.png) | Ignored | [Details](#d8b45c409e90a80161cb6d885da95615d816cb73241)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEV.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEV.png) | Ignored | [Details](#2ff27043c6917480cb716cdf05fd7dd870c8fd26242)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVBuy.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVBuy.png) | Ignored | [Details](#98c739a3fa5ceae54479c7c0798f62aad8c376dd243)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVGuide.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVGuide.png) | Ignored | [Details](#bbea01856dbce8f2e97aea0cd37a02e4ca92a82c244)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLACM.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLACM.png) | Ignored | [Details](#d7a3dba2cf92e9259b2e1856e1e5adddff4280c4245)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLAFeatures.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLAFeatures.png) | Ignored | [Details](#08a8c8b6d9b5b4c680d446c7526140c58938a299246)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLASvcDesc.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLASvcDesc.png) | Ignored | [Details](#d710457850ab0aaeffee446d91a0e74f4feead52247)
- [EMDocs\Solutions\media\MicrosoftIntuneLearningMapStart.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapStart.png) | Ignored | [Details](#0583d68bd86530248d8ff05f0857910a4ec83b8f248)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-assess-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-assess-phase-1.png) | Ignored | [Details](#efd1faa51c9e8e16e205bda81d78ef558bb85939226)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-core-5.vsdx](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-core-5.vsdx) | Ignored | [Details](#2a5d20240d994c31ab600792c750f5296bab4ed3227)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png) | Ignored | [Details](#61c9d96ca35eb79cf8a9fe5a39c4a661570e39f2228)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png) | Ignored | [Details](#5c2190c90f9b3f309921e8f0299b768ed87f3258229)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png) | Ignored | [Details](#17f355181baff768619b9a9e7c25a2b6f123bd9f230)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png) | Ignored | [Details](#74eab38f8759d371bad8ef7c39dcd19cd7b1bc22231)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png) | Ignored | [Details](#3ed47d2e0a85039a3423052c94c1f2dd151a81fb232)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png) | Ignored | [Details](#b97ee4a72b8ab6a6f5f88f2544e84aa40174c6b6233)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png) | Ignored | [Details](#9acc4853b308038f273420b63fd0663e5d1aeb0c234)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png) | Ignored | [Details](#1a8c217c3239ead92460d5234a05ef2ea6a98664235)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-initiate-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-initiate-phase-1.png) | Ignored | [Details](#6af57a2acb56416c9aa83b13914a3c2f0531b5b0236)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-phases-1.png) | Ignored | [Details](#fec59b8ac1555666e5908fb2674e5f4012577f90237)
- [EMDocs\Solutions\media\Microsoft-Intune-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-process-1.png) | Ignored | [Details](#e3004e964445eead2fe038024847861048fb82c5238)
- [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Mobile%20Engagement_Gray_150px.png) | Ignored | [Details](#cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011249)
- [EMDocs\Solutions\media\OSD_ECM_Problem.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/OSD_ECM_Problem.jpg) | Ignored | [Details](#3f3040f1b93a0635196ceaf2d912f51f64fae567250)
- [EMDocs\Solutions\media\OSD_ECM_Solution.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/OSD_ECM_Solution.jpg) | Ignored | [Details](#24d9051d263fa2040d872264d92aa16afc9d39c4251)
- [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2b.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2b.png) | Ignored | [Details](#1dde0f9c701974b72ef12e63ecc4ed76f84f053e257)
- [EMDocs\Solutions\media\SM_Solutions_MSITVideoImage.JPG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SM_Solutions_MSITVideoImage.JPG) | Ignored | [Details](#4462c0d06e2d8b59588d001b2a89dc36ac7dedf8300)
- [EMDocs\Solutions\media\SolutionIcon_Accessandinformationprotection.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_Accessandinformationprotection.png) | Ignored | [Details](#ebabaf20a8256d4f549d0c6ee5d131399533d730301)
- [EMDocs\Solutions\media\SolutionIcon_BusinessContinuity.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_BusinessContinuity.png) | Ignored | [Details](#4d08c33ae17b41a810b6ab341734ef1a7c0de0c5302)
- [EMDocs\Solutions\media\SolutionIcon_EnterpriseCollaboration.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_EnterpriseCollaboration.png) | Ignored | [Details](#fb6f263d8e39297555f8ac8936d12c082517d373303)
- [EMDocs\Solutions\media\SolutionIcon_EnterpriseStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_EnterpriseStorage.png) | Ignored | [Details](#7c1f618dbe6e48a9b2e93630c05cc30c73b7282c304)
- [EMDocs\Solutions\media\SolutionIcon_HybridIdentity.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_HybridIdentity.png) | Ignored | [Details](#1b4c1e82333685bfb598a5efbf53138afdc9247d305)
- [EMDocs\Solutions\media\SolutionIcon_MobileDeviceManagement.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_MobileDeviceManagement.png) | Ignored | [Details](#2b2f6a3bf3b2f3152e1e43160dbb270be165525e306)
- [EMDocs\Solutions\media\SolutionIcon_SoftwareDefinedNetworking.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_SoftwareDefinedNetworking.png) | Ignored | [Details](#f86e25bd685355c2f1613fcc9e5391281e09ee66307)
- [EMDocs\Solutions\media\SolutionIcon_Virtualization.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_Virtualization.png) | Ignored | [Details](#84a060e5797cc06f4bb986bea1c112b7e1bf06dc308)
- [EMDocs\Solutions\media\Storageforvirtualizedworkloads.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Storageforvirtualizedworkloads.png) | Ignored | [Details](#159986d1eece2883a699cb7ffb66fb1f32a50570309)
- [EMDocs\Solutions\media\UDMConceptual.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMConceptual.png) | Ignored | [Details](#a1fa7218bdc209fca0ec051ae053d48c44bdce70310)
- [EMDocs\Solutions\media\UDMExistingHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMExistingHierarchy.png) | Ignored | [Details](#049f305576960a9fd8ec1f3cd28a1a66d6eb7ed1311)
- [EMDocs\Solutions\media\UDMNewHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMNewHierarchy.png) | Ignored | [Details](#c70feae1c95c13218ba621ddecc2777c365507ba312)
- [EMDocs\Solutions\media\UDMPostSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMPostSolution.png) | Ignored | [Details](#f2c14f577d5a310057182a68f2659a9789d2db4c313)
- [EMDocs\Solutions\media\UDMPreSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMPreSolution.png) | Ignored | [Details](#b478cc4746b7d5782e1294bc51c82d06e458b69c314)
- [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_01.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_01.PNG) | Ignored | [Details](#1062b36352669621637dd9cba002df25d61fa84e315)
- [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_02.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_02.PNG) | Ignored | [Details](#33b758bb4703da8c6e054f12d74ff64d781476a2316)
- [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_03.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_03.PNG) | Ignored | [Details](#197b04e89c64e3e444fc7f2640828da8485a5b54317)
- [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_04.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_04.PNG) | Ignored | [Details](#ac378ec4422f19ab2a7b49735004e6cbb4b11f62318)
- [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_05.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_05.PNG) | Ignored | [Details](#4e8f96009d07374693dc5ad5137dbfd3c380252f319)
- [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_06.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_06.PNG) | Ignored | [Details](#2b68ccdc4186c87be31c81af11063c3668b930d1320)
- [EMDocs\Solutions\media\WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png) | Ignored | [Details](#a4a049a55f8340c41d84d00f9e31d3164cc48349321)
- [EMDocs\Solutions\media\WindowsServerGenericLogo.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WindowsServerGenericLogo.jpg) | Ignored | [Details](#8d844eaa476a20470ffb1b3528ad5fed34b611b4322)
- [EMDocs\Solutions\media\WSE_SG_BP_Problem.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_BP_Problem.png) | Ignored | [Details](#fc3bc6792e70ce529eea1071c7e7df88d6f22a90323)
- [EMDocs\Solutions\media\WSE_SG_BP_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_BP_Solution.png) | Ignored | [Details](#4e93eca16817efd1f8c528d3913ae3a90278e2ad324)
- [EMDocs\Solutions\media\WSE_SG_RA_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_RA_Solution.png) | Ignored | [Details](#d7fb4782b189dfaf247b4dafe15a9c482198c23d325)
- [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_RAProblem.png) | Ignored | [Details](#b52789a46874ed019ff8dea05bfefdebdf549cbd326)
- [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png) | Ignored | [Details](#17a8303c7ef0995ef393588b69250a0f4184df38327)
- [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png) | Ignored | [Details](#0e1ba1f9f6fc258f4640be651285366d453d4e1a328)
- [license.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/license.md) | Ignored | [Details](#809238560522a73c05e57b9f5b6637c224245927386)
- [README.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/README.md) | Ignored | [Details](#8b38ac1bf813dc8840b1522ce23fddf8de3997c3387)
- [template.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/template.md) | Ignored | [Details](#e6106b0b5a5aa1039f7cbf5a35589216c5e540f3388)
+ [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.gitignore) | Ignored | [Details](#7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0)
+ [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.gitmodules) | Ignored | [Details](#f0a2a6ffbe0ea0b065b096dbcf264b7bbe587cf61)
+ [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.localization-config) | Ignored | [Details](#dc82f78801895699521807fa142b145ab07443272)
+ [.openpublishing.build.ps1](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.openpublishing.build.ps1) | Ignored | [Details](#9103b6933f2481864ecb6a66b76ba730e7f133b43)
+ [.openpublishing.publish.config.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.openpublishing.publish.config.json) | Ignored | [Details](#bc7448437db0fde042ab8db8170f813a9a31a3404)
+ [contributor-guide\media\agent.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/agent.png) | Ignored | [Details](#9e48efe97bfbf75cd53a823aa66a9379fd42e83013)
+ [contributor-guide\media\break-tables.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/break-tables.png) | Ignored | [Details](#e974b636f9cfd1ffecae45f7df4ea93e4d1e1bd114)
+ [contributor-guide\media\channel-guidance.pdf](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/channel-guidance.pdf) | Ignored | [Details](#56ddb4bfe6c0f633eef78f2cf035f0e476c4fe6d15)
+ [contributor-guide\media\discus.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/discus.png) | Ignored | [Details](#722b4d4e36c316c9cc964aefddc13792be114a2f19)
+ [contributor-guide\media\ems-markdown-cheat-sheet.pdf](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/ems-markdown-cheat-sheet.pdf) | Ignored | [Details](#46a0af3dc9b01ac57bf81697c92c611efcdc15a321)
+ [contributor-guide\media\github-icon-replica.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/github-icon-replica.png) | Ignored | [Details](#56191f512110bae8fb0b8bdbc6a370850d6ee4a923)
+ [contributor-guide\media\ms-logo.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/ms-logo.png) | Ignored | [Details](#3ec8512641f8fb7b2fa619c59cf4a9dacd4bf49830)
+ [contributor-guide\media\table-markdown-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-1.png) | Ignored | [Details](#e2e8a3033043af49687d694c126f19f6629cf91837)
+ [contributor-guide\media\table-markdown-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-2.png) | Ignored | [Details](#7c9f348175dcaa7cf56d65dafa6842a9078fb33d38)
+ [contributor-guide\media\table-markdown-3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-3.png) | Ignored | [Details](#529cf68bafb5f4ea233515c7854844d09acffd8439)
+ [contributor-guide\media\table-markdown-4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-4.png) | Ignored | [Details](#7631dd51141574cd21d737549ef7ab8834267ce540)
+ [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/docfx.json) | Ignored | [Details](#e1e675b93ee4ed935ccded6730bd4057a92a252b45)
+ [EMDocs\Image\azure_active_directory_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/azure_active_directory_icon.png) | Ignored | [Details](#887febf591b5b91a952a863e8d17e71316b8932b47)
+ [EMDocs\Image\azure_rights_management_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/azure_rights_management_icon.png) | Ignored | [Details](#81ffc650bd7ce3d04eb77d01bcfbe37f26b22bf148)
+ [EMDocs\Image\byod_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/byod_dcg_icon.png) | Ignored | [Details](#8d5aeaccaab93cb0b11a1aac837fb9f5118e2e2249)
+ [EMDocs\Image\Cloud_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/Cloud_icon.png) | Ignored | [Details](#659713084ea252eb2a14da1f991f82f73dfe0f0b50)
+ [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/conditional%20access_exchange_icon.png) | Ignored | [Details](#e095fb4702c92b961abdb5889f6fa915b53089f351)
+ [EMDocs\Image\intune_byod_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/intune_byod_icon.png) | Ignored | [Details](#4801d4b24f8c66abc1da68e075962c5cc820f93052)
+ [EMDocs\Image\intune_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/intune_icon.png) | Ignored | [Details](#a37eed6927ded3aca957701e4a7f55d818f3d2db53)
+ [EMDocs\Image\logo-ms.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/logo-ms.png) | Ignored | [Details](#8245763cd88ee1159f875f092bbae023355f31b254)
+ [EMDocs\Image\mdmdcg_icon.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mdmdcg_icon.jpg) | Ignored | [Details](#a1f374427902d6a123a3bbe1e20f51216f9d966c56)
+ [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mdm-dcg-icon.png) | Ignored | [Details](#48120e0469d0cf1f25ccae705922846592e9f13655)
+ [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
+ [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
+ [EMDocs\md.style](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda60)
+ [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/docfx.json) | Ignored | [Details](#dab772c7718a3feda025e19cfaff388d8dd882d481)
+ [EMDocs\Solutions\md.style](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda102)
+ [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e138)
+ [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png) | Ignored | [Details](#0478b1d6b50ed08e780f0de7ba57e26d9a653c70141)
+ [EMDocs\Solutions\media\4-aadp-assess-phase-v4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/4-aadp-assess-phase-v4.png) | Ignored | [Details](#c35f1ea3e19ceb9319688b7b85b0cce91505ebbe143)
+ [EMDocs\Solutions\media\ADFS_WinBLue_DRSandWorkplaceJoin.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ADFS_WinBLue_DRSandWorkplaceJoin.gif) | Ignored | [Details](#9bed1304e951c05174f2f0c3f745b16b343c5122145)
+ [EMDocs\Solutions\media\AIP_ADCapabilities.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP_ADCapabilities.png) | Ignored | [Details](#aaafe8a34fd1cf9eb5a2a0af568afa4324441547148)
+ [EMDocs\Solutions\media\AIP_SolutionOverview.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP_SolutionOverview.gif) | Ignored | [Details](#6396c0fc95b7070c390da85987dc08930cbaa9b6149)
+ [EMDocs\Solutions\media\AIP1.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP1.gif) | Ignored | [Details](#e4b7f822de21e282f40b9a6f5e0ff61beff85455146)
+ [EMDocs\Solutions\media\AIP2.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP2.gif) | Ignored | [Details](#713346d771d77005b738764bf0dd0354307c97c1147)
+ [EMDocs\Solutions\media\All_Symbols_Cloud.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/All_Symbols_Cloud.png) | Ignored | [Details](#811c78666692e6140b800b3f864f3d783e5712f1150)
+ [EMDocs\Solutions\media\BlueSolution_BusinessContBackup.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/BlueSolution_BusinessContBackup.png) | Ignored | [Details](#2ce2a7d01b2e65a37ddab24557463cd78a4dc3c3151)
+ [EMDocs\Solutions\media\BlueSolution_BusinessContBackup2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/BlueSolution_BusinessContBackup2.png) | Ignored | [Details](#73513cd15e46f87a556cd3bc42c0fe1b7ac40f05152)
+ [EMDocs\Solutions\media\ECSoln_IntuneStandalone.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ECSoln_IntuneStandalone.png) | Ignored | [Details](#8ef051a2ae4b94978521d0bd8c72ff23a30eca53159)
+ [EMDocs\Solutions\media\ECSoln_IntuneStandalone_Fig2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ECSoln_IntuneStandalone_Fig2.png) | Ignored | [Details](#d28e9f2094ac4ead1d48e436ab022aae13f5010e160)
+ [EMDocs\Solutions\media\EM_HybridMgmt.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/EM_HybridMgmt.png) | Ignored | [Details](#938d56f5f27cd302c4f515a1fe922be97b1311af161)
+ [EMDocs\Solutions\media\EM_HybridMgmt_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/EM_HybridMgmt_Solution.png) | Ignored | [Details](#713d729fc0da8a1bf17322ec17d3bd6bab6ff306162)
+ [EMDocs\Solutions\media\EM_IntuneEval_Solution.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/EM_IntuneEval_Solution.PNG) | Ignored | [Details](#96a4ccb4c63adb84ba97e57c70102647094bd6cd163)
+ [EMDocs\Solutions\media\ForwardingSubnets.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ForwardingSubnets.png) | Ignored | [Details](#996dffc75ee4054ec3e0e24301eb2f118b1f16d3166)
+ [EMDocs\Solutions\media\HYB_ID_1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_1.png) | Ignored | [Details](#27e12097930e9f48914cd12fcf52d17f76d195bf175)
+ [EMDocs\Solutions\media\HYB_ID_2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_2.png) | Ignored | [Details](#419d643f576993a215e61759dce25abc186d8d35176)
+ [EMDocs\Solutions\media\HYB_ID_3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_3.png) | Ignored | [Details](#6447a29eff44d923b77ece3901ad0c1a11fdb492177)
+ [EMDocs\Solutions\media\HYB_ID_4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_4.png) | Ignored | [Details](#ece9089a3cb99c47ab72e7bfd0ba14d59c354f7d178)
+ [EMDocs\Solutions\media\HybridCloudMulti-TenantNetworkingSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridCloudMulti-TenantNetworkingSolutionArchitecture.png) | Ignored | [Details](#4ef48673c4811894fb24366fc46d8e991cbaf1e8180)
+ [EMDocs\Solutions\media\hybrid-identity_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/hybrid-identity_dcg_icon.png) | Ignored | [Details](#8a813dea3d60a0be54045e0f1bbcc6b630cdb162179)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-.png) | Ignored | [Details](#158be1a69f0d5216fb0caf2102cceb21ce692e28181)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-Clusters.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-Clusters.png) | Ignored | [Details](#afdbaf895cc0f192166753f25ea7f63414d11557182)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-MigrationSettings.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-MigrationSettings.png) | Ignored | [Details](#760b0b0f0cdf0030b5abb96dc0ecdcb3d4823880183)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkInterfaces.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkInterfaces.png) | Ignored | [Details](#f84b8a846f76173dcff466e4d1e6b0739d4256a7184)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkServiceConnectionString.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkServiceConnectionString.png) | Ignored | [Details](#852623e8b17dff3ac845b9272c6f48abc94171f3185)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-ProblemDiagram.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-ProblemDiagram.png) | Ignored | [Details](#236a61f5ce04964e653d66b3be1f829373f227dc186)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitch.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitch.png) | Ignored | [Details](#add6525ddef28dff85e532579ce538c722774e2e187)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png) | Ignored | [Details](#f0d9c9804b461dd5cc455aab9819890d102ffba0188)
+ [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png) | Ignored | [Details](#66620872fdc485357a6331ca6646db45d15f108e189)
+ [EMDocs\Solutions\media\Intune-enable-phase-sccm-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-enable-phase-sccm-9-15-15.png) | Ignored | [Details](#2bc0c71f97011edd2d72fb6191548a27ce19949c192)
+ [EMDocs\Solutions\media\Intune-enable-phase-standalone-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-enable-phase-standalone-9-15-15.png) | Ignored | [Details](#25e1a4520e0474db9a5e98dbd44469f260cadae3193)
+ [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15_old.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15_old.png) | Ignored | [Details](#cff679acaea06114e77da7e149b6810504c43b0d197)
+ [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15-v2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15-v2.png) | Ignored | [Details](#b884f9b50170025979216b2a434540566414442a196)
+ [EMDocs\Solutions\media\Intune-onboarding-process-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-onboarding-process-9-15-15.png) | Ignored | [Details](#b05f0f8dc9624d145b8b9bce226458a437fc1059198)
+ [EMDocs\Solutions\media\MDM_Figure_02.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_Figure_02.png) | Ignored | [Details](#1fcc8e21bd2d3e74e6a62014716ca97cfc692327201)
+ [EMDocs\Solutions\media\MDM_Figure_14.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_Figure_14.png) | Ignored | [Details](#8f770b4a601ba5e2005417fb949ff26d916be936213)
+ [EMDocs\Solutions\media\MDM_pre-solution_2007.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_pre-solution_2007.png) | Ignored | [Details](#ac1bd2393bc0f462a95006647c43ddefd6d949bb215)
+ [EMDocs\Solutions\media\MDM_sidebyside.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_sidebyside.png) | Ignored | [Details](#75f1034538020eac89e2f8ed38394ec6defc375a216)
+ [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-assess-phase-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-assess-phase-2.png) | Ignored | [Details](#a056561c587322cb30eceefdb1352f3e572ad8be217)
+ [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-enable-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-enable-phase-1.png) | Ignored | [Details](#26daa6e1884a8ce4de143613028982078df21772219)
+ [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-1.png) | Ignored | [Details](#fec59b8ac1555666e5908fb2674e5f4012577f90221)
+ [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-2.png) | Ignored | [Details](#697f3678b426931f87ee9057422018872aa1f19a222)
+ [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-1.png) | Ignored | [Details](#6543b2d807068beb1fad313683005a8fecfc3e7a223)
+ [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-2.png) | Ignored | [Details](#f0e0cb44afadc4521715fbb0f4e80d631bbc11f4224)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningLearnAbout.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningLearnAbout.png) | Ignored | [Details](#22f361ce1f2b313eacd240ef391cb8d9b6068747240)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMap.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMap.png) | Ignored | [Details](#d8b45c409e90a80161cb6d885da95615d816cb73241)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEV.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEV.png) | Ignored | [Details](#2ff27043c6917480cb716cdf05fd7dd870c8fd26242)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVBuy.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVBuy.png) | Ignored | [Details](#98c739a3fa5ceae54479c7c0798f62aad8c376dd243)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVGuide.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVGuide.png) | Ignored | [Details](#bbea01856dbce8f2e97aea0cd37a02e4ca92a82c244)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLACM.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLACM.png) | Ignored | [Details](#d7a3dba2cf92e9259b2e1856e1e5adddff4280c4245)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLAFeatures.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLAFeatures.png) | Ignored | [Details](#08a8c8b6d9b5b4c680d446c7526140c58938a299246)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLASvcDesc.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLASvcDesc.png) | Ignored | [Details](#d710457850ab0aaeffee446d91a0e74f4feead52247)
+ [EMDocs\Solutions\media\MicrosoftIntuneLearningMapStart.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapStart.png) | Ignored | [Details](#0583d68bd86530248d8ff05f0857910a4ec83b8f248)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-assess-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-assess-phase-1.png) | Ignored | [Details](#efd1faa51c9e8e16e205bda81d78ef558bb85939226)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-core-5.vsdx](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-core-5.vsdx) | Ignored | [Details](#2a5d20240d994c31ab600792c750f5296bab4ed3227)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png) | Ignored | [Details](#61c9d96ca35eb79cf8a9fe5a39c4a661570e39f2228)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png) | Ignored | [Details](#5c2190c90f9b3f309921e8f0299b768ed87f3258229)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png) | Ignored | [Details](#17f355181baff768619b9a9e7c25a2b6f123bd9f230)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png) | Ignored | [Details](#74eab38f8759d371bad8ef7c39dcd19cd7b1bc22231)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png) | Ignored | [Details](#3ed47d2e0a85039a3423052c94c1f2dd151a81fb232)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png) | Ignored | [Details](#b97ee4a72b8ab6a6f5f88f2544e84aa40174c6b6233)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png) | Ignored | [Details](#9acc4853b308038f273420b63fd0663e5d1aeb0c234)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png) | Ignored | [Details](#1a8c217c3239ead92460d5234a05ef2ea6a98664235)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-initiate-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-initiate-phase-1.png) | Ignored | [Details](#6af57a2acb56416c9aa83b13914a3c2f0531b5b0236)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-phases-1.png) | Ignored | [Details](#fec59b8ac1555666e5908fb2674e5f4012577f90237)
+ [EMDocs\Solutions\media\Microsoft-Intune-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-process-1.png) | Ignored | [Details](#e3004e964445eead2fe038024847861048fb82c5238)
+ [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Mobile%20Engagement_Gray_150px.png) | Ignored | [Details](#cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011249)
+ [EMDocs\Solutions\media\OSD_ECM_Problem.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/OSD_ECM_Problem.jpg) | Ignored | [Details](#3f3040f1b93a0635196ceaf2d912f51f64fae567250)
+ [EMDocs\Solutions\media\OSD_ECM_Solution.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/OSD_ECM_Solution.jpg) | Ignored | [Details](#24d9051d263fa2040d872264d92aa16afc9d39c4251)
+ [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2b.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2b.png) | Ignored | [Details](#1dde0f9c701974b72ef12e63ecc4ed76f84f053e257)
+ [EMDocs\Solutions\media\SM_Solutions_MSITVideoImage.JPG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SM_Solutions_MSITVideoImage.JPG) | Ignored | [Details](#4462c0d06e2d8b59588d001b2a89dc36ac7dedf8300)
+ [EMDocs\Solutions\media\SolutionIcon_Accessandinformationprotection.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_Accessandinformationprotection.png) | Ignored | [Details](#ebabaf20a8256d4f549d0c6ee5d131399533d730301)
+ [EMDocs\Solutions\media\SolutionIcon_BusinessContinuity.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_BusinessContinuity.png) | Ignored | [Details](#4d08c33ae17b41a810b6ab341734ef1a7c0de0c5302)
+ [EMDocs\Solutions\media\SolutionIcon_EnterpriseCollaboration.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_EnterpriseCollaboration.png) | Ignored | [Details](#fb6f263d8e39297555f8ac8936d12c082517d373303)
+ [EMDocs\Solutions\media\SolutionIcon_EnterpriseStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_EnterpriseStorage.png) | Ignored | [Details](#7c1f618dbe6e48a9b2e93630c05cc30c73b7282c304)
+ [EMDocs\Solutions\media\SolutionIcon_HybridIdentity.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_HybridIdentity.png) | Ignored | [Details](#1b4c1e82333685bfb598a5efbf53138afdc9247d305)
+ [EMDocs\Solutions\media\SolutionIcon_MobileDeviceManagement.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_MobileDeviceManagement.png) | Ignored | [Details](#2b2f6a3bf3b2f3152e1e43160dbb270be165525e306)
+ [EMDocs\Solutions\media\SolutionIcon_SoftwareDefinedNetworking.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_SoftwareDefinedNetworking.png) | Ignored | [Details](#f86e25bd685355c2f1613fcc9e5391281e09ee66307)
+ [EMDocs\Solutions\media\SolutionIcon_Virtualization.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_Virtualization.png) | Ignored | [Details](#84a060e5797cc06f4bb986bea1c112b7e1bf06dc308)
+ [EMDocs\Solutions\media\Storageforvirtualizedworkloads.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Storageforvirtualizedworkloads.png) | Ignored | [Details](#159986d1eece2883a699cb7ffb66fb1f32a50570309)
+ [EMDocs\Solutions\media\UDMConceptual.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMConceptual.png) | Ignored | [Details](#a1fa7218bdc209fca0ec051ae053d48c44bdce70310)
+ [EMDocs\Solutions\media\UDMExistingHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMExistingHierarchy.png) | Ignored | [Details](#049f305576960a9fd8ec1f3cd28a1a66d6eb7ed1311)
+ [EMDocs\Solutions\media\UDMNewHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMNewHierarchy.png) | Ignored | [Details](#c70feae1c95c13218ba621ddecc2777c365507ba312)
+ [EMDocs\Solutions\media\UDMPostSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMPostSolution.png) | Ignored | [Details](#f2c14f577d5a310057182a68f2659a9789d2db4c313)
+ [EMDocs\Solutions\media\UDMPreSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMPreSolution.png) | Ignored | [Details](#b478cc4746b7d5782e1294bc51c82d06e458b69c314)
+ [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_01.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_01.PNG) | Ignored | [Details](#1062b36352669621637dd9cba002df25d61fa84e315)
+ [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_02.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_02.PNG) | Ignored | [Details](#33b758bb4703da8c6e054f12d74ff64d781476a2316)
+ [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_03.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_03.PNG) | Ignored | [Details](#197b04e89c64e3e444fc7f2640828da8485a5b54317)
+ [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_04.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_04.PNG) | Ignored | [Details](#ac378ec4422f19ab2a7b49735004e6cbb4b11f62318)
+ [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_05.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_05.PNG) | Ignored | [Details](#4e8f96009d07374693dc5ad5137dbfd3c380252f319)
+ [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_06.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_06.PNG) | Ignored | [Details](#2b68ccdc4186c87be31c81af11063c3668b930d1320)
+ [EMDocs\Solutions\media\WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png) | Ignored | [Details](#a4a049a55f8340c41d84d00f9e31d3164cc48349321)
+ [EMDocs\Solutions\media\WindowsServerGenericLogo.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WindowsServerGenericLogo.jpg) | Ignored | [Details](#8d844eaa476a20470ffb1b3528ad5fed34b611b4322)
+ [EMDocs\Solutions\media\WSE_SG_BP_Problem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_BP_Problem.png) | Ignored | [Details](#fc3bc6792e70ce529eea1071c7e7df88d6f22a90323)
+ [EMDocs\Solutions\media\WSE_SG_BP_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_BP_Solution.png) | Ignored | [Details](#4e93eca16817efd1f8c528d3913ae3a90278e2ad324)
+ [EMDocs\Solutions\media\WSE_SG_RA_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_RA_Solution.png) | Ignored | [Details](#d7fb4782b189dfaf247b4dafe15a9c482198c23d325)
+ [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_RAProblem.png) | Ignored | [Details](#b52789a46874ed019ff8dea05bfefdebdf549cbd326)
+ [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png) | Ignored | [Details](#17a8303c7ef0995ef393588b69250a0f4184df38327)
+ [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png) | Ignored | [Details](#0e1ba1f9f6fc258f4640be651285366d453d4e1a328)
+ [license.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/license.md) | Ignored | [Details](#809238560522a73c05e57b9f5b6637c224245927386)
+ [README.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/README.md) | Ignored | [Details](#8b38ac1bf813dc8840b1522ce23fddf8de3997c3387)
+ [template.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/template.md) | Ignored | [Details](#e6106b0b5a5aa1039f7cbf5a35589216c5e540f3388)
 
 ## Item Details
-##### <a name='7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0'></a> Source: [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.gitignore)
+##### <a name='7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0'></a> Source: [.gitignore](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -439,7 +439,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f0a2a6ffbe0ea0b065b096dbcf264b7bbe587cf61'></a> Source: [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.gitmodules)
+##### <a name='f0a2a6ffbe0ea0b065b096dbcf264b7bbe587cf61'></a> Source: [.gitmodules](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.gitmodules)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -451,7 +451,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='dc82f78801895699521807fa142b145ab07443272'></a> Source: [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.localization-config)
+##### <a name='dc82f78801895699521807fa142b145ab07443272'></a> Source: [.localization-config](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -463,7 +463,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9103b6933f2481864ecb6a66b76ba730e7f133b43'></a> Source: [.openpublishing.build.ps1](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.openpublishing.build.ps1)
+##### <a name='9103b6933f2481864ecb6a66b76ba730e7f133b43'></a> Source: [.openpublishing.build.ps1](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.openpublishing.build.ps1)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -475,7 +475,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='bc7448437db0fde042ab8db8170f813a9a31a3404'></a> Source: [.openpublishing.publish.config.json](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/.openpublishing.publish.config.json)
+##### <a name='bc7448437db0fde042ab8db8170f813a9a31a3404'></a> Source: [.openpublishing.publish.config.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -580,7 +580,7 @@
 * Handback Datetime: 2016-04-29 16:14:50
 * [Back to Top](#report-top)
 
-##### <a name='9e48efe97bfbf75cd53a823aa66a9379fd42e83013'></a> Source: [contributor-guide\media\agent.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/agent.png)
+##### <a name='9e48efe97bfbf75cd53a823aa66a9379fd42e83013'></a> Source: [contributor-guide\media\agent.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/agent.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -605,7 +605,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e974b636f9cfd1ffecae45f7df4ea93e4d1e1bd114'></a> Source: [contributor-guide\media\break-tables.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/break-tables.png)
+##### <a name='e974b636f9cfd1ffecae45f7df4ea93e4d1e1bd114'></a> Source: [contributor-guide\media\break-tables.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/break-tables.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -617,7 +617,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='56ddb4bfe6c0f633eef78f2cf035f0e476c4fe6d15'></a> Source: [contributor-guide\media\channel-guidance.pdf](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/channel-guidance.pdf)
+##### <a name='56ddb4bfe6c0f633eef78f2cf035f0e476c4fe6d15'></a> Source: [contributor-guide\media\channel-guidance.pdf](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/channel-guidance.pdf)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -668,7 +668,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='722b4d4e36c316c9cc964aefddc13792be114a2f19'></a> Source: [contributor-guide\media\discus.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/discus.png)
+##### <a name='722b4d4e36c316c9cc964aefddc13792be114a2f19'></a> Source: [contributor-guide\media\discus.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/discus.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -693,7 +693,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='46a0af3dc9b01ac57bf81697c92c611efcdc15a321'></a> Source: [contributor-guide\media\ems-markdown-cheat-sheet.pdf](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/ems-markdown-cheat-sheet.pdf)
+##### <a name='46a0af3dc9b01ac57bf81697c92c611efcdc15a321'></a> Source: [contributor-guide\media\ems-markdown-cheat-sheet.pdf](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/ems-markdown-cheat-sheet.pdf)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -718,7 +718,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='56191f512110bae8fb0b8bdbc6a370850d6ee4a923'></a> Source: [contributor-guide\media\github-icon-replica.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/github-icon-replica.png)
+##### <a name='56191f512110bae8fb0b8bdbc6a370850d6ee4a923'></a> Source: [contributor-guide\media\github-icon-replica.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/github-icon-replica.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -808,7 +808,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3ec8512641f8fb7b2fa619c59cf4a9dacd4bf49830'></a> Source: [contributor-guide\media\ms-logo.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/ms-logo.png)
+##### <a name='3ec8512641f8fb7b2fa619c59cf4a9dacd4bf49830'></a> Source: [contributor-guide\media\ms-logo.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/ms-logo.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -898,7 +898,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e2e8a3033043af49687d694c126f19f6629cf91837'></a> Source: [contributor-guide\media\table-markdown-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-1.png)
+##### <a name='e2e8a3033043af49687d694c126f19f6629cf91837'></a> Source: [contributor-guide\media\table-markdown-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -910,7 +910,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7c9f348175dcaa7cf56d65dafa6842a9078fb33d38'></a> Source: [contributor-guide\media\table-markdown-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-2.png)
+##### <a name='7c9f348175dcaa7cf56d65dafa6842a9078fb33d38'></a> Source: [contributor-guide\media\table-markdown-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -922,7 +922,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='529cf68bafb5f4ea233515c7854844d09acffd8439'></a> Source: [contributor-guide\media\table-markdown-3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-3.png)
+##### <a name='529cf68bafb5f4ea233515c7854844d09acffd8439'></a> Source: [contributor-guide\media\table-markdown-3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-3.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -934,7 +934,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7631dd51141574cd21d737549ef7ab8834267ce540'></a> Source: [contributor-guide\media\table-markdown-4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/contributor-guide/media/table-markdown-4.png)
+##### <a name='7631dd51141574cd21d737549ef7ab8834267ce540'></a> Source: [contributor-guide\media\table-markdown-4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/contributor-guide/media/table-markdown-4.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -994,7 +994,7 @@
 * Handback Datetime: 2016-04-29 16:14:50
 * [Back to Top](#report-top)
 
-##### <a name='e1e675b93ee4ed935ccded6730bd4057a92a252b45'></a> Source: [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/docfx.json)
+##### <a name='e1e675b93ee4ed935ccded6730bd4057a92a252b45'></a> Source: [EMDocs\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1006,7 +1006,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='84421bf7f4ba657e685239fb27f4798a46485f7146'></a> Source: [EMDocs\Image\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/150x150.png)
+##### <a name='84421bf7f4ba657e685239fb27f4798a46485f7146'></a> Source: [EMDocs\Image\150x150.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/150x150.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [84421bf7f4ba657e685239fb27f4798a46485f71.png](https://github.com/Microsoft/EM.handoff/blob/826818a32d43355d097529517c101be6bf879419/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/84421bf7f4ba657e685239fb27f4798a46485f71.png)
@@ -1019,7 +1019,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='887febf591b5b91a952a863e8d17e71316b8932b47'></a> Source: [EMDocs\Image\azure_active_directory_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/azure_active_directory_icon.png)
+##### <a name='887febf591b5b91a952a863e8d17e71316b8932b47'></a> Source: [EMDocs\Image\azure_active_directory_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/azure_active_directory_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1031,7 +1031,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='81ffc650bd7ce3d04eb77d01bcfbe37f26b22bf148'></a> Source: [EMDocs\Image\azure_rights_management_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/azure_rights_management_icon.png)
+##### <a name='81ffc650bd7ce3d04eb77d01bcfbe37f26b22bf148'></a> Source: [EMDocs\Image\azure_rights_management_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/azure_rights_management_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1043,7 +1043,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8d5aeaccaab93cb0b11a1aac837fb9f5118e2e2249'></a> Source: [EMDocs\Image\byod_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/byod_dcg_icon.png)
+##### <a name='8d5aeaccaab93cb0b11a1aac837fb9f5118e2e2249'></a> Source: [EMDocs\Image\byod_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/byod_dcg_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1055,7 +1055,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='659713084ea252eb2a14da1f991f82f73dfe0f0b50'></a> Source: [EMDocs\Image\Cloud_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/Cloud_icon.png)
+##### <a name='659713084ea252eb2a14da1f991f82f73dfe0f0b50'></a> Source: [EMDocs\Image\Cloud_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/Cloud_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1067,7 +1067,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e095fb4702c92b961abdb5889f6fa915b53089f351'></a> Source: [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/conditional%20access_exchange_icon.png)
+##### <a name='e095fb4702c92b961abdb5889f6fa915b53089f351'></a> Source: [EMDocs\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/conditional%20access_exchange_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1079,7 +1079,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4801d4b24f8c66abc1da68e075962c5cc820f93052'></a> Source: [EMDocs\Image\intune_byod_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/intune_byod_icon.png)
+##### <a name='4801d4b24f8c66abc1da68e075962c5cc820f93052'></a> Source: [EMDocs\Image\intune_byod_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/intune_byod_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1091,7 +1091,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a37eed6927ded3aca957701e4a7f55d818f3d2db53'></a> Source: [EMDocs\Image\intune_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/intune_icon.png)
+##### <a name='a37eed6927ded3aca957701e4a7f55d818f3d2db53'></a> Source: [EMDocs\Image\intune_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/intune_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1103,7 +1103,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8245763cd88ee1159f875f092bbae023355f31b254'></a> Source: [EMDocs\Image\logo-ms.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/logo-ms.png)
+##### <a name='8245763cd88ee1159f875f092bbae023355f31b254'></a> Source: [EMDocs\Image\logo-ms.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/logo-ms.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1115,7 +1115,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a1f374427902d6a123a3bbe1e20f51216f9d966c56'></a> Source: [EMDocs\Image\mdmdcg_icon.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mdmdcg_icon.jpg)
+##### <a name='a1f374427902d6a123a3bbe1e20f51216f9d966c56'></a> Source: [EMDocs\Image\mdmdcg_icon.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mdmdcg_icon.jpg)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1127,7 +1127,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='48120e0469d0cf1f25ccae705922846592e9f13655'></a> Source: [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mdm-dcg-icon.png)
+##### <a name='48120e0469d0cf1f25ccae705922846592e9f13655'></a> Source: [EMDocs\Image\mdm-dcg-icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mdm-dcg-icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1139,7 +1139,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0f669e5642999152c9bdeb33b2306a43714cab7957'></a> Source: [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mobile_devices_icon.png)
+##### <a name='0f669e5642999152c9bdeb33b2306a43714cab7957'></a> Source: [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mobile_devices_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1151,7 +1151,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b241a9a18fa3ab470534603d032fa7cf8ff0f06658'></a> Source: [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Image/mobile_engagement_icon.png)
+##### <a name='b241a9a18fa3ab470534603d032fa7cf8ff0f06658'></a> Source: [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mobile_engagement_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1178,7 +1178,7 @@
 * Current Handback Datetime: 2016-06-24 17:09:55
 * [Back to Top](#report-top)
 
-##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda60'></a> Source: [EMDocs\md.style](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/md.style)
+##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda60'></a> Source: [EMDocs\md.style](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/md.style)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1427,11 +1427,11 @@
 * Current Handback Datetime: 2016-05-26 11:59:00
 * [Back to Top](#report-top)
 
-##### <a name='6baacfcd4d929deda383be0331c192ee4e3a9cf478'></a> Source: [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/conditional-access-intune-exchange-online.md)
+##### <a name='82b00a5ce54a25b50563c9e5ef3c33b3c648639d78'></a> Source: [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/4e6a2c100c63ff21b7ccb89d59517dd63195b657/EMDocs/Solutions/conditional-access-intune-exchange-online.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/439c9d09d9c0d0c9902a0b4c31885f16cef72446/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
-* Handoff Datetime: 2016-06-25 00:29:26
+* Handoff File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/4d539877b0cc6c26f4dfe5d5672ac0961c3523e0/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
+* Handoff Datetime: 2016-07-01 17:48:02
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1442,7 +1442,7 @@
 * Current Handback Datetime: 2016-05-26 11:59:00
 * [Back to Top](#report-top)
 
-##### <a name='dab772c7718a3feda025e19cfaff388d8dd882d481'></a> Source: [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/docfx.json)
+##### <a name='dab772c7718a3feda025e19cfaff388d8dd882d481'></a> Source: [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1697,7 +1697,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda102'></a> Source: [EMDocs\Solutions\md.style](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/md.style)
+##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda102'></a> Source: [EMDocs\Solutions\md.style](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/md.style)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2196,7 +2196,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5eac3f12f94f18d6da8d5191fbc2087b8baa461e138'></a> Source: [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png)
+##### <a name='5eac3f12f94f18d6da8d5191fbc2087b8baa461e138'></a> Source: [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2221,7 +2221,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0478b1d6b50ed08e780f0de7ba57e26d9a653c70141'></a> Source: [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png)
+##### <a name='0478b1d6b50ed08e780f0de7ba57e26d9a653c70141'></a> Source: [EMDocs\Solutions\media\2-aadp-onboarding-phases-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/2-aadp-onboarding-phases-v3.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2233,7 +2233,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37eebe7c7d8e52eb31e73bd024985eac7486d0a3142'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/4-aadp-assess-phase-v3.png)
+##### <a name='37eebe7c7d8e52eb31e73bd024985eac7486d0a3142'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/4-aadp-assess-phase-v3.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
@@ -2246,7 +2246,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c35f1ea3e19ceb9319688b7b85b0cce91505ebbe143'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/4-aadp-assess-phase-v4.png)
+##### <a name='c35f1ea3e19ceb9319688b7b85b0cce91505ebbe143'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/4-aadp-assess-phase-v4.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2258,7 +2258,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37eebe7c7d8e52eb31e73bd024985eac7486d0a3144'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v5.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/4-aadp-assess-phase-v5.png)
+##### <a name='37eebe7c7d8e52eb31e73bd024985eac7486d0a3144'></a> Source: [EMDocs\Solutions\media\4-aadp-assess-phase-v5.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/4-aadp-assess-phase-v5.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/37eebe7c7d8e52eb31e73bd024985eac7486d0a3.png)
@@ -2271,7 +2271,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9bed1304e951c05174f2f0c3f745b16b343c5122145'></a> Source: [EMDocs\Solutions\media\ADFS_WinBLue_DRSandWorkplaceJoin.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ADFS_WinBLue_DRSandWorkplaceJoin.gif)
+##### <a name='9bed1304e951c05174f2f0c3f745b16b343c5122145'></a> Source: [EMDocs\Solutions\media\ADFS_WinBLue_DRSandWorkplaceJoin.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ADFS_WinBLue_DRSandWorkplaceJoin.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2283,7 +2283,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='aaafe8a34fd1cf9eb5a2a0af568afa4324441547148'></a> Source: [EMDocs\Solutions\media\AIP_ADCapabilities.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP_ADCapabilities.png)
+##### <a name='aaafe8a34fd1cf9eb5a2a0af568afa4324441547148'></a> Source: [EMDocs\Solutions\media\AIP_ADCapabilities.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP_ADCapabilities.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2295,7 +2295,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6396c0fc95b7070c390da85987dc08930cbaa9b6149'></a> Source: [EMDocs\Solutions\media\AIP_SolutionOverview.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP_SolutionOverview.gif)
+##### <a name='6396c0fc95b7070c390da85987dc08930cbaa9b6149'></a> Source: [EMDocs\Solutions\media\AIP_SolutionOverview.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP_SolutionOverview.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2307,7 +2307,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e4b7f822de21e282f40b9a6f5e0ff61beff85455146'></a> Source: [EMDocs\Solutions\media\AIP1.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP1.gif)
+##### <a name='e4b7f822de21e282f40b9a6f5e0ff61beff85455146'></a> Source: [EMDocs\Solutions\media\AIP1.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP1.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2319,7 +2319,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='713346d771d77005b738764bf0dd0354307c97c1147'></a> Source: [EMDocs\Solutions\media\AIP2.gif](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/AIP2.gif)
+##### <a name='713346d771d77005b738764bf0dd0354307c97c1147'></a> Source: [EMDocs\Solutions\media\AIP2.gif](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/AIP2.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2331,7 +2331,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='811c78666692e6140b800b3f864f3d783e5712f1150'></a> Source: [EMDocs\Solutions\media\All_Symbols_Cloud.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/All_Symbols_Cloud.png)
+##### <a name='811c78666692e6140b800b3f864f3d783e5712f1150'></a> Source: [EMDocs\Solutions\media\All_Symbols_Cloud.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/All_Symbols_Cloud.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2343,7 +2343,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2ce2a7d01b2e65a37ddab24557463cd78a4dc3c3151'></a> Source: [EMDocs\Solutions\media\BlueSolution_BusinessContBackup.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/BlueSolution_BusinessContBackup.png)
+##### <a name='2ce2a7d01b2e65a37ddab24557463cd78a4dc3c3151'></a> Source: [EMDocs\Solutions\media\BlueSolution_BusinessContBackup.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/BlueSolution_BusinessContBackup.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2355,7 +2355,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='73513cd15e46f87a556cd3bc42c0fe1b7ac40f05152'></a> Source: [EMDocs\Solutions\media\BlueSolution_BusinessContBackup2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/BlueSolution_BusinessContBackup2.png)
+##### <a name='73513cd15e46f87a556cd3bc42c0fe1b7ac40f05152'></a> Source: [EMDocs\Solutions\media\BlueSolution_BusinessContBackup2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/BlueSolution_BusinessContBackup2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2445,7 +2445,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8ef051a2ae4b94978521d0bd8c72ff23a30eca53159'></a> Source: [EMDocs\Solutions\media\ECSoln_IntuneStandalone.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ECSoln_IntuneStandalone.png)
+##### <a name='8ef051a2ae4b94978521d0bd8c72ff23a30eca53159'></a> Source: [EMDocs\Solutions\media\ECSoln_IntuneStandalone.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ECSoln_IntuneStandalone.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2457,7 +2457,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d28e9f2094ac4ead1d48e436ab022aae13f5010e160'></a> Source: [EMDocs\Solutions\media\ECSoln_IntuneStandalone_Fig2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ECSoln_IntuneStandalone_Fig2.png)
+##### <a name='d28e9f2094ac4ead1d48e436ab022aae13f5010e160'></a> Source: [EMDocs\Solutions\media\ECSoln_IntuneStandalone_Fig2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ECSoln_IntuneStandalone_Fig2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2469,7 +2469,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='938d56f5f27cd302c4f515a1fe922be97b1311af161'></a> Source: [EMDocs\Solutions\media\EM_HybridMgmt.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/EM_HybridMgmt.png)
+##### <a name='938d56f5f27cd302c4f515a1fe922be97b1311af161'></a> Source: [EMDocs\Solutions\media\EM_HybridMgmt.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/EM_HybridMgmt.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2481,7 +2481,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='713d729fc0da8a1bf17322ec17d3bd6bab6ff306162'></a> Source: [EMDocs\Solutions\media\EM_HybridMgmt_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/EM_HybridMgmt_Solution.png)
+##### <a name='713d729fc0da8a1bf17322ec17d3bd6bab6ff306162'></a> Source: [EMDocs\Solutions\media\EM_HybridMgmt_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/EM_HybridMgmt_Solution.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2493,7 +2493,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='96a4ccb4c63adb84ba97e57c70102647094bd6cd163'></a> Source: [EMDocs\Solutions\media\EM_IntuneEval_Solution.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/EM_IntuneEval_Solution.PNG)
+##### <a name='96a4ccb4c63adb84ba97e57c70102647094bd6cd163'></a> Source: [EMDocs\Solutions\media\EM_IntuneEval_Solution.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/EM_IntuneEval_Solution.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2505,7 +2505,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f333254dcf8caec6a8f47f282b8f9e82fed06ddc164'></a> Source: [EMDocs\Solutions\media\fasttrack-azrms-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/fasttrack-azrms-enable-phase.png)
+##### <a name='f333254dcf8caec6a8f47f282b8f9e82fed06ddc164'></a> Source: [EMDocs\Solutions\media\fasttrack-azrms-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/fasttrack-azrms-enable-phase.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [f333254dcf8caec6a8f47f282b8f9e82fed06ddc.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/f333254dcf8caec6a8f47f282b8f9e82fed06ddc.png)
@@ -2518,7 +2518,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f0db5300f58aef37da4c0f87bc02e14cbd2c51f3165'></a> Source: [EMDocs\Solutions\media\fasttrack-intune-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/fasttrack-intune-enable-phase.png)
+##### <a name='f0db5300f58aef37da4c0f87bc02e14cbd2c51f3165'></a> Source: [EMDocs\Solutions\media\fasttrack-intune-enable-phase.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/fasttrack-intune-enable-phase.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png](https://github.com/Microsoft/EM.handoff/blob/2d6c5ef0502c4560f4db6dfc0b0c26db8c8af4ff/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/f0db5300f58aef37da4c0f87bc02e14cbd2c51f3.png)
@@ -2531,7 +2531,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='996dffc75ee4054ec3e0e24301eb2f118b1f16d3166'></a> Source: [EMDocs\Solutions\media\ForwardingSubnets.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ForwardingSubnets.png)
+##### <a name='996dffc75ee4054ec3e0e24301eb2f118b1f16d3166'></a> Source: [EMDocs\Solutions\media\ForwardingSubnets.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ForwardingSubnets.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2647,7 +2647,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='27e12097930e9f48914cd12fcf52d17f76d195bf175'></a> Source: [EMDocs\Solutions\media\HYB_ID_1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_1.png)
+##### <a name='27e12097930e9f48914cd12fcf52d17f76d195bf175'></a> Source: [EMDocs\Solutions\media\HYB_ID_1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2659,7 +2659,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='419d643f576993a215e61759dce25abc186d8d35176'></a> Source: [EMDocs\Solutions\media\HYB_ID_2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_2.png)
+##### <a name='419d643f576993a215e61759dce25abc186d8d35176'></a> Source: [EMDocs\Solutions\media\HYB_ID_2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2671,7 +2671,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6447a29eff44d923b77ece3901ad0c1a11fdb492177'></a> Source: [EMDocs\Solutions\media\HYB_ID_3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_3.png)
+##### <a name='6447a29eff44d923b77ece3901ad0c1a11fdb492177'></a> Source: [EMDocs\Solutions\media\HYB_ID_3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_3.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2683,7 +2683,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ece9089a3cb99c47ab72e7bfd0ba14d59c354f7d178'></a> Source: [EMDocs\Solutions\media\HYB_ID_4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HYB_ID_4.png)
+##### <a name='ece9089a3cb99c47ab72e7bfd0ba14d59c354f7d178'></a> Source: [EMDocs\Solutions\media\HYB_ID_4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HYB_ID_4.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2695,7 +2695,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4ef48673c4811894fb24366fc46d8e991cbaf1e8180'></a> Source: [EMDocs\Solutions\media\HybridCloudMulti-TenantNetworkingSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridCloudMulti-TenantNetworkingSolutionArchitecture.png)
+##### <a name='4ef48673c4811894fb24366fc46d8e991cbaf1e8180'></a> Source: [EMDocs\Solutions\media\HybridCloudMulti-TenantNetworkingSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridCloudMulti-TenantNetworkingSolutionArchitecture.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2707,7 +2707,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8a813dea3d60a0be54045e0f1bbcc6b630cdb162179'></a> Source: [EMDocs\Solutions\media\hybrid-identity_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/hybrid-identity_dcg_icon.png)
+##### <a name='8a813dea3d60a0be54045e0f1bbcc6b630cdb162179'></a> Source: [EMDocs\Solutions\media\hybrid-identity_dcg_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/hybrid-identity_dcg_icon.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2719,7 +2719,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='158be1a69f0d5216fb0caf2102cceb21ce692e28181'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-.png)
+##### <a name='158be1a69f0d5216fb0caf2102cceb21ce692e28181'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2731,7 +2731,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='afdbaf895cc0f192166753f25ea7f63414d11557182'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-Clusters.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-Clusters.png)
+##### <a name='afdbaf895cc0f192166753f25ea7f63414d11557182'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-Clusters.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-Clusters.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2743,7 +2743,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='760b0b0f0cdf0030b5abb96dc0ecdcb3d4823880183'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-MigrationSettings.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-MigrationSettings.png)
+##### <a name='760b0b0f0cdf0030b5abb96dc0ecdcb3d4823880183'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-MigrationSettings.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-MigrationSettings.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2755,7 +2755,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f84b8a846f76173dcff466e4d1e6b0739d4256a7184'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkInterfaces.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkInterfaces.png)
+##### <a name='f84b8a846f76173dcff466e4d1e6b0739d4256a7184'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkInterfaces.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkInterfaces.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2767,7 +2767,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='852623e8b17dff3ac845b9272c6f48abc94171f3185'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkServiceConnectionString.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkServiceConnectionString.png)
+##### <a name='852623e8b17dff3ac845b9272c6f48abc94171f3185'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-NetworkServiceConnectionString.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-NetworkServiceConnectionString.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2779,7 +2779,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='236a61f5ce04964e653d66b3be1f829373f227dc186'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-ProblemDiagram.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-ProblemDiagram.png)
+##### <a name='236a61f5ce04964e653d66b3be1f829373f227dc186'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-ProblemDiagram.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-ProblemDiagram.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2791,7 +2791,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='add6525ddef28dff85e532579ce538c722774e2e187'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitch.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitch.png)
+##### <a name='add6525ddef28dff85e532579ce538c722774e2e187'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitch.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitch.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2803,7 +2803,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f0d9c9804b461dd5cc455aab9819890d102ffba0188'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png)
+##### <a name='f0d9c9804b461dd5cc455aab9819890d102ffba0188'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterLM.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2815,7 +2815,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='66620872fdc485357a6331ca6646db45d15f108e189'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png)
+##### <a name='66620872fdc485357a6331ca6646db45d15f108e189'></a> Source: [EMDocs\Solutions\media\HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/HybridNetworkingSolution-VirtualSwitchVirtuallAdapterStorage.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2866,7 +2866,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2bc0c71f97011edd2d72fb6191548a27ce19949c192'></a> Source: [EMDocs\Solutions\media\Intune-enable-phase-sccm-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-enable-phase-sccm-9-15-15.png)
+##### <a name='2bc0c71f97011edd2d72fb6191548a27ce19949c192'></a> Source: [EMDocs\Solutions\media\Intune-enable-phase-sccm-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-enable-phase-sccm-9-15-15.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2878,7 +2878,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='25e1a4520e0474db9a5e98dbd44469f260cadae3193'></a> Source: [EMDocs\Solutions\media\Intune-enable-phase-standalone-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-enable-phase-standalone-9-15-15.png)
+##### <a name='25e1a4520e0474db9a5e98dbd44469f260cadae3193'></a> Source: [EMDocs\Solutions\media\Intune-enable-phase-standalone-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-enable-phase-standalone-9-15-15.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2916,7 +2916,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cff679acaea06114e77da7e149b6810504c43b0d197'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15_old.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15_old.png)
+##### <a name='cff679acaea06114e77da7e149b6810504c43b0d197'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15_old.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15_old.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2928,7 +2928,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b884f9b50170025979216b2a434540566414442a196'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15-v2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15-v2.png)
+##### <a name='b884f9b50170025979216b2a434540566414442a196'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-10-7-15-v2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-onboarding-process-10-7-15-v2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2940,7 +2940,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b05f0f8dc9624d145b8b9bce226458a437fc1059198'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Intune-onboarding-process-9-15-15.png)
+##### <a name='b05f0f8dc9624d145b8b9bce226458a437fc1059198'></a> Source: [EMDocs\Solutions\media\Intune-onboarding-process-9-15-15.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Intune-onboarding-process-9-15-15.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2965,7 +2965,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1fcc8e21bd2d3e74e6a62014716ca97cfc692327201'></a> Source: [EMDocs\Solutions\media\MDM_Figure_02.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_Figure_02.png)
+##### <a name='1fcc8e21bd2d3e74e6a62014716ca97cfc692327201'></a> Source: [EMDocs\Solutions\media\MDM_Figure_02.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_Figure_02.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3120,7 +3120,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8f770b4a601ba5e2005417fb949ff26d916be936213'></a> Source: [EMDocs\Solutions\media\MDM_Figure_14.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_Figure_14.png)
+##### <a name='8f770b4a601ba5e2005417fb949ff26d916be936213'></a> Source: [EMDocs\Solutions\media\MDM_Figure_14.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_Figure_14.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3145,7 +3145,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ac1bd2393bc0f462a95006647c43ddefd6d949bb215'></a> Source: [EMDocs\Solutions\media\MDM_pre-solution_2007.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_pre-solution_2007.png)
+##### <a name='ac1bd2393bc0f462a95006647c43ddefd6d949bb215'></a> Source: [EMDocs\Solutions\media\MDM_pre-solution_2007.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_pre-solution_2007.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3157,7 +3157,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='75f1034538020eac89e2f8ed38394ec6defc375a216'></a> Source: [EMDocs\Solutions\media\MDM_sidebyside.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MDM_sidebyside.png)
+##### <a name='75f1034538020eac89e2f8ed38394ec6defc375a216'></a> Source: [EMDocs\Solutions\media\MDM_sidebyside.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MDM_sidebyside.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3169,7 +3169,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a056561c587322cb30eceefdb1352f3e572ad8be217'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-assess-phase-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-assess-phase-2.png)
+##### <a name='a056561c587322cb30eceefdb1352f3e572ad8be217'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-assess-phase-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-assess-phase-2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3194,7 +3194,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='26daa6e1884a8ce4de143613028982078df21772219'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-enable-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-enable-phase-1.png)
+##### <a name='26daa6e1884a8ce4de143613028982078df21772219'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-enable-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-enable-phase-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3219,7 +3219,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fec59b8ac1555666e5908fb2674e5f4012577f90221'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-1.png)
+##### <a name='fec59b8ac1555666e5908fb2674e5f4012577f90221'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3231,7 +3231,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='697f3678b426931f87ee9057422018872aa1f19a222'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-2.png)
+##### <a name='697f3678b426931f87ee9057422018872aa1f19a222'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-phases-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-phases-2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3243,7 +3243,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6543b2d807068beb1fad313683005a8fecfc3e7a223'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-1.png)
+##### <a name='6543b2d807068beb1fad313683005a8fecfc3e7a223'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3255,7 +3255,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f0e0cb44afadc4521715fbb0f4e80d631bbc11f4224'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-2.png)
+##### <a name='f0e0cb44afadc4521715fbb0f4e80d631bbc11f4224'></a> Source: [EMDocs\Solutions\media\Microsoft-Azure-AD-Premium-onboarding-process-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Azure-AD-Premium-onboarding-process-2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3280,7 +3280,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='22f361ce1f2b313eacd240ef391cb8d9b6068747240'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningLearnAbout.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningLearnAbout.png)
+##### <a name='22f361ce1f2b313eacd240ef391cb8d9b6068747240'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningLearnAbout.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningLearnAbout.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3292,7 +3292,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d8b45c409e90a80161cb6d885da95615d816cb73241'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMap.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMap.png)
+##### <a name='d8b45c409e90a80161cb6d885da95615d816cb73241'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMap.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMap.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3304,7 +3304,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2ff27043c6917480cb716cdf05fd7dd870c8fd26242'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEV.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEV.png)
+##### <a name='2ff27043c6917480cb716cdf05fd7dd870c8fd26242'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEV.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEV.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3316,7 +3316,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='98c739a3fa5ceae54479c7c0798f62aad8c376dd243'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVBuy.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVBuy.png)
+##### <a name='98c739a3fa5ceae54479c7c0798f62aad8c376dd243'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVBuy.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVBuy.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3328,7 +3328,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='bbea01856dbce8f2e97aea0cd37a02e4ca92a82c244'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVGuide.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVGuide.png)
+##### <a name='bbea01856dbce8f2e97aea0cd37a02e4ca92a82c244'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapEVGuide.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapEVGuide.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3340,7 +3340,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d7a3dba2cf92e9259b2e1856e1e5adddff4280c4245'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLACM.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLACM.png)
+##### <a name='d7a3dba2cf92e9259b2e1856e1e5adddff4280c4245'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLACM.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLACM.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3352,7 +3352,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='08a8c8b6d9b5b4c680d446c7526140c58938a299246'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLAFeatures.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLAFeatures.png)
+##### <a name='08a8c8b6d9b5b4c680d446c7526140c58938a299246'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLAFeatures.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLAFeatures.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3364,7 +3364,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d710457850ab0aaeffee446d91a0e74f4feead52247'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLASvcDesc.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLASvcDesc.png)
+##### <a name='d710457850ab0aaeffee446d91a0e74f4feead52247'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapLASvcDesc.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapLASvcDesc.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3376,7 +3376,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0583d68bd86530248d8ff05f0857910a4ec83b8f248'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapStart.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/MicrosoftIntuneLearningMapStart.png)
+##### <a name='0583d68bd86530248d8ff05f0857910a4ec83b8f248'></a> Source: [EMDocs\Solutions\media\MicrosoftIntuneLearningMapStart.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/MicrosoftIntuneLearningMapStart.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3388,7 +3388,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='efd1faa51c9e8e16e205bda81d78ef558bb85939226'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-assess-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-assess-phase-1.png)
+##### <a name='efd1faa51c9e8e16e205bda81d78ef558bb85939226'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-assess-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-assess-phase-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3400,7 +3400,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2a5d20240d994c31ab600792c750f5296bab4ed3227'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-core-5.vsdx](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-core-5.vsdx)
+##### <a name='2a5d20240d994c31ab600792c750f5296bab4ed3227'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-core-5.vsdx](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-core-5.vsdx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3412,7 +3412,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='61c9d96ca35eb79cf8a9fe5a39c4a661570e39f2228'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png)
+##### <a name='61c9d96ca35eb79cf8a9fe5a39c4a661570e39f2228'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3424,7 +3424,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5c2190c90f9b3f309921e8f0299b768ed87f3258229'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png)
+##### <a name='5c2190c90f9b3f309921e8f0299b768ed87f3258229'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-2.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3436,7 +3436,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='17f355181baff768619b9a9e7c25a2b6f123bd9f230'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png)
+##### <a name='17f355181baff768619b9a9e7c25a2b6f123bd9f230'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-3.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3448,7 +3448,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='74eab38f8759d371bad8ef7c39dcd19cd7b1bc22231'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png)
+##### <a name='74eab38f8759d371bad8ef7c39dcd19cd7b1bc22231'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-4.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3460,7 +3460,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3ed47d2e0a85039a3423052c94c1f2dd151a81fb232'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png)
+##### <a name='3ed47d2e0a85039a3423052c94c1f2dd151a81fb232'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-core-5.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3472,7 +3472,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b97ee4a72b8ab6a6f5f88f2544e84aa40174c6b6233'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png)
+##### <a name='b97ee4a72b8ab6a6f5f88f2544e84aa40174c6b6233'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3484,7 +3484,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9acc4853b308038f273420b63fd0663e5d1aeb0c234'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png)
+##### <a name='9acc4853b308038f273420b63fd0663e5d1aeb0c234'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-hybrid-3.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3496,7 +3496,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1a8c217c3239ead92460d5234a05ef2ea6a98664235'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png)
+##### <a name='1a8c217c3239ead92460d5234a05ef2ea6a98664235'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-enable-phase-Intune-standalone-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3508,7 +3508,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6af57a2acb56416c9aa83b13914a3c2f0531b5b0236'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-initiate-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-initiate-phase-1.png)
+##### <a name='6af57a2acb56416c9aa83b13914a3c2f0531b5b0236'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-initiate-phase-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-initiate-phase-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3520,7 +3520,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fec59b8ac1555666e5908fb2674e5f4012577f90237'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-phases-1.png)
+##### <a name='fec59b8ac1555666e5908fb2674e5f4012577f90237'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-phases-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-phases-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3532,7 +3532,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e3004e964445eead2fe038024847861048fb82c5238'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Microsoft-Intune-onboarding-process-1.png)
+##### <a name='e3004e964445eead2fe038024847861048fb82c5238'></a> Source: [EMDocs\Solutions\media\Microsoft-Intune-onboarding-process-1.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Microsoft-Intune-onboarding-process-1.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3557,7 +3557,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011249'></a> Source: [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Mobile%20Engagement_Gray_150px.png)
+##### <a name='cd8b4744c30cd1b0ce1e17f4c6d6d8ae134ae011249'></a> Source: [EMDocs\Solutions\media\Mobile Engagement_Gray_150px.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Mobile%20Engagement_Gray_150px.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3569,7 +3569,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f3040f1b93a0635196ceaf2d912f51f64fae567250'></a> Source: [EMDocs\Solutions\media\OSD_ECM_Problem.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/OSD_ECM_Problem.jpg)
+##### <a name='3f3040f1b93a0635196ceaf2d912f51f64fae567250'></a> Source: [EMDocs\Solutions\media\OSD_ECM_Problem.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/OSD_ECM_Problem.jpg)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3581,7 +3581,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='24d9051d263fa2040d872264d92aa16afc9d39c4251'></a> Source: [EMDocs\Solutions\media\OSD_ECM_Solution.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/OSD_ECM_Solution.jpg)
+##### <a name='24d9051d263fa2040d872264d92aa16afc9d39c4251'></a> Source: [EMDocs\Solutions\media\OSD_ECM_Solution.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/OSD_ECM_Solution.jpg)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3658,7 +3658,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1dde0f9c701974b72ef12e63ecc4ed76f84f053e257'></a> Source: [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2b.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2b.png)
+##### <a name='1dde0f9c701974b72ef12e63ecc4ed76f84f053e257'></a> Source: [EMDocs\Solutions\media\ProtectEmail\conditional-access-8-2b.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/ProtectEmail/conditional-access-8-2b.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4216,7 +4216,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4462c0d06e2d8b59588d001b2a89dc36ac7dedf8300'></a> Source: [EMDocs\Solutions\media\SM_Solutions_MSITVideoImage.JPG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SM_Solutions_MSITVideoImage.JPG)
+##### <a name='4462c0d06e2d8b59588d001b2a89dc36ac7dedf8300'></a> Source: [EMDocs\Solutions\media\SM_Solutions_MSITVideoImage.JPG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SM_Solutions_MSITVideoImage.JPG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4228,7 +4228,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ebabaf20a8256d4f549d0c6ee5d131399533d730301'></a> Source: [EMDocs\Solutions\media\SolutionIcon_Accessandinformationprotection.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_Accessandinformationprotection.png)
+##### <a name='ebabaf20a8256d4f549d0c6ee5d131399533d730301'></a> Source: [EMDocs\Solutions\media\SolutionIcon_Accessandinformationprotection.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_Accessandinformationprotection.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4240,7 +4240,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4d08c33ae17b41a810b6ab341734ef1a7c0de0c5302'></a> Source: [EMDocs\Solutions\media\SolutionIcon_BusinessContinuity.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_BusinessContinuity.png)
+##### <a name='4d08c33ae17b41a810b6ab341734ef1a7c0de0c5302'></a> Source: [EMDocs\Solutions\media\SolutionIcon_BusinessContinuity.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_BusinessContinuity.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4252,7 +4252,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fb6f263d8e39297555f8ac8936d12c082517d373303'></a> Source: [EMDocs\Solutions\media\SolutionIcon_EnterpriseCollaboration.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_EnterpriseCollaboration.png)
+##### <a name='fb6f263d8e39297555f8ac8936d12c082517d373303'></a> Source: [EMDocs\Solutions\media\SolutionIcon_EnterpriseCollaboration.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_EnterpriseCollaboration.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4264,7 +4264,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7c1f618dbe6e48a9b2e93630c05cc30c73b7282c304'></a> Source: [EMDocs\Solutions\media\SolutionIcon_EnterpriseStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_EnterpriseStorage.png)
+##### <a name='7c1f618dbe6e48a9b2e93630c05cc30c73b7282c304'></a> Source: [EMDocs\Solutions\media\SolutionIcon_EnterpriseStorage.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_EnterpriseStorage.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4276,7 +4276,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1b4c1e82333685bfb598a5efbf53138afdc9247d305'></a> Source: [EMDocs\Solutions\media\SolutionIcon_HybridIdentity.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_HybridIdentity.png)
+##### <a name='1b4c1e82333685bfb598a5efbf53138afdc9247d305'></a> Source: [EMDocs\Solutions\media\SolutionIcon_HybridIdentity.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_HybridIdentity.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4288,7 +4288,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2b2f6a3bf3b2f3152e1e43160dbb270be165525e306'></a> Source: [EMDocs\Solutions\media\SolutionIcon_MobileDeviceManagement.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_MobileDeviceManagement.png)
+##### <a name='2b2f6a3bf3b2f3152e1e43160dbb270be165525e306'></a> Source: [EMDocs\Solutions\media\SolutionIcon_MobileDeviceManagement.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_MobileDeviceManagement.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4300,7 +4300,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f86e25bd685355c2f1613fcc9e5391281e09ee66307'></a> Source: [EMDocs\Solutions\media\SolutionIcon_SoftwareDefinedNetworking.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_SoftwareDefinedNetworking.png)
+##### <a name='f86e25bd685355c2f1613fcc9e5391281e09ee66307'></a> Source: [EMDocs\Solutions\media\SolutionIcon_SoftwareDefinedNetworking.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_SoftwareDefinedNetworking.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4312,7 +4312,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='84a060e5797cc06f4bb986bea1c112b7e1bf06dc308'></a> Source: [EMDocs\Solutions\media\SolutionIcon_Virtualization.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/SolutionIcon_Virtualization.png)
+##### <a name='84a060e5797cc06f4bb986bea1c112b7e1bf06dc308'></a> Source: [EMDocs\Solutions\media\SolutionIcon_Virtualization.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/SolutionIcon_Virtualization.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4324,7 +4324,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='159986d1eece2883a699cb7ffb66fb1f32a50570309'></a> Source: [EMDocs\Solutions\media\Storageforvirtualizedworkloads.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/Storageforvirtualizedworkloads.png)
+##### <a name='159986d1eece2883a699cb7ffb66fb1f32a50570309'></a> Source: [EMDocs\Solutions\media\Storageforvirtualizedworkloads.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/Storageforvirtualizedworkloads.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4336,7 +4336,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a1fa7218bdc209fca0ec051ae053d48c44bdce70310'></a> Source: [EMDocs\Solutions\media\UDMConceptual.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMConceptual.png)
+##### <a name='a1fa7218bdc209fca0ec051ae053d48c44bdce70310'></a> Source: [EMDocs\Solutions\media\UDMConceptual.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMConceptual.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4348,7 +4348,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='049f305576960a9fd8ec1f3cd28a1a66d6eb7ed1311'></a> Source: [EMDocs\Solutions\media\UDMExistingHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMExistingHierarchy.png)
+##### <a name='049f305576960a9fd8ec1f3cd28a1a66d6eb7ed1311'></a> Source: [EMDocs\Solutions\media\UDMExistingHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMExistingHierarchy.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4360,7 +4360,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c70feae1c95c13218ba621ddecc2777c365507ba312'></a> Source: [EMDocs\Solutions\media\UDMNewHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMNewHierarchy.png)
+##### <a name='c70feae1c95c13218ba621ddecc2777c365507ba312'></a> Source: [EMDocs\Solutions\media\UDMNewHierarchy.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMNewHierarchy.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4372,7 +4372,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f2c14f577d5a310057182a68f2659a9789d2db4c313'></a> Source: [EMDocs\Solutions\media\UDMPostSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMPostSolution.png)
+##### <a name='f2c14f577d5a310057182a68f2659a9789d2db4c313'></a> Source: [EMDocs\Solutions\media\UDMPostSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMPostSolution.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4384,7 +4384,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b478cc4746b7d5782e1294bc51c82d06e458b69c314'></a> Source: [EMDocs\Solutions\media\UDMPreSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/UDMPreSolution.png)
+##### <a name='b478cc4746b7d5782e1294bc51c82d06e458b69c314'></a> Source: [EMDocs\Solutions\media\UDMPreSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/UDMPreSolution.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4396,7 +4396,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1062b36352669621637dd9cba002df25d61fa84e315'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_01.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_01.PNG)
+##### <a name='1062b36352669621637dd9cba002df25d61fa84e315'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_01.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_01.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4408,7 +4408,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='33b758bb4703da8c6e054f12d74ff64d781476a2316'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_02.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_02.PNG)
+##### <a name='33b758bb4703da8c6e054f12d74ff64d781476a2316'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_02.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_02.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4420,7 +4420,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='197b04e89c64e3e444fc7f2640828da8485a5b54317'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_03.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_03.PNG)
+##### <a name='197b04e89c64e3e444fc7f2640828da8485a5b54317'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_03.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_03.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4432,7 +4432,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ac378ec4422f19ab2a7b49735004e6cbb4b11f62318'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_04.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_04.PNG)
+##### <a name='ac378ec4422f19ab2a7b49735004e6cbb4b11f62318'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_04.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_04.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4444,7 +4444,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4e8f96009d07374693dc5ad5137dbfd3c380252f319'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_05.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_05.PNG)
+##### <a name='4e8f96009d07374693dc5ad5137dbfd3c380252f319'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_05.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_05.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4456,7 +4456,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2b68ccdc4186c87be31c81af11063c3668b930d1320'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_06.PNG](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_06.PNG)
+##### <a name='2b68ccdc4186c87be31c81af11063c3668b930d1320'></a> Source: [EMDocs\Solutions\media\VirtualizationFabricDesignConsiderationsGuide_06.PNG](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/VirtualizationFabricDesignConsiderationsGuide_06.PNG)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4468,7 +4468,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a4a049a55f8340c41d84d00f9e31d3164cc48349321'></a> Source: [EMDocs\Solutions\media\WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png)
+##### <a name='a4a049a55f8340c41d84d00f9e31d3164cc48349321'></a> Source: [EMDocs\Solutions\media\WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WindowsServer-basedStorageforVirtualMachinesSolutionArchitecture.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4480,7 +4480,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8d844eaa476a20470ffb1b3528ad5fed34b611b4322'></a> Source: [EMDocs\Solutions\media\WindowsServerGenericLogo.jpg](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WindowsServerGenericLogo.jpg)
+##### <a name='8d844eaa476a20470ffb1b3528ad5fed34b611b4322'></a> Source: [EMDocs\Solutions\media\WindowsServerGenericLogo.jpg](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WindowsServerGenericLogo.jpg)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4492,7 +4492,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fc3bc6792e70ce529eea1071c7e7df88d6f22a90323'></a> Source: [EMDocs\Solutions\media\WSE_SG_BP_Problem.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_BP_Problem.png)
+##### <a name='fc3bc6792e70ce529eea1071c7e7df88d6f22a90323'></a> Source: [EMDocs\Solutions\media\WSE_SG_BP_Problem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_BP_Problem.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4504,7 +4504,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4e93eca16817efd1f8c528d3913ae3a90278e2ad324'></a> Source: [EMDocs\Solutions\media\WSE_SG_BP_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_BP_Solution.png)
+##### <a name='4e93eca16817efd1f8c528d3913ae3a90278e2ad324'></a> Source: [EMDocs\Solutions\media\WSE_SG_BP_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_BP_Solution.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4516,7 +4516,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d7fb4782b189dfaf247b4dafe15a9c482198c23d325'></a> Source: [EMDocs\Solutions\media\WSE_SG_RA_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_RA_Solution.png)
+##### <a name='d7fb4782b189dfaf247b4dafe15a9c482198c23d325'></a> Source: [EMDocs\Solutions\media\WSE_SG_RA_Solution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_RA_Solution.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4528,7 +4528,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b52789a46874ed019ff8dea05bfefdebdf549cbd326'></a> Source: [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_RAProblem.png)
+##### <a name='b52789a46874ed019ff8dea05bfefdebdf549cbd326'></a> Source: [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_RAProblem.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4540,7 +4540,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='17a8303c7ef0995ef393588b69250a0f4184df38327'></a> Source: [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png)
+##### <a name='17a8303c7ef0995ef393588b69250a0f4184df38327'></a> Source: [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4552,7 +4552,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0e1ba1f9f6fc258f4640be651285366d453d4e1a328'></a> Source: [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png)
+##### <a name='0e1ba1f9f6fc258f4640be651285366d453d4e1a328'></a> Source: [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4702,7 +4702,7 @@
 * Handback Datetime: 2016-04-19 01:09:10
 * [Back to Top](#report-top)
 
-##### <a name='8c168dcf0f5cc49c49de658a16650db0f93832c0341'></a> Source: [EMDocs\Token\azure_2.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/azure_2.md)
+##### <a name='8c168dcf0f5cc49c49de658a16650db0f93832c0341'></a> Source: [EMDocs\Token\azure_2.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/azure_2.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [EMDocs\Token\Azure.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/82c4eaa14a29e6ae3236c9d290a9e654f9d8b08f/EMDocs/Token/Azure.md)
 * Handoff File: [Azure.08250d168f240ae021d6afd793395bc3f27f0357.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Azure.08250d168f240ae021d6afd793395bc3f27f0357.zh-cn.xlf)
@@ -5038,7 +5038,7 @@
 * Handback Datetime: 2016-04-19 01:09:10
 * [Back to Top](#report-top)
 
-##### <a name='745e57cb646c59dcdc9eae28f613b2f4c657b141366'></a> Source: [EMDocs\Token\System-Center-2012-R2-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/System-Center-2012-R2-Configuration-Manager.md)
+##### <a name='745e57cb646c59dcdc9eae28f613b2f4c657b141366'></a> Source: [EMDocs\Token\System-Center-2012-R2-Configuration-Manager.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/System-Center-2012-R2-Configuration-Manager.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [EMDocs\Token\sccm2012r2_1.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/82c4eaa14a29e6ae3236c9d290a9e654f9d8b08f/EMDocs/Token/sccm2012r2_1.md)
 * Handoff File: [sccm2012r2_1.f1d3be8e126a523dad1d97a240b7befd08dbcbaa.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/sccm2012r2_1.f1d3be8e126a523dad1d97a240b7befd08dbcbaa.zh-cn.xlf)
@@ -5170,7 +5170,7 @@
 * Handback Datetime: 2016-04-19 01:09:10
 * [Back to Top](#report-top)
 
-##### <a name='a99ca498e1303515f4e5c74740e63fb45ad71cd7379'></a> Source: [EMDocs\Token\Windows-Server-2012-R2.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/Windows-Server-2012-R2.md)
+##### <a name='a99ca498e1303515f4e5c74740e63fb45ad71cd7379'></a> Source: [EMDocs\Token\Windows-Server-2012-R2.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/Windows-Server-2012-R2.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [EMDocs\Token\winblue_server_2.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/82c4eaa14a29e6ae3236c9d290a9e654f9d8b08f/EMDocs/Token/winblue_server_2.md)
 * Handoff File: [winblue_server_2.4869f9a02e903432cadf5359c914339074523a74.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/winblue_server_2.4869f9a02e903432cadf5359c914339074523a74.zh-cn.xlf)
@@ -5206,7 +5206,7 @@
 * Handback Datetime: 2016-04-19 01:09:10
 * [Back to Top](#report-top)
 
-##### <a name='2c345c2d3e8679f8fc1a0e94304ace9e9e291d05382'></a> Source: [EMDocs\Token\wit_2.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/EMDocs/Token/wit_2.md)
+##### <a name='2c345c2d3e8679f8fc1a0e94304ace9e9e291d05382'></a> Source: [EMDocs\Token\wit_2.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Token/wit_2.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [EMDocs\Token\Microsoft-Intune.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/82c4eaa14a29e6ae3236c9d290a9e654f9d8b08f/EMDocs/Token/Microsoft-Intune.md)
 * Handoff File: [Microsoft-Intune.88fcb267052b215dff67c9006e75b415140f2fec.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/Microsoft-Intune.88fcb267052b215dff67c9006e75b415140f2fec.zh-cn.xlf)
@@ -5254,7 +5254,7 @@
 * Handback Datetime: 2016-04-19 01:09:10
 * [Back to Top](#report-top)
 
-##### <a name='809238560522a73c05e57b9f5b6637c224245927386'></a> Source: [license.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/license.md)
+##### <a name='809238560522a73c05e57b9f5b6637c224245927386'></a> Source: [license.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/license.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5266,7 +5266,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8b38ac1bf813dc8840b1522ce23fddf8de3997c3387'></a> Source: [README.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/README.md)
+##### <a name='8b38ac1bf813dc8840b1522ce23fddf8de3997c3387'></a> Source: [README.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5278,7 +5278,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e6106b0b5a5aa1039f7cbf5a35589216c5e540f3388'></a> Source: [template.md](https://github.com/Microsoft/EMDocs-pr/blob/ecdf3fd118709197c6903b5cd3ab61c7b38ad64f/template.md)
+##### <a name='e6106b0b5a5aa1039f7cbf5a35589216c5e540f3388'></a> Source: [template.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/template.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
