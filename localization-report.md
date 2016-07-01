@@ -9,9 +9,9 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 131
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 130
 [ In Sync Handback Files ](#insync-handback-success-list)| 8
-[ Ignored Files ](#ignored-list)| 137
+[ Ignored Files ](#ignored-list)| 138
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -145,7 +145,6 @@
  [contributor-guide\content-channel-guidance.md](https://github.com/Microsoft/EMDocs-pr/blob/7d45a824cab9ab82e6abc62c1a4dfa170add953a/contributor-guide/content-channel-guidance.md) | OutofSyncHandedBackSuccess | [Details](#ba1e846d4ce3029f3315fbbc381bf45544e010607)
  [contributor-guide\custom-markdown-extensions.md](https://github.com/Microsoft/EMDocs-pr/blob/7d45a824cab9ab82e6abc62c1a4dfa170add953a/contributor-guide/custom-markdown-extensions.md) | OutofSyncHandedBackSuccess | [Details](#c274ae4daf071245387599772945067b03dd9d8210)
  [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/9bb6da88c988c5e7f4e85f27e8fbf4a8002ae1d0/EMDocs/index.md) | OutofSyncHandedBackSuccess | [Details](#5b60e3ae1d62edd723120c2263936bf547e36a4f59)
- [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md) | OutofSyncHandedBackSuccess | [Details](#aaf8e9c07d87798d4945ff3156ac8425a49b1d3961)
  [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/95eeb4decc5408d9f4f22cbb44f5bccc14968fb3/EMDocs/Solutions/byod-app-considerations.md) | OutofSyncHandedBackSuccess | [Details](#4c9422a04ac855b8e1b97445e7f84685be0dba7762)
  [EMDocs\Solutions\byod-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/7585b9924aabd63114657a99552af9b3e47b0a80/EMDocs/Solutions/byod-app-reqs.md) | OutofSyncHandedBackSuccess | [Details](#a6a4a73495776c85a5288791a835d065460a928e63)
  [EMDocs\Solutions\byod-data-access-and-protection-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/02c3a16dfeaef55ff7747f565311c8492875da64/EMDocs/Solutions/byod-data-access-and-protection-considerations.md) | OutofSyncHandedBackSuccess | [Details](#1b284ec12663422308fb6a44a82fec732d7e9dfa64)
@@ -318,6 +317,7 @@
  [EMDocs\Image\mobile_devices_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mobile_devices_icon.png) | Ignored | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [EMDocs\Image\mobile_engagement_icon.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Image/mobile_engagement_icon.png) | Ignored | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
  [EMDocs\md.style](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda60)
+ [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md) | Ignored | [Details](#a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f61)
  [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/docfx.json) | Ignored | [Details](#dab772c7718a3feda025e19cfaff388d8dd882d481)
  [EMDocs\Solutions\md.style](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/md.style) | Ignored | [Details](#755db60abb7859af5065e2c5ddfbfc6cfb7aeeda102)
  [EMDocs\Solutions\media\1-aadp-onboarding-process-v3.png](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/media/1-aadp-onboarding-process-v3.png) | Ignored | [Details](#5eac3f12f94f18d6da8d5191fbc2087b8baa461e138)
@@ -1190,16 +1190,16 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='aaf8e9c07d87798d4945ff3156ac8425a49b1d3961'></a> Source: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/977ae96bcb32298a75fbb06b2a6d431976f1c23d/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
-* Handoff File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
-* Handoff Datetime: 2016-06-27 09:48:35
-* Handoff Reason: Include
+##### <a name='a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f61'></a> Source: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/a9106c37a918dff2b88036691628540fcfce52dc/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/52a45f91bce6e9e5cf82c4b78dd6b3ba28d8c4f7/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
-* Handback Datetime: 2016-05-26 11:59:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='4c9422a04ac855b8e1b97445e7f84685be0dba7762'></a> Source: [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/95eeb4decc5408d9f4f22cbb44f5bccc14968fb3/EMDocs/Solutions/byod-app-considerations.md)
