@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a9106c37a918dff2b88036691628540fcfce52dc",
+  "LastProcessedCommit": "f5d80cd2db42041b302320d7b32677d4f8a2de4a",
   "LastTranslatedCommit": "9cfe0e851929cca77d7436649f9a43b170eee68e",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -34545,6 +34545,41 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf",
       "HandoffFileCommit": "4d539877b0cc6c26f4dfe5d5672ac0961c3523e0",
       "HandoffDateTime": "2016-07-01T17:48:02.8548131Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f": {
+      "FileHash": "a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f",
+      "SourceFileCommit": "60b9891fcf0e81bc0b5b2d0418a244af231bc8d2",
+      "SourceFilePath": "EMDocs\\Solutions\\architecture-guidance-for-protecting-company-email-and-documents.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\architecture-guidance-for-protecting-company-email-and-documents.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf",
+      "HandoffFileCommit": "48111a14de008839cd8cfa503826bdcba63ce55f",
+      "HandoffDateTime": "2016-07-01T21:48:47.8402028Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
