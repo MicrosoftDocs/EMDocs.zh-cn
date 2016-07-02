@@ -1,27 +1,22 @@
 ---
-# required metadata
-
-title: 企业移动性套件的 FastTrack 中心权益流程 – 概述
-description:
-keywords:
+title: "企业移动性套件的 FastTrack 中心权益流程 – 概述"
+description: 
+keywords: 
 author: staciebarker
 manager: jeffgilb
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
-
-# optional metadata
-
 ROBOTS: noindex
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
+ms.openlocfilehash: 6d93a086bc86864d677327b37eaff39bdfd495fd
+
 
 ---
 
@@ -65,6 +60,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 
