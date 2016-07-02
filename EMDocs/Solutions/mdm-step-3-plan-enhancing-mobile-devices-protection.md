@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 移动设备保护加强计划
-description:
-keywords:
+title: "移动设备保护加强计划"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: a4504456-a241-4380-ab92-3bc14c91347c
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: 8d2df20d71d83ccd38ef96c84600f234665ab27e
+
 
 ---
 
@@ -72,7 +66,7 @@ ms.suite: ems
 - [指定访问要求](mdm-specify-your-access-requirements.md)
 - [制定事件响应要求](mdm-develop-incident-response-requirements.md)
 - [数据加密计划](mdm-data-encryption.md)
-- [数据隔离计划](mdm-data-segregation.md)
+- [数据分隔计划](mdm-data-segregation.md)
 - [强化移动设备](mdm-hardening-mobile-devices.md)
 - [客户端隐私](mdm-client-privacy.md)
 - [数据分类](mdm-data-classification.md)
@@ -82,6 +76,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

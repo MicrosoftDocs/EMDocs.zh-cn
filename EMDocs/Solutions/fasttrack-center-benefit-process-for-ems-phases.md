@@ -1,27 +1,22 @@
 ---
-# required metadata
-
-title: 企业移动性套件的 FastTrack 中心权益流程 – 阶段
-description:
-keywords:
+title: "企业移动性套件的 FastTrack 中心权益流程 – 阶段"
+description: 
+keywords: 
 author: staciebarker
 manager: jeffgilb
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-
-# optional metadata
-
 ROBOTS: noindex
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
+ms.openlocfilehash: 7f89f613d40daf3472685d0bce12767f35ee65c8
+
 
 ---
 
@@ -107,7 +102,8 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
     -   如果拥有 System Center Configuration Manager 的现有实施，且想要使用 Microsoft Intune 扩展其管理功能，则将 Configuration Manager 设置为你的 MDM 机构。
 
-        > [!NOTE] 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
+        > [!NOTE]
+        > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
 
 -   如果移动设备管理在你的作用域中，我们将提供以下方面的指导：
 
@@ -170,6 +166,7 @@ AzRMS 设置包括启用以下功能：
 
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 
