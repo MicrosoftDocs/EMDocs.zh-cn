@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 管理要求
-description:
-keywords:
+title: "管理要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: bf0d4210-5edc-4ad7-bcb5-372099049630
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 31ba2bb9bf95d3b21ba08f7874f12cae790f9af0
+ms.openlocfilehash: 81d49611ffe8cadcbf7b69df0b4cbb322faee2ee
+
 
 ---
 
@@ -105,6 +99,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 
