@@ -1,27 +1,22 @@
 ---
-# required metadata
-
-title: 企业移动性套件的 FastTrack 中心权益流程 – Microsoft 的职责
-description:
-keywords:
+title: "企业移动性套件的 FastTrack 中心权益流程 – Microsoft 的职责"
+description: 
+keywords: 
 author: staciebarker
 manager: jeffgilb
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
-
-# optional metadata
-
 ROBOTS: noindex
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
+ms.openlocfilehash: 59710c77266e9c20697012208bba5ee468ee0f38
+
 
 ---
 
@@ -86,11 +81,13 @@ ms.suite: ems
 
     -   使用 Azure Active Directory Connect 工具配置密码同步（密码哈希）到 Microsoft Intune (Azure Active Directory)。
 
-        > [!NOTE] 自定义规则扩展的开发和实现不在讨论范围内。
+        > [!NOTE]
+        > 自定义规则扩展的开发和实现不在讨论范围内。
 
 -   对于目标为联合标识的单林：根据需要安装并配置 Active Directory 联合身份验证服务 (AD FS)，在单个站点、容错配置中使用 Microsoft Intune 对本地域进行身份验证。
 
-    > [!NOTE] 对于所有多林配置，AD FS 部署不在讨论范围内。
+    > [!NOTE]
+    > 对于多林配置，AD FS 部署不在讨论范围内。
 
 -   如果已部署单一登录 (SSO)，则测试其功能。
 
@@ -244,6 +241,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 

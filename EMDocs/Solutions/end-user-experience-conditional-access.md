@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 条件访问的最终用户体验
-description:
-keywords:
+title: "条件访问的最终用户体验"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer:
+ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
+ms.openlocfilehash: e0843fc9808963fcc61d48abdc58953f57dcc471
+
 
 ---
 
@@ -47,6 +41,7 @@ ms.suite: ems
 [本主题](end-user-experience-conditional-access-winphone.md)描述在启用条件访问并且最终用户首次尝试在其 Windows Phone 上访问电子邮件之后的最终用户体验。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 
