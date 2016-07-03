@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 指定你的访问要求
-description:
-keywords:
+title: "指定你的访问要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 1cdc3cdf-cb71-46d5-99fd-05ec96771b81
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: e07565fd34f2eb89db0047c88f7834ed13cdf301
+
 
 ---
 
@@ -67,6 +61,7 @@ ms.suite: ems
 阅读[从任何设备上的任何位置安全访问公司资源](https://technet.microsoft.com/library/dn550982)，更好地了解如何结合使用内置的 Windows Server 2012 R2 功能与 ConfigMgr 提供对你的公司资源的访问。 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

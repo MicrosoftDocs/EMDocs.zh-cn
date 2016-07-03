@@ -1,19 +1,22 @@
 ---
 asset_id: 961350ed-a3f1-44f1-b239-b46345b8f620
 layout: HubPage
+title: "企业移动性文档"
+description: "Microsoft 企业移动性的技术文档"
+keywords: microsoft docs, enterprise mobility documentation, Learn enterprise mobility, enterprise mobility guide, enterprise mobility technical documentation
+author: msswadhwa
+manager: swadhwa
+ms.date: 04/28/2016
+ms.topic: hubpage
+ms.prod: 
+ms.service: 
+ms.technology: 
+ms.suite: ems
+ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
+translationtype: Human Translation
+ms.sourcegitcommit: 9bb6da88c988c5e7f4e85f27e8fbf4a8002ae1d0
+ms.openlocfilehash: 5b60e3ae1d62edd723120c2263936bf547e36a4f
 
-title: 企业移动性文档  
-description: Microsoft 企业移动性的技术文档  
-keywords: microsoft docs, enterprise mobility documentation, Learn enterprise mobility, enterprise mobility guide, enterprise mobility technical documentation  
-author: msswadhwa  
-manager: swadhwa  
-ms.date: 04/28/2016  
-ms.topic: hubpage  
-ms.prod:   
-ms.service:   
-ms.technology:   
-ms.suite: ems  
-ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620  
 
 ---
 # Microsoft 企业移动性文章
@@ -155,13 +158,13 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
             <h2 class="section-heading"><span class="icon icon-note"></span> 方案 &amp; 指南</h2>
             <div class="resource-list row">
                 <ul class="column-half">
-                    <li><a href="./solutions/mdm-design-considerations-guide.md">移动设备管理设计注意事项指南</a></li>
-                    <li><a href="./solutions/byod-design-considerations-guide.md">BYOD 设计注意事项指南</a></li>
+                    <li><a href="/enterprise-mobility/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
+                    <li><a href="/enterprise-mobility/solutions/byod-design-considerations-guide">BYOD 设计注意事项指南</a></li>
                     <li><a href="/active-directory/active-directory-hybrid-identity-design-considerations-overview">混合身份设计注意事项指南</a></li>
                 </ul>
                 <ul class="column-half">
-                    <li><a href="./solutions/conditional-access-intune.md">使用 Intune 的条件访问</a></li>
-                    <li><a href="./solutions/architecture-guidance-for-protecting-company-email-and-documents.md">保护公司电子邮件和文档</a></li>
+                    <li><a href="/enterprise-mobility/solutions/conditional-access-intune">使用 Intune 的条件访问</a></li>
+                    <li><a href="/enterprise-mobility/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
                 </ul>
             </div>
         </section>
@@ -176,6 +179,7 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 </article>
 
 
-<!--HONumber=Jun16_HO4-->
+
+<!--HONumber=Jun16_HO5-->
 
 

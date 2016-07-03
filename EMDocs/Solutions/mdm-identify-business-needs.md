@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 确定业务需求
-description:
-keywords:
+title: "确定业务需求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 85783069-14fb-4ead-a159-657d694eb1a7
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 4764d8c3ad679c5096c0de6d9ff51ea0aa6d7c06
+ms.openlocfilehash: b43a8e20d485c970bb90f4ce619518377423b6db
+
 
 ---
 
@@ -87,6 +81,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 
