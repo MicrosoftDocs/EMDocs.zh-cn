@@ -276,11 +276,20 @@
   "de06585840b60ed19bfdfadb5544b6d7d6776691": [
     "EMDocs\\Solutions\\mdm-identify-saas-requirements.md"
   ],
+  "ac16b3f58680e9a148bfacc352081901aed6daa9": [
+    "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
+  ],
   "8670e37bc847485053009db781cabac54e9bc922": [
     "EMDocs\\Solutions\\mdm-develop-mdm-adoption-strategy.md"
   ],
+  "6a30eede24c320b5f68e84f6df1a133dd3885b11": [
+    "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
   "b43a8e20d485c970bb90f4ce619518377423b6db": [
     "EMDocs\\Solutions\\mdm-identify-business-needs.md"
+  ],
+  "3ff89e864ebb0bb20aec623f1e04c874ab7ad7c3": [
+    "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
   ],
   "541b3a4cbb200558d527a14ce6cc691d74431f0b": [
     "EMDocs\\Solutions\\mdm-specify-mdm-location-requirements.md"
@@ -291,8 +300,14 @@
   "e0843fc9808963fcc61d48abdc58953f57dcc471": [
     "EMDocs\\Solutions\\end-user-experience-conditional-access.md"
   ],
+  "2055d23213aa7d5a98bc50e7b593091080c27b24": [
+    "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
   "bfeb1fd4cceacf225093d3a5c2d808ebeb21c825": [
     "EMDocs\\Solutions\\mdm-data-encryption.md"
+  ],
+  "64cd77f7930216f38786451b56037f49d97b095a": [
+    "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
   "19ddd4da5796af41b84b979e1382a78856646a6b": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
@@ -300,11 +315,20 @@
   "dd175d4099997c7d77b4379d71e5a00cac4f3f87": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
+  "fa40b0e67e410e7104aa1b9c5d05112ee9ed67fc": [
+    "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
+  ],
   "3be59381d215da3a6c1e7e33bae592d02201c196": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
   ],
+  "996414ee21ba9cdb9ebcf9b7eac47fd27894bc66": [
+    "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
+  ],
   "ac9808463acd811e53135dd7ce60844c12d46439": [
     "EMDocs\\Solutions\\mdm-gather-data-protection-requirements.md"
+  ],
+  "b4564a1f537a2c4f299bcedf986338f4a18b5f0c": [
+    "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
   ],
   "519482cadc7f0054883b70dd0de20e25380ec1a6": [
     "EMDocs\\Solutions\\mdm-specify-privacy-requirements.md"
@@ -338,6 +362,9 @@
   ],
   "def6e3c2e3d30ba7e4cc5ed67a26dfc182eee9c8": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
+  ],
+  "15a02b34861c57659310491d744bd3bc953ed449": [
+    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
   "1a8b4be857a8fede2df37db1eabd7b95cea1dba9": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
@@ -381,6 +408,9 @@
   "a6a4a73495776c85a5288791a835d065460a928e": [
     "EMDocs\\Solutions\\byod-app-reqs.md"
   ],
+  "1d6f468df0675a410d53241ae23014712be2fee4": [
+    "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
+  ],
   "1b284ec12663422308fb6a44a82fec732d7e9dfa": [
     "EMDocs\\Solutions\\byod-data-access-and-protection-considerations.md"
   ],
@@ -401,6 +431,9 @@
   ],
   "81d49611ffe8cadcbf7b69df0b4cbb322faee2ee": [
     "EMDocs\\Solutions\\byod-management-reqs.md"
+  ],
+  "a3aa062b36a4563c3166d7ce68f616049049034f": [
+    "EMDocs\\Solutions\\byod-user-and-device-considerations.md"
   ],
   "8d5c06c66102c21adcb26b86e4f8ed3550c3aca0": [
     "EMDocs\\Solutions\\byod-user-and-device-considerations.md"
@@ -434,6 +467,9 @@
   ],
   "5f1ab589594ccd846686e51612fe54f4ffd226b6": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-environment-expectations.md"
+  ],
+  "5aa145639d7f38beb0a9b684cd70227edccccf42": [
+    "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md"
   ],
   "59710c77266e9c20697012208bba5ee468ee0f38": [
     "EMDocs\\Solutions\\fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md"
