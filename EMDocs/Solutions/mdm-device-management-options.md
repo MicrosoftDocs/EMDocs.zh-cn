@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 设备管理选项
-description:
-keywords:
-author: robmazz
+title: "设备管理选项"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: a25f7407-92a0-4588-b5f7-a7bad9cdd070
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: ef523f44cd9d51e59fc8d94bbb8d7aa388120945
+ms.openlocfilehash: 3393393abd35b0f61e371325c3e15f67123599f6
+
 
 ---
 
@@ -43,7 +37,7 @@ ms.suite: ems
  2. 创建[配置基线](https://technet.microsoft.com/library/gg712268.aspx?WT.mc_id=Blog_EntMob_Showcase_PCIT)
  3. 将[配置基线](https://technet.microsoft.com/library/hh219289.aspx?WT.mc_id=Blog_EntMob_Showcase_PCIT)部署到 ConfigMgr 用户或设备集合
 
-- **条件访问策略：**条件访问策略定义电子邮件的访问权限管理方式，可单独使用或与合规性策略结合使用。 在部署条件访问策略之前，必须在 [Intune](/Intune/deployuse/restrict-access-to-email-and-o365-services-with-microsoft-intune) 或 [ConfigMgr](https://technet.microsoft.com/library/dn919655.aspx) 中配置到本地 Exchange Server 或 Exchange Online 服务的连接。 也可以为 Office 365 和 SharePoint Online 服务配置条件访问。
+- **条件访问策略：**条件访问策略定义电子邮件的访问权限管理方式，可单独使用或与合规性策略结合使用。 在可以部署条件访问策略前，必须在 [Intune](/Intune/deploy-use/restrict-access-to-email-and-o365-services-with-microsoft-intune) 或 [ConfigMgr](https://technet.microsoft.com/library/dn919655.aspx) 中配置连接到本地 Exchange Server 或 Exchange Online 服务的连接。 也可以为 Office 365 和 SharePoint Online 服务配置条件访问。
 
 对步骤 1 中的问题的回答可以帮助你确定想要如何在移动设备管理解决方案中注册设备。 下面的列表将有助于你了解每个管理方案的优缺点。
 
@@ -52,7 +46,7 @@ ms.suite: ems
 **优点**
 
 - 支持简化的管理用户和设备的策略控制，该策略控制现已被设备平台分隔。
-- 支持 Android、iOS、Windows 10https://technet.microsoft.com/library/mt147406.aspx、Windows 8.x 和 Windows Phone 平台，也支持 Exchange ActiveSync。
+- 支持 Android、iOS、[Windows 10](https://technet.microsoft.com/library/mt147406.aspx)、Windows 8.x 和 Windows Phone 平台，也支持 Exchange ActiveSync。
 - 提供简单的基于 Web 的管理控制台，并且该控制台可从任意位置进行访问。
 - 支持基于组的策略，使管理量大类多的移动设备变得更简单
 - 支持高级移动设备合规性功能，包括设备根和越狱检测
@@ -101,6 +95,7 @@ ms.suite: ems
 - 当前不支持适用于 Android 设备的 VPN 和电子邮件配置文件
 - 当前不支持托管的浏览器支持
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jul16_HO1-->
 
 

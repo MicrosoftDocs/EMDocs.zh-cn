@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 数据访问和保护注意事项
-description:
-keywords:
+title: "数据访问和保护注意事项"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 181eb917-119d-4e56-8ead-1182b1dc5cab
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 02c3a16dfeaef55ff7747f565311c8492875da64
+ms.openlocfilehash: 1b284ec12663422308fb6a44a82fec732d7e9dfa
+
 
 ---
 
@@ -117,8 +111,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
     - 点对点 VPN：如果你具有使用云服务连接的[混合云基础架构](http://blogs.technet.com/b/cloudsolutions/archive/2013/08/22/hybrid-it-infrastructure-solution-for-enterprise-it-overview.aspx)，请考虑使用点对点 VPN 来向用户设备上的应用提供安全通道
 - (3.2) 在云服务提供商的数据中心存放的数据（可选 - 仅在贵公司为 BYOD 使用云服务时适用）
     - 云服务提供商：考虑云服务提供商可提供的用于加密存放的数据的选项
-    - 密钥管理：与云服务提供商验证如何处理密钥管理以及备份过程如何发生。 还应考虑云服务与本地密钥管理系统之间的集成
-(4) 在用户的设备中存放的数据
+    - 密钥管理：与云服务提供商验证如何处理密钥管理以及备份过程如何发生。 还应考虑云服务与本地密钥管理系统之间的集成 (4) 在用户的设备中存放的数据
     - 存储加密：考虑支持加密的存储解决方案
     - 密钥管理：应备份用于加密存储的密钥，而且应该提供密钥恢复代理，以便在你需要时使用它
     - 远程擦除：在必要时可以远程删除驻留在用户设备上的数据
@@ -255,6 +248,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 动态访问控制是文件服务器角色的一种功能，使 IT 具有上表所示的能力。 有关动态访问控制的详细信息，请参阅[动态访问控制：方案概述](https://technet.microsoft.com/library/hh831717.aspx)。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

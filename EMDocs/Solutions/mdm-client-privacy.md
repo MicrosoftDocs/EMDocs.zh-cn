@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 客户端隐私
-description:
-keywords:
+title: "客户端隐私"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: c799a6c4-fe0a-4148-8e75-29e6ffdb7e6e
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: f21804685d123161b83ba6ba1d4ffe2ad457bded
+
 
 ---
 
@@ -38,7 +32,7 @@ ms.suite: ems
 
 当你有将 ConfigMgr 与 Intune 连接的混合环境时，也可以使用相同的要求接受条款和条件的功能。 此外，ConfigMgr 可以使用合规性设置来确定设备是否符合你使用配置基线部署的配置项目。 如果某些设置不合规，可以自动修复它们。 
 
-管理点会将符合性信息会发送到站点服务器，并存储在站点数据库中。 设备在将此信息发送到管理点时会对其进行加密，但信息不会以加密格式存储在站点数据库中。 信息将保留在数据库中，直到每 90 天站点维护任务“删除过期的配置管理数据”**将其删除。  你还能够配置删除间隔。 此合规性信息不会被发送到 Microsoft。
+管理点会将符合性信息会发送到站点服务器，并存储在站点数据库中。 设备在将此信息发送到管理点时会对其进行加密，但信息不会以加密格式存储在站点数据库中。 信息将保留在数据库中，直到每 90 天站点维护任务“删除过期的配置管理数据”将其删除。  你还能够配置删除间隔。 此合规性信息不会被发送到 Microsoft。
 
 由于 Intune 和 Office 365 是基于云的服务，因此用户可能还希望知道 Microsoft 如何为这些服务处理用户隐私。 你可以提供指针，指向这些服务相关的隐私信息，例如以下各项：
 
@@ -80,6 +74,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

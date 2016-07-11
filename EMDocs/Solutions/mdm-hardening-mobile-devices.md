@@ -1,27 +1,20 @@
 ---
-# required metadata
-
-title: 强化移动设备
-description:
-keywords:
+title: "强化移动设备"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: ade57c73-a8a2-497f-ad8d-5dfc3cba9e70
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: 1a8b4be857a8fede2df37db1eabd7b95cea1dba9
+
 
 ---
 
@@ -39,11 +32,11 @@ ms.suite: ems
 
 ## 移动设备强化的不同区域
 
-每个层可用于对必须符合你的业务安全要求的区域进行分组。 例如，可以配置 Intune 以部署专门用于强化系统设置并启用加密的设备的[安全策略](/intune/deployuse/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)。 这些策略还将通过创建访问允许列表来确保仅[兼容应用](https://technet.microsoft.com/library/dn818906.aspx)可在移动设备上进行安装。
+每个层可用于对必须符合你的业务安全要求的区域进行分组。 例如，可以配置 Intune 以部署专门用于强化系统设置并启用加密的设备的[安全策略](/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)。 这些策略还将通过创建访问允许列表来确保仅[兼容应用](https://technet.microsoft.com/library/dn818906.aspx)可在移动设备上进行安装。
 
 在运行 Windows 8.1 企业版的 BYOD 设备上，AppLocker 使您可以基于应用的文件路径、哈希或在应用程序更新中保持原样的属性（如发布者名称、产品名、文件名和文件版本）允许或阻止应用。 在 Windows 10 中，添加新的 AppLocker 配置服务提供程序以允许您通过使用 MDM 服务器来启用 AppLocker 规则。 有关 Windows 10 中这一新功能的详细信息，请阅读 [AppLocker CSP](https://msdn.microsoft.com/library/windows/hardware/dn920019(v=vs.85).aspx)。
 
-应该控制的另一个方面是用户的移动浏览体验。 托管浏览器策略包括允许或阻止列表，用于限制托管浏览器的用户可以访问的网站。 有关如何在 Intune 中配置这些策略的详细信息，请阅读[通过 Microsoft Intune 使用托管浏览器策略管理 Internet 访问](/intune/deployuse/manage-internet-access-using-managed-browser-policies)。
+应该控制的另一个方面是用户的移动浏览体验。 托管浏览器策略包括允许或阻止列表，用于限制托管浏览器的用户可以访问的网站。 有关如何在 Intune 中配置这些策略的详细信息，请阅读[通过 Microsoft Intune 使用托管浏览器策略管理 Internet 访问](/intune/deploy-use/manage-internet-access-using-managed-browser-policies)。
 
 在具有本地 ConfigMgr 的混合环境中，你可以创建[配置基线](https://technet.microsoft.com/library/gg712268.aspx?WT.mc_id=Blog_EntMob_Showcase_PCIT)以设置托管移动设备的基本强化状态。 自定义此基线以包括所有所需的设置，然后将其部署到移动设备。 合规性设置选项将因移动设备平台而异，因此有关可用于每个设备的选项的详细信息，请阅读 [Configuration Manager 中的移动设备的合规性设置](https://technet.microsoft.com/library/dn376523.aspx)。
 
@@ -95,9 +88,10 @@ ms.suite: ems
 
 - 如果你的公司没有当前本地 ConfigMgr 基础结构，它将在集成前需要资源来规划、安装和配置 ConfigMgr
 
->[!TIP]请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。 
+>[!TIP] 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

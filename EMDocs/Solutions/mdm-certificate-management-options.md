@@ -1,27 +1,20 @@
 ---
-# required metadata
-
-title: 证书管理选项
-description:
-keywords:
-author: robmazz
+title: "证书管理选项"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: c3d350b5-4437-4f3d-907f-57ce6a819a74
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: fed75819dbc13755b5ef28cbe3abe008d46c8473
+
 
 ---
 
@@ -30,7 +23,7 @@ ms.suite: ems
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-[Intune](/Intune/deployuse/secure-resource-access-with-certificate-profiles) 独立版以及[混合 Intune 和 ConfigMgr](https://technet.microsoft.com/library/dn261202.aspx) 部署方案均支持使用数字证书管理和证书配置文件。 这些功能允许你将受信任的根证书部署到移动设备以及基于简单证书注册协议 (SCEP) 的配置文件，这将指示移动设备从组织中的 NDES 服务器获取其他证书。
+[Intune](/Intune/deploy-use/secure-resource-access-with-certificate-profiles) 独立版以及[混合 Intune 和 ConfigMgr](https://technet.microsoft.com/library/dn261202.aspx) 部署方案均支持使用数字证书管理和证书配置文件。 这些功能允许你将受信任的根证书部署到移动设备以及基于简单证书注册协议 (SCEP) 的配置文件，这将指示移动设备从组织中的 NDES 服务器获取其他证书。
 
 因为 iOS、Windows 10 和 8.1 以及 Windows Phone 10 和 8.1 本机支持 SCEP，并且通过适用于 Android 的 Microsoft Intune 公司门户应用也可以支持 SCEP，所以使用此注册协议具有直接在移动设备上生成私钥的优势。 ConfigMgr 或 Intune 永远无法生成、缓存或存储私钥，这有助于保护移动设备的安全。
 
@@ -87,8 +80,9 @@ ms.suite: ems
  - 企业证书颁发机构
  - 安装在运行 NDES 的服务器上的 Intune NDES 连接器
 
-有关移动设备证书管理选项的详细信息，请参阅 Intune 中的[启用证书配置文件](/Intune/deployuse/secure-resource-access-with-certificate-profiles)，并将这些要求和过程与 System Center 2012 R2 Configuration Manager 中的[启用证书配置文件](https://technet.microsoft.com/library/dn261202.aspx)的要求和过程进行比较。
+有关移动设备证书管理选项的详细信息，请参阅 Intune 中的[启用证书配置文件](/Intune/deploy-use/secure-resource-access-with-certificate-profiles)，并将这些要求和过程与 System Center 2012 R2 Configuration Manager 中的[启用证书配置文件](https://technet.microsoft.com/library/dn261202.aspx)的要求和过程进行比较。
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

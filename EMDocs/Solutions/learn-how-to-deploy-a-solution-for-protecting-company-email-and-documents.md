@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 了解如何部署用于保护公司电子邮件和文档的解决方案
-description:
-keywords:
+title: "了解如何部署用于保护公司电子邮件和文档的解决方案"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer:
+ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: c965f619511720175393f91ba49d019ba4bcff4f
+ms.openlocfilehash: 2dc585131b1897109afeb3ace9f8b9f6a245a313
+
 
 ---
 
@@ -30,7 +24,7 @@ ms.suite: ems
 
 本指南适用于你（即 IT 专业人员），可帮助为公司确定然后部署最佳解决方案，以便采用如下所述的配置之一来实施条件访问。 这会使员工可以使用其移动设备访问公司电子邮件，同时仍保护公司的数据。
 
-本节讨论如何部署用于保护公司电子邮件和文档的解决方案。 有关这些解决方案的体系结构的详细信息，请参阅[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents)。
+本节讨论如何部署用于保护公司电子邮件和文档的解决方案。 有关这些解决方案的体系结构的详细信息，请参阅[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents.md)。
 
 > [!TIP]
 > 可在 [TechNet 库](https://gallery.technet.microsoft.com/Deploying-Enterprise-16499404)中获取本完整主题的可下载副本。
@@ -46,7 +40,7 @@ Microsoft 企业移动性套件 (EMS) 通过跨四个层（标识、设备、应
 
 -   **保护电子邮件和附件中的内容：** 虽然条件访问使你可以确保只有合规设备才能访问电子邮件，但是仍存在保护电子邮件和电子邮件附件中的内容的问题。  内容可以复制、移动、保存到其他位置，或与其他用户共享。  EMS 使用移动应用程序管理策略解决了这一问题。
 
-    托管应用是应用了移动应用程序管理策略的应用，这些策略使它们符合公司的安全要求。 利用这些应用，你可以直接控制部署、行进中管理（如储存或更新），以及选择性擦除应用及其关联数据。 此外，通过一组移动应用程序管理 (MAM) 策略，Intune 可让你修改应用的功能并限制数据的共享。 有关此解决方案的工作原理的详细信息（包括体系结构的详细信息），请参阅[保护公司电子邮件和文档](architecture-guidance-for-protecting-company-email-and-documents)。
+    托管应用是应用了移动应用程序管理策略的应用，这些策略使它们符合公司的安全要求。 利用这些应用，你可以直接控制部署、行进中管理（如储存或更新），以及选择性擦除应用及其关联数据。 此外，通过一组移动应用程序管理 (MAM) 策略，Intune 可让你修改应用的功能并限制数据的共享。 有关此解决方案的工作原理的详细信息（包括体系结构的详细信息），请参阅[保护公司电子邮件和文档](architecture-guidance-for-protecting-company-email-and-documents.md)。
 
     > [!NOTE]
     > 可以创建和部署电子邮件配置文件，然后设置指定电子邮件配置文件必须由 Intune 进行管理（推荐）的合规性策略。 这使你能够从注销的设备中擦除电子邮件，并可确保对于 iOS，附件只能在 Intune 管理的应用程序中打开。 请参阅[步骤 5：创建合规性策略，并部署到用户。](conditional-access-intune-configmgr-exchange.md) 获取更多相关信息。
@@ -75,6 +69,7 @@ Microsoft 企业移动性套件 (EMS) 通过跨四个层（标识、设备、应
 - [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

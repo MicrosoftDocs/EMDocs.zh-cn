@@ -1,27 +1,20 @@
 ---
-# required metadata
-
-title: 数据分隔
-description:
-keywords:
+title: "数据分隔"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 50bd37fe-30b5-4a45-9c36-0b907dd13cc2
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: 19ddd4da5796af41b84b979e1382a78856646a6b
+
 
 ---
 
@@ -38,7 +31,7 @@ ms.suite: ems
 
 通过使 MDM 解决方案部署的所有应用、公司数据和策略保持分离，可以在必要时使用选择性擦除从设备中删除这些内容，而不会影响用户的个人内容和应用。 
 
->有关远程擦除在其他平台（如 iOS 和 Android）中的运行方式的详细信息，请[!TIP]阅读[通过 Microsoft Intune 使用远程擦除、远程锁定或密码重置帮助保护数据](/intune/deployuse/help-protect-your-data-with-remote-wipe,-remote-lock,-or-passcode-reset-using-microsoft-intune) 
+>[!TIP] 有关远程擦除在其他平台（如 iOS 和 Android）中的运行方式的详细信息，请阅读[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune) 
 
 移动设备数据管理的选择性擦除包含在 Windows Server 2012 R2 和 Windows 8.1 中。 它的工作原理是将帮助 Exchange Server 和 Microsoft Intune 管理员管理设备上的企业数据和开发可使用 [Windows 选择性擦除](https://technet.microsoft.com/library/dn486874.aspx)功能的应用的资源链接起来。  Windows Phone 8 和更高版本支持在内部存储中分离数据。
 
@@ -52,7 +45,7 @@ ms.suite: ems
 
 EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，请参阅[企业数据保护 (EDP) 概述](https://technet.microsoft.com/library/dn985838.aspx)。 Intune EDP 策略将管理受 EDP 保护的应用、企业网络位置、保护级别和加密设置的列表。
 
-当用户安装并登录到在 Intune 托管的设备上支持多个标识（多标识）的应用（如 Outlook）时，Intune 将检查他们正在使用的帐户是否与设备上的托管帐户匹配。 如果该帐户是托管帐户，并且还存在针对该应用和用户的策略，则该策略设置将保护该帐户中的数据。 当用户将个人帐户添加到应用时，这些帐户将超出 Intune 管理和保护范围。 这允许应用程序的个人使用，而不会损害公司保护。 有关 Intune 中的多标识功能的详细信息，请阅读[通过 Microsoft Intune 使用移动应用程序管理策略保护数据](/intune/deployuse/configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console)。 
+当用户安装并登录到在 Intune 托管的设备上支持多个标识（多标识）的应用（如 Outlook）时，Intune 将检查他们正在使用的帐户是否与设备上的托管帐户匹配。 如果该帐户是托管帐户，并且还存在针对该应用和用户的策略，则该策略设置将保护该帐户中的数据。 当用户将个人帐户添加到应用时，这些帐户将超出 Intune 管理和保护范围。 这允许应用程序的个人使用，而不会损害公司保护。 有关 Intune 中的多身份功能的详细信息，请阅读[通过 Microsoft Intune 使用移动应用程序管理策略保护数据](/intune/deploy-use/configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console)。 
 
 下表比较了不同的 MDM 解决方案提供的选择性擦除功能，以帮助你选择最符合你的组织的数据分隔要求的 MDM 解决方案。
 
@@ -93,8 +86,9 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
 
-若要了解如何在对每个移动设备平台进行选择性擦除后删除和保留数据，请务必阅读文章[通过 Microsoft Intune 使用远程擦除、远程锁定或密码重置帮助保护数据](/intune/deployuse/help-protect-your-data-with-remote-wipe,-remote-lock,-or-passcode-reset-using-microsoft-intune)。 如果你有混合环境，请参考文章[如何使用 Configuration Manager 远程擦除移动设备](https://technet.microsoft.com/library/dn956981.aspx)以了解如何使用 ConfigMgr 完成此任务。
+若要了解如何在对每个移动设备平台进行选择性擦除后删除和保留数据，请务必阅读文章[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune)。 如果你有混合环境，请参考文章[如何使用 Configuration Manager 远程擦除移动设备](https://technet.microsoft.com/library/dn956981.aspx)以了解如何使用 ConfigMgr 完成此任务。
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

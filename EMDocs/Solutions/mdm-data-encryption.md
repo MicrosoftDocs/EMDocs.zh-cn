@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 制定事件响应要求
-description:
-keywords:
+title: "制定事件响应要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 1072858e-dc0a-44ad-a512-d938f20310b6
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: bfeb1fd4cceacf225093d3a5c2d808ebeb21c825
+
 
 ---
 
@@ -86,6 +80,7 @@ Windows 10 移动版使用基于 BitLocker 技术的设备加密来加密所有�
 有关如何将 Intune 和 ConfigMgr 功能结合以增加数据保护并配置加密的详细信息，请阅读[使用配置管理器和 Intune 在移动设备上管理加密](http://blogs.technet.com/b/pauljones/archive/2014/08/04/managing-encryption-on-mobile-devices-with-configuration-manager-and-intune.aspx)。
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

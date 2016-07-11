@@ -1,27 +1,20 @@
 ---
-# required metadata
-
-title: 设备预配选项
-description:
-keywords:
+title: "设备预配选项"
+description: 
+keywords: 
 author: andredm7
 manager: swadhwa
 ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 991cd722-089c-4e8c-80b9-b82e405cc891
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: 8185d89d5be464a902aa56f30f15cc6d8f59dff5
+
 
 ---
 
@@ -37,7 +30,7 @@ ms.suite: ems
 **使用混合 Intune 和 ConfigMgr 的移动设备的注册过程概述**
 
 1. 通过 <token>Windows Server 2012 R2，引入了名为设备注册的新概念。  用户可以使用工作区加入注册其设备以用于单一登录和访问企业数据。  作为此注册过程的一部分，将在设备上安装证书。 在用户已注册其设备并了解设备管理解决方案后，用户可以获得对原先仅在加入域的电脑上使用的企业资源的访问权限。
-2. 用户通过[使用公司门户](/Intune/deployuse/enroll-devices-in-microsoft-intune)对要配置以供管理的设备进行注册，之后利用 Microsoft Intune 公司门户不仅可以轻松访问企业应用程序、数据，还能管理他们自己的设备，并在设备丢失、被盗或更换时执行诸如远程擦除等任务。
+2. 用户可[使用公司门户](/Intune/deploy-use/enroll-devices-in-microsoft-intune)通过 Intune 对要配置以供管理的设备进行注册，之后利用 Microsoft Intune 公司门户不仅可以轻松访问企业应用程序、数据，还能管理他们自己的设备，并在设备丢失、被盗或更换时执行诸如远程擦除等任务。
 3. 根据设备感知（即设备是否已注册）和用户标识，你可以通过 Windows Server 2012 R2 中名为 [Web 应用程序代理](https://technet.microsoft.com/library/dn584107.aspx)的内置功能发布企业资源的访问权限。 如果你正在使用企业移动性套件，你还可以发布使用 Azure AD 应用程序代理的应用程序。 多重身份验证可通过 [Azure Active 身份验证](https://azure.microsoft.com/documentation/articles/multi-factor-authentication-get-started-cloud/)进行使用。
 4. 为了向管理员提供整个环境的统一视图，Intune 中的数据将与在本地和云中提供统一管理的 ConfigMgr 同步。
 5. 作为注册过程的一部分，将在 Active Directory 中创建一个新的设备对象。  此设备对象用于在用户与其设备之间建立链接、将此链接告知设备管理解决方案，并允许对设备进行身份验证，从而有效形成无缝双重身份验证。
@@ -85,8 +78,9 @@ ms.suite: ems
 - 对于尚未配置当前 ConfigMgr 基础结构的组织，将需要在与 Intune 集成前进行规划、安装和配置
 - 需要其他配置，以将 Intune 与本地 ConfigMgr 基础结构相连接
 
-有关移动设备注册和预配选项的详细信息，请确保查看在 Intune 中如何[启用移动设备注册](/Intune/deployuse/enroll-devices-in-microsoft-intune)，并将这些要求和步骤与在 ConfigMgr 和 Office 365 的 MDM 中[启用移动设备注册](https://technet.microsoft.com/library/jj884158.aspx)的要求和步骤进行比较。
+有关移动设备注册和预配选项的详细信息，请务必查看在 Intune 中如何[启用移动设备注册](/Intune/deploy-use/enroll-devices-in-microsoft-intune)，并将这些要求和步骤与在 ConfigMgr 和 MDM for Office 365 中[启用移动设备注册](https://technet.microsoft.com/library/jj884158.aspx)的要求和步骤进行比较。
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 

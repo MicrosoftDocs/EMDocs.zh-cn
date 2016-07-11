@@ -1,27 +1,20 @@
 ---
-# required metadata
-
-title: 对资源的访问控制
-description:
-keywords:
+title: "对资源的访问控制"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 5967876b-3c08-4498-a0a6-0225b562d35f
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: 35a01a69e89762da314905c58a4868c6443d32e8
+
 
 ---
 
@@ -38,13 +31,13 @@ ms.suite: ems
 
 ## 基本身份验证和授权流
 
-传统的访问控制列表 (ACL) 非常有限，并且不会考虑用户状态的其他方面，例如他尝试访问此资源时所在的位置。 如果你的组织在授予对资源的访问权限之前需要包含更多的变量，可以使用在 Windows Server 2012 中本地提供的[动态访问控制](https://technet.microsoft.com/library/dn408191.aspx)。 Windows 10 支持运行状况证明，这在提供数据访问权限之前有助于 IT 人员控制设备的运行状况的状态。 远程运行状况证明服务执行一系列测量检查。 它验证安全相关的数据点，包括启动状态（安全启动、调试模式等），以及管理安全性的组件状态（BitLocker、设备保护等）。 然后，它通过向设备发回运行状况加密的 blob 来传递设备的运行状况状态。 若要了解详细信息，请参阅[控制 Windows 10 设备的运行状况](https://technet.microsoft.com/en-us/library/mt592023.aspx)。
+传统的访问控制列表 (ACL) 非常有限，并且不会考虑用户状态的其他方面，例如他尝试访问此资源时所在的位置。 如果你的组织在授予对资源的访问权限之前需要包含更多的变量，可以使用在 Windows Server 2012 中本地提供的[动态访问控制](https://technet.microsoft.com/library/dn408191.aspx)。 Windows 10 支持运行状况证明，这在提供数据访问权限之前有助于 IT 人员控制设备的运行状况的状态。 远程运行状况证明服务执行一系列测量检查。 它验证安全相关的数据点，包括启动状态（安全启动、调试模式等），以及管理安全性的组件状态（BitLocker、设备保护等）。 然后，它通过向设备发回运行状况加密的 blob 来传递设备的运行状况状态。 有关详细信息，请参阅[控制基于 Windows 10 的设备运行状况](https://technet.microsoft.com/library/mt592023.aspx)。
 
-Intune 管理员可以在 [Intune 管理控制台](/intune/deploy/introduction-to-device-compliance-policies-in-microsoft-intune)中查看 Windows 10 设备运行状况证明的状态。 设备运行状况证明让管理员能够确保客户端计算机具有可信 BIOS、TPM 和启动软件配置。 为了支持设备运行状况证明，客户端设备必须运行 Windows 10 并启用 TPM 2。 
+Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introduction-to-device-compliance-policies-in-microsoft-intune)中查看 Windows 10 设备运行状况证明的状态。 设备运行状况证明让管理员能够确保客户端计算机具有可信 BIOS、TPM 和启动软件配置。 为了支持设备运行状况证明，客户端设备必须运行 Windows 10 并启用 TPM 2。 
 
 对于许多自行充当云提供商（通过使用允许他们拥有私有云的技术）的公司，另一个选项是使用基于角色的访问控制 (RBAC)。 [Azure AD 允许 IT 人员使用 RBAC](http://azure.microsoft.com/documentation/articles/role-based-access-control-configure/) 控制对资源的访问权限。 并且由于 Azure AD 可以与本地 Active Directory 集成，所以你可以同时使用它们，以确定用户访问资源的方式。
 
-资源也可以是应用，这意味着若要实现对资源的访问控制，你的 MDM 解决方案还必须能够控制如何安装和访问应用。 [Intune 中的移动应用程序管理策略](/intune/deployuse/configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console)可使你修改你所部署的应用的功能，以帮助确保它们符合你的公司合规性和安全策略。 
+资源也可以是应用，这意味着若要实现对资源的访问控制，你的 MDM 解决方案还必须能够控制如何安装和访问应用。 [Intune 中的移动应用程序管理策略](/intune/deploy-use/configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console)可使你修改所部署的应用的功能，以帮助确保它们符合公司合规性和安全策略。 
 
 使用下表作为参考协助你选择最符合组织的访问控制要求的 MDM 选项。
 
@@ -96,6 +89,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy/introduction-t
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 
