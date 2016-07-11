@@ -8,46 +8,19 @@
   "fed75819dbc13755b5ef28cbe3abe008d46c8473": [
     "EMDocs\\Solutions\\mdm-certificate-management-options.md"
   ],
-  "d00421d4d27d8d8ed5efd29a82ccb9b115802611": [
-    "EMDocs\\Solutions\\mdm-certificate-management-options.md"
-  ],
-  "94801a7072a6a5211cd98fa80bc11334aafba5b5": [
-    "EMDocs\\Solutions\\mdm-certificate-management-options.md"
-  ],
   "90604329992f8ecb881ac1b83358af16de5b65cb": [
-    "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
-  ],
-  "e2981aa5b7f7a7813df44db4bd699dbbbd3c500c": [
     "EMDocs\\Solutions\\mdm-device-enrollment-options.md"
   ],
   "3393393abd35b0f61e371325c3e15f67123599f6": [
     "EMDocs\\Solutions\\mdm-device-management-options.md"
   ],
-  "ce1d66225043cafdfb0b7658b288e8e7855c24a1": [
-    "EMDocs\\Solutions\\mdm-device-management-options.md"
-  ],
-  "58dfb42b11edda8700cd7ae33401709775c9adca": [
-    "EMDocs\\Solutions\\mdm-device-management-options.md"
-  ],
   "f543376b1e850c7d6e868c91d942aa8058e11b41": [
-    "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
-  ],
-  "38ce8928cc9ebca3ac8a092fcb031abbfd989d91": [
-    "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
-  ],
-  "7a96c347f073850248b7d12c2abbcf10ea132935": [
     "EMDocs\\Solutions\\mdm-device-monitoring-options.md"
   ],
   "8185d89d5be464a902aa56f30f15cc6d8f59dff5": [
     "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
   ],
-  "e2b95366b6459690392afe5cc0acfeec8e47392c": [
-    "EMDocs\\Solutions\\mdm-device-provisioning-options.md"
-  ],
   "13749f7100df8a157ae8204641442aadfa3c7f16": [
-    "EMDocs\\Solutions\\mdm-email-management-options.md"
-  ],
-  "208b478068e7757673edb76ff6f21b488c4559e2": [
     "EMDocs\\Solutions\\mdm-email-management-options.md"
   ],
   "3a387d8e83431f5fd3fdd4e7466323f2d768edf1": [
@@ -60,9 +33,6 @@
     "EMDocs\\Solutions\\mdm-identify-saas-solution-infrastructure-integration-needs.md"
   ],
   "675953e58a32e6c609380f10dd19008338a128c5": [
-    "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
-  ],
-  "92b3fcb41ca39e9deb4f04f2ac0d9dd15eb87a8c": [
     "EMDocs\\Solutions\\mdm-network-connectivity-management-options.md"
   ],
   "68a291a3b26d73f5300251e23bbd214378a5a312": [
@@ -93,27 +63,6 @@
     "EMDocs\\Solutions\\mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md"
   ],
   "76e6b60c50ea6e5ebedafe077a514e2b036d194b": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "c67295b25b914902f6f84ea448a40696e5e7a008": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "3a5494308bcf3cfce840b1cdc785b45515c2b61f": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "4ec52ecc73c4e76f3712050e37dbe42205b1f693": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "77114eff6ea58fb6903b3a1c47bc508b211d4ce3": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "2c5defa4889e23cce4a2081b463c2e5ec530c2cb": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "62208574cadac312cdd414900b02c3a2244b7852": [
-    "EMDocs\\Solutions\\TOC.md"
-  ],
-  "13eae3089e5ab166f76ea4730ffde75c77fe1653": [
     "EMDocs\\Solutions\\TOC.md"
   ],
   "5b72cde38cf4fd1e3675899bccdd7a1f61a4539b": [
@@ -312,9 +261,6 @@
   "19ddd4da5796af41b84b979e1382a78856646a6b": [
     "EMDocs\\Solutions\\mdm-data-segregation.md"
   ],
-  "dd175d4099997c7d77b4379d71e5a00cac4f3f87": [
-    "EMDocs\\Solutions\\mdm-data-segregation.md"
-  ],
   "fa40b0e67e410e7104aa1b9c5d05112ee9ed67fc": [
     "EMDocs\\Solutions\\mdm-develop-incident-response-requirements.md"
   ],
@@ -348,9 +294,6 @@
   "35a01a69e89762da314905c58a4868c6443d32e8": [
     "EMDocs\\Solutions\\mdm-access-control-resources.md"
   ],
-  "1714d8042f5a4eb6e72c45cf4db12ab24404992c": [
-    "EMDocs\\Solutions\\mdm-access-control-resources.md"
-  ],
   "65c01f8fe084446d1635eee20d130d4de0c8f7f9": [
     "EMDocs\\Solutions\\mdm-authentication-authorization.md"
   ],
@@ -360,22 +303,13 @@
   "b2025b8b3d976b7a14c050c095d199c5a4c73cb8": [
     "EMDocs\\Solutions\\mdm-data-classification.md"
   ],
-  "def6e3c2e3d30ba7e4cc5ed67a26dfc182eee9c8": [
-    "EMDocs\\Solutions\\mdm-data-classification.md"
-  ],
   "15a02b34861c57659310491d744bd3bc953ed449": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
   "1a8b4be857a8fede2df37db1eabd7b95cea1dba9": [
     "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
   ],
-  "27bb02a1273fc0bef733d5478faaa810f049a803": [
-    "EMDocs\\Solutions\\mdm-hardening-mobile-devices.md"
-  ],
   "8968af180d2006465227853ccfd66ca673a2510c": [
-    "EMDocs\\Solutions\\conditional-access-intune.md"
-  ],
-  "452adba9b639747c7477c814c1441d463e5515ec": [
     "EMDocs\\Solutions\\conditional-access-intune.md"
   ],
   "93d41c3e37946bbb5805e526e9fecfbe40807b3b": [
@@ -393,16 +327,7 @@
   "6ed28a5ec5449dbca6e4f885dd0fa60bf30c3d91": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
   ],
-  "cc13e4d598898f00da27998814cafda3c75dcef6": [
-    "EMDocs\\Solutions\\conditional-access-intune-exchange.md"
-  ],
   "82b00a5ce54a25b50563c9e5ef3c33b3c648639d": [
-    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
-  ],
-  "6baacfcd4d929deda383be0331c192ee4e3a9cf4": [
-    "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
-  ],
-  "079886fd536510c948ee32f1c6b927f4f26ceb40": [
     "EMDocs\\Solutions\\conditional-access-intune-exchange-online.md"
   ],
   "a6a4a73495776c85a5288791a835d065460a928e": [
@@ -489,16 +414,10 @@
   "4c9422a04ac855b8e1b97445e7f84685be0dba77": [
     "EMDocs\\Solutions\\byod-app-considerations.md"
   ],
-  "8bbc91330f63b38b7f9b9c0578385701a4293edb": [
-    "EMDocs\\Solutions\\byod-app-considerations.md"
-  ],
   "a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f": [
     "EMDocs\\Solutions\\architecture-guidance-for-protecting-company-email-and-documents.md"
   ],
   "2dc585131b1897109afeb3ace9f8b9f6a245a313": [
-    "EMDocs\\Solutions\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
-  ],
-  "a90da0adacec67e1e5264a4848829336f2996c50": [
     "EMDocs\\Solutions\\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
   ],
   "ae46ff9126927568c56af9864c05ea72b72e1241": [
