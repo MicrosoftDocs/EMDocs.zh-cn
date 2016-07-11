@@ -10,8 +10,8 @@
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 33
-[ In Sync Handback Files ](#insync-handback-success-list)| 108
-[ Ignored Files ](#ignored-list)| 136
+[ In Sync Handback Files ](#insync-handback-success-list)| 107
+[ Ignored Files ](#ignored-list)| 137
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -231,7 +231,6 @@
  [EMDocs\Solutions\protect-email-attachments.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/protect-email-attachments.md) | InSyncHandedBackSuccess | [Details](#0bf455c24808f6dec237acb20150dd6bf129be70327)
  [EMDocs\Solutions\Sample.md](https://github.com/Microsoft/EMDocs-pr/blob/1aaad6ccaca53d4bd6293a1da75eee95a2fa449a/EMDocs/Solutions/Sample.md) | InSyncHandedBackSuccess | [Details](#80f16e5851e574014594e4d93ba194beb2cc9653328)
  [EMDocs\Solutions\TOC.md](https://github.com/Microsoft/EMDocs-pr/blob/276a4ee6ceab6b39b9add2ea844cdf03f142a253/EMDocs/Solutions/TOC.md) | InSyncHandedBackSuccess | [Details](#76e6b60c50ea6e5ebedafe077a514e2b036d194b329)
- [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/34c2f8b1d1f7a0e7cfcba60d1ae0bf2e0ecb0928/EMDocs/toc.yml) | InSyncHandedBackSuccess | [Details](#ae46ff9126927568c56af9864c05ea72b72e1241332)
  [EMDocs\Token\Active-Directory.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Active-Directory.md) | InSyncHandedBackSuccess | [Details](#55514466f7f2092dbc8cf35057d4978ca9247ae6334)
  [EMDocs\Token\Active-Directory-Federation-Services.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Active-Directory-Federation-Services.md) | InSyncHandedBackSuccess | [Details](#5b72cde38cf4fd1e3675899bccdd7a1f61a4539b333)
  [EMDocs\Token\Azure.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Azure.md) | InSyncHandedBackSuccess | [Details](#8c168dcf0f5cc49c49de658a16650db0f93832c0336)
@@ -418,6 +417,7 @@
  [EMDocs\Solutions\media\WSE_SG_RAProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/EMDocs/Solutions/media/WSE_SG_RAProblem.png) | Ignored | [Details](#b52789a46874ed019ff8dea05bfefdebdf549cbd322)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectProblem.png](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/EMDocs/Solutions/media/WSE_SG_SMBDataProtectProblem.png) | Ignored | [Details](#17a8303c7ef0995ef393588b69250a0f4184df38323)
  [EMDocs\Solutions\media\WSE_SG_SMBDataProtectSolution.png](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/EMDocs/Solutions/media/WSE_SG_SMBDataProtectSolution.png) | Ignored | [Details](#0e1ba1f9f6fc258f4640be651285366d453d4e1a324)
+ [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/EMDocs/toc.yml) | Ignored | [Details](#2aff3233de8421a9bd25dfc5af31857f8e235ef4332)
  [license.md](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/license.md) | Ignored | [Details](#809238560522a73c05e57b9f5b6637c224245927382)
  [README.md](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/README.md) | Ignored | [Details](#8b38ac1bf813dc8840b1522ce23fddf8de3997c3383)
  [template.md](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/template.md) | Ignored | [Details](#e6106b0b5a5aa1039f7cbf5a35589216c5e540f3384)
@@ -4581,16 +4581,16 @@
 * Handback Datetime: 2016-06-21 12:40:13
 * [Back to Top](#report-top)
 
-##### <a name='ae46ff9126927568c56af9864c05ea72b72e1241332'></a> Source: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/34c2f8b1d1f7a0e7cfcba60d1ae0bf2e0ecb0928/EMDocs/toc.yml)
-* Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/7f7598a301f5570e4acd7530db6b127f0cef5506/EMDocs/toc.yml)
-* Handoff File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/5a32ed77c229d2ba78bce07073bded20aced53a6/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
-* Handoff Datetime: 2016-06-28 21:27:21
-* Handoff Reason: Include
-* Archive File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
-* Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/b5591ffc9ab750dbbb743644895a4c44d0ddc3da/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
-* Handback Datetime: 2016-07-02 11:34:37
+##### <a name='2aff3233de8421a9bd25dfc5af31857f8e235ef4332'></a> Source: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/9d52c41f6ee2ff9f1c8b83fef4a443b57ce95398/EMDocs/toc.yml)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='55514466f7f2092dbc8cf35057d4978ca9247ae6334'></a> Source: [EMDocs\Token\Active-Directory.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/Active-Directory.md)
