@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a36ef31e4ad10344eb277b574d0c2d7ba301705e",
+  "LastProcessedCommit": "9e733d2ccf7420e1ca82efc8bd44f85d6e926dad",
   "LastTranslatedCommit": "8ae7ebf2c5f0424f361fddb28fc94b0556abb725",
   "Items": {
     "da63fda594055f3647cc04e6954675a9558776db": {
@@ -35070,6 +35070,41 @@
       "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf",
       "HandoffFileCommit": "4d4dd31a3011c731b3a24f81b9452b924f1ead98",
       "HandoffDateTime": "2016-07-11T21:58:19.8679388Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "3d80b531c02a4b2a85082d2070e20129d51eeeee": {
+      "FileHash": "3d80b531c02a4b2a85082d2070e20129d51eeeee",
+      "SourceFileCommit": "4993391889b87512cda6b9c170960b156c32e163",
+      "SourceFilePath": "EMDocs\\Solutions\\mdm-data-encryption.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "EMDocs\\Solutions\\mdm-data-encryption.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\Microsoft\\EMDocs-pr.zh-cn\\master\\mdm-data-encryption.63496fdcfe83e58c965a65195a5c114f2c709062.zh-cn.xlf",
+      "HandoffFileCommit": "0580dadb20f1a8fdc17d37c1b02c57b80a912541",
+      "HandoffDateTime": "2016-07-12T18:08:01.8327826Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
