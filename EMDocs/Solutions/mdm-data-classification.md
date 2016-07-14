@@ -80,6 +80,6 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO2-->
 
 
