@@ -6,22 +6,22 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/1991abafadaebd80587e60656956285506e8d0f3/EMDocs/toc.yml) | OutofSyncHandedBackSuccess | [Details](#ca118fb986539857cb44a1b062407df3e8f364ce332)
+ [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/73b6766aa792644e3ed15e23e64fdfde9cfd302a/EMDocs/index.md) | OutofSyncHandedBackSuccess | [Details](#d1729667641265c06b91b0f0a5c0cfd73d673eee58)
 
 ## Item Details
-##### <a name='ca118fb986539857cb44a1b062407df3e8f364ce332'></a> Source: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr/blob/1991abafadaebd80587e60656956285506e8d0f3/EMDocs/toc.yml)
+##### <a name='d1729667641265c06b91b0f0a5c0cfd73d673eee58'></a> Source: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr/blob/73b6766aa792644e3ed15e23e64fdfde9cfd302a/EMDocs/index.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/82f40cf51240e479009041c3910fc546bb672844/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
-* Handoff Datetime: 2016-07-13 22:47:21
+* Handoff File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1f46dbeda0937c3be1d146b80be4358dc3a4e607/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
+* Handoff Datetime: 2016-07-14 22:04:02
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\toc.yml](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/b2c1f64dd8366c71f36e94bb3244d56b1ab8af81/EMDocs/toc.yml)
-* Current Handback File: [toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/435c5fe5d7478cd4c81372a73ae85152e6c08906/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/toc.a910960291aeeb7b80ff16cc12adc02a09c33921.zh-cn.xlf)
-* Current Handback Datetime: 2016-07-13 22:08:50
+* Current Target File: [EMDocs\index.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/f8f8dee3220a57ad7d92cd2859fb41d7c5fb667b/EMDocs/index.md)
+* Current Handback File: [index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/622805fecc4f09b93e9a77fe16857ddab119bf18/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/index.5016e8f1c9a2569dc2c08f69089f31e31bac8b3d.zh-cn.xlf)
+* Current Handback Datetime: 2016-07-14 00:11:56
 * [Back to Top](#report-top)
 
 
