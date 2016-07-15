@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 27
-[ In Sync Handback Files ](#insync-handback-success-list)| 114
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 25
+[ In Sync Handback Files ](#insync-handback-success-list)| 116
 [ Ignored Files ](#ignored-list)| 136
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -149,14 +149,12 @@
  [EMDocs\Solutions\mdm-develop-incident-response-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-develop-incident-response-requirements.md) | OutofSyncHandedBackSuccess | [Details](#fa40b0e67e410e7104aa1b9c5d05112ee9ed67fc109)
  [EMDocs\Solutions\mdm-develop-mdm-adoption-strategy.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-develop-mdm-adoption-strategy.md) | OutofSyncHandedBackSuccess | [Details](#ac16b3f58680e9a148bfacc352081901aed6daa9110)
  [EMDocs\Solutions\mdm-develop-saas-mdm-strategy.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-develop-saas-mdm-strategy.md) | OutofSyncHandedBackSuccess | [Details](#91d1498db006b387ff524b2b26c715c3a109dd8a111)
- [EMDocs\Solutions\mdm-device-provisioning-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-device-provisioning-options.md) | OutofSyncHandedBackSuccess | [Details](#8185d89d5be464a902aa56f30f15cc6d8f59dff5115)
  [EMDocs\Solutions\mdm-gather-data-protection-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-gather-data-protection-requirements.md) | OutofSyncHandedBackSuccess | [Details](#996414ee21ba9cdb9ebcf9b7eac47fd27894bc66117)
  [EMDocs\Solutions\mdm-gather-monitoring-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-gather-monitoring-requirements.md) | OutofSyncHandedBackSuccess | [Details](#3a387d8e83431f5fd3fdd4e7466323f2d768edf1118)
  [EMDocs\Solutions\mdm-hardening-mobile-devices.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-hardening-mobile-devices.md) | OutofSyncHandedBackSuccess | [Details](#15a02b34861c57659310491d744bd3bc953ed449119)
  [EMDocs\Solutions\mdm-identify-business-needs.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-identify-business-needs.md) | OutofSyncHandedBackSuccess | [Details](#6a30eede24c320b5f68e84f6df1a133dd3885b11120)
  [EMDocs\Solutions\mdm-identify-saas-connectivity-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-identify-saas-connectivity-requirements.md) | OutofSyncHandedBackSuccess | [Details](#d5e660e87a80b7703a09214b1d1f07e41e8f5483121)
  [EMDocs\Solutions\mdm-identify-saas-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-identify-saas-requirements.md) | OutofSyncHandedBackSuccess | [Details](#949a049f3cfdae84b0203898f7c0a5f7e38fdb98122)
- [EMDocs\Solutions\mdm-network-connectivity-management-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-network-connectivity-management-options.md) | OutofSyncHandedBackSuccess | [Details](#675953e58a32e6c609380f10dd19008338a128c5124)
  [EMDocs\Solutions\mdm-next-steps-and-additional-resources.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-next-steps-and-additional-resources.md) | OutofSyncHandedBackSuccess | [Details](#453de29d00e5fef9ac210059ea62e07f16f4998a125)
  [EMDocs\Solutions\mdm-specify-mdm-location-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-specify-mdm-location-requirements.md) | OutofSyncHandedBackSuccess | [Details](#3ff89e864ebb0bb20aec623f1e04c874ab7ad7c3126)
  [EMDocs\Solutions\mdm-specify-privacy-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-specify-privacy-requirements.md) | OutofSyncHandedBackSuccess | [Details](#b4564a1f537a2c4f299bcedf986338f4a18b5f0c127)
@@ -219,8 +217,10 @@
  [EMDocs\Solutions\mdm-device-enrollment-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-device-enrollment-options.md) | InSyncHandedBackSuccess | [Details](#90604329992f8ecb881ac1b83358af16de5b65cb112)
  [EMDocs\Solutions\mdm-device-management-options.md](https://github.com/Microsoft/EMDocs-pr/blob/ef523f44cd9d51e59fc8d94bbb8d7aa388120945/EMDocs/Solutions/mdm-device-management-options.md) | InSyncHandedBackSuccess | [Details](#3393393abd35b0f61e371325c3e15f67123599f6113)
  [EMDocs\Solutions\mdm-device-monitoring-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-device-monitoring-options.md) | InSyncHandedBackSuccess | [Details](#f543376b1e850c7d6e868c91d942aa8058e11b41114)
+ [EMDocs\Solutions\mdm-device-provisioning-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-device-provisioning-options.md) | InSyncHandedBackSuccess | [Details](#8185d89d5be464a902aa56f30f15cc6d8f59dff5115)
  [EMDocs\Solutions\mdm-email-management-options.md](https://github.com/Microsoft/EMDocs-pr/blob/ef523f44cd9d51e59fc8d94bbb8d7aa388120945/EMDocs/Solutions/mdm-email-management-options.md) | InSyncHandedBackSuccess | [Details](#13749f7100df8a157ae8204641442aadfa3c7f16116)
  [EMDocs\Solutions\mdm-identify-saas-solution-infrastructure-integration-needs.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-identify-saas-solution-infrastructure-integration-needs.md) | InSyncHandedBackSuccess | [Details](#7e43f590182e6a2eacfa60114290848de0b24baa123)
+ [EMDocs\Solutions\mdm-network-connectivity-management-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-network-connectivity-management-options.md) | InSyncHandedBackSuccess | [Details](#675953e58a32e6c609380f10dd19008338a128c5124)
  [EMDocs\Solutions\mdm-specify-your-access-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/mdm-specify-your-access-requirements.md) | InSyncHandedBackSuccess | [Details](#e07565fd34f2eb89db0047c88f7834ed13cdf301128)
  [EMDocs\Solutions\mdm-step-1-identify-your-mobile-device-management-requirements.md](https://github.com/Microsoft/EMDocs-pr/blob/d43860e838a40de05bdec73b00b6721ee634d7e5/EMDocs/Solutions/mdm-step-1-identify-your-mobile-device-management-requirements.md) | InSyncHandedBackSuccess | [Details](#75179ab51b1c990aa612d74b494a2aef35a7c616129)
  [EMDocs\Solutions\mdm-step-2-plan-for-mobile-device-management.md](https://github.com/Microsoft/EMDocs-pr/blob/95eeb4decc5408d9f4f22cbb44f5bccc14968fb3/EMDocs/Solutions/mdm-step-2-plan-for-mobile-device-management.md) | InSyncHandedBackSuccess | [Details](#f5223794a8dbb9a9318de90965fd01bd3e98bcaf130)
@@ -1176,26 +1176,26 @@
 
 ##### <a name='a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f60'></a> Source: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/60b9891fcf0e81bc0b5b2d0418a244af231bc8d2/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/7f7598a301f5570e4acd7530db6b127f0cef5506/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
+* Target File: [EMDocs\Solutions\architecture-guidance-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/architecture-guidance-for-protecting-company-email-and-documents.md)
 * Handoff File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/48111a14de008839cd8cfa503826bdcba63ce55f/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
 * Handoff Datetime: 2016-07-01 21:48:47
 * Handoff Reason: Include
 * Archive File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/b5591ffc9ab750dbbb743644895a4c44d0ddc3da/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
-* Handback Datetime: 2016-07-02 11:34:37
+* Handback File: [architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/architecture-guidance-for-protecting-company-email-and-documents.09e44388218df5328feae7349dae42bdf9317559.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='4c9422a04ac855b8e1b97445e7f84685be0dba7761'></a> Source: [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/95eeb4decc5408d9f4f22cbb44f5bccc14968fb3/EMDocs/Solutions/byod-app-considerations.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/byod-app-considerations.md)
+* Target File: [EMDocs\Solutions\byod-app-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/byod-app-considerations.md)
 * Handoff File: [byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a25c2bba62970a0226148455d71c89423bfda4e5/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf)
 * Handoff Datetime: 2016-06-28 23:30:52
 * Handoff Reason: Include
 * Archive File: [byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-app-considerations.47a5f8f2d50d482c801c868ef89529ddb2333893.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='a6a4a73495776c85a5288791a835d065460a928e62'></a> Source: [EMDocs\Solutions\byod-app-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/7585b9924aabd63114657a99552af9b3e47b0a80/EMDocs/Solutions/byod-app-reqs.md)
@@ -1263,14 +1263,14 @@
 
 ##### <a name='0eb7b6558a0b8e92d5b1e0e50f90a23d49f5757f67'></a> Source: [EMDocs\Solutions\byod-envisioning-the-byod-infrastructure-solution.md](https://github.com/Microsoft/EMDocs-pr/blob/31ba2bb9bf95d3b21ba08f7874f12cae790f9af0/EMDocs/Solutions/byod-envisioning-the-byod-infrastructure-solution.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\byod-envisioning-the-byod-infrastructure-solution.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/57fbf2177d6d7c74e9eddb214432a16700ea4fb6/EMDocs/Solutions/byod-envisioning-the-byod-infrastructure-solution.md)
+* Target File: [EMDocs\Solutions\byod-envisioning-the-byod-infrastructure-solution.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/byod-envisioning-the-byod-infrastructure-solution.md)
 * Handoff File: [byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf)
 * Handoff Datetime: 2016-06-27 09:48:35
 * Handoff Reason: Include
 * Archive File: [byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/bb5d7987b713073e0fee8826e6082e1ad3672833/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf)
-* Handback Datetime: 2016-07-02 11:03:51
+* Handback File: [byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-envisioning-the-byod-infrastructure-solution.f907e7abfba917fbdcfe8b52faf28bb6e4aa63e0.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='91deaf9d02b27182353cbe511ff86a01582dc60a68'></a> Source: [EMDocs\Solutions\byod-management-considerations.md](https://github.com/Microsoft/EMDocs-pr/blob/f752f75206cb37cbe565e44a00f20fcdad13ddb5/EMDocs/Solutions/byod-management-considerations.md)
@@ -1319,9 +1319,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\Solutions\byod-user-and-device-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/byod-user-and-device-considerations.md)
-* Current Handback File: [byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf)
-* Current Handback Datetime: 2016-07-11 15:07:27
+* Current Target File: [EMDocs\Solutions\byod-user-and-device-considerations.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/byod-user-and-device-considerations.md)
+* Current Handback File: [byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/byod-user-and-device-considerations.46c4671df2293b135442ab94a70a9dd91c4c16b8.zh-cn.xlf)
+* Current Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='4cee1f7e793902a3e8ae7a9db623bf4729cdda2a72'></a> Source: [EMDocs\Solutions\byod-user-device-reqs.md](https://github.com/Microsoft/EMDocs-pr/blob/9883ee8aebde8ab93d4351b9ed72080a227c8f46/EMDocs/Solutions/byod-user-device-reqs.md)
@@ -1374,26 +1374,26 @@
 
 ##### <a name='ca38c22f5de2a33e399d7d7a7a9beafdc49e568675'></a> Source: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md](https://github.com/Microsoft/EMDocs-pr/blob/da76ba04d70ece8f20fdbe0fb19ad310f1fb8d28/EMDocs/Solutions/conditional-access-intune-configmgr-exchange.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/conditional-access-intune-configmgr-exchange.md)
+* Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/conditional-access-intune-configmgr-exchange.md)
 * Handoff File: [conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf)
 * Handoff Datetime: 2016-06-27 09:48:35
 * Handoff Reason: Include
 * Archive File: [conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange.b77e8e1dbdc11c64f555640e604182cec5b3e649.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='b2772f555ac064a286b084c1ef50ef5449083d9074'></a> Source: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/5f1c98cc916bee9bb83249a16a52a5fdd3810142/EMDocs/Solutions/conditional-access-intune-configmgr-exchange-online.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/conditional-access-intune-configmgr-exchange-online.md)
+* Target File: [EMDocs\Solutions\conditional-access-intune-configmgr-exchange-online.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/conditional-access-intune-configmgr-exchange-online.md)
 * Handoff File: [conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf)
 * Handoff Datetime: 2016-06-27 09:48:35
 * Handoff Reason: Include
 * Archive File: [conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-configmgr-exchange-online.4ad093f67f4e82d8962333604593013f51d00c56.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='6ed28a5ec5449dbca6e4f885dd0fa60bf30c3d9178'></a> Source: [EMDocs\Solutions\conditional-access-intune-exchange.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/conditional-access-intune-exchange.md)
@@ -1410,14 +1410,14 @@
 
 ##### <a name='82b00a5ce54a25b50563c9e5ef3c33b3c648639d77'></a> Source: [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr/blob/4e6a2c100c63ff21b7ccb89d59517dd63195b657/EMDocs/Solutions/conditional-access-intune-exchange-online.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/conditional-access-intune-exchange-online.md)
+* Target File: [EMDocs\Solutions\conditional-access-intune-exchange-online.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/conditional-access-intune-exchange-online.md)
 * Handoff File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/4d539877b0cc6c26f4dfe5d5672ac0961c3523e0/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
 * Handoff Datetime: 2016-07-01 17:48:02
 * Handoff Reason: Include
 * Archive File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/conditional-access-intune-exchange-online.7c0b9740744795195c333108aca6949a9698d35b.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='dab772c7718a3feda025e19cfaff388d8dd882d480'></a> Source: [EMDocs\Solutions\docfx.json](https://github.com/Microsoft/EMDocs-pr/blob/ba4abc6f62d5ae077ded7bb04fc93168847ea2a0/EMDocs/Solutions/docfx.json)
@@ -1569,14 +1569,14 @@
 
 ##### <a name='2dd5e54fe1348cc23274afc735759c92fbf81e2892'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-your-responsibilities.md](https://github.com/Microsoft/EMDocs-pr/blob/a92fcc56cea75adb6c3db4eeb197dba77d2b63b7/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-your-responsibilities.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/50dfe66312c7b3456955f9d41e47ad113285979d/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
+* Target File: [EMDocs\Solutions\fasttrack-center-benefit-process-for-ems-your-responsibilities.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 * Handoff File: [fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf)
 * Handoff Datetime: 2016-06-27 09:48:35
 * Handoff Reason: Include
 * Archive File: [fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/f13b1a72437ec83a44c96d518c2b0487dfeffbc0/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf)
-* Handback Datetime: 2016-07-02 18:15:43
+* Handback File: [fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/fasttrack-center-benefit-process-for-ems-your-responsibilities.0fc5677407275aba8ab97a050557abd968b1230c.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='42a320985cf1062a5e239bf55317f10b46062ee893'></a> Source: [EMDocs\Solutions\fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md](https://github.com/Microsoft/EMDocs-pr/blob/a92fcc56cea75adb6c3db4eeb197dba77d2b63b7/EMDocs/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
@@ -1605,14 +1605,14 @@
 
 ##### <a name='2dc585131b1897109afeb3ace9f8b9f6a245a31395'></a> Source: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr/blob/c965f619511720175393f91ba49d019ba4bcff4f/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
+* Target File: [EMDocs\Solutions\learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)
 * Handoff File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/a25c2bba62970a0226148455d71c89423bfda4e5/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
 * Handoff Datetime: 2016-06-28 23:30:52
 * Handoff Reason: Include
 * Archive File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.e2df0c7953c1ffc4c58bd87c97dac2b462ae3857.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='48f0f43b925090aec2cf0585b1372f5c27d1bd5b96'></a> Source: [EMDocs\Solutions\mam-configmgr.md](https://github.com/Microsoft/EMDocs-pr/blob/276a4ee6ceab6b39b9add2ea844cdf03f142a253/EMDocs/Solutions/mam-configmgr.md)
@@ -1790,9 +1790,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\Solutions\mdm-develop-incident-response-requirements.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/mdm-develop-incident-response-requirements.md)
-* Current Handback File: [mdm-develop-incident-response-requirements.c55446a9e5b2708f3facd9b9dc2f05b9b0773738.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-develop-incident-response-requirements.c55446a9e5b2708f3facd9b9dc2f05b9b0773738.zh-cn.xlf)
-* Current Handback Datetime: 2016-07-11 15:07:27
+* Current Target File: [EMDocs\Solutions\mdm-develop-incident-response-requirements.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/mdm-develop-incident-response-requirements.md)
+* Current Handback File: [mdm-develop-incident-response-requirements.c55446a9e5b2708f3facd9b9dc2f05b9b0773738.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-develop-incident-response-requirements.c55446a9e5b2708f3facd9b9dc2f05b9b0773738.zh-cn.xlf)
+* Current Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='ac16b3f58680e9a148bfacc352081901aed6daa9110'></a> Source: [EMDocs\Solutions\mdm-develop-mdm-adoption-strategy.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-develop-mdm-adoption-strategy.md)
@@ -1862,15 +1862,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8185d89d5be464a902aa56f30f15cc6d8f59dff5115'></a> Source: [EMDocs\Solutions\mdm-device-provisioning-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-device-provisioning-options.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\mdm-device-provisioning-options.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/mdm-device-provisioning-options.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [EMDocs\Solutions\mdm-device-provisioning-options.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/mdm-device-provisioning-options.md)
 * Handoff File: [mdm-device-provisioning-options.e80a49318421d656718abf4f326f90bcfe76e171.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/815629d20819fd5e95fb32491e95881dd6ff2f92/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/mdm-device-provisioning-options.e80a49318421d656718abf4f326f90bcfe76e171.zh-cn.xlf)
 * Handoff Datetime: 2016-07-11 17:37:58
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [mdm-device-provisioning-options.e80a49318421d656718abf4f326f90bcfe76e171.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-device-provisioning-options.e80a49318421d656718abf4f326f90bcfe76e171.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [mdm-device-provisioning-options.e80a49318421d656718abf4f326f90bcfe76e171.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-device-provisioning-options.e80a49318421d656718abf4f326f90bcfe76e171.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='13749f7100df8a157ae8204641442aadfa3c7f16116'></a> Source: [EMDocs\Solutions\mdm-email-management-options.md](https://github.com/Microsoft/EMDocs-pr/blob/ef523f44cd9d51e59fc8d94bbb8d7aa388120945/EMDocs/Solutions/mdm-email-management-options.md)
@@ -1925,9 +1925,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [EMDocs\Solutions\mdm-hardening-mobile-devices.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/mdm-hardening-mobile-devices.md)
-* Current Handback File: [mdm-hardening-mobile-devices.58c27654e34d4bb4bffc9274226eeeb6f5ce7bba.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-hardening-mobile-devices.58c27654e34d4bb4bffc9274226eeeb6f5ce7bba.zh-cn.xlf)
-* Current Handback Datetime: 2016-07-11 15:07:27
+* Current Target File: [EMDocs\Solutions\mdm-hardening-mobile-devices.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/mdm-hardening-mobile-devices.md)
+* Current Handback File: [mdm-hardening-mobile-devices.58c27654e34d4bb4bffc9274226eeeb6f5ce7bba.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-hardening-mobile-devices.58c27654e34d4bb4bffc9274226eeeb6f5ce7bba.zh-cn.xlf)
+* Current Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='6a30eede24c320b5f68e84f6df1a133dd3885b11120'></a> Source: [EMDocs\Solutions\mdm-identify-business-needs.md](https://github.com/Microsoft/EMDocs-pr/blob/1e23cdad577738a72b6dc8423a5ba6cf7af29bfb/EMDocs/Solutions/mdm-identify-business-needs.md)
@@ -1988,15 +1988,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='675953e58a32e6c609380f10dd19008338a128c5124'></a> Source: [EMDocs\Solutions\mdm-network-connectivity-management-options.md](https://github.com/Microsoft/EMDocs-pr/blob/a16e90093c7571f3c098ce815a2b70ae03c080e3/EMDocs/Solutions/mdm-network-connectivity-management-options.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: [EMDocs\Solutions\mdm-network-connectivity-management-options.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/8ae7ebf2c5f0424f361fddb28fc94b0556abb725/EMDocs/Solutions/mdm-network-connectivity-management-options.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [EMDocs\Solutions\mdm-network-connectivity-management-options.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Solutions/mdm-network-connectivity-management-options.md)
 * Handoff File: [mdm-network-connectivity-management-options.9e8c1446eea8160ed22fede68a8e0f8be7b9369a.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/815629d20819fd5e95fb32491e95881dd6ff2f92/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/mdm-network-connectivity-management-options.9e8c1446eea8160ed22fede68a8e0f8be7b9369a.zh-cn.xlf)
 * Handoff Datetime: 2016-07-11 17:37:58
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [mdm-network-connectivity-management-options.9e8c1446eea8160ed22fede68a8e0f8be7b9369a.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/dd6ae6848dd7a21bd6c351a1049b99b0a3b6d68d/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-network-connectivity-management-options.9e8c1446eea8160ed22fede68a8e0f8be7b9369a.zh-cn.xlf)
-* Handback Datetime: 2016-07-11 15:07:27
+* Handback File: [mdm-network-connectivity-management-options.9e8c1446eea8160ed22fede68a8e0f8be7b9369a.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/mdm-network-connectivity-management-options.9e8c1446eea8160ed22fede68a8e0f8be7b9369a.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='453de29d00e5fef9ac210059ea62e07f16f4998a125'></a> Source: [EMDocs\Solutions\mdm-next-steps-and-additional-resources.md](https://github.com/Microsoft/EMDocs-pr/blob/73c37109735567642ff1dc11f9729e3ab3affd3b/EMDocs/Solutions/mdm-next-steps-and-additional-resources.md)
@@ -5129,14 +5129,14 @@
 
 ##### <a name='719ac9a9e298a04838c41bd5e1b906712edb6bd2377'></a> Source: [EMDocs\Token\winrt_2.md](https://github.com/Microsoft/EMDocs-pr/blob/3fdf6bb63a581a4602819485c82dd3789c0b4eeb/EMDocs/Token/winrt_2.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [EMDocs\Token\winrt_2.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/eb6a595670aed32e1e6f0b200ac8336c92ea6847/EMDocs/Token/winrt_2.md)
+* Target File: [EMDocs\Token\winrt_2.md](https://github.com/Microsoft/EMDocs-pr.zh-cn/blob/e4fbeb74d284425638f31846eb76cc7db15a93d4/EMDocs/Token/winrt_2.md)
 * Handoff File: [winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/c05389f29d2a4c6b5cc3468993b629428e3e66b3/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf)
 * Handoff Datetime: 2016-06-27 09:48:35
 * Handoff Reason: Include
 * Archive File: [winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf](https://github.com/Microsoft/EM.handoff/blob/1a6939c3b84ea82a981a0399e305153106d973ca/ol-handoff/Microsoft/EMDocs-pr.zh-cn/master/archive/winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf)
 * Archive Datetime: 2016-07-02 00:51:46
-* Handback File: [winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/9a36a350474a2181be3b8d89f3d31acad9a5d1e6/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf)
-* Handback Datetime: 2016-07-03 00:08:06
+* Handback File: [winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf](https://github.com/Microsoft/EM.handback/blob/371c10dfaaadb8400d6ced427a1ca71816e852ad/ol-handback/Microsoft/EMDocs-pr.zh-cn/master/winrt_2.06114553e2fe57d5bebeb28dbb87b74d733cdc24.zh-cn.xlf)
+* Handback Datetime: 2016-07-15 03:56:18
 * [Back to Top](#report-top)
 
 ##### <a name='2c345c2d3e8679f8fc1a0e94304ace9e9e291d05378'></a> Source: [EMDocs\Token\wit_2.md](https://github.com/Microsoft/EMDocs-pr/blob/ba4abc6f62d5ae077ded7bb04fc93168847ea2a0/EMDocs/Token/wit_2.md)
