@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 制定你的事件响应要求
-description:
-keywords:
+title: "制定你的事件响应要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 6f9fd9b3-492b-48e1-871c-e5abefe1293a
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: 3be59381d215da3a6c1e7e33bae592d02201c196
+
 
 ---
 
@@ -30,10 +24,9 @@ ms.suite: ems
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-尽管许多组织已经制定了事件响应 (IR) 计划，你应当检查以确保此计划包括移动设备以及当在这些设备上报告某个事件时需要执行什么步骤。 如果你的公司刚刚增加移动解决方案，则很可能当前 IR 计划未涵盖移动设备。 
-如果你的组织没有 IR 计划，则与你的安全团队紧密合作以了解要求，从而正确提出恰当的问题并针对你的需求选择最佳的 MDM 解决方案很重要。 
+尽管许多组织已经制定了事件响应 (IR) 计划，你应当检查以确保此计划包括移动设备以及当在这些设备上报告某个事件时需要执行什么步骤。 如果你的公司刚刚增加移动解决方案，则很可能当前 IR 计划未涵盖移动设备。 如果你的组织没有 IR 计划，则与你的安全团队紧密合作以了解要求，从而正确提出恰当的问题并针对你的需求选择最佳的 MDM 解决方案很重要。 
  
->[!TIP]阅读[响应 IT 安全事件](https://technet.microsoft.com/library/cc700825.aspx)以更好地了解 IR 计划的最低要求。
+>[!TIP] 阅读[响应 IT 安全事件](https://technet.microsoft.com/library/cc700825.aspx)以更好理解 IR 计划的最低要求。
 
 在设计 MDM 解决方案时，请询问以下问题，确保在发生事件时可以管理移动设备。
 
@@ -52,6 +45,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 通过 Intune 和 Configuration Manager 使用条件访问
-description:
-keywords:
+title: "通过 Intune 和 Configuration Manager 使用条件访问"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: e65a0662-33ff-4e8c-9305-a21e80ea0f69
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: da76ba04d70ece8f20fdbe0fb19ad310f1fb8d28
+ms.openlocfilehash: 93d41c3e37946bbb5805e526e9fecfbe40807b3b
+
 
 ---
 
@@ -92,6 +86,7 @@ Exchange 内部部署支持的条件访问：
 如果你的环境包括 Exchange Online 和 Exchange 内部部署，你可以阅读[使用 Microsoft Intune 和 Configuration Manager 部署 Exchange Online 和 Exchange 内部部署](conditional-access-intune-configmgr-coexist.md)的相关信息。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 制定你的移动设备管理采用策略
-description:
-keywords:
+title: "制定你的移动设备管理采用策略"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 10172816-b52d-4a55-8803-6a6805126fab
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: 8670e37bc847485053009db781cabac54e9bc922
+
 
 ---
 
@@ -171,11 +165,12 @@ ms.suite: ems
 
 了解用户行为并且能够确定他们的位置是包含在你的移动设备管理策略中的重要因素。 跟踪设备的方式将因你的业务要求和需求而异。  每个移动操作系统中都提供了不同的跟踪功能，因此你选择支持的移动设备平台将影响你的选项。 例如，合规性要求可能会影响你对要采用的允许你跟踪用户位置并使用地理围栏的移动设备平台设置优先级。
 
->[!TIP]地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。 
+>[!TIP] 地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。 
 
 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 步骤 1 - 确定你的移动设备管理要求
-description:
-keywords:
+title: "步骤 1 - 确定你的移动设备管理要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 32ef7e4e-41b6-4e40-b9d9-6d2bfb464a99
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: 75179ab51b1c990aa612d74b494a2aef35a7c616
+
 
 ---
 
@@ -41,6 +35,7 @@ ms.suite: ems
 - [制定采用策略](mdm-develop-mdm-adoption-strategy.md)
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

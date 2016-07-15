@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 步骤 2 - 计划移动设备管理
-description:
-keywords:
-author: robmazz
+title: "步骤 2 - 计划移动设备管理"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/20/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 3cdc1318-50a2-4280-b051-1e009620816e
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 95eeb4decc5408d9f4f22cbb44f5bccc14968fb3
+ms.openlocfilehash: f5223794a8dbb9a9318de90965fd01bd3e98bcaf
+
 
 ---
 
@@ -42,12 +36,13 @@ ms.suite: ems
 - [设备注册选项](mdm-device-enrollment-options.md)
 - [设备设置选项](mdm-device-provisioning-options.md)
 - [设备管理选项](mdm-device-management-options.md)
-- [应用程序管理选项](mdm-application-management-options)
+- [应用程序管理选项](mdm-application-management-options.md)
 - [设备监视选项](mdm-device-monitoring-options.md)
 - [电子邮件管理选项](mdm-email-management-options.md)
-- [网络连接管理选项](mdm-network-connectivity-management-options)
+- [网络连接管理选项](mdm-network-connectivity-management-options.md)
 - [证书管理选项](mdm-certificate-management-options.md)
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

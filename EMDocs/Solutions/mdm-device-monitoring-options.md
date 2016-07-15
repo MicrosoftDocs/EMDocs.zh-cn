@@ -1,27 +1,20 @@
 ---
-# required metadata
-
-title: 设备监视选项
-description:
-keywords:
-author: robmazz
+title: "设备监视选项"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 23cfc12a-fa96-4fb3-8de1-af4569e8cb71
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: f543376b1e850c7d6e868c91d942aa8058e11b41
+
 
 ---
 
@@ -32,7 +25,7 @@ ms.suite: ems
 
 监视和了解组织管理的所有移动设备的状态和配置有助于你发现问题和不遵守规定的情况，并管理设备清单。 如果没有对硬件、软件和合规性状态的详细报告，则无法确保设备策略是否存在以及是否正常运行。 主动监视有助于在小问题扩大化且开销增加前缓解这些问题。
 
-[Intune ](/Intune/deployuse/monitoring-and-reports-with-microsoft-intune)、[Office 365 的 MDM](https://technet.microsoft.com/library/faa7d8e5-645d-4d59-839c-c8d4c1869e4a(v=technet.10).aspx) 以及 Intune 和 ConfigMgr 的[混合部署](https://technet.microsoft.com/library/gg699377.aspx)都包括监视和报表，以帮助管理设备、用户以及你组织的策略和过程的合规性。 通过结合自定义报告使用内置报告，你可以在以下方面监视移动设备管理：
+[Intune ](/Intune/deploy-use/monitoring-and-reports-with-microsoft-intune)、[Office 365 的 MDM](https://technet.microsoft.com/library/faa7d8e5-645d-4d59-839c-c8d4c1869e4a(v=technet.10).aspx) 以及 Intune 和 ConfigMgr 的[混合部署](https://technet.microsoft.com/library/gg699377.aspx)都包括监视和报表，以帮助管理设备、用户以及你组织的策略和过程的合规性。 通过结合自定义报告使用内置报告，你可以在以下方面监视移动设备管理：
 
 - 软件更新报告
 - 软件清单报告
@@ -101,10 +94,11 @@ ms.suite: ems
 
 查看以下内容，了解有关移动设备监视选项的详细信息：
 
-- Intune：**[如何监视移动设备](https://technet.microsoft.com/library/jj733634.aspx)**和[管理报告](/Intune/deployuse/monitoring-and-reports-with-microsoft-intune)
+- Intune：**[如何监视移动设备](https://technet.microsoft.com/library/jj733634.aspx)**和[管理报告](/Intune/deploy-use/monitoring-and-reports-with-microsoft-intune)
 - ConfigMgr：[监视移动设备](https://technet.microsoft.com/library/gg682128.aspx)和[管理报告](https://technet.microsoft.com/library/gg699377.aspx)
 - Office 365 的 MDM：[概述和设备管理任务](https://technet.microsoft.com/en-us/library/ms.o365.cc.devicepolicy.aspx)
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jul16_HO2-->
 
 

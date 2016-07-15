@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 构想 BYOD 基础架构解决方案
-description:
-keywords:
+title: "构想 BYOD 基础架构解决方案"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: ecb6271f-8f38-42bd-aae7-10ba5e17a5f1
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 31ba2bb9bf95d3b21ba08f7874f12cae790f9af0
+ms.openlocfilehash: 0eb7b6558a0b8e92d5b1e0e50f90a23d49f5757f
+
 
 ---
 
@@ -58,6 +52,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 
