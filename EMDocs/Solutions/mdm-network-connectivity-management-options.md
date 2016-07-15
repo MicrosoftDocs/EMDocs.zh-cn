@@ -71,6 +71,6 @@ Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 - ConfigMgr：启用[无线](https://technet.microsoft.com/library/dn261221.aspx)和 [VPN](https://technet.microsoft.com/library/dn261217.aspx) 配置文件
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO2-->
 
 

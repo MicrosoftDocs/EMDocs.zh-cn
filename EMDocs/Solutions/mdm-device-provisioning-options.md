@@ -81,6 +81,6 @@ ms.openlocfilehash: 8185d89d5be464a902aa56f30f15cc6d8f59dff5
 有关移动设备注册和预配选项的详细信息，请务必查看在 Intune 中如何[启用移动设备注册](/Intune/deploy-use/enroll-devices-in-microsoft-intune)，并将这些要求和步骤与在 ConfigMgr 和 MDM for Office 365 中[启用移动设备注册](https://technet.microsoft.com/library/jj884158.aspx)的要求和步骤进行比较。
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO2-->
 
 
