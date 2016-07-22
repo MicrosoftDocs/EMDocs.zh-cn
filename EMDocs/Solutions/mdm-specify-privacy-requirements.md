@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: d02d3ec2-706a-4e03-977c-b7c06cbd4ebd
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
-ms.openlocfilehash: 519482cadc7f0054883b70dd0de20e25380ec1a6
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: b4564a1f537a2c4f299bcedf986338f4a18b5f0c
 
 
 ---
@@ -27,7 +27,8 @@ ms.openlocfilehash: 519482cadc7f0054883b70dd0de20e25380ec1a6
 
 在上一步中，你定义了设备管理任务，其中包括设备管理和内容分发管理。 在此任务中，目标是定义对将驻留在移动设备上的公司内容的隐私要求。 
 
->[!TIP] 有关移动设备的内容分发的详细信息，请参阅混合环境中的移动设备和计算机的简化管理解决方案。
+>[!TIP] 
+> 有关移动设备的内容分发的详细信息，请参阅混合环境中的移动设备和计算机的简化管理解决方案。
 
 组织的隐私与合规性要求将因行业、适用法规和业务类型而异。 例如，你可能希望你的 MDM 解决方案允许你在移动设备上执行基本的硬件清单、软件清单、文件收集和软件分发。 默认情况下，通常支持硬件清单和软件分发。 
 
@@ -53,6 +54,6 @@ ms.openlocfilehash: 519482cadc7f0054883b70dd0de20e25380ec1a6
 阅读 [Microsoft Online Services 隐私声明](http://www.microsoft.com/server-cloud/products/intune-trust-center/privacy.aspx)以更好地了解 Microsoft Cloud 服务（包括 Intune）如何维护用户隐私。
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

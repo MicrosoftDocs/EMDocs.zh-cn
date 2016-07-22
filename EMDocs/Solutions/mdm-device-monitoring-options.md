@@ -12,6 +12,7 @@ ms.technology:
 ms.assetid: 23cfc12a-fa96-4fb3-8de1-af4569e8cb71
 ms.reviewer: 
 ms.suite: ems
+translationtype: Human Translation
 ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
 ms.openlocfilehash: f543376b1e850c7d6e868c91d942aa8058e11b41
 
@@ -99,6 +100,6 @@ ms.openlocfilehash: f543376b1e850c7d6e868c91d942aa8058e11b41
 - Office 365 的 MDM：[概述和设备管理任务](https://technet.microsoft.com/en-us/library/ms.o365.cc.devicepolicy.aspx)
 
 
-<!--HONumber=Jul16_HO2-->
+<!--HONumber=Jul16_HO3-->
 
 

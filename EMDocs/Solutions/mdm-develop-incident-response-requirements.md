@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: 6f9fd9b3-492b-48e1-871c-e5abefe1293a
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
-ms.openlocfilehash: 3be59381d215da3a6c1e7e33bae592d02201c196
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: fa40b0e67e410e7104aa1b9c5d05112ee9ed67fc
 
 
 ---
@@ -26,7 +26,8 @@ ms.openlocfilehash: 3be59381d215da3a6c1e7e33bae592d02201c196
 
 尽管许多组织已经制定了事件响应 (IR) 计划，你应当检查以确保此计划包括移动设备以及当在这些设备上报告某个事件时需要执行什么步骤。 如果你的公司刚刚增加移动解决方案，则很可能当前 IR 计划未涵盖移动设备。 如果你的组织没有 IR 计划，则与你的安全团队紧密合作以了解要求，从而正确提出恰当的问题并针对你的需求选择最佳的 MDM 解决方案很重要。 
  
->[!TIP] 阅读[响应 IT 安全事件](https://technet.microsoft.com/library/cc700825.aspx)以更好理解 IR 计划的最低要求。
+>[!TIP] 
+> 阅读[响应 IT 安全事件](https://technet.microsoft.com/library/cc700825.aspx)以更好理解 IR 计划的最低要求。
 
 在设计 MDM 解决方案时，请询问以下问题，确保在发生事件时可以管理移动设备。
 
@@ -46,6 +47,6 @@ ms.openlocfilehash: 3be59381d215da3a6c1e7e33bae592d02201c196
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 确定 SaaS 连接要求
-description:
-keywords:
-author: robmazz
+title: "确定 SaaS 连接要求"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 6afbce4c-7500-4387-a19c-dff52c152097
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 73c37109735567642ff1dc11f9729e3ab3affd3b
+ms.openlocfilehash: d5e660e87a80b7703a09214b1d1f07e41e8f5483
+
 
 ---
 
@@ -78,6 +72,7 @@ ms.suite: ems
 - 对于尚未配置当前 ConfigMgr 基础结构的组织，需要在与 Intune 集成之前进行规划、安装和配置
 - 对于具有 ConfigMgr 的组织，需要满足其他本地部署要求和配置更改。
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jul16_HO3-->
 
 

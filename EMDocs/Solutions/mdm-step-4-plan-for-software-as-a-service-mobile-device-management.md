@@ -40,6 +40,6 @@ ms.openlocfilehash: ee44a4de3b09d2380bcabaa0380f8e2968184b62
 - [确定 SaaS 连接要求](mdm-identify-saas-connectivity-requirements.md)
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

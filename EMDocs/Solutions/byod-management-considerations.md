@@ -197,6 +197,6 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

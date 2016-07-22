@@ -12,6 +12,7 @@ ms.technology:
 ms.assetid: 5967876b-3c08-4498-a0a6-0225b562d35f
 ms.reviewer: 
 ms.suite: ems
+translationtype: Human Translation
 ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
 ms.openlocfilehash: 35a01a69e89762da314905c58a4868c6443d32e8
 
@@ -90,6 +91,6 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 
 
 
-<!--HONumber=Jul16_HO2-->
+<!--HONumber=Jul16_HO3-->
 
 

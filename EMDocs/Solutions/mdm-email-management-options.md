@@ -86,6 +86,6 @@ ms.openlocfilehash: 13749f7100df8a157ae8204641442aadfa3c7f16
 - Office 365 的 MDM：[移动设备管理功能](https://technet.microsoft.com/library/ms.o365.cc.devicepolicysupporteddevice.aspx)
 
 
-<!--HONumber=Jul16_HO1-->
+<!--HONumber=Jul16_HO3-->
 
 

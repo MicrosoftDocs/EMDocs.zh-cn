@@ -43,6 +43,6 @@ ms.openlocfilehash: f5223794a8dbb9a9318de90965fd01bd3e98bcaf
 - [证书管理选项](mdm-certificate-management-options.md)
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

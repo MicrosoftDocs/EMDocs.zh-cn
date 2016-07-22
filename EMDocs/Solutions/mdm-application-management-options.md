@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 应用程序管理选项
-description:
-keywords:
-author: robmazz
+title: "应用程序管理选项"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 1f77eba2-8e27-4e08-b2f2-e71e3d776cf4
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 73c37109735567642ff1dc11f9729e3ab3affd3b
+ms.openlocfilehash: 2d8c4371a06ab1e006083f91f814028573b46141
+
 
 ---
 
@@ -77,6 +71,7 @@ Intune MAM 功能不是整个 MDM 解决方案的一种替代方案。 许多设
 
 通过查看以下 Intune 和 ConfigMgr 内容来了解有关移动应用程序管理选项的详细信息：在 Microsoft Intune 控制台中配置和部署移动应用程序管理策略。 此外，要确保检查在 Intune MAM 策略下可使用的 Microsoft 应用列表以及 Intune 的兼容合作伙伴应用的扩展列表。
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jul16_HO3-->
 
 

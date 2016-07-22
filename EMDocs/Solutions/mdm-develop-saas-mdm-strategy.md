@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 制定 SaaS 移动设备管理策略
-description:
-keywords:
-author: robmazz
+title: "制定 SaaS 移动设备管理策略"
+description: 
+keywords: 
+author: andredm7
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: b3cefcc5-b045-48f9-91f5-6d282a4428f3
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 73c37109735567642ff1dc11f9729e3ab3affd3b
+ms.openlocfilehash: 91d1498db006b387ff524b2b26c715c3a109dd8a
+
 
 ---
 
@@ -81,6 +75,7 @@ ms.suite: ems
 
 有关 SaaS 解决方案功能和要求的更多详细信息，请务必查看 **[Microsoft Intune 的服务说明](https://technet.microsoft.com/library/dn600286.aspx)**主题，以了解适用于 [ ffice 365](https://technet.microsoft.com/library/faa7d8e5-645d-4d59-839c-c8d4c1869e4a(v=technet.10).aspx) 的 MDM 与[混合](https://technet.microsoft.com/library/jj884158.aspx) Intune 和 Configmgr 基础结构中的 SaaS 支持之间的差异。
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jul16_HO3-->
 
 

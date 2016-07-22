@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: 85783069-14fb-4ead-a159-657d694eb1a7
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 4764d8c3ad679c5096c0de6d9ff51ea0aa6d7c06
-ms.openlocfilehash: b43a8e20d485c970bb90f4ce619518377423b6db
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: 6a30eede24c320b5f68e84f6df1a133dd3885b11
 
 
 ---
@@ -76,12 +76,13 @@ ms.openlocfilehash: b43a8e20d485c970bb90f4ce619518377423b6db
 
 在本任务执行期间，你还应该评估公司现在是否已有适用于移动设备的管理和合规性策略以及这些策略如何影响移动设备管理解决方案选择。
 
->[!TIP] 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
+>[!TIP] 
+> 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
 
 
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

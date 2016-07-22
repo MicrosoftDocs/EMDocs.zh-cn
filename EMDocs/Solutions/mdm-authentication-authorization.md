@@ -96,6 +96,6 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 
