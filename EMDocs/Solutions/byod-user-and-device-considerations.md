@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: d1653116-3922-40d3-bc4f-3d845b6aaecb
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 3a95624c9092dba51e515bd294bd13beb4071510
-ms.openlocfilehash: 8d5c06c66102c21adcb26b86e4f8ed3550c3aca0
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: a3aa062b36a4563c3166d7ce68f616049049034f
 
 
 ---
@@ -202,13 +202,14 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
     - 缺点
         - 需要 IPsec 才能使用 [Microsoft 网络访问保护 (NAP)](https://technet.microsoft.com/library/cc731276(v=ws.10).aspx) 实现此类分段，对于需要支持“任何设备”的 BYOD 方案，这可能会造成问题。
 
-> [!NOTE] 有关 Configuration Manager 中 Wi-Fi 配置文件的详细信息，请参阅 [Configuration Manager 中的 Wi-Fi 配置文件简介](https://technet.microsoft.com/library/dn261224.aspx)。
+> [!NOTE] 
+> 有关 Configuration Manager 中 Wi-Fi 配置文件的详细信息，请参阅 [Configuration Manager 中的 Wi-Fi 配置文件简介](https://technet.microsoft.com/library/dn261224.aspx)。
 
 网络位置是考虑用户和设备时的一个重要注意事项。 你可以利用 AD FS 中的多重访问控制以启用按应用程序的授权策略，借此你可以根据用户、设备和网络位置来允许或拒绝访问。 有关如何设置环境以验证此功能的详细信息，请参阅[使用多重访问控制管理风险](https://technet.microsoft.com/library/dn280936.aspx)。
 
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: c8824726-082e-417a-8522-183a69328ae4
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
-ms.openlocfilehash: 541b3a4cbb200558d527a14ce6cc691d74431f0b
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: 3ff89e864ebb0bb20aec623f1e04c874ab7ad7c3
 
 
 ---
@@ -36,11 +36,12 @@ ms.openlocfilehash: 541b3a4cbb200558d527a14ce6cc691d74431f0b
         - 如果不可以，是否可以混合？
     - 公司是否需要分散式的模型，其中不同的位置应对设备管理的管理具有自主性？
 
->[!TIP] 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
+>[!TIP] 
+> 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
 
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

@@ -4,7 +4,7 @@ description:
 keywords: 
 author: staciebarker
 manager: jeffgilb
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
-ms.openlocfilehash: 59710c77266e9c20697012208bba5ee468ee0f38
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 
 
 ---
@@ -115,11 +115,13 @@ ms.openlocfilehash: 59710c77266e9c20697012208bba5ee468ee0f38
 
     -   配置本地 Active Directory 林和 Microsoft Azure Active Directory Premium 目录 (Azure Active Directory) 之间的同步。
 
-        > [!NOTE] 自定义规则扩展的开发和实现不在讨论范围内。
+        > [!NOTE] 
+        > 自定义规则扩展的开发和实现不在讨论范围内。
 
 -   对于目标为联合标识的单林：根据需要安装并配置 Active Directory 联合身份验证服务 (AD FS)，以在单个站点、容错配置中使用 Microsoft Azure AD Premium 对本地域进行身份验证。
 
-    > [!NOTE] 对于多林配置，AD FS 部署不在讨论范围内。
+    > [!NOTE] 
+    > 对于多林配置，AD FS 部署不在讨论范围内。
 
 -   如果已部署单一登录 (SSO)，请测试其功能。
 
@@ -164,7 +166,8 @@ ms.openlocfilehash: 59710c77266e9c20697012208bba5ee468ee0f38
 
     -   如果拥有 System Center Configuration Manager 的现有实施，且想要使用 Microsoft Intune 扩展其管理功能，则将 Configuration Manager 设置为你的 MDM 机构。
 
-        > [!NOTE] 如果只希望对最终用户拥有的设备、共享或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
+        > [!NOTE] 
+        > 如果只希望对最终用户拥有的设备、共享或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
 
 -   如果移动设备管理在你的作用域中，我们将提供以下方面的指导：
 
@@ -242,6 +245,6 @@ ms.openlocfilehash: 59710c77266e9c20697012208bba5ee468ee0f38
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

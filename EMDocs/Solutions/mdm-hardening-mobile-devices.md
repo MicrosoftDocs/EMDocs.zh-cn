@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -12,8 +12,9 @@ ms.technology:
 ms.assetid: ade57c73-a8a2-497f-ad8d-5dfc3cba9e70
 ms.reviewer: 
 ms.suite: ems
-ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
-ms.openlocfilehash: 1a8b4be857a8fede2df37db1eabd7b95cea1dba9
+translationtype: Human Translation
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: 15a02b34861c57659310491d744bd3bc953ed449
 
 
 ---
@@ -88,10 +89,11 @@ ms.openlocfilehash: 1a8b4be857a8fede2df37db1eabd7b95cea1dba9
 
 - 如果你的公司没有当前本地 ConfigMgr 基础结构，它将在集成前需要资源来规划、安装和配置 ConfigMgr
 
->[!TIP] 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。 
+>[!TIP] 
+> 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。 
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: 181eb917-119d-4e56-8ead-1182b1dc5cab
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 02c3a16dfeaef55ff7747f565311c8492875da64
-ms.openlocfilehash: 1b284ec12663422308fb6a44a82fec732d7e9dfa
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: 1d6f468df0675a410d53241ae23014712be2fee4
 
 
 ---
@@ -217,7 +217,8 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 若要针对从外部或内部网络访问应用的用户强制为每个应用授权，IT 可以利用 Web 应用程序代理。 通过使用 Web 应用程序代理，IT 部门可以创建特定规则以结合 AD FS 强制执行身份验证和授权。 Web 应用程序代理发布适用于任何用户设备；它们可以使用个人便携式计算机、平板电脑或智能手机。 此外，用户无需在设备上安装任何其他软件，即可访问已发布的应用。 Web 应用程序代理可用作通过它发布的任何应用的反向代理，因此用户体验与用户设备直接连接到应用时相同。 有关 Web 应用程序代理的详细信息，请参阅 [Web 应用程序代理概述](https://technet.microsoft.com/library/dn280944.aspx)。
 
->[!NOTE] 如果你采用混合方案，且需要体验无缝的用户身份验证和授权，请参阅[混合标识设计注意事项指南](http://aka.ms/azhidcg)。
+>[!NOTE] 
+> 如果你采用混合方案，且需要体验无缝的用户身份验证和授权，请参阅[混合标识设计注意事项指南](http://aka.ms/azhidcg)。
 
 ## 策略和合规性
 
@@ -249,6 +250,6 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

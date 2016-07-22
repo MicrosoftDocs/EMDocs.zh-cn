@@ -10,6 +10,7 @@ ms.prod:
 ms.service: 
 ms.technology: 
 ms.assetid: 9d031fa7-9c07-48c5-b915-6525aea54870
+translationtype: Human Translation
 ms.sourcegitcommit: 7ba1b97328f25203cbdfd86c654337cc0e2c7ab3
 ms.openlocfilehash: 22bb62ab2ba5d0c3f36cccbb0a12b3a8cab8e609
 
@@ -38,6 +39,6 @@ ms.openlocfilehash: 22bb62ab2ba5d0c3f36cccbb0a12b3a8cab8e609
 
 
 
-<!--HONumber=Jul16_HO2-->
+<!--HONumber=Jul16_HO3-->
 
 

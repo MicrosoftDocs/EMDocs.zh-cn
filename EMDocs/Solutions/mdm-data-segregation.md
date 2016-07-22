@@ -4,7 +4,7 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/07/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -12,8 +12,9 @@ ms.technology:
 ms.assetid: 50bd37fe-30b5-4a45-9c36-0b907dd13cc2
 ms.reviewer: 
 ms.suite: ems
-ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
-ms.openlocfilehash: 19ddd4da5796af41b84b979e1382a78856646a6b
+translationtype: Human Translation
+ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
+ms.openlocfilehash: 64cd77f7930216f38786451b56037f49d97b095a
 
 
 ---
@@ -31,7 +32,8 @@ ms.openlocfilehash: 19ddd4da5796af41b84b979e1382a78856646a6b
 
 通过使 MDM 解决方案部署的所有应用、公司数据和策略保持分离，可以在必要时使用选择性擦除从设备中删除这些内容，而不会影响用户的个人内容和应用。 
 
->[!TIP] 有关远程擦除在其他平台（如 iOS 和 Android）中的运行方式的详细信息，请阅读[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune) 
+>[!TIP] 
+> 有关远程擦除在其他平台（如 iOS 和 Android）中的运行方式的详细信息，请阅读[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune) 
 
 移动设备数据管理的选择性擦除包含在 Windows Server 2012 R2 和 Windows 8.1 中。 它的工作原理是将帮助 Exchange Server 和 Microsoft Intune 管理员管理设备上的企业数据和开发可使用 [Windows 选择性擦除](https://technet.microsoft.com/library/dn486874.aspx)功能的应用的资源链接起来。  Windows Phone 8 和更高版本支持在内部存储中分离数据。
 
@@ -89,6 +91,6 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 若要了解如何在对每个移动设备平台进行选择性擦除后删除和保留数据，请务必阅读文章[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune)。 如果你有混合环境，请参考文章[如何使用 Configuration Manager 远程擦除移动设备](https://technet.microsoft.com/library/dn956981.aspx)以了解如何使用 ConfigMgr 完成此任务。
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 
