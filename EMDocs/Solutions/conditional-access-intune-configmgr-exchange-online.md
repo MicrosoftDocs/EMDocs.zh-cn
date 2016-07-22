@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 将 Exchange Online、Microsoft Intune 和 Configuration Manager 与条件访问结合使用
-description:
-keywords:
+title: "将 Exchange Online、Microsoft Intune 和 Configuration Manager 与条件访问结合使用"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 06921361-9475-46e6-9368-3cc44c84b22f
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
+ms.openlocfilehash: b2772f555ac064a286b084c1ef50ef5449083d90
+
 
 ---
 
@@ -34,8 +28,7 @@ ms.suite: ems
 
 -   开始实施条件访问。
 
--   或者，为 Exchange Online 配置 Exchange Server 连接器
-    此连接器仅供报告使用。 启用条件访问不需要此连接器。
+-   或者，为 Exchange Online 配置 Exchange Server 连接器。此连接器仅供报表使用。 启用条件访问不需要此连接器。
 
 ## Exchange Online 的条件访问控制流
 下图显示客户端试图在 Exchange Online 中访问电子邮件的控制流。 实施条件访问之前可能先执行 A 和 B。
@@ -137,7 +130,7 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 要查看 SSRS 报表，必须在主服务器上安装报表角色：
 
-1.  在 Configuration Manager 中，单击“管理”&gt;“层次结构配置”&gt;“站点配置”&gt;“服务器和站点系统角色”。 
+1.  在配置管理器中，单击“管理”&gt;“层次结构配置”&gt;“站点配置”&gt;“服务器和站点系统角色”。
 
 2.  选择一个服务器，然后单击“添加站点系统角色”  以打开“添加站点系统角色”向导。
 
@@ -156,6 +149,7 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

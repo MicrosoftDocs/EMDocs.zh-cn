@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 用户和设备要求
-description:
-keywords:
+title: "用户和设备要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: a6319952-e9cd-4308-b9b9-b2e6005e6506
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 9883ee8aebde8ab93d4351b9ed72080a227c8f46
+ms.openlocfilehash: 4cee1f7e793902a3e8ae7a9db623bf4729cdda2a
+
 
 ---
 
@@ -75,6 +69,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=May16_HO1-->
+
+<!--HONumber=Jun16_HO4-->
 
 

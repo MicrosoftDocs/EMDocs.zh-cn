@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 用户和设备注意事项
-description:
-keywords:
+title: "用户和设备注意事项"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: d1653116-3922-40d3-bc4f-3d845b6aaecb
-
-# optional metadataco
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 3a95624c9092dba51e515bd294bd13beb4071510
+ms.openlocfilehash: 8d5c06c66102c21adcb26b86e4f8ed3550c3aca0
+
 
 ---
 
@@ -114,9 +108,9 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 
 在 Windows Server 2012 R2 中，[工作区加入](https://technet.microsoft.com/library/dn280945.aspx)的新概念允许 IT 部门将设备从未知状态变为已知状态。 该设备也可用作到工作区资源和应用的第二重身份验证和单一登录。 工作区加入在 Windows 10 中以本机方式提供，但它也在诸如 iOS 和 Android 等其他平台中受到支持。 工作区加入利用设备注册服务 (DRS)。 有关 DRS 的详细信息，请阅读[使用设备注册服务配置联合务器](https://technet.microsoft.com/library/dn486831.aspx)。 工作区加入是一项新技术，并且适用于特定用例。 有关结合使用工作区加入和单一登录的解决方案的详细信息，请参阅[在任何设备上从任何位置安全地访问公司资源](https://technet.microsoft.com/library/dn550982.aspx)。
 
-如果你考虑使用 DRS，请了解此功能不提供任何管理功能。 如果你的公司需要更多安全控制，以便具有更多用于控制用户设备的选项，请考虑结合使用 DRS 和[移动设备注册](https://technet.microsoft.com/library/jj733620.aspx)以作为管理代理解决方案。 但是，如果你选择此选项，你必须具有 Windows Intune 订阅。 有关 Microsoft Intune 的详细信息，请参阅 [Microsoft Intune 页](/intune/understand-explore/introduction-to-microsoft-intune).
+如果你考虑使用 DRS，请了解此功能不提供任何管理功能。 如果你的公司需要更多安全控制，以便具有更多用于控制用户设备的选项，请考虑结合使用 DRS 和[移动设备注册](https://technet.microsoft.com/library/jj733620.aspx)以作为管理代理解决方案。 但是，如果你选择此选项，你必须具有 Windows Intune 订阅。 有关 Microsoft Intune 的详细信息，请参阅 [Microsoft Intune 页](/intune/understand-explore/introduction-to-microsoft-intune)。
 
-## 网络
+## Network (网络)
 
 必须从用户和设备的角度处理企业网络访问权限。 用户如何在使用自己的设备时访问公司数据？ 大多数 BYOD 基础架构解决方案仅在最低程度上关注从用户的设备进行远程访问；但是，如果采取以人为中心的做法，就必须考虑用户所在的物理位置。 你不仅应该关注远程访问，还应关注用户在本地访问数据的方式。 此外，你需要考虑特定于贵组织的地缘政治联合的法规问题。 例如，在物理上位于不同国家或地区的用户如何具有个性化的网络访问权限？
 
@@ -176,7 +170,7 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 
 还可以根据它们运行的平台将连接到 Wi-Fi 网络的设备分段。 当它们在本地访问公司资源时，还应考虑如何保护其通信和授权。
 
-可以在你的无线接入点和网络组件上（交换机和路由器）选择物理分段，以隔离使用自己的设备进行连接的用户。 你还可以通过使用 [Configuration Manager 中的 Wi-Fi 配置文件](https://technet.microsoft.com/library/dn261221.aspx)实现这种分段。 提供范围广泛的安全设置，例如，用于服务器验证和客户端身份验证的证书，这些证书已使用 [Configuration Manager 证书配置文件](https://technet.microsoft.com/library/dn270540.aspx)进行预配.
+可以在你的无线接入点和网络组件上（交换机和路由器）选择物理分段，以隔离使用自己的设备进行连接的用户。 你还可以通过使用 [Configuration Manager 中的 Wi-Fi 配置文件](https://technet.microsoft.com/library/dn261221.aspx)实现这种分段。 提供范围广泛的安全设置，例如，用于服务器验证和客户端身份验证的证书，这些证书已使用 [Configuration Manager 证书配置文件](https://technet.microsoft.com/library/dn270540.aspx)进行预配。
 
 
 ### Wi-Fi 网络分段选项 - 优点和缺点
@@ -208,12 +202,13 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
     - 缺点
         - 需要 IPsec 才能使用 [Microsoft 网络访问保护 (NAP)](https://technet.microsoft.com/library/cc731276(v=ws.10).aspx) 实现此类分段，对于需要支持“任何设备”的 BYOD 方案，这可能会造成问题。
 
-> [!NOTE] 有关 Configuration Manager 中 Wi-Fi 配置文件的详细信息，请参阅 [Configuration Manager 中的 Wi-Fi 配置文件简介](https://technet.microsoft.com/library/dn261224.aspx).
+> [!NOTE] 有关 Configuration Manager 中 Wi-Fi 配置文件的详细信息，请参阅 [Configuration Manager 中的 Wi-Fi 配置文件简介](https://technet.microsoft.com/library/dn261224.aspx)。
 
 网络位置是考虑用户和设备时的一个重要注意事项。 你可以利用 AD FS 中的多重访问控制以启用按应用程序的授权策略，借此你可以根据用户、设备和网络位置来允许或拒绝访问。 有关如何设置环境以验证此功能的详细信息，请参阅[使用多重访问控制管理风险](https://technet.microsoft.com/library/dn280936.aspx)。
 
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 应用注意事项
-description:
-keywords:
+title: "应用注意事项"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 4b871c74-fec8-45e2-8b45-6ef0e62f7cc6
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 95eeb4decc5408d9f4f22cbb44f5bccc14968fb3
+ms.openlocfilehash: 4c9422a04ac855b8e1b97445e7f84685be0dba77
+
 
 ---
 
@@ -234,7 +228,7 @@ ms.suite: ems
 
 有关 Windows Server 2012 R2 中 VDI 的详细信息，请参阅 [Windows Server 2012 R2 中远程桌面服务的新增功能](https://technet.microsoft.com/library/dn283323.aspx)。
 
-对于将哪些应用部署和体验用于 BYOD 基础架构设计的决策应与总拥有成本 (TCO) 相均衡。 若要更好地了解采用 VDI 的 TCO，我们建议你阅读 [针对办公室工作人员环境的 VDI TCO 分析](http://download.microsoft.com/download/7/9/A/79AAA903-25B4-4D76-8580-BC47D5700433/Microsoft VDI TCO whitepaper customer ready v1 2.pdf)。
+对于将哪些应用部署和体验用于 BYOD 基础架构设计的决策应与总拥有成本 (TCO) 相均衡。 若要更好地了解采用 VDI 的 TCO，我们推荐你阅读[针对机构工作人员环境的 VDI TCO 分析](http://www.intel.in/content/www/in/en/data-center-efficiency/data-center-efficiency-vdi-tco-analysis-for-office-worker-environments-report.html)。
 
 ## 安全
 
@@ -243,6 +237,7 @@ ms.suite: ems
 对于将由采用自己设备的用户使用的应用而言，安全注意事项非常重要。 建议你为几个具有特定访问要求的应用使用基于 Active Directory 安全组的自定义集合来限制目标用户，这可以限制哪些用户可以安装它们。 还可以利用安全性来增强用户体验，因为它允许用户使用相同的用户名和密码来访问公司资源，这可以使用 AD FS 完成。 在设计这些应用的部署时，安全性也很重要。 在启用用户注册前，你应该获取并部署证书和旁加载项。 与其他小组协作以优化应用认证过程。
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

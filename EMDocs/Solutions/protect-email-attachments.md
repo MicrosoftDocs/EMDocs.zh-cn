@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 保护公司电子邮件附件
-description:
-keywords:
+title: "保护公司电子邮件附件"
+description: 
+keywords: 
 author: karthikaraman
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: a1e630c1-7190-4ba9-b71d-ed9c2e93a6cc
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer:
+ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
+ms.openlocfilehash: 0bf455c24808f6dec237acb20150dd6bf129be70
+
 
 ---
 
@@ -76,6 +70,7 @@ IT 管理员创建移动应用程序管理策略、将策略关联至应用，�
 你已了解了[保护企业电子邮件和文档](protect-corporate-email-documents.md)以及电子邮件附件的相关内容，现在可以详细了解如何[实现保护你的企业电子邮件的解决方案](implement-solution.md)。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

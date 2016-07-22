@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: BYOD 设计注意事项指南
-description:
-keywords:
+title: "BYOD 设计注意事项指南"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: ed940ba8-866c-477f-a59b-beb620300a79
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 31ba2bb9bf95d3b21ba08f7874f12cae790f9af0
+ms.openlocfilehash: eb797534050cdc101f5ab3bb2cc0d3b18bcc4c20
+
 
 ---
 
@@ -82,6 +76,7 @@ ms.suite: ems
 
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

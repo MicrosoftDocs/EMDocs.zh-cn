@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 确定你的移动设备管理位置要求
-description:
-keywords:
+title: "确定你的移动设备管理位置要求"
+description: 
+keywords: 
 author: YuriDio
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: c8824726-082e-417a-8522-183a69328ae4
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
+ms.openlocfilehash: 541b3a4cbb200558d527a14ce6cc691d74431f0b
+
 
 ---
 
@@ -42,10 +36,11 @@ ms.suite: ems
         - 如果不可以，是否可以混合？
     - 公司是否需要分散式的模型，其中不同的位置应对设备管理的管理具有自主性？
 
->[!TIP] 请务必记下每个答案并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
+>[!TIP] 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
 
 
 
-<!--HONumber=Apr16_HO2-->
+
+<!--HONumber=Jun16_HO4-->
 
 

@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 将本地 Exchange Server、Microsoft Intune 和 Configuration Manager 与条件访问结合使用
-description:
-keywords:
+title: "将本地 Exchange Server、Microsoft Intune 和 Configuration Manager 与条件访问结合使用"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 56b6cd2d-3dea-468b-9f1c-92717c9ec5f5
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: da76ba04d70ece8f20fdbe0fb19ad310f1fb8d28
+ms.openlocfilehash: ca38c22f5de2a33e399d7d7a7a9beafdc49e5686
+
 
 ---
 
@@ -98,7 +92,7 @@ ms.suite: ems
     Remove-ActiveSyncDevice
 
 > [!IMPORTANT]
-> 如果你尝试在没有所需 cmdlet 的情况下安装或使用 Exchange Server 连接器，你将看到以下错误消息：_在站点服务器计算机上的 EasDisc.log 文件中调用 cmdlet &lt;cmdlet&gt; 失败_。
+> 如果你尝试在没有所需 cmdlet 的情况下安装或使用 Exchange Server 连接器，你将看到以下消息记录的错误：站点服务器计算机上的 EasDisc.log 文件中_调用 cmdlet &lt;cmdlet&gt;失败_。
 
 ## 部署步骤
 请按照以下步骤来部署本地 Exchange 解决方案：
@@ -191,6 +185,7 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

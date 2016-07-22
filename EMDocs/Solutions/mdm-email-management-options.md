@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 电子邮件管理选项
-description:
-keywords:
+title: "电子邮件管理选项"
+description: 
+keywords: 
 author: andredm7
 manager: swadhwa
 ms.date: 05/31/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 9b89da63-039f-4831-b204-28c0681478fe
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: ef523f44cd9d51e59fc8d94bbb8d7aa388120945
+ms.openlocfilehash: 13749f7100df8a157ae8204641442aadfa3c7f16
+
 
 ---
 
@@ -87,10 +81,11 @@ ms.suite: ems
 
 查看以下内容，了解有关移动设备电子邮件配置管理选项的详细信息：
 
-- Intune：如何[启用电子邮件配置文件](/Intune/deployuse/configure-access-to-corporate-email-using-email-profiles-with-microsoft-intune)和[有条件电子邮件访问](/Intune/deployuse/restrict-access-to-email-and-o365-services-with-microsoft-intune)
+- Intune：如何[启用电子邮件配置文件](/Intune/deploy-use/configure-access-to-corporate-email-using-email-profiles-with-microsoft-intune)和[有条件的电子邮件访问](/Intune/deploy-use/restrict-access-to-email-and-o365-services-with-microsoft-intune)
 - ConfigMgr：启用[电子邮件配置文件](https://technet.microsoft.com/library/dn554227.aspx)和[有条件电子邮件访问](https://technet.microsoft.com/library/dn919655.aspx)
 - Office 365 的 MDM：[移动设备管理功能](https://technet.microsoft.com/library/ms.o365.cc.devicepolicysupporteddevice.aspx)
 
-<!--HONumber=Jun16_HO1-->
+
+<!--HONumber=Jul16_HO1-->
 
 

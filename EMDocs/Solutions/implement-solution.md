@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 实现用于保护公司电子邮件和附件的解决方案
-description:
-keywords:
+title: "实现用于保护公司电子邮件和附件的解决方案"
+description: 
+keywords: 
 author: karthikaraman
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: edc744d8-97d9-42e0-8906-6f0dedd8d629
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
+ms.openlocfilehash: eec74f54e6e6265d53f62fdccead61bff9174503
+
 
 ---
 
@@ -46,8 +40,7 @@ ms.suite: ems
 
 -   **策略**：EMS 解决方案及其组件具有多个管理安全和访问权限的策略。 确定你的 IT 管理员需要配置何种策略。 保障电子邮件和电子邮件数据的访问安全时，用于研究和计划的三个主要策略是：
 
-    -   **设备合规性策略**：确定合规对你公司的意义。 Intune 包含你可以设定的多条规则，但所有这些规则可能适用也可能不适用于你的公司。 你可以随时更改策略，但最好
-        为贵公司确定一组基本的策略。 合规性策略主要针对 Intune 用户组和设备组。
+    -   **设备合规性策略**：确定合规对你公司的意义。 Intune 包含你可以设定的多条规则，但所有这些规则可能适用也可能不适用于你的公司。 你可以随时更改策略，但最好的做法是为你的公司确定一组基本的策略。 合规性策略主要针对 Intune 用户组和设备组。
 
     -   **条件访问策略**：条件访问策略主要针对 Azure AD 安全组。 确定策略针对哪些用户以及是否有需要免除的用户。 基于云的解决方案和混合实现均支持条件性访问。
 
@@ -104,6 +97,7 @@ ms.suite: ems
 - [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

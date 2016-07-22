@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 保护公司电子邮件和文档
-description:
-keywords:
+title: "保护公司电子邮件和文档"
+description: 
+keywords: 
 author: karthikaraman
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 78d8368e-1bfe-4ac4-991d-467321a76ed7
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer:
+ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
+ms.openlocfilehash: 5911fc980156316c3b2466dae78d72801bf08934
+
 
 ---
 
@@ -127,6 +121,7 @@ Azure AD 或 Exchange 无需复杂的体系结构设置即可实现此目标。 
 你已了解了保护企业电子邮件和文档的相关内容，现在可以阅读有关如何[保护电子邮件附件](protect-email-attachments.md)的详细信息。 或者，如果你已准备好了，则可详细了解如何[实现保护你的企业电子邮件的解决方案](implement-solution.md)。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

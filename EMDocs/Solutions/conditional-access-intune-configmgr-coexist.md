@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 将 Microsoft Intune 和 Configuration Manager 与 Exchange Online 中的条件访问结合使用
-description:
-keywords:
+title: "将 Microsoft Intune 和 Configuration Manager 与 Exchange Online 中的条件访问结合使用"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 5ccd033f-bc31-4fae-b6bf-9e1c2722627f
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
+ms.openlocfilehash: 2323ad99cdec31419c71c7dfc5133d3144806ecf
+
 
 ---
 
@@ -44,6 +38,7 @@ ms.suite: ems
 当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jun16_HO4-->
 
 

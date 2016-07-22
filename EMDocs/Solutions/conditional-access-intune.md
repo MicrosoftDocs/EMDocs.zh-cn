@@ -1,34 +1,27 @@
 ---
-# required metadata
-
-title: 结合使用条件访问和 Microsoft Intune
-description:
-keywords:
+title: "结合使用条件访问和 Microsoft Intune"
+description: 
+keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: 28662db2-faea-425f-ada9-04cf1d976fc2
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
 ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
+ms.openlocfilehash: 8968af180d2006465227853ccfd66ca673a2510c
+
 
 ---
 
 # 结合使用条件访问和 Microsoft Intune
 借助此解决方案，可根据你指定的条件使用 Intune 中的条件访问帮助确保电子邮件和其他服务的安全。
 
-有关如何通过 Intune 使用条件访问功能的详细信息，请参阅[通过 Microsoft Intune 限制对电子邮件和 O365 服务的访问](/intune/deployuse/restrict-access-to-email-and-o365-services-with-microsoft-intune)。
+有关如何通过 Intune 使用条件访问功能的详细信息，请参阅[通过 Microsoft Intune 限制对电子邮件和 O365 服务的访问](/intune/deploy-use/restrict-access-to-email-and-o365-services-with-microsoft-intune)。
 
 > [!TIP]
 > 可在 [TechNet 库](https://gallery.technet.microsoft.com/protect-company-data-and-8c5e08b4)中获取此完整主题的可下载副本。
@@ -104,6 +97,7 @@ Exchange 内部部署支持的条件访问：
   现在，你就可以了解如何[使用 Intune 部署本地 Exchange Server](conditional-access-intune-exchange.md)。
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jul16_HO2-->
 
 

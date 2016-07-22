@@ -1,27 +1,21 @@
 ---
-# required metadata
-
-title: 有关保护公司电子邮件和文档的体系结构指南
-description:
-keywords:
+title: "有关保护公司电子邮件和文档的体系结构指南"
+description: 
+keywords: 
 author: karthikaraman
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
-ms.prod:
-ms.service:
-ms.technology:
+ms.prod: 
+ms.service: 
+ms.technology: 
 ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer:
+ms.reviewer: 
 ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
+translationtype: Human Translation
+ms.sourcegitcommit: 60b9891fcf0e81bc0b5b2d0418a244af231bc8d2
+ms.openlocfilehash: a6cfc88ab59bf31eaeca2ad96327fb66ba23d44f
+
 
 ---
 
@@ -91,19 +85,20 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 - [详细了解如何部署用于保护公司电子邮件和文档的解决方案](learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)。
 
 此外，如果你希望了解有关 EMS 和 Azure Active Directory 的详细信息，你可以从以下这些文章中获取更多相关信息：
-- [EMS 体系结构](https://azure.microsoft.com/en-us/documentation/infographics/enterprise-mobility/)
+- [EMS 体系结构](https://azure.microsoft.com/documentation/infographics/enterprise-mobility/)
 
-- [Azure Active Directory 是什么](https://azure.microsoft.com/en-us/documentation/articles/active-directory-whatis/)
+- [Azure Active Directory 是什么](/active-directory/active-directory-whatis)
 
-- [Azure Active Directory 如何支持 Office 365、Microsoft Intune 和其他 Microsoft 服务？](https://azure.microsoft.com/en-us/documentation/articles/active-directory-administer/#what-is-an-azure-ad-tenant)
+- [Azure Active Directory 如何支持 Office 365、Microsoft Intune 和其他 Microsoft 服务？](/active-directory/active-directory-administer#what-is-an-azure-ad-tenant)
 
-- [Azure Active Directory 如何帮你管理标识](https://azure.microsoft.com/en-us/documentation/articles/active-directory-administer/)
+- [Azure Active Directory 如何帮你管理标识](/active-directory/active-directory-administer)
 
-- [Azure 权限管理是什么？](https://technet.microsoft.com/en-us/library/jj585026.aspx)
+- [Azure 权限管理是什么？](/rights-management/understand-explore/what-is-azure-rms)
 
-- [应用程序如何支持 Azure 权限管理](https://technet.microsoft.com/en-us/library/jj585004.aspx)
+- [应用程序如何支持 Azure 权限管理](/rights-management/understand-explore/applications-support)
 
 
-<!--HONumber=Apr16_HO4-->
+
+<!--HONumber=Jul16_HO1-->
 
 
