@@ -1,6 +1,6 @@
 ---
 title: "了解如何部署用于保护公司电子邮件和文档的解决方案"
-description: 
+description: "确定，然后部署公司用于强制实施条件访问的最佳解决方案。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,8 +13,8 @@ ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: c965f619511720175393f91ba49d019ba4bcff4f
-ms.openlocfilehash: 2dc585131b1897109afeb3ace9f8b9f6a245a313
+ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
+ms.openlocfilehash: 0d3d7352dc4d3628aed04378af99200aadebc3b2
 
 
 ---
@@ -70,6 +70,6 @@ Microsoft 企业移动性套件 (EMS) 通过跨四个层（标识、设备、应
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

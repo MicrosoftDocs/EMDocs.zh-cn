@@ -1,28 +1,25 @@
 ---
 asset_id: 961350ed-a3f1-44f1-b239-b46345b8f620
 layout: HubPage
-title: "企业移动性文档"
+title: "企业移动性文档 | Microsoft 文档"
 description: "Microsoft 企业移动性的技术文档"
-keywords: microsoft docs, enterprise mobility documentation, Learn enterprise mobility, enterprise mobility guide, enterprise mobility technical documentation
+keywords: "Microsoft 文档、企业移动性文档，了解企业移动性、企业移动性指南、企业移动性技术文档"
 author: msswadhwa
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: hubpage
-ms.prod: 
-ms.service: 
-ms.technology: 
 ms.suite: ems
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 translationtype: Human Translation
-ms.sourcegitcommit: 9bb6da88c988c5e7f4e85f27e8fbf4a8002ae1d0
-ms.openlocfilehash: 5b60e3ae1d62edd723120c2263936bf547e36a4f
+ms.sourcegitcommit: bc95bae4c85c0abde94f15e599e3d3e712f0d30a
+ms.openlocfilehash: 9a5db8decb1ae2d759aef0a71ff5598e1b85a4ba
 
 
 ---
-# Microsoft 企业移动性文章
+# 企业移动性文档
 <article id="main">
     <section id="hero-content" class="graph">
-        <h1>Microsoft 企业移动性文章</h1>
+        <h1>企业移动性文档</h1>
         <h2>欢迎使用 Microsoft 企业移动性的技术文档。 这些文档将帮助你了解并探索企业移动性中的解决方案和产品，助你服务入门以及计划你的实现。 你还可以找到有助于部署和使用服务、部署应用程序以及解决问题更深入的技术内容。</h2>
         <h3>对企业移动性还不熟悉？ <a href="http://go.microsoft.com/fwlink/?LinkId=816837" target="_blank">请访问 Microsoft 企业移动性页面 &rarr;</a></h3>
     </section>
@@ -36,12 +33,13 @@ ms.openlocfilehash: 5b60e3ae1d62edd723120c2263936bf547e36a4f
         <h2 class="section-heading"><span class="icon icon-lightbulb-checked"></span> 特色内容</h2>
         <div class="features row">
             <ul class="column-half">
+                <li><mark><b>新的</b></mark> <a href="./information-protection/what-is-information-protection.md">Azure 信息保护（预览版）</a></li>
                 <li><a href="/enterprise-mobility/solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems">EMS 的 FastTrack 权益</a></li>
                 <li><a href="/intune/understand-explore/introduction-to-microsoft-intune">什么是 Microsoft Intune？</a></li>
                 <li><a href="/advanced-threat-analytics/understand-explore/what-is-ata">什么是高级威胁分析？</a></li>
-                <li><a href="/active-directory/active-directory-whatis">什么是 Azure Active Directory？</a></li>
             </ul>
             <ul class="column-half">
+                <li><a href="/active-directory/active-directory-whatis">什么是 Azure Active Directory？</a></li>
                 <li><a href="/microsoft-identity-manager/understand-explore/microsoft-identity-manager-2016">什么是 Microsoft Identity Manager？</a></li>
                 <li><a href="/rights-management/understand-explore/what-is-azure-rms">Azure 权限管理是什么？</a></li>
                 <li><a href="https://www.microsoft.com/itshowcase/Article/Content/588/Mobile-device-management-at-Microsoft" target="_blank">Microsoft 中的移动设备管理</a></li>
@@ -155,7 +153,7 @@ ms.openlocfilehash: 5b60e3ae1d62edd723120c2263936bf547e36a4f
     </div>
     <div class="section-border">
         <section class="resources container">
-            <h2 class="section-heading"><span class="icon icon-note"></span> 方案 &amp; 指南</h2>
+            <h2 class="section-heading"><span class="icon icon-note"></span> 应用场景 &amp; 解决方案</h2>
             <div class="resource-list row">
                 <ul class="column-half">
                     <li><a href="/enterprise-mobility/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
@@ -165,6 +163,7 @@ ms.openlocfilehash: 5b60e3ae1d62edd723120c2263936bf547e36a4f
                 <ul class="column-half">
                     <li><a href="/enterprise-mobility/solutions/conditional-access-intune">使用 Intune 的条件访问</a></li>
                     <li><a href="/enterprise-mobility/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
+                    <li><a href="https://support.office.com/en-us/article/Plan-for-Office-365-security-and-information-protection-capabilities-3d4ac4a1-3920-4ff9-918f-011f3ce60408?ui=en-US&rs=en-US&ad=US">Office 365 安全和保护功能</a></li>
                 </ul>
             </div>
         </section>
@@ -180,6 +179,6 @@ ms.openlocfilehash: 5b60e3ae1d62edd723120c2263936bf547e36a4f
 
 
 
-<!--HONumber=Jun16_HO5-->
+<!--HONumber=Jul16_HO3-->
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Windows Phone 上的条件访问的最终用户体验"
-description: 
+description: "注册 Windows Phone 的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,15 +13,15 @@ ms.assetid: 906566e0-f05e-4af5-b4d5-0efb083dca76
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
-ms.openlocfilehash: 1527f382ab35dd47d1342eb6e320048f76d62e60
+ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
+ms.openlocfilehash: 880bdf44371ad59c4d1d0a619e941f1b8e926aa3
 
 
 ---
 
 # Windows Phone
 
-根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。  本主题描述 Windows Phones 的最终用户体验。
+根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。  本主题描述了注册 Windows Phone 的最终用户体验。
 
 ## 注册
 
@@ -101,6 +101,6 @@ ms.openlocfilehash: 1527f382ab35dd47d1342eb6e320048f76d62e60
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

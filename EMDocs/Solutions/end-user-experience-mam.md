@@ -1,6 +1,6 @@
 ---
 title: "MAM 的最终用户体验"
-description: 
+description: "移动应用管理策略的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,13 +13,13 @@ ms.assetid: bbc9f6ea-fc92-468d-bb5b-60c67949ca28
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 276a4ee6ceab6b39b9add2ea844cdf03f142a253
-ms.openlocfilehash: 4d1db666c95ef845802952369eb0d505ef4a3dd0
+ms.sourcegitcommit: 135aedbdd08ed6b98d8296c484168398f9a1d59e
+ms.openlocfilehash: 3fc1303f0db0a9db7d3d4d37c703e2d4ec168ecb
 
 
 ---
 
-# 移动访问管理策略的最终用户体验
+# 移动应用管理策略的最终用户体验
 仅当在工作环境中使用应用时，才应用 MAM 策略。 阅读以下示例方案，帮助你对用户进行培训，使其了解托管应用如何工作。
 
 本部分提供了以下最终用户体验的示例：
@@ -66,6 +66,6 @@ ms.openlocfilehash: 4d1db666c95ef845802952369eb0d505ef4a3dd0
 
 
 
-<!--HONumber=Jul16_HO1-->
+<!--HONumber=Jul16_HO3-->
 
 

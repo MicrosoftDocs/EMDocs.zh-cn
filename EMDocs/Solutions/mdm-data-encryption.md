@@ -1,10 +1,10 @@
 ---
-title: "制定事件响应要求"
-description: 
+title: "制定数据加密要求"
+description: "本主题有讨论对移动设备中的数据加密的设计注意事项。 本主题是有关移动设备管理设计注意事项的大型文章集的一部分。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 07/12/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,8 +13,8 @@ ms.assetid: 1072858e-dc0a-44ad-a512-d938f20310b6
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d43860e838a40de05bdec73b00b6721ee634d7e5
-ms.openlocfilehash: bfeb1fd4cceacf225093d3a5c2d808ebeb21c825
+ms.sourcegitcommit: 4993391889b87512cda6b9c170960b156c32e163
+ms.openlocfilehash: 3d80b531c02a4b2a85082d2070e20129d51eeeee
 
 
 ---
@@ -34,7 +34,8 @@ ms.openlocfilehash: bfeb1fd4cceacf225093d3a5c2d808ebeb21c825
 
 Windows 10 移动版使用基于 BitLocker 技术的设备加密来加密所有内部存储，包括操作系统和数据存储分区。 通过 MDM 工具，用户可以激活设备加密，或者 IT 部门可以激活并强制对公司管理的设备执行加密。 启用设备加密后，存储在手机上的所有数据都会自动进行加密。 启用了加密的 Windows 10 移动版设备有助于在设备丢失或被盗的情况下保护存储数据的保密性。 阅读 Windows 10 移动版安全指南，了解更多信息。
 
->[!TIP] 有关可以使用 ConfigMgr 启用加密的移动设备的详细信息，请阅读 [Configuration Manager 中的移动设备的合规性设置](https://technet.microsoft.com/library/dn376523.aspx)。
+>[!TIP] 
+> 有关可以使用 ConfigMgr 启用加密的移动设备的详细信息，请阅读 [Configuration Manager 中的移动设备的合规性设置](https://technet.microsoft.com/library/dn376523.aspx)。
 
 对于与 Intune 移动应用程序管理策略关联的应用，加密由 Microsoft 提供。 根据移动应用程序管理策略的设置，数据在文件 I/O 运行过程中同步加密。 在 Android 设备上，托管应用利用平台加密库（非 FIPS 140-2 认证）在加密块链接 (CBC) 模式下使用 AES-128 加密。 
 
@@ -81,6 +82,6 @@ Windows 10 移动版使用基于 BitLocker 技术的设备加密来加密所有�
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

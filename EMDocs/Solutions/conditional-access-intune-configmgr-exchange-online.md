@@ -1,6 +1,6 @@
 ---
 title: "将 Exchange Online、Microsoft Intune 和 Configuration Manager 与条件访问结合使用"
-description: 
+description: "使用 Configuration Manager、Exchange Online 和 Intune 来管理电子邮件访问和保护移动设备上的电子邮件数据。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,8 +13,8 @@ ms.assetid: 06921361-9475-46e6-9368-3cc44c84b22f
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
-ms.openlocfilehash: b2772f555ac064a286b084c1ef50ef5449083d90
+ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
+ms.openlocfilehash: e87f189128279a2f12da202dd0b9022a967fc5c2
 
 
 ---
@@ -150,6 +150,6 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

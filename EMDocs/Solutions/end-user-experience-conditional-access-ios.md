@@ -1,6 +1,6 @@
 ---
 title: "iOS 设备上的条件访问的最终用户体验"
-description: 
+description: "注册 iOS 设备的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,15 +13,15 @@ ms.assetid: 3c641ea8-2c0e-490e-b1de-831336f46d19
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
-ms.openlocfilehash: 6ff6f8c66e5b4ed838c72dd06f200118c6461cb0
+ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
+ms.openlocfilehash: 0c1731b9acc8dc6f959702d218a9e59ce70a4e6e
 
 
 ---
 
 # iOS
 
-根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。 本主题描述 iOS 设备的最终用户体验。
+根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。 本主题描述了注册 iOS 设备的最终用户体验。
 
 ## 注册
 
@@ -95,6 +95,6 @@ ms.openlocfilehash: 6ff6f8c66e5b4ed838c72dd06f200118c6461cb0
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

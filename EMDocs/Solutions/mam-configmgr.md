@@ -1,6 +1,6 @@
 ---
-title: "正在使用 Configuration Manager 中的移动应用程序管理策略"
-description: 
+title: "正在使用 Configuration Manager 中的移动应用管理策略"
+description: "使用移动应用管理 (MAM) 策略在 Configuration Manager 中创建并部署应用。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,20 +13,20 @@ ms.assetid: 74288276-84d3-4d24-8307-7875491be9c9
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 276a4ee6ceab6b39b9add2ea844cdf03f142a253
-ms.openlocfilehash: 48f0f43b925090aec2cf0585b1372f5c27d1bd5b
+ms.sourcegitcommit: 135aedbdd08ed6b98d8296c484168398f9a1d59e
+ms.openlocfilehash: abc605760bbe8b6bea886763f91f287ff6a92f15
 
 
 ---
 
-# 使用 Configuration Manager 中的移动应用程序管理策略
+# 使用 Configuration Manager 中的移动应用管理策略
 从 System Center 2012 Configuration Manager SP2 开始，应用程序管理策略可以修改部署的应用的功能，以使其符合公司的合规性策略和安全策略。 例如，您可以限制在受限制的应用内进行剪切、复制和粘贴操作，或配置应用以打开托管浏览器内的所有 Web 链接。 应用管理策略支持：
 
 - 运行 Android 4 和更高版本的设备。
 - 运行 iOS 7 和更高版本的设备。
 
 > [!TIP]
-> 除了托管设备，移动应用管理策略还可用于保护不由 Intune 管理的设备上的应用。 你可以使用这项新功能，为连接到 Office 365 服务的应用应用移动应用管理策略。 连接到内部部署 Exchange 或 SharePoint 的应用不支持此操作。
+> 除了托管设备，移动应用管理 (MAM) 策略还可用于保护不由 Intune 管理的设备上的应用。 你可以使用这项新功能，为连接到 Office 365 服务的应用应用移动应用管理策略。 连接到内部部署 Exchange 或 SharePoint 的应用不支持此操作。
 若要使用这项新功能，必须使用 Azure 门户。 下列主题可帮你入门：
 - [准备好使用 Microsoft Intune 配置移动应用管理策略](https://docs.microsoft.com/en-us/intune/deploy-use/get-ready-to-configure-mobile-app-management-policies-with-microsoft-intune)
 - [使用 Microsoft Intune 创建和部署移动应用管理策略](https://docs.microsoft.com/en-us/intune/deploy-use/create-and-deploy-mobile-app-management-policies-with-microsoft-intune)
@@ -38,12 +38,12 @@ ms.openlocfilehash: 48f0f43b925090aec2cf0585b1372f5c27d1bd5b
 - **使用策略托管应用**（Android 和 iOS）：内置应用 SDK。 要添加此类型的应用，你可以从 iTunes 应用商店或 Google Play 等应用商店指定应用的链接。 对于此类应用，无需进一步的处理。 有关可用于 iOS 和 Android 设备的策略托管应用的列表，请参阅 [Microsoft Intune移动应用程序库](https://www.microsoft.com/en-us/cloud-platform/microsoft-intune-partners)。
 - **使用“已包装的”应用**（Android 和 iOS）：使用 Microsoft Intune 应用包装工具重新进行封装以将应用 SDK 包括在内的应用。 该工具通常用于处理公司内部开发的应用。 它可用于处理从应用商店下载的应用。 请参阅[使用 Microsoft Intune 应用包装工具为移动应用程序管理准备 iOS 应用](https://docs.microsoft.com/en-us/intune/deploy-use/prepare-ios-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool)和[使用 Microsoft Intune 应用包装工具为移动应用程序管理准备 Android 应用](https://docs.microsoft.com/en-us/intune/deploy-use/prepare-android-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool)。
 
-## 创建和部署具有移动应用程序管理策略的应用
+## 使用移动应用管理策略在 Configuration Manager 中创建并部署应用
 
 - 步骤 1：获取指向策略托管应用的链接，或创建已包装的应用。
 - 步骤 2：创建包含应用的 Configuration Manager 应用程序。
-- 步骤 3：创建移动应用程序管理策略。
-- 步骤 4：将应用程序管理策略与部署类型相关联。
+- 步骤 3：创建移动应用管理策略。
+- 步骤 4：将应用管理策略与部署类型关联。
 - 步骤 5：监视应用部署。
 
 ### 步骤 1：获取指向策略托管应用的链接，或创建包装的应用。
@@ -63,7 +63,7 @@ ms.openlocfilehash: 48f0f43b925090aec2cf0585b1372f5c27d1bd5b
 
 新建策略后，它会显示在“软件库”工作区“应用程序管理策略”节点中。
 
-### 步骤 4：将应用程序管理策略与部署类型相关联。
+### 步骤 4：将应用管理策略与部署类型关联。
 在为某个需要应用程序管理策略的应用创建部署类型时，Configuration Manager 将在部署关联应用时确认应用管理策略必须已链接到此部署类型，并提示你关联应用管理策略。 对于托管浏览器，将需要关联常规和托管浏览器策略。 有关详细信息，请参阅[如何在 Configuration Manager 中针对移动设备创建和部署应用程序](https://technet.microsoft.com/en-us/library/dn469410.aspx)。
 
 > [!TIP]
@@ -73,7 +73,7 @@ ms.openlocfilehash: 48f0f43b925090aec2cf0585b1372f5c27d1bd5b
 
 
 ### 步骤 5：监视应用部署。
-创建并部署了与移动应用程序管理策略关联的应用后，可以[监视应用并解决任何策略冲突问题](https://technet.microsoft.com/en-us/library/mt131414.aspx?f=255&MSPPError=-2147217396#BKMK_Step5)。
+创建并部署了与 MAM 策略关联的应用后，可以[监视应用并解决任何策略冲突问题](https://technet.microsoft.com/en-us/library/mt131414.aspx?f=255&MSPPError=-2147217396#BKMK_Step5)。
 
 有关监视应用程序的常规信息，请参阅[如何在 Configuration Manager 中监视应用程序](https://technet.microsoft.com/en-us/library/gg682201.aspx)。
 
@@ -83,6 +83,6 @@ ms.openlocfilehash: 48f0f43b925090aec2cf0585b1372f5c27d1bd5b
 
 
 
-<!--HONumber=Jul16_HO1-->
+<!--HONumber=Jul16_HO3-->
 
 

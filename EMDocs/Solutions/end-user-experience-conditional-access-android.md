@@ -1,6 +1,6 @@
 ---
 title: "Android 设备上的条件访问的最终用户体验"
-description: 
+description: "注册 Android 设备的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,15 +13,15 @@ ms.assetid: 0b5e4330-6fa5-445c-b73e-86ce5b9c7964
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 5f1c98cc916bee9bb83249a16a52a5fdd3810142
-ms.openlocfilehash: 5efa0fd3567b3f91e0edcddae929bdb494f013da
+ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
+ms.openlocfilehash: 19ea25ed17121c8310024e0dcfd1b1a048486eca
 
 
 ---
 
 # Android
 
-根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。 本主题描述了 Android 设备的最终用户体验。
+根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。 本主题描述了注册 Android 设备的最终用户体验。
 
 ## 注册
 
@@ -107,6 +107,6 @@ ms.openlocfilehash: 5efa0fd3567b3f91e0edcddae929bdb494f013da
 
 
 
-<!--HONumber=Jun16_HO4-->
+<!--HONumber=Jul16_HO3-->
 
 

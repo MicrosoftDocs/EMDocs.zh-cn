@@ -1,6 +1,6 @@
 ---
-title: "在 Intune 中使用移动应用程序管理策略"
-description: 
+title: "在 Intune 中使用移动应用管理策略"
+description: "使用移动应用管理策略在 Intune 中创建和部署应用。"
 keywords: 
 author: craigcaseyMSFT
 manager: swadhwa
@@ -13,27 +13,27 @@ ms.assetid: 6d7c4104-b85f-407e-8832-0e6bbac934f5
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 276a4ee6ceab6b39b9add2ea844cdf03f142a253
-ms.openlocfilehash: 6e1c55e17c37c5e470c4b391cc8aea4ea777856f
+ms.sourcegitcommit: 135aedbdd08ed6b98d8296c484168398f9a1d59e
+ms.openlocfilehash: 6e1141ea69d92e0afcaa36f8b29d4d5000019769
 
 
 ---
 
-# 在 Intune 中使用移动应用程序管理策略
+# 在 Intune 中使用移动应用管理策略
 很多公司使用 Microsoft Intune 的一个主要原因是用它来部署用户完成其工作所需的应用。 在部署应用之前，你需要[管理你的设备](https://docs.microsoft.com/en-us/intune/deploy-use/enroll-devices-in-microsoft-intune)。
 
 例如，如果贵公司使用 Microsoft Word，则提供有 Windows、iOS、Android 等使用的版本。 作为 IT 管理员，你面临的挑战是在许多不同的设备和计算机平台上管理多个可用的应用，这样做的目的是允许用户完成其工作的同时仍能确保公司数据的安全性。
 
 如果要将 Intune 与 Configuration Manager 结合使用，请参阅[如何使用 Configuration Manager 中的移动应用程序管理策略控制应用](https://technet.microsoft.com/library/mt131414.aspx?f=255&MSPPError=-2147217396)。
 
-移动应用管理策略支持：
+移动应用管理 (MAM) 策略支持：
 - 运行 Android 4 和更高版本的设备。
 - 运行 iOS 7 和更高版本的设备。
 
 > [!NOTE]
-> 移动应用程序管理策略支持向 Intune 注册的设备。 有关如何为不受 Intune 管理的设备创建应用管理策略的信息，请参阅[通过 Microsoft Intune 使用移动应用管理策略保护应用数据](https://docs.microsoft.com/en-us/intune/deploy-use/protect-app-data-using-mobile-app-management-policies-with-microsoft-intune)。
+> MAM 策略支持已注册 Intune 的设备。 有关如何为不受 Intune 管理的设备创建应用管理策略的信息，请参阅[通过 Microsoft Intune 使用移动应用管理策略保护应用数据](https://docs.microsoft.com/en-us/intune/deploy-use/protect-app-data-using-mobile-app-management-policies-with-microsoft-intune)。
 
-与其他 Intune 策略不同，你不会直接部署移动应用程序管理策略。 而是将该策略与你想要进行限制的应用相关联。 当应用部署并安装在设备上时，你指定的设置将起作用。
+与其他 Intune 策略不同，你不会直接部署 MAM 策略。 而是将该策略与你想要进行限制的应用相关联。 当应用部署并安装在设备上时，你指定的设置将起作用。
 
 若要将限制应用到应用上，该应用必须包含 Microsoft Intune 应用软件开发工具包 (SDK)。 有两种方式获得此类应用：
 
@@ -51,12 +51,12 @@ ms.openlocfilehash: 6e1c55e17c37c5e470c4b391cc8aea4ea777856f
 
 Word、Excel 和 PowerPoint 也都支持多身份，除了仅在管理和编辑来自 OneDrive 或 SharePoint 等服务的企业身份数据时应用策略限制。
 
-## 创建和部署具有移动应用程序管理策略的应用
+## 使用移动应用管理策略在 Intune 中创建和部署应用
 
 - 步骤 1：获取指向策略托管应用的链接，或创建已包装的应用。
 - 步骤 2：将应用发布到你的云存储空间。
-- 步骤 3：创建移动应用程序管理策略。
-- 步骤 4：部署应用，选择将应用与移动应用程序管理策略相关联的选项。
+- 步骤 3：创建移动应用管理策略。
+- 步骤 4：选择将应用与移动应用管理策略相关联的选项，然后部署该应用。
 - 步骤 5：监视应用部署。
 
 ### 步骤 1：获取指向策略托管应用的链接，或创建已包装的应用
@@ -69,7 +69,7 @@ Word、Excel 和 PowerPoint 也都支持多身份，除了仅在管理和编辑�
 
 有关将应用上传到云存储空间所需的完整步骤，请参阅[在 Microsoft Intune 中为移动设备添加应用](https://docs.microsoft.com/en-us/intune/deploy-use/add-apps-for-mobile-devices-in-microsoft-intune#add-the-app)。
 
-### 步骤 3：创建移动应用程序管理策略
+### 步骤 3：创建移动应用管理策略
 Azure 门户是用于创建 MAM 策略的推荐管理控制台。 Azure 门户支持以下 MAM 方案：
 - 在 Intune 中注册的设备
 - 由第三方 MDM 解决方案管理的设备
@@ -83,7 +83,7 @@ Azure 门户是用于创建 MAM 策略的推荐管理控制台。 Azure 门户�
 ### 步骤 4：部署应用，选择将应用与移动应用程序管理策略相关联的选项
 如果你正在使用 Azure 门户，则[将 MAM 策略部署到用户](https://docs.microsoft.com/en-us/intune/deploy-use/create-and-deploy-mobile-app-management-policies-with-microsoft-intune#deploy-a-policy-to-users)。
 
-如果你正在使用 Intune 门户，则[部署该应用](https://docs.microsoft.com/en-us/intune/deploy-use/deploy-apps-in-microsoft-intune#deploy-an-app)，确保你选择移动应用管理页面上的移动应用程序管理策略，以关联策略与应用。
+如果你正在使用 Intune 门户，则[部署该应用](https://docs.microsoft.com/en-us/intune/deploy-use/deploy-apps-in-microsoft-intune#deploy-an-app)，确保你选择“移动应用管理”页面上的移动应用管理策略，以将其与应用关联。
 
 如果设备从 Intune 取消注册，策略也不会从应用中删除；任何应用了策略的应用都将保留策略设置，即使卸载应用并重新安装也将如此。
 
@@ -93,7 +93,7 @@ Azure 门户是用于创建 MAM 策略的推荐管理控制台。 Azure 门户�
 
 在这种情况下，必须要求用户手动卸载非托管的版本，才能安装所配置的托管版本。
 
-但是，对于运行 iOS 9 及更高版本的设备，Intune 将自动要求用户提供许可以接管现有应用。 如果用户同意，则应用将变为由 Intune 管理，并将应用与其关联的任何移动应用程序管理策略。
+但是，对于运行 iOS 9 及更高版本的设备，Intune 将自动要求用户提供许可以接管现有应用。 如果用户同意，则应用将由 Intune 管理，并将应用你为其关联的任何 MAM 策略。
 
 
 ### 步骤 5：通过 MAM 策略监视应用部署
@@ -103,9 +103,9 @@ Azure 门户是用于创建 MAM 策略的推荐管理控制台。 Azure 门户�
 2. 执行以下步骤之一：
   -  单击**“所有用户”**，然后双击你想要检查其设备的用户。 在“用户属性”页面，单击“设备”，然后双击你想要检查的设备。
   -  单击“所有设备”>“所有移动设备”。 在“设备组属性”页面，单击“设备”，然后双击你想要检查的设备。
-3. 从“移动设备属性”页面，单击“策略”以查看已部署到设备的移动应用程序管理策略列表。
-4. 选择你想要查看的移动应用程序管理策略的状态。 你可以在底部窗格查看策略详细信息，并展开其节点以显示其设置。
-5.  在各个移动应用程序管理策略的“状态”列下，将显示“符合”、“符合（待定）”或“错误”。 如果所选择的策略有一项或多项冲突设置，将会在该字段中显示“错误”。
+3. 从“移动设备属性”页面，单击“策略”以查看已部署到设备的 MAM 策略列表。
+4. 选择你想要查看其状态的 MAM 策略。 你可以在底部窗格查看策略详细信息，并展开其节点以显示其设置。
+5.  在各个 MAM 策略的“状态”列下，将显示“符合”、“符合（待定）”或“错误”。 如果所选择的策略有一项或多项冲突设置，将会在该字段中显示“错误”。
 6.  发现了冲突后，你可以将冲突策略设置修改为使用相同设置，或对应用和用户仅部署一个策略。
 
 > [!NOTE]
@@ -117,6 +117,6 @@ Azure 门户是用于创建 MAM 策略的推荐管理控制台。 Azure 门户�
 
 
 
-<!--HONumber=Jul16_HO1-->
+<!--HONumber=Jul16_HO3-->
 
 
