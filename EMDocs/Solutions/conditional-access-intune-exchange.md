@@ -1,5 +1,5 @@
 ---
-title: "将 Microsoft Intune 和本地 Exchange Server 与条件访问结合使用"
+title: "通过 Intune 和本地 Exchange Server 使用条件访问"
 description: "使用 Intune 解决方案进行 Exchange 内部部署。"
 keywords: 
 author: craigcaseyMSFT
@@ -13,8 +13,8 @@ ms.assetid: 2a64e898-4c60-48bf-ae14-b05e091e0533
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
-ms.openlocfilehash: b7f29e13b6d1533660cfe8f0708b8b8dfb8bd774
+ms.sourcegitcommit: 026e6701b635a3b05753404fd064fee5bf10147e
+ms.openlocfilehash: d68b1aa77ffb6bf8674c9b07529d91a20656f195
 
 
 ---
@@ -79,6 +79,6 @@ Exchange 内部部署的条件访问策略使用下面的流程来评估是允�
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Jul16_HO4-->
 
 
