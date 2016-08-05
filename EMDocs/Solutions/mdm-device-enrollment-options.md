@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 54082b94-1d21-44d5-9fba-af6e04397def
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
-ms.openlocfilehash: 90604329992f8ecb881ac1b83358af16de5b65cb
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 4d0f666d469a2cdd52e1d6eddc6125068a7ac7d8
 
 
 ---
@@ -45,6 +45,7 @@ Intune 独立版本需要配置为定义移动设备管理机构解决方案，�
 你的组织可能想要同时使用这两个注册方案，以便可以灵活地针对不同的部门或情况使用不同的方法。 如果是这样，你的移动设备管理解决方案必须能同时支持这两个方案。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c3d350b5-4437-4f3d-907f-57ce6a819a74
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
-ms.openlocfilehash: fed75819dbc13755b5ef28cbe3abe008d46c8473
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 53522cd43898e541f631b33fe4fd67faa49edfa3
 
 
 ---
@@ -84,6 +84,7 @@ ms.openlocfilehash: fed75819dbc13755b5ef28cbe3abe008d46c8473
 有关移动设备证书管理选项的详细信息，请参阅 Intune 中的[启用证书配置文件](/Intune/deploy-use/secure-resource-access-with-certificate-profiles)，并将这些要求和过程与 System Center 2012 R2 Configuration Manager 中的[启用证书配置文件](https://technet.microsoft.com/library/dn261202.aspx)的要求和过程进行比较。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: bc7cdb8f-3485-45ae-9493-f840ad9ed3ea
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
-ms.openlocfilehash: 675953e58a32e6c609380f10dd19008338a128c5
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 7bc4508d355b4e58b72ec5b654bb3afbce3bdb61
 
 
 ---
@@ -72,6 +72,7 @@ Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 - ConfigMgr：启用[无线](https://technet.microsoft.com/library/dn261221.aspx)和 [VPN](https://technet.microsoft.com/library/dn261217.aspx) 配置文件
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

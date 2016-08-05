@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: a25f7407-92a0-4588-b5f7-a7bad9cdd070
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: ef523f44cd9d51e59fc8d94bbb8d7aa388120945
-ms.openlocfilehash: 3393393abd35b0f61e371325c3e15f67123599f6
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: ab1b22de587165cc99d2789ab8e9d8013c01dbc8
 
 
 ---
@@ -96,6 +96,7 @@ ms.openlocfilehash: 3393393abd35b0f61e371325c3e15f67123599f6
 - 当前不支持托管的浏览器支持
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

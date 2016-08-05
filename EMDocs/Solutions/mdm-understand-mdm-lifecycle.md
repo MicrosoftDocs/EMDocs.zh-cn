@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 901b52bf-2340-4847-aaff-c94fec9ee925
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 73c37109735567642ff1dc11f9729e3ab3affd3b
-ms.openlocfilehash: 68a291a3b26d73f5300251e23bbd214378a5a312
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 050e5ee4615d020f23079aa69f6e07489495b5bb
 
 
 ---
@@ -139,6 +139,7 @@ ms.openlocfilehash: 68a291a3b26d73f5300251e23bbd214378a5a312
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

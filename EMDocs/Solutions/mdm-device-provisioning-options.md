@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 991cd722-089c-4e8c-80b9-b82e405cc891
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a16e90093c7571f3c098ce815a2b70ae03c080e3
-ms.openlocfilehash: 8185d89d5be464a902aa56f30f15cc6d8f59dff5
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 2fb0593746d48cbe3160d3a60cc6bf1f5a14bd5a
 
 
 ---
@@ -82,6 +82,7 @@ ms.openlocfilehash: 8185d89d5be464a902aa56f30f15cc6d8f59dff5
 有关移动设备注册和预配选项的详细信息，请务必查看在 Intune 中如何[启用移动设备注册](/Intune/deploy-use/enroll-devices-in-microsoft-intune)，并将这些要求和步骤与在 ConfigMgr 和 MDM for Office 365 中[启用移动设备注册](https://technet.microsoft.com/library/jj884158.aspx)的要求和步骤进行比较。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

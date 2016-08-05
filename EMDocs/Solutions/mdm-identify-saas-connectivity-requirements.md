@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 6afbce4c-7500-4387-a19c-dff52c152097
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 73c37109735567642ff1dc11f9729e3ab3affd3b
-ms.openlocfilehash: d5e660e87a80b7703a09214b1d1f07e41e8f5483
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 43bb12fca58764b6a69c5892d40af0b3ca87406c
 
 
 ---
@@ -73,6 +73,7 @@ ms.openlocfilehash: d5e660e87a80b7703a09214b1d1f07e41e8f5483
 - 对于具有 ConfigMgr 的组织，需要满足其他本地部署要求和配置更改。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

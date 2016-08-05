@@ -4,17 +4,17 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 07/07/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 50bd37fe-30b5-4a45-9c36-0b907dd13cc2
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
-ms.openlocfilehash: 64cd77f7930216f38786451b56037f49d97b095a
+ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
+ms.openlocfilehash: f1bfa11cd6b456a28858b1d41390a734b65ddb32
 
 
 ---
@@ -91,6 +91,7 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 若要了解如何在对每个移动设备平台进行选择性擦除后删除和保留数据，请务必阅读文章[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune)。 如果你有混合环境，请参考文章[如何使用 Configuration Manager 远程擦除移动设备](https://technet.microsoft.com/library/dn956981.aspx)以了解如何使用 ConfigMgr 完成此任务。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

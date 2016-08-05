@@ -4,17 +4,17 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 07/07/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: d02d3ec2-706a-4e03-977c-b7c06cbd4ebd
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
-ms.openlocfilehash: b4564a1f537a2c4f299bcedf986338f4a18b5f0c
+ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
+ms.openlocfilehash: b5961c63ed885f762efe63998dfce663e60442b4
 
 
 ---
@@ -54,6 +54,7 @@ ms.openlocfilehash: b4564a1f537a2c4f299bcedf986338f4a18b5f0c
 阅读 [Microsoft Online Services 隐私声明](http://www.microsoft.com/server-cloud/products/intune-trust-center/privacy.aspx)以更好地了解 Microsoft Cloud 服务（包括 Intune）如何维护用户隐私。
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 
