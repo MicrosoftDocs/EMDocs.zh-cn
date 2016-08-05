@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/31/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ab50bf43-0014-4d55-a52d-12e0428adc12
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 73c37109735567642ff1dc11f9729e3ab3affd3b
-ms.openlocfilehash: ee44a4de3b09d2380bcabaa0380f8e2968184b62
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: 15fee0b46fd81f80ec0d38772e8b98bddb68a19b
 
 
 ---
@@ -40,6 +40,7 @@ ms.openlocfilehash: ee44a4de3b09d2380bcabaa0380f8e2968184b62
 - [确定 SaaS 连接要求](mdm-identify-saas-connectivity-requirements.md)
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

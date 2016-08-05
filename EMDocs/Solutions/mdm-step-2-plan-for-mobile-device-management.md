@@ -4,17 +4,17 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 05/20/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 3cdc1318-50a2-4280-b051-1e009620816e
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 95eeb4decc5408d9f4f22cbb44f5bccc14968fb3
-ms.openlocfilehash: f5223794a8dbb9a9318de90965fd01bd3e98bcaf
+ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
+ms.openlocfilehash: efd0ef71e87e4d4359e44f4db0be60c3299c698e
 
 
 ---
@@ -43,6 +43,7 @@ ms.openlocfilehash: f5223794a8dbb9a9318de90965fd01bd3e98bcaf
 - [证书管理选项](mdm-certificate-management-options.md)
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Aug16_HO1-->
 
 

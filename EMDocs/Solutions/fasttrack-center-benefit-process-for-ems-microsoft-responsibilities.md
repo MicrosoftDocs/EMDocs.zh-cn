@@ -240,11 +240,11 @@ ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 请阅读有关 FastTrack 载入流程的下一部分：[客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)
 
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Aug16_HO1-->
 
 
