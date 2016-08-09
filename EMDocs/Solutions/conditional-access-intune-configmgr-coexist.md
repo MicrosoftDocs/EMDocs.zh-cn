@@ -13,8 +13,8 @@ ms.assetid: 5ccd033f-bc31-4fae-b6bf-9e1c2722627f
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 026e6701b635a3b05753404fd064fee5bf10147e
-ms.openlocfilehash: 8d1e7f6bf8d798dee570d970c30e98974f9bd5be
+ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
+ms.openlocfilehash: 9f783b0faf8da0beaffbfd2e5dd9d7bfcdc08ac2
 
 
 ---
@@ -29,7 +29,7 @@ ms.openlocfilehash: 8d1e7f6bf8d798dee570d970c30e98974f9bd5be
 ## 先决条件
 要配置实现本地 Exchange 和 Exchange Online 的混合类型的环境，你的现有 Exchange 组织必须满足特定要求。 如果不能满足这些要求，则你无法完成在 Microsoft Office 365 的本地 Exchange 组织和 Exchange Online 组织之间配置混合部署所需的步骤。
 
-请参阅 [混合部署先决条件](https://technet.microsoft.com/en-us/library/hh534377.aspx) 以查看创建和配置此类环境的要求。
+请参阅[混合部署先决条件](https://technet.microsoft.com/library/hh534377.aspx)以查看创建和配置此类环境的要求。
 
 ## 部署步骤
 若要部署共存解决方案，请按照上述步骤部署[本地 Exchange Server](conditional-access-intune-configmgr-exchange.md) 和 [Exchange Online](conditional-access-intune-configmgr-exchange-online.md) 解决方案。
@@ -39,6 +39,6 @@ ms.openlocfilehash: 8d1e7f6bf8d798dee570d970c30e98974f9bd5be
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 

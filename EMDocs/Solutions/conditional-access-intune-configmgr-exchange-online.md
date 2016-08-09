@@ -13,8 +13,8 @@ ms.assetid: 06921361-9475-46e6-9368-3cc44c84b22f
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 026e6701b635a3b05753404fd064fee5bf10147e
-ms.openlocfilehash: ba0f4a56a8802e15b77bfd41bd0c5e1dc6f7c0bf
+ms.sourcegitcommit: ed846db95330ad4e4ed8e9ad0a9eaeb1c7882b70
+ms.openlocfilehash: 39ad4388a0573d8529f6cbeeb2f7dbf47a1914ce
 
 
 ---
@@ -86,7 +86,7 @@ ms.openlocfilehash: ba0f4a56a8802e15b77bfd41bd0c5e1dc6f7c0bf
 请按照以下步骤来部署 Exchange Online 解决方案：
 
 ### 步骤 1：创建合规性策略，并部署到用户。
-合规性策略定义设备必须遵从的规则和设置，以便将设备视为符合条件访问策略。 请按照 [Configuration Manager 中的合规性策略](https://technet.microsoft.com/en-us/library/mt131417.aspx) 中的步骤创建合规性策略。
+合规性策略定义设备必须遵从的规则和设置，以便将设备视为符合条件访问策略。 请按照 [Configuration Manager 中的合规性策略](https://technet.microsoft.com/library/mt131417.aspx)中的步骤创建合规性策略。
 
 如果你希望在 iOS 设备不再属于公司之后，你能够从该设备中删除所有公司的电子邮件，那么你必须创建并部署电子邮件配置文件，然后设置合规性策略，该策略指定由 Intune 管理电子邮件配置文件。 你必须将电子邮件配置文件部署到此合规性策略针对的同一用户集。
 
@@ -97,7 +97,7 @@ ms.openlocfilehash: ba0f4a56a8802e15b77bfd41bd0c5e1dc6f7c0bf
 创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” 。
 
 ### 步骤 2：配置条件访问策略。
-首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中的针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/en-us/library/mt131421.aspx) 中的步骤为 Exchange Online 启用条件访问策略。
+首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中的针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/library/mt131421.aspx)中的步骤为 Exchange Online 启用条件访问策略。
 
 > [!NOTE]
 > 必须在 Intune 控制台中配置条件访问策略。 以下步骤从通过 Configuration Manager 访问 Intune 控制台开始。 如果出现提示，请使用在 Configuration Manager 与 Intune 之间设置连接器时的相同凭据登录。
@@ -106,16 +106,16 @@ ms.openlocfilehash: ba0f4a56a8802e15b77bfd41bd0c5e1dc6f7c0bf
 Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 > [!IMPORTANT]
-> 在安装 Exchange Server 连接器之前，请确认 Configuration Manager 支持你所使用的 Microsoft Exchange 的版本。 有关更多信息，请参阅 [Configuration Manager 支持的配置](https://technet.microsoft.com/en-us/library/gg682077.aspx)。
+> 在安装 Exchange Server 连接器之前，请确认 Configuration Manager 支持你所使用的 Microsoft Exchange 的版本。 有关详细信息，请参阅 [Configuration Manager 支持的配置](https://technet.microsoft.com/library/gg682077.aspx)。
 
-按照 [如何使用 Configuration Manager 和 Exchange 管理移动设备](https://technet.microsoft.com/en-us/library/gg682001.aspx) 中的步骤安装并配置 Exchange Server 连接器。
+按照[如何使用 Configuration Manager 和 Exchange 管理移动设备](https://technet.microsoft.com/library/gg682001.aspx)中的步骤安装并配置 Exchange Server 连接器。
 
 ## 验证步骤
 如果为此解决方案配置了可选的 Exchange Server 连接器，则可以使用 Configuration Manager 跟踪日志工具打开 EasDisc.log 文件（位于安装 Configuration Manager 的 Microsoft Configuration Manager/Logs 文件夹）。 在日志文件中搜索 "Exchange Connector" 以查找有关 Exchange Connector 是否正在运行以及连接的设备数量的信息。
 
 ![显示 EasDisc 日志文件在 Configuration Manager 跟踪日志工具中打开的屏幕截图](./media/ProtectEmail/Hybrid-Onprem-Eas-DiscLog-Sample.PNG)
 
-Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configuration Manager 工具包](https://www.microsoft.com/en-us/download/details.aspx?id=50012)中。
+Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configuration Manager 工具包](https://www.microsoft.com/download/details.aspx?id=50012)中。
 
 ## 报表
 如果配置了可选的 Exchange Server 连接器，则可以使用 Configuration Manager 控制台查看有关 Exchange Connector 已发现的设备的特定信息。 对于已实施条件访问的设备，你可以查看每个设备的当前状态、最后一次使用 Exchange Server 连接设备的时间等等。
@@ -150,6 +150,6 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 

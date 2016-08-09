@@ -13,8 +13,8 @@ ms.assetid: bbc9f6ea-fc92-468d-bb5b-60c67949ca28
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 135aedbdd08ed6b98d8296c484168398f9a1d59e
-ms.openlocfilehash: 3fc1303f0db0a9db7d3d4d37c703e2d4ec168ecb
+ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
+ms.openlocfilehash: 38a642c24e506d1528f0e79ad26fa77a50a4fed6
 
 
 ---
@@ -29,9 +29,9 @@ ms.openlocfilehash: 3fc1303f0db0a9db7d3d4d37c703e2d4ec168ecb
 
 有关其他特定的最终用户体验的信息，请参阅以下文章：
 
-- [使用具有多身份支持的应用](https://docs.microsoft.com/en-us/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#using-apps-with-multi-identity-support)
-- [管理用户帐户](https://docs.microsoft.com/en-us/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#managing-user-accounts)
-- [使用权限管理共享应用查看媒体文件](https://docs.microsoft.com/en-us/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#viewing-media-files-with-the-rights-management-sharing-app)
+- [使用具有多身份支持的应用](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#using-apps-with-multi-identity-support)
+- [管理用户帐户](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#managing-user-accounts)
+- [使用权限管理共享应用查看媒体文件](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#viewing-media-files-with-the-rights-management-sharing-app)
 
 ## 方案：在 iOS 设备上访问 OneDrive
 
@@ -62,10 +62,10 @@ ms.openlocfilehash: 3fc1303f0db0a9db7d3d4d37c703e2d4ec168ecb
 4.  设置并确认 PIN 后，用户即可继续使用 **OneDrive**，它现由应用策略托管。
 
 ## 后续步骤
-你可以阅读有关其他最终用户体验的更多信息，包括[使用具有多身份支持的应用](https://docs.microsoft.com/en-us/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#using-apps-with-multi-identity-support)、[管理用户帐户](https://docs.microsoft.com/en-us/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#managing-user-accounts)以及[通过 Rights Management 共享应用查看媒体文件](https://docs.microsoft.com/en-us/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#viewing-media-files-with-the-rights-management-sharing-app)。
+你可以阅读有关其他最终用户体验的详细信息，包括[使用具有多身份支持的应用](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#using-apps-with-multi-identity-support)、[管理用户帐户](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#managing-user-accounts)以及[通过 Rights Management 共享应用查看媒体文件](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#viewing-media-files-with-the-rights-management-sharing-app)。
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Aug16_HO1-->
 
 

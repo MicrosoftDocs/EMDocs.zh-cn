@@ -4,17 +4,17 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 8/1/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ba8cc256-2075-457f-a827-7ec9213c5235
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: f752f75206cb37cbe565e44a00f20fcdad13ddb5
-ms.openlocfilehash: 91deaf9d02b27182353cbe511ff86a01582dc60a
+ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
+ms.openlocfilehash: 20a93c06b30fddf42f464a9a30b784c8aa4d7a33
 
 
 ---
@@ -54,7 +54,7 @@ ms.openlocfilehash: 91deaf9d02b27182353cbe511ff86a01582dc60a
 
 如果公司选择支持不同类型的设备，你需要了解设备的功能，例如存储加密、VPN 连接选项以及受支持的编程语言。 评估可通过实现哪些功能来遵守公司策略。 可以通过强制执行策略来监视设备以满足符合性。 当数据存放在用户的设备中时，请考虑启用设备加密；这可以在你的数据泄露策略中提供帮助。 强制实施策略（例如密码解锁、密码历史记录和强密码）可以跨本地设备和移动设备实现类似的安全性。
 
-Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器、便携式计算机、台式计算机和移动设备的配置和符合性。 请考虑使用 Configuration Manager 中针对移动设备内置的默认符合性设置作为基准，并在此基础上根据贵公司的需求进行自定义。 有关 Configuration Manager 中的符合性设置的详细信息，请参阅 [Configuration Manager 中的符合性设置简介](https://technet.microsoft.com/en-us/library/gg682139.aspx)。
+Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器、便携式计算机、台式计算机和移动设备的配置和符合性。 请考虑使用 Configuration Manager 中针对移动设备内置的默认符合性设置作为基准，并在此基础上根据贵公司的需求进行自定义。 有关 Configuration Manager 中的符合性设置的详细信息，请参阅 [Configuration Manager 中的符合性设置简介](https://technet.microsoft.com/library/gg682139.aspx)。
 
 通过使用 Windows 选择性擦除，IT 可以确保企业分散在公司或个人设备上的公司数据的安全。 开发人员可以创建应用以对数据使用 Windows 选择性擦除策略，并在企业拥有的 Internet 域上对其进行保护。 有关 Windows 选择性擦除的详细信息，请参阅“用于设备数据管理的 Windows 选择性擦除”。
 
@@ -178,7 +178,7 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 
 该方面的挑战之一是：要能够管理不同的平台并保留一个集中的管理界面，该界面使 IT 能够快速识别本地和云中连接的设备。 你必须考虑采用可整合这两者（本地和云）的管理平台，还要考虑采用能够管理 Windows 和非 Windows 系统的管理平台。
 
-若要在本地进行集中式管理，你可以使用 Configuration Manager 。 通过使用此选项，IT 可利用企业注册功能在公司的 Configuration Manager 服务器上注册设备。 有关如何使用 Configuration Manager 管理设备的详细信息，请参阅[使用 Configuration Manager 和 Microsoft Intune 管理移动设备](https://technet.microsoft.com/en-us/library/jj884158.aspx)。
+若要在本地进行集中式管理，你可以使用 Configuration Manager 。 通过使用此选项，IT 可利用企业注册功能在公司的 Configuration Manager 服务器上注册设备。 有关如何使用 Configuration Manager 管理设备的详细信息，请参阅[使用 Configuration Manager 和 Microsoft Intune 管理移动设备](https://technet.microsoft.com/library/jj884158.aspx)。
 
 若要管理不是基于 Windows 设备的其他平台，你可以利用 Microsoft Intune 云服务。 Microsoft Intune 公司门户可以用于注册、管理和安装已授权的应用。 用户可以轻松访问应用，并将它们安装在自己的设备上。 
 
@@ -197,6 +197,6 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Aug16_HO1-->
 
 

@@ -13,8 +13,8 @@ ms.assetid: 56b6cd2d-3dea-468b-9f1c-92717c9ec5f5
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 026e6701b635a3b05753404fd064fee5bf10147e
-ms.openlocfilehash: 7cb50027c7bde353f2df24b2b13b93259aee7b78
+ms.sourcegitcommit: ed846db95330ad4e4ed8e9ad0a9eaeb1c7882b70
+ms.openlocfilehash: 88acc7bbdb2651db89623f167a0f7cec5c277bd6
 
 
 ---
@@ -98,15 +98,15 @@ ms.openlocfilehash: 7cb50027c7bde353f2df24b2b13b93259aee7b78
 请按照以下步骤来部署本地 Exchange 解决方案：
 
 ### 步骤 1：确保安装了 Intune Connector 角色。
-确保已安装 Intune Connector 角色，以便 Configuration Manager 可以与 Intune 进行交互。 有关更多信息，请参阅 [使用 Configuration Manager 和 Intune 管理移动设备](https://technet.microsoft.com/en-us/library/JJ884158.aspx) 。
+确保已安装 Intune Connector 角色，以便 Configuration Manager 可以与 Intune 进行交互。 有关详细信息，请参阅[使用 Configuration Manager 和 Intune 管理移动设备](https://technet.microsoft.com/library/JJ884158.aspx)。
 
 ### 步骤 2：安装和配置 Exchange Server 连接器。
 Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 > [!IMPORTANT]
-> 在安装 Exchange Server 连接器之前，请确认 Configuration Manager 支持你所使用的 Microsoft Exchange 的版本。 有关更多信息，请参阅 [Configuration Manager 支持的配置](https://technet.microsoft.com/en-us/library/gg682077.aspx)。
+> 在安装 Exchange Server 连接器之前，请确认 Configuration Manager 支持你所使用的 Microsoft Exchange 的版本。 有关详细信息，请参阅 [Configuration Manager 支持的配置](https://technet.microsoft.com/library/gg682077.aspx)。
 
-按照 [如何使用 Configuration Manager 和 Exchange 管理移动设备](https://technet.microsoft.com/en-us/library/gg682001.aspx) 中的步骤安装并配置 Exchange Server 连接器。
+按照[如何使用 Configuration Manager 和 Exchange 管理移动设备](https://technet.microsoft.com/library/gg682001.aspx)中的步骤安装并配置 Exchange Server 连接器。
 
 ### 步骤 3：运行完全同步来发现用户。
 
@@ -125,10 +125,10 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 ### 步骤 4：创建用户集合
 确定条件访问策略将要针对的 Intune 用户组。 然后，创建要在条件访问策略中包括或排除的用户组的用户集合。 你可以在以后实施条件访问时指定这些组。
 
-请按照 [如何在 Configuration Manager 中创建集合](https://technet.microsoft.com/en-us/library/gg712295.aspx) 的步骤创建用户集合。
+请按照[如何在 Configuration Manager 中创建集合](https://technet.microsoft.com/library/gg712295.aspx)的步骤创建用户集合。
 
 ### 步骤 5：创建合规性策略，并部署到用户。
-合规性策略定义设备必须遵从的规则和设置，以便将设备视为符合条件访问策略。 请按照 [Configuration Manager 中的合规性策略](https://technet.microsoft.com/en-us/library/mt131417.aspx) 中的步骤创建合规性策略。
+合规性策略定义设备必须遵从的规则和设置，以便将设备视为符合条件访问策略。 请按照 [Configuration Manager 中的合规性策略](https://technet.microsoft.com/library/mt131417.aspx)中的步骤创建合规性策略。
 
 如果你希望在 iOS 设备不再属于公司之后，你能够从该设备中删除所有公司的电子邮件，那么你必须创建并部署电子邮件配置文件，然后设置合规性策略，该策略指定由 Intune 管理电子邮件配置文件。 你必须将电子邮件配置文件部署到此合规性策略针对的同一用户集。
 
@@ -139,7 +139,7 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” 。
 
 ### 步骤 6：配置条件访问策略。
-首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/en-us/library/mt131421.aspx)中的步骤为本地 Exchange 配置条件访问策略。
+首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/library/mt131421.aspx)中的步骤为本地 Exchange 配置条件访问策略。
 
 ### 步骤 7：监视注册情况并实施条件访问。
 如果 Intune 中已经注册大量符合条件访问的用户，则你可以开始实施条件访问，方法是每天向大约 500 个用户推出条件访问。 对于 70,000 个用户，这将需要花费大约 4 到 5 个月的时间，并且你需要解决在未限制太多用户在同一时间访问电子邮件的情况下可能产生的任何问题。
@@ -151,7 +151,7 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 ![显示 EasDisc 日志文件在 Configuration Manager 跟踪日志工具中打开的屏幕截图](./media/ProtectEmail/Hybrid-Onprem-Eas-DiscLog-Sample.PNG)
 
-Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configuration Manager 工具包](http://www.microsoft.com/en-us/download/details.aspx?id=50012)中。
+Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configuration Manager 工具包](http://www.microsoft.com/download/details.aspx?id=50012)中。
 
 ## 报表
 可以使用 Configuration Manager 控制台以查看有关 Exchange Connector 已发现的设备的特定信息。 对于已实施条件访问的设备，你可以查看每个设备的当前状态、最后一次使用 Exchange Server 连接设备的时间等等。
@@ -186,6 +186,6 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 

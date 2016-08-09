@@ -13,8 +13,8 @@ ms.assetid: 78d8368e-1bfe-4ac4-991d-467321a76ed7
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 7c389de59d0ca6b33fbd4d872cb77236930d55bf
-ms.openlocfilehash: a9a58e85db02196a5214573f91575d1d64b15b7b
+ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
+ms.openlocfilehash: cc6844a9329cafd14d7902ec1d677c5bea685b86
 
 
 ---
@@ -74,7 +74,7 @@ EMS 和 Office 365 的不同组件构建用于在云中运行。 这带来了云
 
 -   注册 Intune
 
--   注册 [Azure Active Directory](https://msdn.microsoft.com/en-us/6a14cb1f-a058-4453-8ede-d9f4a66a7073.aspx)，并且
+-   注册 [Azure Active Directory](https://msdn.microsoft.com/6a14cb1f-a058-4453-8ede-d9f4a66a7073.aspx)，并且
 
 -   符合 IT 管理员设置的设备策略。
 
@@ -122,6 +122,6 @@ Azure AD 或 Exchange 无需复杂的体系结构设置即可实现此目标。 
 
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Aug16_HO1-->
 
 
