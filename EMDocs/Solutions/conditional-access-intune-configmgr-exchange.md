@@ -7,14 +7,14 @@ manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 56b6cd2d-3dea-468b-9f1c-92717c9ec5f5
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: ed846db95330ad4e4ed8e9ad0a9eaeb1c7882b70
-ms.openlocfilehash: 88acc7bbdb2651db89623f167a0f7cec5c277bd6
+ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
+ms.openlocfilehash: 1fbda5ec4bf589dc888d4b63a6b5da659e8d1c17
 
 
 ---
@@ -186,6 +186,6 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Sep16_HO1-->
 
 
