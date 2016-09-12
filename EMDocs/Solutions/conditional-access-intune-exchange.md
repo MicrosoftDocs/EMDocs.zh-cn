@@ -7,14 +7,14 @@ manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2a64e898-4c60-48bf-ae14-b05e091e0533
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 026e6701b635a3b05753404fd064fee5bf10147e
-ms.openlocfilehash: d68b1aa77ffb6bf8674c9b07529d91a20656f195
+ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
+ms.openlocfilehash: d5771b3b16e26eb909d507641eec46285e328ed6
 
 
 ---
@@ -79,6 +79,6 @@ Exchange 内部部署的条件访问策略使用下面的流程来评估是允�
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Sep16_HO1-->
 
 

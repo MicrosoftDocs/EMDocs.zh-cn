@@ -7,14 +7,14 @@ manager: swadhwa
 ms.date: 05/12/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: bbc9f6ea-fc92-468d-bb5b-60c67949ca28
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
-ms.openlocfilehash: 38a642c24e506d1528f0e79ad26fa77a50a4fed6
+ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
+ms.openlocfilehash: 3c1fa5aac308beb3710fa52ae99efa389a0d5465
 
 
 ---
@@ -66,6 +66,6 @@ ms.openlocfilehash: 38a642c24e506d1528f0e79ad26fa77a50a4fed6
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Sep16_HO1-->
 
 
