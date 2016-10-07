@@ -4,17 +4,18 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 6afbce4c-7500-4387-a19c-dff52c152097
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
-ms.openlocfilehash: 43bb12fca58764b6a69c5892d40af0b3ca87406c
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: 5fecc1493f447e507324da3f6a201377e39aee4e
 
 
 ---
@@ -69,11 +70,11 @@ ms.openlocfilehash: 43bb12fca58764b6a69c5892d40af0b3ca87406c
 
 **缺点**
 
-- 对于尚未配置当前 ConfigMgr 基础结构的组织，需要在与 Intune 集成之前进行规划、安装和配置
+- 对于尚未配置当前 ConfigMgr 基础结构的组织，将需要在与 Intune 集成前进行规划、安装和配置
 - 对于具有 ConfigMgr 的组织，需要满足其他本地部署要求和配置更改。
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 
