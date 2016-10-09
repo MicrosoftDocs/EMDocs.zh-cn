@@ -7,6 +7,11 @@
 #### [阶段](fasttrack-center-benefit-process-for-ems-phases.md)
 #### [Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
 #### [客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
+### [如何设置其他安全性验证的首选方式](fasttrack-how-to-enroll-in-mfa.md)
+### [如何管理密码](fasttrack-how-to-manage-your-password.md)
+### [IT 管理员最终用户 Intune 注册说明](fasttrack-intune-enduser-enrollment-instructions.md)
+### [如何使用具有多身份标识支持的应用](fasttrack-how-to-use-apps-with-multi-identity-support.md)
+### [如何使用组织管理的移动应用](fasttrack-how-to-work-with-managed-apps.md)
 ## [BYOD 设计指南](byod-design-considerations-guide.md)
 ### [构想基础结构解决方案](byod-envisioning-the-byod-infrastructure-solution.md)
 #### [用户和设备要求](byod-user-device-reqs.md)
@@ -75,6 +80,6 @@
 ### [MAM 用户体验](end-user-experience-MAM.md)
 
 
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Sep16_HO4-->
 
 
