@@ -4,17 +4,18 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 6f9fd9b3-492b-48e1-871c-e5abefe1293a
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: 5013c939b6060d8098e5015834682e60fe9be2b3
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: f229cc98f311f1cc65f86040f48884732a2fcde8
 
 
 ---
@@ -47,6 +48,6 @@ ms.openlocfilehash: 5013c939b6060d8098e5015834682e60fe9be2b3
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 
