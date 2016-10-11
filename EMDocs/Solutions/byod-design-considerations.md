@@ -4,17 +4,18 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 639dfd46-33ea-4cfd-918d-f3d8e57645ed
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: da1a3088b8c7d7488c0a666ab64c65b23c2fe317
+ms.sourcegitcommit: e410d3fd320660186b6d21853af3172062f90eda
+ms.openlocfilehash: a9fc81c8e6d53f4ad457bf70e576a608d046cca8
 
 
 ---
@@ -45,7 +46,7 @@ ms.openlocfilehash: da1a3088b8c7d7488c0a666ab64c65b23c2fe317
 - Active Directory 联合身份验证服务 (AD FS)
 - 动态访问控制
 - Microsoft 权限管理服务
-- Azure Rights Management 
+- Azure 信息保护 
 - SMB 加密
 - 单一登录(SSO)
 - 工作文件夹
@@ -82,6 +83,6 @@ ms.openlocfilehash: da1a3088b8c7d7488c0a666ab64c65b23c2fe317
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

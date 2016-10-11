@@ -4,17 +4,18 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 54082b94-1d21-44d5-9fba-af6e04397def
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
-ms.openlocfilehash: 4d0f666d469a2cdd52e1d6eddc6125068a7ac7d8
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: 9b4956f7a4e48bebbbc41fdef050198a06e53525
 
 
 ---
@@ -46,6 +47,6 @@ Intune 独立版本需要配置为定义移动设备管理机构解决方案，�
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

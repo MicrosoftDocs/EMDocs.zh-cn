@@ -4,17 +4,18 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 26b15471-b496-4404-934d-67e621655bca
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
-ms.openlocfilehash: 4414f62c756ff8eff323005168e6e2bced3e6260
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: 329bb692d300aa700e9f84b88c216c7d66952dba
 
 
 ---
@@ -79,6 +80,6 @@ ms.openlocfilehash: 4414f62c756ff8eff323005168e6e2bced3e6260
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

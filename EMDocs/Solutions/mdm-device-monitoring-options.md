@@ -4,17 +4,18 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 23cfc12a-fa96-4fb3-8de1-af4569e8cb71
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
-ms.openlocfilehash: 01ff94c002f1ff3ebea49f91469ceca5bc71242a
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: c34d0000d723594ab46917ae9baedc3e56ebbb48
 
 
 ---
@@ -54,12 +55,12 @@ ms.openlocfilehash: 01ff94c002f1ff3ebea49f91469ceca5bc71242a
 - 可以查看任何托管设备的状态
 - 提供关于不符合 IT 策略的设备的报表
 - 可以监视以下方面的详细信息：
- - System (系统)
+ - 系统
  - 操作系统
  - 存储
  - Exchange ActiveSync
  - 系统机箱
- - Network (网络)
+ - 网络
  - 服务
 
 **缺点**
@@ -101,6 +102,6 @@ ms.openlocfilehash: 01ff94c002f1ff3ebea49f91469ceca5bc71242a
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

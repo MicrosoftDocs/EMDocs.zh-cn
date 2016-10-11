@@ -11,8 +11,8 @@ ms.topic: hubpage
 ms.suite: ems
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 translationtype: Human Translation
-ms.sourcegitcommit: d36908f56ada888e6b6b987ca3c160f85e3c44a8
-ms.openlocfilehash: 705c0dcf6541095ccc7df7207e62280da0411b82
+ms.sourcegitcommit: e6fdd88632bfe1bb1a04f73923273709eaf54559
+ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
 
 
 ---
@@ -33,7 +33,7 @@ ms.openlocfilehash: 705c0dcf6541095ccc7df7207e62280da0411b82
         <h2 class="section-heading"><span class="icon icon-lightbulb-checked"></span> 特色内容</h2>
         <div class="features row">
             <ul class="column-half">
-                <li><mark><b>全新 </b></mark> <a href="/rights-management/information-protection/what-is-information-protection">Azure 信息保护（预览版）</a></li>
+                <li><mark><b>全新</b></mark> <a href="/information-protection/">通用版本：Azure 信息保护</a></li>
                 <li><a href="/enterprise-mobility/solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems">EMS 的 FastTrack 权益</a></li>
                 <li><a href="/intune/understand-explore/introduction-to-microsoft-intune">什么是 Microsoft Intune？</a></li>
                 <li><a href="/advanced-threat-analytics/understand-explore/what-is-ata">什么是高级威胁分析？</a></li>
@@ -115,7 +115,7 @@ ms.openlocfilehash: 705c0dcf6541095ccc7df7207e62280da0411b82
                         <ul class="row">
                             <li class="column column-third">
                                 <a href="/rights-management/">
-                                <h3>Azure Rights Management</h3>
+                                <h3>Azure 权限管理</h3>
                                 <p>保护你的信息免遭未经授权的访问，并控制信息的使用方式。</p>
                                 </a>
                             </li>
@@ -179,6 +179,6 @@ ms.openlocfilehash: 705c0dcf6541095ccc7df7207e62280da0411b82
 
 
 
-<!--HONumber=Jul16_HO4-->
+<!--HONumber=Sep16_HO4-->
 
 

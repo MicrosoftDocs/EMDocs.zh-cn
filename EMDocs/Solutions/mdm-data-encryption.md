@@ -4,17 +4,18 @@ description: "本主题有讨论对移动设备中的数据加密的设计注意
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 1072858e-dc0a-44ad-a512-d938f20310b6
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: b7eb90860a5277766c4ab7841dc378b4197ee872
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: 4f892c4b9269b40ee4931aef4baf499e08b5f5c5
 
 
 ---
@@ -82,6 +83,6 @@ Windows 10 移动版使用基于 BitLocker 技术的设备加密来加密所有�
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 
