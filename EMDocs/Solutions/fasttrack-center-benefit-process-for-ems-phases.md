@@ -1,10 +1,10 @@
 ---
-title: "企业移动性套件的 FastTrack 中心权益流程 – 阶段"
+title: "载入和迁移阶段"
 description: 
 keywords: 
 author: staciebarker
-manager: jeffgilb
-ms.date: 04/28/2016
+manager: angrobe
+ms.date: 10/02/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -14,31 +14,29 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
-ms.openlocfilehash: 7f89f613d40daf3472685d0bce12767f35ee65c8
+ms.sourcegitcommit: 4edfa04ab1ecf371e207497d74aa4c1e2366d7a9
+ms.openlocfilehash: 9a41384fc4c7706c715b7c79d2dfd8e42f1d0a5d
 
 
 ---
 
-# 企业移动性套件的 FastTrack 中心权益流程 – 阶段
-当你使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，该流程涉及几个阶段。 以下各部分描述了载入流程的每个阶段。
+# 载入和迁移阶段
+当使用[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)以使 Azure Active Directory Premium 和/或 Microsoft Intune 可供使用时，该流程涉及几个阶段。 以下各部分描述了载入流程的每个阶段。
 
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+载入包含以下几个主要阶段：
 
-
-载入有 4 个主要阶段，如下图中所示：
-
-
-![FastTrack 载入流程的四个阶段](./media/ft-2-onboarding-phases.png)
+![FastTrack 载入流程的四个阶段](./media/ft-onboarding-benefit.png)
 
 
 ## 启动阶段
 
-购买适当数量的许可证后，请按照购买确认电子邮件中的指南将许可证与现有的租户或新租户相关联。 Microsoft 将验证你的 FastTrack 中心权益资格，并且将尝试与你联系来提供载入协助。 如果你已准备好在你的组织中部署这些服务，你还可以通过 [FastTrack 中心](http://fasttrack.microsoft.com/) 请求协助。 若要请求协助，请登录到 [FastTrack 中心](http://fasttrack.microsoft.com/) (http://fasttrack.microsoft.com)，转到面板，单击“产品/服务”选项卡，然后单击“请求 Microsoft Intune、Azure Active Directory Premium 或 Azure 权限管理高级版协助”。 启动载入支持之后，我们将为联机会议设置一个日程安排。
+购买适当数量的许可证后，请按照购买确认电子邮件中的指南将许可证与现有的租户或新租户相关联。 Microsoft 将验证你的 FastTrack 中心权益资格，并且将尝试与你联系来提供载入协助。 如果你已准备好在你的组织中部署这些服务，你还可以通过 [FastTrack 中心](http://fasttrack.microsoft.com/) 请求协助。
+
+若要请求协助，请利用你的工作或学校帐户登录到 [FastTrack 中心](http://fasttrack.microsoft.com/) (http://fasttrack.microsoft.com)，单击公司（如有需要则添加它），单击“服务”选项卡，然后单击“请求 Microsoft Intune 或 Azure Active Directory Premium 协助”。 启动载入支持之后，我们将为联机会议设置一个日程安排。
 
 在此阶段，我们将讨论载入流程，验证数据并设置启动会议。
 
-![载入启动阶段](./media/ft-3-initiate-phase.png)
+![载入启动阶段](./media/ft-initiate-phase.png)
 
 ## 评估阶段
 
@@ -48,12 +46,12 @@ Microsoft 还将与你联系，提供有关如何推动成功采用符合条件�
 
 根据你的当前设置，我们将提供一个修正计划，将你的源环境调整至满足成功载入到 EMS 或其单独的云服务的最低要求。 在修正阶段，我们还会设置相应的检查点调用。
 
-![载入评估阶段](./media/ft-4-assess-phase.png)
+![载入评估阶段](./media/ft-assess-phase.png)
 
 ## 修正阶段
 如果需要，你将针对源环境执行修正计划中的相关任务，以便满足载入和采用每项服务的要求。
 
-![载入修正阶段](./media/ft-5-remediate-phase.png)
+![载入修正阶段](./media/ft-remediate-phase.png)
 
 在开始启用阶段之前，我们将共同验证修正活动的结果以确保您可以继续后续操作。
 
@@ -62,31 +60,45 @@ Microsoft 还将与你联系，提供有关如何推动成功采用符合条件�
 
 **启用阶段 - 核心功能**
 
-核心载入涉及服务设置以及租户和标识集成。 还包括提供载入联机服务（如 Azure Active Directory Premium、Microsoft Intune 和 Azure 权限管理高级版）的基础的步骤。
+核心载入涉及服务设置以及租户和标识集成。 它还包括提供载入联机服务（如 Azure Active Directory Premium 和 Microsoft Intune）的基础的步骤。
 
-![载入启用阶段 - 核心功能](./media/ft-6-enable-phase-core.png)
+![载入启用阶段 - 核心功能](./media/ft-enable-phase-core-01.png)
 
-###启用阶段 – Azure Active Directory Premium
+![载入启用阶段 - 核心功能](./media/ft-enable-phase-core-02.png)
+
+### 启用阶段 – Azure Active Directory Premium
 
 根据需要，可以使用 Azure Active Directory Connect 目录同步工具和 Active Directory 联合身份验证服务 (AD FS) 设置 Azure Active Directory Premium 环境。
 
-对于包括将本地标识同步到云的 Azure Active Directory Premium 方案，我们将帮助你向你的订阅添加 IT 管理员和用户、配置管理先决条件、设置 Azure Active Directory Premium、使用 Azure Active Directory Connect 工具设置目录同步、使用 Azure Active Directory Connect 工具设置 Active Directory 联合身份验证服务 (AD FS)、配置测试用户以及验证服务的核心用例。
+对于包括将本地标识同步到云的 Azure Active Directory Premium 方案，我们将帮助你向订阅添加 IT 管理员和用户、配置管理先决条件、设置 Azure Active Directory Premium、使用 Azure Active Directory Connect 工具设置目录同步和 Active Directory 联合身份验证服务 (AD FS)、配置测试用户以及验证服务的核心用例。
 
 Azure Active Directory Premium 设置包括启用以下功能：
 
--   自助服务密码重置 (SSPR)
+-   自助服务密码重置 (SSPR)。
 
--   Azure Multi-Factor Authentication (MFA)
+-   Azure 多重身份验证 (Azure MFA)。
 
--   服务型软件 (SaaS) 应用程序 – 从 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中设置一个 SaaS 应用程序
+-   一个服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)的单一登录 (SSO) 的集成。
 
--   自助服务组管理 (SSGM)
+-   自定义的登录屏幕（包括徽标、文本和图像）。
 
--   管理报表
+-   自助服务和动态组（组）。
 
-![载入启用阶段 - AADP](./media/ft-7-enable-phase-aadp.png)
+-   Azure Active Directory 应用程序代理。
 
-###启用阶段 – Microsoft Intune
+-   Azure Active Directory Connect Health。
+
+-   标识保护。
+
+-   特权标识管理。
+
+-   发至管理员的使用情况和阿娜全报告。
+
+-   管理性通知和警报。
+
+![载入启用阶段 - AADP](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
+
+### 启用阶段 – Microsoft Intune
 
 对于 Microsoft Intune，根据你的移动设备和移动应用程序管理需求，我们将指导你准备好使用 Microsoft Intune 来管理设备。 具体步骤根据您的源环境而定，可能包括：
 
@@ -103,7 +115,7 @@ Azure Active Directory Premium 设置包括启用以下功能：
     -   如果拥有 System Center Configuration Manager 的现有实施，且想要使用 Microsoft Intune 扩展其管理功能，则将 Configuration Manager 设置为你的 MDM 机构。
 
         > [!NOTE]
-        > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
+        > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
 
 -   如果移动设备管理在你的作用域中，我们将提供以下方面的指导：
 
@@ -139,34 +151,15 @@ Azure Active Directory Premium 设置包括启用以下功能：
 
 Microsoft 还将与你联系，提供有关如何推动成功采用符合条件的服务的指导。
 
-![载入启用阶段 - Intune](./media/ft-8-enable-phase-intune.png)
+![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mam.png)
 
-###启用阶段 – Azure 权限管理高级版
+![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-根据需要，可以使用 Azure Active Directory Connect 目录同步和 Active Directory 联合身份验证服务 (AD FS) 设置 Azure 权限管理高级版环境。
+**了解更多信息？**
 
-对于包括将本地标识同步到云的 AzRMS 方案，我们将帮助你向你的订阅添加 IT 管理员和用户、配置管理先决条件、设置 Azure 权限管理高级版、使用 Azure Active Directory Connect 工具设置目录同步、使用 Azure Active Directory Connect 设置 Active Directory 联合身份验证服务、配置测试用户以及验证服务的核心用例。
-
-AzRMS 设置包括启用以下功能：
-
--   AzRMS 服务支持
-
--   Exchange Online 和 Sharepoint Online 的 IRM 配置
-
--   使用本地 Exchange 和本地 Sharepoint 的权限管理连接器
-
--   Windows 和非 Windows 设备的 RMS 共享应用程序
-
-![载入启用阶段 - Azure RMS](./media/ft-7-enable-phase-aadp.png)
-
-请阅读有关 FastTrack 载入流程的下一部分：[Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
-
-### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
+[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 
-
-
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Oct16_HO1-->
 
 

@@ -4,17 +4,18 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: ecb6271f-8f38-42bd-aae7-10ba5e17a5f1
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: affb004f69e50d7c41ede6d29355fbb991949ebd
+ms.sourcegitcommit: e410d3fd320660186b6d21853af3172062f90eda
+ms.openlocfilehash: 64fff538f7e0a8ace6c38404a9bde3c20e87eb9a
 
 
 ---
@@ -29,7 +30,7 @@ ms.openlocfilehash: affb004f69e50d7c41ede6d29355fbb991949ebd
 
 - 使用户能够灵活地使用他们自己的设备来访问企业应用和数据。
 - 管理从本地和云访问公司资源的设备。
-- 通过使用加密和版权管理防止未经授权的本地访问，使 IT 部门能够保护存储在设备上的数据，并且能够在设备丢失或停用，或者员工离职时，通过 Internet 远程擦除公司数据。
+- 通过使用加密和信息保护防止未经授权的本地访问，使 IT 部门能够保护存储在设备上的数据，并且能够在设备丢失或停用，或者员工离职时，通过 Internet 远程擦除公司数据。
 - 当用户从本地和云访问资源时为其提供通用标识。
 - 使 IT 部门能够管理多个标识，并使信息在不同的环境之间保持同步。
 - 支持企业身份验证服务，例如多重身份验证和单一登录。
@@ -53,6 +54,6 @@ ms.openlocfilehash: affb004f69e50d7c41ede6d29355fbb991949ebd
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

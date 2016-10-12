@@ -4,17 +4,18 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 181eb917-119d-4e56-8ead-1182b1dc5cab
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: 878f20d5fa1e1180f149bf8b2865ae719cf61352
+ms.sourcegitcommit: e410d3fd320660186b6d21853af3172062f90eda
+ms.openlocfilehash: 696374bf33144ef29b7143414035f761786bd4e9
 
 
 ---
@@ -32,7 +33,7 @@ ms.openlocfilehash: 878f20d5fa1e1180f149bf8b2865ae719cf61352
 
 如果你将存储视为内容的容器，则保护对该内容的消耗将带来很大的价值。 通过强制执行那些影响最终用户对存储中内容的使用方式的策略，可以防止数据泄露。 可使用 [Active Directory Rights Management Services (AD RMS)](https://technet.microsoft.com/library/hh831554.aspx) 通过保护使用信息权限管理 (IRM) 的文档来加强贵组织的安全策略。 AD RMS 允许个人和管理员通过 IRM 策略指定对文档、工作簿和演示文稿的访问权限。 这就有助于防止敏感信息被未经授权的人打印、转发或复制。 在使用 IRM 限制对文件的权限之后，无论信息在什么位置都会强制执行访问和使用限制，因为对文件的权限存储在该文件自身中。
 
-如果贵公司想要使用基于云的解决方案执行文件保护，那么还可以使用 [Azure 权限管理](https://technet.microsoft.com/library/jj585026.aspx)。 Azure 权限管理使用加密、标识和授权策略来帮助保护文件和电子邮件，使公司的敏感信息得到保护，它可以在多种设备（手机、平板电脑和电脑）中运行。 可以保护组织内外的信息，因为该保护保留在数据中，即使数据离开了组织的边界，也是如此。 
+如果公司想要使用基于云的解决方案执行文件保护，那么还可以使用 [Azure 信息保护](/information-protection/understand-explore/what-is-information-protection)。 Azure 信息保护使用加密、标识和授权策略来帮助保护文件和电子邮件，使公司的敏感信息得到保护，它可以在多种设备（手机、平板电脑和 PC）中运行。 可以保护组织内外的信息，因为该保护保留在数据中，即使数据离开了组织的边界，也是如此。 
 
 Windows 操作系统中可用的其他存储技术还可用于增强对数据的总体保护，例如，用于驱动器加密的 BitLocker 和用于文件加密的[加密文件系统 (EFS)](https://technet.microsoft.com/library/cc700811.aspx)。 使用下表查看存储保护的优缺点。 请记住，这些选项并不相互排斥。 换言之，你的设计决策可能推断出你在 BYOD 基础架构解决方案中需要以下所有选项来进行存储保护。
 
@@ -70,7 +71,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
         - 可以使用组策略为每位用户或每个设备启用该选项
         - 可与 Microsoft Intune 集成，这允许你选择性地擦除用户设备上位于工作文件夹中的数据
         - 可以强制用户在重新进行身份验证之后，才能访问工作文件夹中的数据
-        - 支持与 Microsoft 权限管理服务集成以进行数据分类
+        - 支持与 Microsoft 信息保护服务集成以进行数据分类
     - 缺点
         - 仅适用于 Windows 8.1、Windows RT 8.1 和 Windows 10
         - 需要利用 Windows Server 2012 R2 托管同步共享
@@ -250,6 +251,6 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

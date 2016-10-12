@@ -4,17 +4,18 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 991cd722-089c-4e8c-80b9-b82e405cc891
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0b77c2b49180c3871a1885d8faa232b412bac384
-ms.openlocfilehash: 2fb0593746d48cbe3160d3a60cc6bf1f5a14bd5a
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: 9a92d3822f8791d2095f434cdf3e67582e329cae
 
 
 ---
@@ -32,7 +33,7 @@ ms.openlocfilehash: 2fb0593746d48cbe3160d3a60cc6bf1f5a14bd5a
 
 1. 通过 <token>Windows Server 2012 R2，引入了名为设备注册的新概念。  用户可以使用工作区加入注册其设备以用于单一登录和访问企业数据。  作为此注册过程的一部分，将在设备上安装证书。 在用户已注册其设备并了解设备管理解决方案后，用户可以获得对原先仅在加入域的电脑上使用的企业资源的访问权限。
 2. 用户可[使用公司门户](/Intune/deploy-use/enroll-devices-in-microsoft-intune)通过 Intune 对要配置以供管理的设备进行注册，之后利用 Microsoft Intune 公司门户不仅可以轻松访问企业应用程序、数据，还能管理他们自己的设备，并在设备丢失、被盗或更换时执行诸如远程擦除等任务。
-3. 根据设备感知（即设备是否已注册）和用户标识，你可以通过 Windows Server 2012 R2 中名为 [Web 应用程序代理](https://technet.microsoft.com/library/dn584107.aspx)的内置功能发布企业资源的访问权限。 如果你正在使用企业移动性套件，你还可以发布使用 Azure AD 应用程序代理的应用程序。 多重身份验证可通过 [Azure Active 身份验证](https://azure.microsoft.com/documentation/articles/multi-factor-authentication-get-started-cloud/)进行使用。
+3. 根据设备感知（即设备是否已注册）和用户标识，你可以通过 Windows Server 2012 R2 中名为 [Web 应用程序代理](https://technet.microsoft.com/library/dn584107.aspx)的内置功能发布企业资源的访问权限。 如果你正使用企业移动性 + 安全性，还可使用 Azure AD 应用程序代理发布应用程序。 多重身份验证可通过 [Azure Active 身份验证](https://azure.microsoft.com/documentation/articles/multi-factor-authentication-get-started-cloud/)进行使用。
 4. 为了向管理员提供整个环境的统一视图，Intune 中的数据将与在本地和云中提供统一管理的 ConfigMgr 同步。
 5. 作为注册过程的一部分，将在 Active Directory 中创建一个新的设备对象。  此设备对象用于在用户与其设备之间建立链接、将此链接告知设备管理解决方案，并允许对设备进行身份验证，从而有效形成无缝双重身份验证。
 
@@ -83,6 +84,6 @@ ms.openlocfilehash: 2fb0593746d48cbe3160d3a60cc6bf1f5a14bd5a
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

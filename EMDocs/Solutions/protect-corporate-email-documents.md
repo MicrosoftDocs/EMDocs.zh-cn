@@ -13,8 +13,8 @@ ms.assetid: 78d8368e-1bfe-4ac4-991d-467321a76ed7
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
-ms.openlocfilehash: cc6844a9329cafd14d7902ec1d677c5bea685b86
+ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
+ms.openlocfilehash: b3a0ce1b7a7465ca29888b4d332ede6b5a604fd6
 
 
 ---
@@ -44,7 +44,7 @@ ms.openlocfilehash: cc6844a9329cafd14d7902ec1d677c5bea685b86
 ## 高级最终用户体验
 实现解决方案之后，最终用户将只能在托管且合规的设备上访问公司电子邮件。 一旦他们能够在设备上访问电子邮件，公司数据便受到保护并且包含在应用生态系统内，只能由预期用户使用。 如果设备不合规，则可以随时撤消访问权限。
 
-具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 权限管理服务可以用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验更详细的描述，请参阅[条件访问的最终用户体验](end-user-experience-conditional-access.md)。
+具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 信息保护可用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验更详细的描述，请参阅[条件访问的最终用户体验](end-user-experience-conditional-access.md)。
 
 
 观看 [这段](https://www.youtube.com/watch?feature=player_embedded&v=lYx3YIezccg) 四分钟的视频，了解条件性访问会如何影响最终用户。
@@ -122,6 +122,6 @@ Azure AD 或 Exchange 无需复杂的体系结构设置即可实现此目标。 
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

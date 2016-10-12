@@ -13,14 +13,14 @@ ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
-ms.openlocfilehash: 13bb743a1300a51d305f1ee1857b14b73ca0a4df
+ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
+ms.openlocfilehash: c50f47066794b411e272b74828cd6f707b96caec
 
 
 ---
 
 # 有关保护公司电子邮件和文档的体系结构指南
-本主题首先概述了如何在确保最终用户体验简单且不影响工作效率的同时，为公司提供数据保护。 然后，我们将专门重点介绍如何使用 Microsoft 企业移动性套件解决方案，帮助提供对公司电子邮件的安全访问，以及帮助保护电子邮件和附件中的公司数据。
+本主题首先概述了如何在确保最终用户体验简单且不影响工作效率的同时，为公司提供数据保护。 然后，我们将专门重点介绍如何使用 Microsoft 企业移动性 + 安全性解决方案，帮助提供对公司电子邮件的安全访问，以及帮助保护电子邮件和附件中的公司数据。
 
 本节讨论用于保护公司电子邮件和文档的体系结构。 有关部署解决方案的指南，请参阅[详细了解如何部署用于保护公司电子邮件和文档的解决方案](learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)。
 
@@ -46,11 +46,11 @@ ms.openlocfilehash: 13bb743a1300a51d305f1ee1857b14b73ca0a4df
 由于最终用户想要使用自己的个人设备处理公司事务，且电子邮件是最常访问的应用程序，IT 部门的第一步是确保最终用户可以在其自己的设备上访问公司电子邮件，同时确保邮件中的敏感数据不会被泄露。
 
 ## 概述
-Microsoft 推出了企业移动性套件 (EMS)，这是用于识别身份、管理移动设备、管理应用和保护数据的全面解决方案。 EMS 提供分层的安全模型，可让你的 IT 部门管理几乎任何设备对电子邮件、数据和企业应用程序的访问。
+Microsoft 推出了企业移动性 + 安全性 (EMS)，这是用于识别身份、管理移动设备、管理应用和保护数据的全面解决方案。 EMS 提供分层的安全模型，可让你的 IT 部门管理几乎任何设备对电子邮件、数据和企业应用程序的访问。
 
 EMS 由以下云服务组成：
 
-![显示 EMS 所含云服务的图形：Microsoft Azure AD Premium、Microsoft Intune 和 Microsoft Azure 权限管理](./media/ProtectEmail/Enterprise-Mobility-Suite.png)
+![显示 EMS 所含云服务的图形：Microsoft Azure AD Premium、Microsoft Intune 和 Microsoft Azure 信息保护](./media/ProtectEmail/Enterprise-Mobility-Suite.png)
 
 使用 EMS 可从企业网络内外保护数据：
 
@@ -75,7 +75,7 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 
 第三层是采用由 Intune 托管的应用生态系统的**应用管理层**。 利用这个生态系统，用户可以提高工作效率并使用他们所需和所知的工具（如 Office），同时你的 IT 部门可以确保托管应用生态系统中的敏感数据不会泄露。
 
-*Azure 权限管理 (Azure RMS)* 是安全模型的第四层，此层在文件级别对数据进行保护。 应用于数据的安全策略与数据一起传送、帮助保护传输中和未使用数据的安全，不受访问数据的设备影响。 这是安全模型的**数据层**。
+*Azure 信息保护（原 Azure RMS）*在安全模型的文件级别对数据进行保护。 应用于数据的安全策略与数据一起传送、帮助保护传输中和未使用数据的安全，不受访问数据的设备影响。 这是安全模型的**数据层**。
 
 ## 后续步骤
 - [观看](https://www.youtube.com/watch?v=ltcZvm4VOFU) 这段视频，了解如何注册试用帐户并开始使用。
@@ -93,12 +93,12 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 
 - [Azure Active Directory 如何帮你管理标识](/active-directory/active-directory-administer)
 
-- [Azure 权限管理是什么？](/rights-management/understand-explore/what-is-azure-rms)
+- [什么是 Azure 信息保护？](/information-protection/understand-explore/what-is-azure-rms)
 
-- [应用程序如何支持 Azure 权限管理](/rights-management/understand-explore/applications-support)
+- [应用程序如何支持 Azure 信息保护](/information-protection/understand-explore/applications-support)
 
 
 
-<!--HONumber=Sep16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 
