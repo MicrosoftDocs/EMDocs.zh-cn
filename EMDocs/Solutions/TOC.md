@@ -32,7 +32,7 @@
 #### [了解 MDM 的生命周期](mdm-understand-mdm-lifecycle.md)
 #### [收集监视要求](mdm-gather-monitoring-requirements.md)
 #### [确定网络要求](mdm-determine-network-requirements.md)
-#### [设备注册选项](mdm-device-enrollment-options.md)
+### [设备注册选项](mdm-device-enrollment-options.md)
 #### [设备设置选项](mdm-device-provisioning-options.md)
 #### [设备管理选项](mdm-device-management-options.md)
 #### [应用程序管理选项](mdm-application-management-options.md)
@@ -78,8 +78,10 @@
 ### [带 Intune 的 MAM](MAM-intune.md)
 ### [带 Configuration Manager 的 MAM](MAM-configmgr.md)
 ### [MAM 用户体验](end-user-experience-MAM.md)
+## [下载 EMS 附带的软件许可证](subscription-might-include-downloadable-software.md)
+## [EMS 支持常见问题](ems-support-faq.md)
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Oct16_HO1-->
 
 
