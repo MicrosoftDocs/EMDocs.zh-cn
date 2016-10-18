@@ -2,12 +2,12 @@
   href: /
   homepage: /
   items:
-  - name: "企业移动性"
-    href: /enterprise-mobility/
-    homepage: /enterprise-mobility
+  - name: "企业移动性 + 安全性"
+    href: /enterprise-mobility-security/
+    homepage: /enterprise-mobility-security
     items:
     - name: "解决方案"
-      href: /enterprise-mobility/solutions/
+      href: /enterprise-mobility-security/solutions/
       homepage: /enterprise-mobility/solutions/byod-design-considerations-guide
     - name: "Azure RemoteApp"
       href: /remoteapp/
@@ -147,24 +147,24 @@
       href: /sccm/
       homepage: /sccm
       items:
-        - name: "核心基础结构指南"
+        - name: "核心基础结构"
           href: /sccm/core/
           homepage: /sccm/core/understand/introduction
-        - name: "应用程序管理指南"
+        - name: "应用程序管理"
           href: /sccm/apps/
           homepage: /sccm/apps/understand/get-started-with-application-management
-        - name: "设备合规性性指南"
+        - name: "设备符合性"
           href: /sccm/compliance/
           homepage: /sccm/compliance/understand/ensure-device-compliance
-        - name: "移动设备管理指南"
+        - name: "移动设备管理"
           href: /sccm/mdm/
           homepage: /sccm/mdm/understand/whats-new-in-hybrid-mobile-device-management
-        - name: "操作系统部署指南"
+        - name: "操作系统部署"
           href: /sccm/osd/
           homepage: /sccm/osd/understand/introduction-to-operating-system-deployment
-        - name: "保护数据和基础结构指南"
+        - name: "保护数据和基础结构"
           href: /sccm/protect/
           homepage: /sccm/protect/understand/protect-data-and-site-infrastructure
-        - name: "软件更新管理指南"
+        - name: "软件更新管理"
           href: /sccm/sum/
           homepage: /sccm/sum/understand/software-updates-introduction

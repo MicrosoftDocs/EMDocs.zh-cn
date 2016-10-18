@@ -13,8 +13,8 @@ ms.assetid: a1e630c1-7190-4ba9-b71d-ed9c2e93a6cc
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
-ms.openlocfilehash: 3a3631e454323226958b2f1db003883d1ace562e
+ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
+ms.openlocfilehash: f00fa25e5e0b03c098f78e4d5f1be0957cdea24f
 
 
 ---
@@ -34,7 +34,7 @@ ms.openlocfilehash: 3a3631e454323226958b2f1db003883d1ace562e
 
 -   选择性地仅擦除与托管应用相关的数据。 当设备丢失、被盗或不再由 IT 管理时，选择性擦除可以删除应用中的所有公司数据，仅保留个人应用数据。 这称为多身份。
 
-利用 [Azure Rights Management Services](https://docs.microsoft.com/rights-management/understand-explore/what-is-azure-rms)，你可以通过以下方式扩展电子邮件保护：
+利用 [Azure 信息保护](https://docs.microsoft.com/information-protection/understand-explore/what-is-azure-rms)，可通过以下方式扩展电子邮件保护：
 
 -   可以对电子邮件加密，这样无论在公司内部或外部，仅有符合规定的用户才可以读取或查看邮件内容。
 
@@ -71,6 +71,6 @@ IT 管理员创建移动应用程序管理策略、将策略关联至应用，�
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

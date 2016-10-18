@@ -1,10 +1,10 @@
 ---
-title: "企业移动性套件的 FastTrack 中心权益流程 – Microsoft 的职责"
+title: "Microsoft 职责"
 description: 
 keywords: 
 author: staciebarker
-manager: jeffgilb
-ms.date: 07/07/2016
+manager: angrobe
+ms.date: 10/02/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -14,17 +14,15 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 1e23cdad577738a72b6dc8423a5ba6cf7af29bfb
-ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
+ms.sourcegitcommit: 323bdb56b3d81eb6a63e266899427672abf79da4
+ms.openlocfilehash: 777236784c06eeea2e62bcb77b2ceabc5d31b14a
 
 
 ---
 
-# 企业移动性套件的 FastTrack 中心权益流程 – Microsoft 的职责
-以下各部分描述了当你的组织使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，你可以预期 Microsoft 所能提供的结果。
+# Microsoft 职责
 
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
-
+在载入期间 Microsof 具有下列职责。
 
 ## 常规
 
@@ -115,12 +113,12 @@ ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 
     -   配置本地 Active Directory 林和 Microsoft Azure Active Directory Premium 目录 (Azure Active Directory) 之间的同步。
 
-        > [!NOTE] 
+        > [!NOTE]
         > 自定义规则扩展的开发和实现不在讨论范围内。
 
--   对于目标为联合标识的单林：根据需要安装并配置 Active Directory 联合身份验证服务 (AD FS)，以在单个站点、容错配置中使用 Microsoft Azure AD Premium 对本地域进行身份验证。
+-   对于目标为联合标识的单林：根据需要安装并配置 Active Directory 联合身份验证服务 (AD FS)，以在单个站点、容错配置中使用 Microsoft Azure Active Directory Premium 对本地域进行身份验证。
 
-    > [!NOTE] 
+    > [!NOTE]
     > 对于多林配置，AD FS 部署不在讨论范围内。
 
 -   如果已部署单一登录 (SSO)，请测试其功能。
@@ -133,24 +131,28 @@ ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 
 -   Azure Active Directory Connect 目录同步（使用密码写回和密码哈希同步）。
 
--   Active Directory 联合身份验证服务 (AD FS)。
+  - 自助服务密码重置 (SSPR)。
 
-- 自助服务密码重置 (SSPR)。
+  - Azure 多重身份验证(MFA)。
 
-- Azure Multi-Factor Authentication (MFA)。
+  - 一个服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)的单一登录 (SSO) 的集成。
 
-- 一个集成应用程序，可以包括针对 SaaS 应用程序的单一登录。
+  - 自定义的登录屏幕（包括徽标、文本和图像）。
 
-- 发至管理员的使用情况和阿娜全报告。
+  - 自助服务和动态组（组）。
 
-- 自助服务组管理 (SSGM)。
+  - Azure Active Directory 应用程序代理。
 
-- 应用程序代理。
+  - Azure Active Directory Connect Health。
 
-- 管理员通知。
+  - 标识保护。
 
-- 自定义的登录屏幕（包括徽标、文本和图像）。
- 
+  - 特权标识管理。
+
+  - 发至管理员的使用情况和阿娜全报告。
+
+  - 管理性通知和警报。
+
 ### 启用阶段 – Microsoft Intune
 提供以下方面的指导：
 
@@ -166,8 +168,8 @@ ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 
     -   如果拥有 System Center Configuration Manager 的现有实施，且想要使用 Microsoft Intune 扩展其管理功能，则将 Configuration Manager 设置为你的 MDM 机构。
 
-        > [!NOTE] 
-        > 如果只希望对最终用户拥有的设备、共享或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
+        > [!NOTE]
+        > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用移动应用程序管理，则不需要设置 MDM 机构。
 
 -   如果移动设备管理在你的作用域中，我们将提供以下方面的指导：
 
@@ -183,7 +185,7 @@ ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 
         -   设置 Microsoft Intune Exchange Connector（如果适用）。
 
-    -   将每个支持平台的最多两个测试设备注册到你的 Microsoft Intune 或带 Microsoft Intune 服务的 Configuration Manager。
+    -   将每个受支持平台的设备注册到你的 Microsoft Intune 或带 Microsoft Intune 服务的 Configuration Manager。
 
     -   使用硬件和软件清单报告。
 
@@ -203,48 +205,11 @@ ms.openlocfilehash: 5aa145639d7f38beb0a9b684cd70227edccccf42
 
     -   使用 Intune 中可用的软件和硬件报告。
 
-### 启用阶段 – Azure 权限管理高级版
+**了解更多信息？**
 
-提供以下方面的指导：
-
--   激活 Azure RMS 租户。
-
--   添加其他信息安全管理员以管理模板。
-
--   将超级用户帐户分配到 Azure RMS。
-
--   为 Azure RMS 许可两个试验用户。
-
--   配置两个测试通讯组以验证策略。
-
--   为你的目录配置一个自定义的 Azure RMS 模板。
-
--   提供指南以设置 SharePoint Online 和 Exchange Online 与 Azure RMS 的集成，其中包括：
-
-    -   配置和验证 Exchange Online 与 Azure RMS 的集成。
-
-    -   设置一个测试邮件流规则，以对发送给你组织外部的收件人的敏感邮件进行加密。
-
-    -   配置和验证要使用 Azure RMS 进行保护的一个测试库的 SharePoint Online 保护。
-
--   适当时，使用 RMS 连接器配置一台本地服务器：
-
-    -   配置和验证本地 Exchange 2013/2010 与 Azure RMS 的集成。
-
-    -   设置一个测试邮件流规则，以使用连接器对发送给你组织外部的收件人的敏感邮件进行加密。
-
-    -   配置和验证要使用 Azure RMS 进行保护的一个测试库的本地 SharePoint 2013/2010 保护。
-
--   为 Windows 和非 Windows 设备设置 RMS 共享应用程序。
-
-请阅读有关 FastTrack 载入流程的下一部分：[客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
-
-### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)
+[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 
-
-
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

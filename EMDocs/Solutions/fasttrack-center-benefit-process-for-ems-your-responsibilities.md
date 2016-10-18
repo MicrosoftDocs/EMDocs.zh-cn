@@ -1,10 +1,10 @@
 ---
-title: "企业移动性套件的 FastTrack 中心权益流程 – 你的职责"
+title: "您的职责"
 description: 
 keywords: 
 author: staciebarker
-manager: jeffgilb
-ms.date: 04/28/2016
+manager: angrobe
+ms.date: 10/02/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -14,17 +14,15 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
-ms.openlocfilehash: 2dd5e54fe1348cc23274afc735759c92fbf81e28
+ms.sourcegitcommit: 323bdb56b3d81eb6a63e266899427672abf79da4
+ms.openlocfilehash: 035279b0dd7ca88123d94016ceb6caaf6306350f
 
 
 ---
 
-# 企业移动性套件的 FastTrack 中心权益流程 – 你的职责
+# 您的职责
 
-当你使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用时，你的组织在该流程中将要承担一定的职责。 以下各部分描述了你在载入流程每个阶段的职责。
-
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+在载入期间你具有下列职责。
 
 ## 常规职责
 
@@ -46,7 +44,7 @@ ms.openlocfilehash: 2dd5e54fe1348cc23274afc735759c92fbf81e28
 
 -   管理、配置和应用除创建用于你的 EMS 服务基准配置和功能之外的安全策略。
 
--   注册除用于测试 Microsoft Azure AD PremiumEMS 服务基准配置和功能之外的用户帐户。
+-   注册除用于测试 Microsoft Azure AD EMS 服务基准配置和功能之外的用户帐户。
 
 -   网络配置、分析、带宽验证、测试和监视。
 
@@ -110,14 +108,11 @@ ms.openlocfilehash: 2dd5e54fe1348cc23274afc735759c92fbf81e28
 
 -   依照 Microsoft 的指导，启用各种服务。
 
-FastTrack 载入流程的最后部分。
+**了解更多信息？**
 
-### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
-
+[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 
-
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Oct16_HO1-->
 
 

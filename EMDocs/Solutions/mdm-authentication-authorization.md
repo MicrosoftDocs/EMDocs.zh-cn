@@ -4,17 +4,18 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: 31b98333-5a3d-49ba-a25e-66447df68035
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: 6cae1160dd6dd71f898afd9e27ed8458330fa03c
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: b1b40aa8b5044b90ab966b2ec050b39e392c1ffa
 
 
 ---
@@ -79,7 +80,7 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 - 当你购买 Intune 订阅时，不包含 Azure AD 云服务
 
-## 公司移动套件
+## 企业移动性 + 安全性
 
 **优点**
 
@@ -96,6 +97,6 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

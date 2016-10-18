@@ -2,9 +2,9 @@
 title: "企业移动性 FastTrack 计划"
 description: 
 keywords: 
-author: 
-manager: swadhwa
-ms.date: 04/28/2016
+author: staciebarker
+manager: angrobe
+ms.date: 10/02/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,24 +13,23 @@ ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 31ba2bb9bf95d3b21ba08f7874f12cae790f9af0
-ms.openlocfilehash: a32ec33be4ea8ea3ece93fe026480de43790af4e
+ms.sourcegitcommit: 4edfa04ab1ecf371e207497d74aa4c1e2366d7a9
+ms.openlocfilehash: 8140cd56e0fef920c7ab4c1a76fe7926ebcd05fe
 
 
 ---
 
 # 企业移动性 FastTrack 计划
-通过企业移动性 FastTrack 中心权益计划，已购买符合条件的服务的客户能够与 Microsoft 专家远程协作，以使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用。 以下链接描述 FastTrack 中心权益、哪些服务符合条件，以及有关你参与该计划时你可以预期的结果的详细信息。
+在符合条件的计划中，如果针对 EMS 或其任何单独的云服务购买至少 150 个许可证，就可以使用企业移动性 + 安全性 (EMS) FastTrack 中心权益。 然后就可与 Microsoft 专家一同访问、更正、启用、推进这些服务。 这些专家还提供迁移指导。 
 
-[企业移动性套件的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)
+若要了解有关符合条件的服务和计划的详细信息，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
 
-[企业移动性套件的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
-
-
+若要了解有关 FastTrack 中心流程以及由谁来负责何部分的信息，请参阅[企业移动性 + 安全性的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
 
 
 
 
-<!--HONumber=Jul16_HO3-->
+
+<!--HONumber=Oct16_HO1-->
 
 
