@@ -1,30 +1,30 @@
 ---
 asset_id: 961350ed-a3f1-44f1-b239-b46345b8f620
 layout: HubPage
-title: "企业移动性文档 | Microsoft 文档"
-description: "Microsoft 企业移动性的技术文档"
+title: "企业移动性 + 安全性文档 |Microsoft 文档"
+description: "Microsoft 企业移动性 + 安全性的技术文档"
 keywords: "Microsoft 文档、企业移动性文档，了解企业移动性、企业移动性指南、企业移动性技术文档"
 author: msswadhwa
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 10/03/2016
 ms.topic: hubpage
 ms.suite: ems
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 translationtype: Human Translation
-ms.sourcegitcommit: e6fdd88632bfe1bb1a04f73923273709eaf54559
-ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
+ms.sourcegitcommit: e8bac2fe14b1058b8e7e8ae3033b5dca2c284669
+ms.openlocfilehash: 21457bc58aec5df390b2e1826cc09a28761b9591
 
 
 ---
-# 企业移动性文档
+# 企业移动性 + 安全性文档
 <article id="main">
     <section id="hero-content" class="graph">
-        <h1>企业移动性文档</h1>
-        <h2>欢迎使用 Microsoft 企业移动性的技术文档。 这些文档将帮助你了解并探索企业移动性中的解决方案和产品，助你服务入门以及计划你的实现。 你还可以找到有助于部署和使用服务、部署应用程序以及解决问题更深入的技术内容。</h2>
-        <h3>对企业移动性还不熟悉？ <a href="http://go.microsoft.com/fwlink/?LinkId=816837" target="_blank">请访问 Microsoft 企业移动性页面 &rarr;</a></h3>
+        <h1>企业移动性 + 安全性文档</h1>
+        <h2>欢迎使用 Microsoft 企业移动性 + 安全性的技术文档。 这些文档将帮助你了解并探索企业移动性+ 安全性中的解决方案和产品，助你服务开始使用这些服务并规划实现。 你还可以找到有助于部署和使用服务、部署应用程序以及解决问题更深入的技术内容。</h2>
+        <h3>对企业移动性 + 安全性还不熟悉？ <a href="http://go.microsoft.com/fwlink/?LinkId=816837" target="_blank">请访问 Microsoft 企业移动性 + 安全性页面 &rarr;</a></h3>
     </section>
     <aside class="alert section-border">
-        <p>注册企业移动性套件的 30 天试用版</p>
+        <p>注册以试用企业移动性 + 安全性 30 天</p>
         <ol class="action-list">
         <li><a href="http://go.microsoft.com/fwlink/?LinkId=816834" target="_blank" class="button-bordered button-translucent">免费试用版</a></li>
         </ol>
@@ -41,7 +41,7 @@ ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
             <ul class="column-half">
                 <li><a href="/active-directory/active-directory-whatis">什么是 Azure Active Directory？</a></li>
                 <li><a href="/microsoft-identity-manager/understand-explore/microsoft-identity-manager-2016">什么是 Microsoft Identity Manager？</a></li>
-                <li><a href="/rights-management/understand-explore/what-is-azure-rms">Azure 权限管理是什么？</a></li>
+                <li><a href="/information-protection/understand-explore/what-is-information-protection">什么是 Azure 信息保护？</a></li>
                 <li><a href="https://www.microsoft.com/itshowcase/Article/Content/588/Mobile-device-management-at-Microsoft" target="_blank">Microsoft 中的移动设备管理</a></li>
             </ul>
         </div>
@@ -99,7 +99,13 @@ ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
                                 <p>使用 Intune 的 MDM &amp; MAM 功能管理 &amp; 保护设备上的企业应用 &amp; 数据。</p>
                                 </a>
                             </li>
-                        </ul>
+                            <li class="column column-third">
+                                <a href="/sccm/">
+                                <h3>System Center Configuration Manager</h3>
+                                <p>利用 Configuration Manager 本地基础结构来管理和保护公司计算机、服务器和设备。</p>
+                                </a>
+                            </li>
+                          </ul>
                     </section>
                 </li>
                 <li class="journey-step">
@@ -114,9 +120,9 @@ ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
                     <section class="journey-step-elements content">
                         <ul class="row">
                             <li class="column column-third">
-                                <a href="/rights-management/">
-                                <h3>Azure 权限管理</h3>
-                                <p>保护你的信息免遭未经授权的访问，并控制信息的使用方式。</p>
+                                <a href="/information-protection/">
+                                <h3>Azure 信息保护</h3>
+                                <p>对电子邮件和其他敏感数据进行分类、标记和应用保护。</p>
                                 </a>
                             </li>
                             <li class="column column-third">
@@ -125,26 +131,12 @@ ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
                                 <p>使用行为分析确定漏洞 &amp; 威胁，并根据攻击时间线创建报表。</p>
                                 </a>
                             </li>
-                        </ul>
-                    </section>
-                </li>
-                <li class="journey-step">
-                    <header class="journey-step-header row">
-                        <div class="title column-third">
-                        <span class="icon icon-desktops"></span>
-                        <p>桌面虚拟化</p>
-                        </div>
-                        <p class="description column-two-thirds">从你的数据中心或云流式传输应用程序，以确保用户在任何地方和任何设备上的工作效率，并确保数据更安全。
-                        </p>
-                    </header>
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                        <li class="column column-third">
-                            <a href="/remoteapp/">
-                            <h3>Azure RemoteApp</h3>
-                            <p>在云中部署 Windows 云应用并在任何设备上运行。</p>
-                            </a>
-                        </li>
+                            <li class="column column-third">
+                                <a href="https://technet.microsoft.com/library/mt489024.aspx">
+                                <h3>Cloud App Security</h3>
+                                <p>将本地系统的安全性带入云应用程序，以加深可见性、完善控制能力和增强保护。</p>
+                                </a>
+                            </li>
                         </ul>
                     </section>
                 </li>
@@ -155,23 +147,23 @@ ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
         <section class="resources container">
             <h2 class="section-heading"><span class="icon icon-note"></span> 应用场景 &amp; 解决方案</h2>
             <div class="resource-list row">
-                <ul class="column-half">
-                    <li><a href="/enterprise-mobility/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
-                    <li><a href="/enterprise-mobility/solutions/byod-design-considerations-guide">BYOD 设计注意事项指南</a></li>
-                    <li><a href="/active-directory/active-directory-hybrid-identity-design-considerations-overview">混合身份设计注意事项指南</a></li>
-                </ul>
-                <ul class="column-half">
-                    <li><a href="/enterprise-mobility/solutions/conditional-access-intune">使用 Intune 的条件访问</a></li>
-                    <li><a href="/enterprise-mobility/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
-                    <li><a href="https://support.office.com/en-us/article/Plan-for-Office-365-security-and-information-protection-capabilities-3d4ac4a1-3920-4ff9-918f-011f3ce60408?ui=en-US&rs=en-US&ad=US">Office 365 安全和保护功能</a></li>
-                </ul>
-            </div>
+              <ul class="column-half">
+                  <li><a href="/enterprise-mobility/solutions/enterprise-mobility-fasttrack-program">EMS 技术方案</a></li>
+                  <li><a href="/enterprise-mobility/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
+                  <li><a href="https://support.office.com/en-us/article/Plan-for-Office-365-security-and-information-protection-capabilities-3d4ac4a1-3920-4ff9-918f-011f3ce60408?ui=en-US&rs=en-US&ad=US">Office 365 安全和保护功能</a></li>
+              </ul>
+              <ul class="column-half">
+                  <li><a href="https://docs.microsoft.com/active-directory/active-directory-hybrid-identity-design-considerations-overview">混合身份设计注意事项指南</a></li>
+                  <li><a href="/enterprise-mobility/solutions/byod-design-considerations-guide">BYOD 设计注意事项指南</a></li>
+                  <li><a href="/enterprise-mobility/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
+            </ul>
+            </div>            
         </section>
     </div>
     <aside class="alert alert-social">
         <p>关注最新消息</p>
         <ol class="action-list">
-            <li><a href="https://blogs.technet.microsoft.com/enterprisemobility/" target="_blank" class="button-bordered button-translucent">企业移动性博客</a></li>
+            <li><a href="https://blogs.technet.microsoft.com/enterprisemobility/" target="_blank" class="button-bordered button-translucent">企业移动性 + 安全博客</a></li>
             <li><a href="https://blogs.technet.microsoft.com/in_the_cloud/" target="_blank" class="button-bordered button-translucent">云中的博客</a></li>
         </ol>
     </aside>
@@ -179,6 +171,6 @@ ms.openlocfilehash: f27297ff6801beb60fc6fe9d0859093df8c3cc1c
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Oct16_HO1-->
 
 

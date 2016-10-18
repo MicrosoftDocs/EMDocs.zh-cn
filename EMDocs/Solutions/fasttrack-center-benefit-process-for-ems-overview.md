@@ -1,10 +1,10 @@
 ---
-title: "企业移动性套件的 FastTrack 中心权益流程 – 概述"
+title: "FastTrack 中心权益概述"
 description: 
 keywords: 
 author: staciebarker
-manager: jeffgilb
-ms.date: 04/28/2016
+manager: angrobe
+ms.date: 10/02/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -14,32 +14,30 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
-ms.openlocfilehash: 6d93a086bc86864d677327b37eaff39bdfd495fd
+ms.sourcegitcommit: 323bdb56b3d81eb6a63e266899427672abf79da4
+ms.openlocfilehash: 8c1ed6125137bf0059068d9864a5d1271bd7a9d1
 
 
 ---
 
-# 企业移动性套件的 FastTrack 中心权益流程 – 概述
+# FastTrack 中心权益概述
 
-你可以使用[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)使 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理可供使用。 使用本节中的信息来获取载入流程的图示概述。
-
-若要阅读有关 FastTrack 载入流程的其他部分，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
+通过 Azure Active Directory Premium 和/或 Microsoft Intune 的 FastTrack 中心权益，你可以通过远程方式与 Microsoft 专家一同准备环境，并在组织内对推出和使用进行计划。 若要了解有关合格性的详细信息，请参阅[企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
 
 
 载入包含两个主要部分：
 
 -   **核心载入** – 租户配置以及与 Azure Active Directory 集成所需的任务（如果需要）。 核心载入还为载入其他符合条件的 Microsoft Online 服务提供基准。
 
--   **服务载入** – 配置 EMS 套件的任何独立变体（Azure Active Directory Premium、Microsoft Intune、Azure 权限管理高级版）需完成的任务。
+-   **服务载入** - 配置 EMS 工作负荷的任何独立变体（Azure Active Directory Premium、Microsoft Intune）需完成的任务。
 
 下图说明了使用 FastTrack 中心权益的高级载入阶段。
 
-![使用 FastTrack 中心权益的高级载入阶段](./media/ft-1-onboarding-process.png)
+![使用 FastTrack 中心权益的高级载入阶段](./media/ft-onboarding-process.png)
 
-基本流程如下所示：
+下面是此过程的工作原理：
 
-- 在你购买符合条件的服务的许可证后，Microsoft 将尝试与你联系来提供载入协助。 如果你已准备好在你的组织中部署这些服务，你还可以通过 [FastTrack 中心](http://fasttrack.microsoft.com/) 请求协助。 若要请求协助，请登录到 [FastTrack 中心](http://fasttrack.microsoft.com/) (http://fasttrack.microsoft.com)，转到面板，单击“产品/服务”选项卡，然后单击“请求 Microsoft Intune、Azure Active Directory Premium 或 Azure 权限管理高级版协助”。 启动载入支持之后，我们将为联机会议设置一个日程安排。
+- 在你购买符合条件的服务的许可证后，Microsoft 将尝试与你联系来提供载入协助。 如果你已准备好在你的组织中部署这些服务，你还可以通过 [FastTrack 中心](http://fasttrack.microsoft.com/) 请求协助。 若要请求协助，请利用你的工作或学校帐户登录到 [FastTrack 中心](http://fasttrack.microsoft.com/) (http://fasttrack.microsoft.com)，转到仪表板，单击公司（如有需要则添加它），单击“服务”选项卡，然后单击“请求 Microsoft Intune 或 Azure Active Directory Premium 协助”。 启动载入支持之后，我们将为联机会议设置一个日程安排。
 
 -   Microsoft 载入团队将针对所有 Microsoft Online Services 常见的核心功能为你提供帮助，然后帮助你载入每个符合条件的服务。
 
@@ -53,14 +51,11 @@ ms.openlocfilehash: 6d93a086bc86864d677327b37eaff39bdfd495fd
 
 -   Microsoft 团队可直接与你或你的代表进行合作。
 
-请阅读有关 FastTrack 载入流程的下一部分：[源环境预期](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
+**了解更多信息？**
 
-### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
-
+[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 
-
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Oct16_HO1-->
 
 

@@ -4,17 +4,18 @@ description:
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 8/1/2016
-ms.topic: article
+ms.date: 10/3/2016
+ms.topic: solution
 ms.prod: 
-ms.service: microsoft-intune
+ms.service: 
 ms.technology: 
 ms.assetid: f3486381-66d5-469a-93a3-013eaaa17c07
 ms.reviewer: 
 ms.suite: ems
+ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e51462f1b238f7e3b518a7a9c8042ff3ad78a5a5
-ms.openlocfilehash: f20dcc2f6d1fe03a5570eaba4eaca6933205d723
+ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
+ms.openlocfilehash: 1c93f74e7e0e4c8591f800954bb60dda59005af8
 
 
 ---
@@ -28,7 +29,7 @@ ms.openlocfilehash: f20dcc2f6d1fe03a5570eaba4eaca6933205d723
 
 Office 365 提供了一些电子邮件的自动数据分类，可帮助找出应受到保护的敏感信息。 Office 365 使用传输规则（合并到邮件流处理中）来检测敏感信息。 然后 [DLP 功能](http://blogs.office.com/2013/10/28/office-365-compliance-controls-data-loss-prevention/)将通过关键字匹配、字典匹配、正则表达式计算、验证信用卡号上的校验和等内部功能以及其他内容检查来执行深度内容分析，从而检测出邮件正文或附件内的特定内容类型。 
 
-Intune 和 ConfigMgr 未内置数据分类，因此它们依靠使用 Azure RMS 的基于云的分类或使用 ADRMS 的本地分类。 另一个选项是使用[企业移动性套件 (EMS)](http://www.microsoft.com/server-cloud/enterprise-mobility/overview.aspx) 作为你的 MDM 解决方案。 借助 EMS，你将可以访问 [Azure AD Premium](https://msdn.microsoft.com/library/azure/dn532272.aspx) 和 [Azure RMS](https://technet.microsoft.com/library/jj585026.aspx)，二者可用于为数据分类。 使用 Azure RMS 的数据分类可以与混合环境中的本地管理解决方案集成。 
+Intune 和 ConfigMgr 未内置数据分类，因此它们依靠使用 Azure RMS 的基于云的分类或使用 ADRMS 的本地分类。 另一个选项是使用[企业移动性 + 安全性 (EMS)](http://www.microsoft.com/server-cloud/enterprise-mobility/overview.aspx) 作为你的 MDM 解决方案。 借助 EMS，你将可以访问 [Azure AD Premium](https://msdn.microsoft.com/library/azure/dn532272.aspx) 和 [Azure RMS](https://technet.microsoft.com/library/jj585026.aspx)，二者可用于为数据分类。 使用 Azure RMS 的数据分类可以与混合环境中的本地管理解决方案集成。 
 
 Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设备必须遵从的多个规则和设置的集合，以便被条件访问策略视为合规。 也可使用合规性策略来监视和修正与取决于条件访问的设备的合规性问题。 有关详细信息，请参阅[为 Microsoft Intune 管理设备合规性策略](/intune/deploy-use/introduction-to-device-compliance-policies-in-microsoft-intune)。
 
@@ -65,7 +66,7 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 - 不可用
 
-## 公司移动套件
+## 企业移动性 + 安全性
 
 **优点**
 
@@ -81,6 +82,6 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Oct16_HO1-->
 
 

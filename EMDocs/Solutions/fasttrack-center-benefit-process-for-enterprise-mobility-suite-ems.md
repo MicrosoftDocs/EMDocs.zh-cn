@@ -1,10 +1,10 @@
 ---
-title: "企业移动性套件 (EMS) 的 FastTrack 中心权益"
+title: "企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程"
 description: 
 keywords: 
 author: staciebarker
-manager: jeffgilb
-ms.date: 04/28/2016
+manager: angrobe
+ms.date: 10/02/2016
 ms.topic: article
 ms.prod: 
 ms.service: 
@@ -13,17 +13,17 @@ ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: a92fcc56cea75adb6c3db4eeb197dba77d2b63b7
-ms.openlocfilehash: 42a320985cf1062a5e239bf55317f10b46062ee8
+ms.sourcegitcommit: 4edfa04ab1ecf371e207497d74aa4c1e2366d7a9
+ms.openlocfilehash: 678b0f25d03f2b5ff8d53effd75ea9c6fc99cfa9
 
 
 ---
 
-# 企业移动性套件 (EMS) 的 FastTrack 中心权益流程
-如果你的组织符合享受 EMS 的 FastTrack 中心权益的条件，则你可以与 Microsoft 专家一同远程准备 Azure Active Directory Premium、Microsoft Intune 和/或 Azure 权限管理，使其可供使用。 若要确定你的组织是否符合条件，请参阅[企业移动性套件 (EMS) 的 FastTrack 中心权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
+# 企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程
+如果你的组织符合 EMS 的 FastTrack 中心权益的条件，则你可以与 Microsoft 专家一同远程准备 Azure Active Directory Premium 和/或 Microsoft Intune，使其可供使用。 还可以通过 FastTrack 门户为 Azure 信息保护、Microsoft Cloud App Security 和 Microsoft 高级威胁分析请求帮助。 若要确定你的组织是否符合条件，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
 
 
-FastTrack 中心权益流程的构成要素包括： 
+下面是有关载入流程的说明：
 
 -   [载入流程概述](fasttrack-center-benefit-process-for-ems-overview.md)
 
@@ -51,14 +51,7 @@ FastTrack 中心权益流程的构成要素包括：
 
     -   从本地 Active Directory 与 Windows Server 2012 R2 Active Directory 联合身份验证服务 (AD FS) 2.0 或更高版本联合。
 
-阅读有关 FastTrack 载入流程的下一部分：[载入流程概述](fasttrack-center-benefit-process-for-ems-overview.md)
 
-### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)。
-
-
-
-
-<!--HONumber=Jul16_HO3-->
+<!--HONumber=Oct16_HO1-->
 
 
