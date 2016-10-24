@@ -11,8 +11,8 @@ ms.topic: hubpage
 ms.suite: ems
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 translationtype: Human Translation
-ms.sourcegitcommit: e8bac2fe14b1058b8e7e8ae3033b5dca2c284669
-ms.openlocfilehash: 21457bc58aec5df390b2e1826cc09a28761b9591
+ms.sourcegitcommit: 3e1c4b4997cb01d308ab51bcd902ecac6a1e6d99
+ms.openlocfilehash: 49296346014d88ccba1b00c15864d5205e7c6403
 
 
 ---
@@ -148,7 +148,7 @@ ms.openlocfilehash: 21457bc58aec5df390b2e1826cc09a28761b9591
             <h2 class="section-heading"><span class="icon icon-note"></span> 应用场景 &amp; 解决方案</h2>
             <div class="resource-list row">
               <ul class="column-half">
-                  <li><a href="/enterprise-mobility/solutions/enterprise-mobility-fasttrack-program">EMS 技术方案</a></li>
+                  <li><a href="/enterprise-mobility/solutions/manage-access-at-scale">EMS 技术方案</a></li>
                   <li><a href="/enterprise-mobility/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
                   <li><a href="https://support.office.com/en-us/article/Plan-for-Office-365-security-and-information-protection-capabilities-3d4ac4a1-3920-4ff9-918f-011f3ce60408?ui=en-US&rs=en-US&ad=US">Office 365 安全和保护功能</a></li>
               </ul>
@@ -171,6 +171,6 @@ ms.openlocfilehash: 21457bc58aec5df390b2e1826cc09a28761b9591
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 
