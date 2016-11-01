@@ -4,7 +4,7 @@ description:
 keywords: 
 author: andredm7
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 8f279f528cab2a747f12d5e372ec7e9442bd87e4
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 4ec5d33354205d37fa1f8f57458272f009cc8877
 
 
 ---
@@ -61,12 +61,15 @@ ms.openlocfilehash: 8f279f528cab2a747f12d5e372ec7e9442bd87e4
 - [步骤 3 - 计划保护移动设备](mdm-step-3-plan-enhancing-mobile-devices-protection.md)
 - [步骤 4 - 规划软件型服务移动设备管理](mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md)
 - [后续步骤和其他资源](mdm-next-steps-and-additional-resources.md)
+
+>[!NOTE]
+> 使用本指南前，也可观看 Channel9 播出的[移动设备管理的设计注意事项视频演示](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1610)，了解有关本指南的帮助。 
         
 ## 正在查找可下载的版本？
 可在 [ TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)中获取此完整指南的可下载副本。
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

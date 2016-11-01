@@ -1,6 +1,6 @@
 ---
 title: "符合 FastTrack 中心权益条件的服务和计划"
-description: 
+description: "符合 FastTrack 中心权益条件的服务和计划"
 keywords: 
 author: staciebarker
 manager: angrobe
@@ -14,8 +14,8 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 323bdb56b3d81eb6a63e266899427672abf79da4
-ms.openlocfilehash: 1c212e1e04797080990b28cad8d14c1f263aa889
+ms.sourcegitcommit: b8c690844c5bae7898bfe908d4ce923a0edf41dd
+ms.openlocfilehash: 8a2a799769c27267e0157f8fd1ee450f26c4eb2c
 
 
 ---
@@ -60,6 +60,6 @@ ms.openlocfilehash: 1c212e1e04797080990b28cad8d14c1f263aa889
 |Microsoft Cloud App Security|受限</br>仅限成功计划，并且通过“获取帮助”团队请求帮助|
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

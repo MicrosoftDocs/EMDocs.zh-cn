@@ -1,10 +1,10 @@
 ---
 title: "管理要求"
-description: 
+description: "BYOD 方案的常见管理要求。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: b3974374d7c4842e9b4356e558872ba6baf389dc
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 
 
 ---
@@ -101,6 +101,6 @@ ms.openlocfilehash: b3974374d7c4842e9b4356e558872ba6baf389dc
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

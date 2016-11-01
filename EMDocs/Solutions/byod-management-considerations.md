@@ -1,10 +1,10 @@
 ---
 title: "管理注意事项"
-description: 
+description: "BYOD 方案的管理注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 56564cd95596726f65815da0d1b4dea4000b53de
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 70d0ddf77b2f73a37ede22833a7a9f659ff6de3e
 
 
 ---
@@ -198,6 +198,6 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

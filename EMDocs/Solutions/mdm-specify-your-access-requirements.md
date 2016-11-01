@@ -1,10 +1,10 @@
 ---
 title: "指定你的访问要求"
-description: 
+description: "移动设备管理方案的常见访问要求。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 3eb5163fb69b48b7b2c7cdcdf5a74c13b13c7e7e
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: d95a2d9432bde2ef911802abcbe91637088c9adc
 
 
 ---
@@ -63,6 +63,6 @@ ms.openlocfilehash: 3eb5163fb69b48b7b2c7cdcdf5a74c13b13c7e7e
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

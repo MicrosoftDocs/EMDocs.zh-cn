@@ -1,6 +1,6 @@
 ---
 title: "源环境预期"
-description: 
+description: "使用 FastTrack 中心权益所需的源环境要求"
 keywords: 
 author: staciebarker
 manager: angrobe
@@ -14,8 +14,8 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 323bdb56b3d81eb6a63e266899427672abf79da4
-ms.openlocfilehash: cd295135195fe96a53a49d47b9e982fe3ba8600c
+ms.sourcegitcommit: b8c690844c5bae7898bfe908d4ce923a0edf41dd
+ms.openlocfilehash: 387a260519fc812a63a35ad4984e6d88d3325d3a
 
 
 ---
@@ -39,6 +39,6 @@ ms.openlocfilehash: cd295135195fe96a53a49d47b9e982fe3ba8600c
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

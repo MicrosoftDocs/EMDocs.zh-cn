@@ -1,10 +1,10 @@
 ---
 title: "指定你的隐私要求"
-description: 
+description: "移动设备管理方案的常见隐私要求。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 0909de25a0857e7b30a2b13d820e697fa5fdc773
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 40d3d98d70bdf81fc003725acbf6efb19d4d23fe
 
 
 ---
@@ -56,6 +56,6 @@ ms.openlocfilehash: 0909de25a0857e7b30a2b13d820e697fa5fdc773
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 
