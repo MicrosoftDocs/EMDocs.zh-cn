@@ -1,10 +1,10 @@
 ---
 title: "用户和设备注意事项"
-description: 
+description: "适用于 BYOD 方案中使用自有设备或公司设备访问公司资源的用户的设计注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 3fcfcad4698581b955fd1a1b8cde4ccefeeca928
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 00cd28bc9b58d6386a1d74c67d63ccebb202370e
 
 
 ---
@@ -211,6 +211,6 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

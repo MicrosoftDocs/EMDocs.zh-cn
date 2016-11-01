@@ -1,10 +1,10 @@
 ---
 title: "BYOD 摘要和其他资源 | BYOD 设计注意事项指南"
-description: 
+description: "BYOD 设计注意事项指南摘要及需了解的更多资源"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: a959db750a4334f19e1269726a5536f55afa4dbf
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 0451218eb8d9858d333665d9b98fb18f169a8f11
 
 
 ---
@@ -30,16 +30,15 @@ ms.openlocfilehash: a959db750a4334f19e1269726a5536f55afa4dbf
 
 有关与 BYOD 方案相关的解决方案，请参阅：
 
+- [了解 BYOD：它对我公司的意义何在](https://channel9.msdn.com/Shows/TechNet+Radio/TechNet-Radio-Part-1-Understanding-BYOD-What-it-Means-for-My-Company)
+- [了解 BYOD：如何使之变为现实](https://channel9.msdn.com/Shows/TechNet+Radio/TechNet-Radio-Part-2-Understanding-BYOD-How-to-Make-it-Happen)
+- [BYOD 和设计注意事项](https://channel9.msdn.com/Shows/TechNet+Radio/TechNet-Radio-Part-3-BYOD-and-Design-Considerations)
 - [移动设备管理设计注意事项指南](http://aka.ms/mdmdcg)
-- [使用目录同步与联合身份验证（单一登录）管理混合环境的身份](https://technet.microsoft.com/library/dn550987.aspx)
-- [使用目录同步与密码同步管理混合环境的身份](https://technet.microsoft.com/library/dn550986.aspx)
-- [从任何设备上的任何位置安全访问公司资源](https://technet.microsoft.com/library/dn550982.aspx)
-- [通过使用 Microsoft Intune 迁移到 Configuration Manager 来管理移动设备和计算机](https://technet.microsoft.com/library/dn582037.aspx)
-- [计划迁移到 System Center 2012 R2 Configuration Manager 的 Configuration Manager 2007 客户的移动设备管理](https://technet.microsoft.com/library/dn508400.aspx)
 
 
 
 
-<!--HONumber=Oct16_HO1-->
+
+<!--HONumber=Oct16_HO3-->
 
 

@@ -1,6 +1,6 @@
 ---
 title: "移动设备保护加强计划"
-description: 
+description: "移动设备管理方案中有关移动设备保护的设计注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: cff2abcc7befdb3be47ebd73820a31c520d6fa17
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: fe00ace9c2a1fcdba26fd64c583f11f794ee8259
 
 
 ---
@@ -78,6 +78,6 @@ ms.openlocfilehash: cff2abcc7befdb3be47ebd73820a31c520d6fa17
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 
