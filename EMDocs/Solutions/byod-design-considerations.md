@@ -1,10 +1,10 @@
 ---
 title: "设计注意事项"
-description: 
+description: "BYOD 方案中产品和技术的设计注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e410d3fd320660186b6d21853af3172062f90eda
-ms.openlocfilehash: a9fc81c8e6d53f4ad457bf70e576a608d046cca8
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: c78024f38da8660a9c8e4e9813890110f49107be
 
 
 ---
@@ -83,6 +83,6 @@ ms.openlocfilehash: a9fc81c8e6d53f4ad457bf70e576a608d046cca8
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

@@ -1,10 +1,10 @@
 ---
 title: "制定你的移动设备管理采用策略"
-description: 
+description: "采用移动设备管理的设计注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 9d9d61b93a1b7dd6c52b0530f8bc58517d2926b2
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 
 
 ---
@@ -173,6 +173,6 @@ ms.openlocfilehash: 9d9d61b93a1b7dd6c52b0530f8bc58517d2926b2
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

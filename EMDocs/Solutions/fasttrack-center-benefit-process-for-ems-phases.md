@@ -1,6 +1,6 @@
 ---
 title: "载入和迁移阶段"
-description: 
+description: "FastTrack Center Benefit 的阶段"
 keywords: 
 author: staciebarker
 manager: angrobe
@@ -14,8 +14,8 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 4edfa04ab1ecf371e207497d74aa4c1e2366d7a9
-ms.openlocfilehash: 9a41384fc4c7706c715b7c79d2dfd8e42f1d0a5d
+ms.sourcegitcommit: b8c690844c5bae7898bfe908d4ce923a0edf41dd
+ms.openlocfilehash: d760cc15bca135889b198636290765a109932b51
 
 
 ---
@@ -155,11 +155,13 @@ Microsoft 还将与你联系，提供有关如何推动成功采用符合条件�
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
+![载入启用阶段 - Intune](./media/ft-enable-phase-intune-mdm-mam-sccm.png)
+
 **了解更多信息？**
 
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

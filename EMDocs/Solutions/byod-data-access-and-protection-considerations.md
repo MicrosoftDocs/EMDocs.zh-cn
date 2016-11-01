@@ -1,10 +1,10 @@
 ---
 title: "数据访问和保护注意事项"
-description: 
+description: "BYOD 方案中有关数据访问和保护的设计注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: e410d3fd320660186b6d21853af3172062f90eda
-ms.openlocfilehash: 696374bf33144ef29b7143414035f761786bd4e9
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: e7411890405267eaea2e32d686052472b88edad2
 
 
 ---
@@ -251,6 +251,6 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

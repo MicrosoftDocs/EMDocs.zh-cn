@@ -14,8 +14,8 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: c704180f9c607e39c27d75676eec30afa1a1730c
-ms.openlocfilehash: b349cae1f73c4dab5dbce45937b91a8aaca7c052
+ms.sourcegitcommit: e422a74e551753ddb579d98789670cd8c1811b80
+ms.openlocfilehash: 4b1c82f5ecd5360b51d0f2af69df77ff2924aa0e
 
 
 ---
@@ -35,10 +35,10 @@ ms.openlocfilehash: b349cae1f73c4dab5dbce45937b91a8aaca7c052
 
 |方法|说明|
 |------------|----------------------------------|
-|移动电话呼叫|对身份验证电话号码进行自动语音呼叫。 用户接听电话，并按电话拨号键盘中的 # 进行身份验证。 此电话号码将不会同步到本地 Active Directory。|
-|手机短信|向用户发送包含验证码的短信。 系统会提示用户使用验证码回复短信或在登录界面中输入验证码。|
-|办公电话呼叫|对用户进行自动语音呼叫。 用户接听电话，并按电话拨号键盘中的 # 进行身份验证。|
-|移动应用|将通知推送到用户的智能手机或平板电脑上的 Azure 验证器移动应用。 用户在应用中点击“验证”进行身份验证。 此外，该应用程序还可以用作进行脱机身份验证的 OTP 令牌。 用户在登录屏幕上输入令牌进行身份验证。|
+|[移动电话呼叫](#mobile-phone-(text-or-call))|对身份验证电话号码进行自动语音呼叫。 用户接听电话，并按电话拨号键盘中的 # 进行身份验证。 此电话号码将不会同步到本地 Active Directory。|
+|[手机短信](#mobile-phone-(text-or-call))|向用户发送包含验证码的短信。 系统会提示用户使用验证码回复短信或在登录界面中输入验证码。|
+|[办公电话呼叫](#office-phone-call)|对用户进行自动语音呼叫。 用户接听电话，并按电话拨号键盘中的 # 进行身份验证。|
+|[移动应用](#mobile-application)|将通知推送到用户的智能手机或平板电脑上的 Azure 验证器移动应用。 用户在应用中点击“验证”进行身份验证。 此外，该应用程序还可以用作进行脱机身份验证的 OTP 令牌。 用户在登录屏幕上输入令牌进行身份验证。|
 
 _Azure 验证器应用可以 2 种不同模式运行，以提供多重身份验证服务能够提供的附加安全性。 这两种模式是：_
 
@@ -117,10 +117,10 @@ Azure 验证器应用可用于 Windows Phone、Android 和 IOS。
 12. 单击“完成”。
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)
+请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Oct16_HO2-->
 
 

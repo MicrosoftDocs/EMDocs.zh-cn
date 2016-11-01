@@ -1,10 +1,10 @@
 ---
 title: "数据分隔"
-description: 
+description: "移动设备管理方案的数据分隔设计注意事项。"
 keywords: 
 author: YuriDio
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 10/18/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,8 +14,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: c25ffae65d37b92e8b09ccfa1615fa92a9580638
+ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
+ms.openlocfilehash: 56e61eddf9ae62417d3e05082edbdf0560f6e00d
 
 
 ---
@@ -93,6 +93,6 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

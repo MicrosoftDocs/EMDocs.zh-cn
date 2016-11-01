@@ -14,8 +14,8 @@ ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: c704180f9c607e39c27d75676eec30afa1a1730c
-ms.openlocfilehash: c11de7d94408b2a0d3e1511f2f93c1f56655c080
+ms.sourcegitcommit: e422a74e551753ddb579d98789670cd8c1811b80
+ms.openlocfilehash: 7d04b320606403530801de71a37d308cf378856f
 
 
 ---
@@ -162,17 +162,17 @@ ms.openlocfilehash: c11de7d94408b2a0d3e1511f2f93c1f56655c080
   ![提示用户注册 Mac OS X 设备的屏幕截图](./media/ft-userEnrollMacOSx-2-enrollDevice.png)
 4.  在“安装管理配置文件”对话框中，点击“安装”。 如果出现要求你输入凭据的对话框，请输入用户名和密码，然后点击“继续”>“安装”。
 
-  ![提示用户在 Mac OS X 设备上安装管理配置文件](./media/ft-userEnrollMacOSx-3-installProfile.png)
+  ![提示用户在 Mac OS X 设备上安装管理配置文件的屏幕截图](./media/ft-userEnrollMacOSx-3-installProfile.png)
 
 完成注册后，将出现“管理配置文件”页，显示你的配置文件已通过验证。
 
   ![显示已验证 Mac OS X 设备上的管理配置文件的屏幕截图](./media/ft-userEnrollMacOSx-4-profileVerified.png)
 
 ### 了解更多信息？
-请参阅[企业移动性套件](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)
+请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
 
 
 
-<!--HONumber=Sep16_HO4-->
+<!--HONumber=Oct16_HO2-->
 
 
