@@ -4,12 +4,15 @@ description: "一个方案，描述如何使用企业移动性 + 安全性，通
 author: yuridio
 ms.author: yurid
 manager: swadhwa
-ms.date: 12/2/2016
+ms.date: 12/7/2016
 ms.topic: solution
 ms.prod: 
 ms.service: ems
 ms.technology: techgroup-identity
 ms.assetid: de0a7e70-008b-45c1-bba8-f033b1f62194
+ms.reviewer: v-craic
+ms.suite: ems
+ms.custom: active-directory, advanced-threat-analytics, cloud-app-security
 translationtype: Human Translation
 ms.sourcegitcommit: 0fd6f5b47ecd3aacbd0fd0c9cf76b90dcd68eaf4
 ms.openlocfilehash: 449df764d3979f8030f8d35d8f6920dedb64b239
