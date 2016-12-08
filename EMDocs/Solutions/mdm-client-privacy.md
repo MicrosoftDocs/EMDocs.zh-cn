@@ -1,10 +1,11 @@
 ---
 title: "客户端隐私"
-description: "移动设备管理方案的客户端隐私设计注意事项。"
+description: "本文介绍一系列移动设备管理方案中应考虑的有关客户端隐私的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 176d6f4fecc5ba1697ae7231c93234d469e2bad5
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
 
 
 ---
 
-#客户端隐私
+#<a name="client-privacy"></a>客户端隐私
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -42,7 +43,7 @@ ms.openlocfilehash: 176d6f4fecc5ba1697ae7231c93234d469e2bad5
 
 隐私对于用户和贵组织来说非常重要，使用的 MDM 解决方案必须十分恰当地平衡隐私需求之间的关系，并使用户了解贵组织的隐私策略和期望。 下表比较了不同 MDM 解决方案中提供的隐私要求帮助选项，它们可帮助你选择最适合贵组织隐私要求的 MDM 选项。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -52,7 +53,7 @@ ms.openlocfilehash: 176d6f4fecc5ba1697ae7231c93234d469e2bad5
 
 - 它没有隐私策略的模板。 存在如下假设：你的组织已采用某个隐私策略，并且公司门户将只播发存储在其他位置的此策略。
 
-## 包含 MDM 的 Office 365
+## <a name="office-365-with-mdm"></a>包含 MDM 的 Office 365
 
 **优点**
 
@@ -62,7 +63,7 @@ ms.openlocfilehash: 176d6f4fecc5ba1697ae7231c93234d469e2bad5
 
 - 没有用于发布隐私声明的功能
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -76,6 +77,6 @@ ms.openlocfilehash: 176d6f4fecc5ba1697ae7231c93234d469e2bad5
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

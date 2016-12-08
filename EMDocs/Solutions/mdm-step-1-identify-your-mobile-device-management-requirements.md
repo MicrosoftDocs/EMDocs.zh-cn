@@ -1,10 +1,11 @@
 ---
 title: "步骤 1 - 确定你的移动设备管理要求"
-description: "确定组织的移动设备管理要求时的设计注意事项。"
+description: "本文介绍确定组织的移动设备管理要求时需考虑的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,20 +15,20 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 948a05f1a7a0ab53a07f72719165c60daa7a01ce
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 85a05de72b2ba0dd52c9ebe1da274a5783fba34f
 
 
 ---
 
-# 步骤 1 - 确定你的移动设备管理要求
+# <a name="step-1---identify-your-mobile-device-management-requirements"></a>步骤 1 - 确定你的移动设备管理要求
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
 设计移动设备管理解决方案的第一步是确定将用于支持你的移动设备的管理平台要求。 你的公司的总体移动设备采用情况将决定平台要求。 如果你决定采用单个管理解决方案来管理你所有的移动设备，这表明你可能忽略了你的解决方案中的多平台要求。 你将需要仔细审阅你公司的业务策略以充分了解你当前以及未来的业务要求。 如果你没有为移动设备采用制定一个长期策略，则很有可能你的解决方案将不会随着你业务需求的增长和变化而扩展。 
 
-## 关于此步骤
+## <a name="about-this-step"></a>关于此步骤
 
 本指南此部分有 3 个步骤。 阅读此部分的总时间大约为 14 分钟，你也可以跳到指定部分
 
@@ -37,6 +38,6 @@ ms.openlocfilehash: 948a05f1a7a0ab53a07f72719165c60daa7a01ce
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

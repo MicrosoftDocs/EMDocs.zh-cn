@@ -1,8 +1,9 @@
 ---
 title: "设备注册选项"
-description: 
+description: "本文提供有关使用企业移动性 + 安全性规划和设计 Microsoft 移动设备管理解决方案时的设备注册选项的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,14 +15,14 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 9b4956f7a4e48bebbbc41fdef050198a06e53525
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 04a5fa735c75dd7abe2caecdb69a60598c7aec8e
 
 
 ---
 
 
-# 设备注册选项
+# <a name="device-enrollment-options"></a>设备注册选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -47,6 +48,6 @@ Intune 独立版本需要配置为定义移动设备管理机构解决方案，�
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

@@ -1,8 +1,9 @@
 ---
 title: "步骤 2 - 计划移动设备管理"
-description: 
+description: "本文帮助客户规划和设计使用企业移动性 + 安全性实现的 Microsoft 移动设备管理实施方案。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,20 +15,20 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: f3d64de32f2096c2282e698900e04a8fd7a9cf39
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 13b9f2fac331d25d797ed9d21f27cc70c876eeda
 
 
 ---
 
-# 步骤 2 - 计划移动设备管理
+# <a name="step-2---plan-for-mobile-device-management"></a>步骤 2 - 计划移动设备管理
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
 管理公司和用户所拥有的移动设备包括若干项重要的生命周期管理决策。 在确定组织的移动设备平台、应用程序和用户要求后，你还需要确定如何结合自己的整体 MDM 策略与其他管理和支持策略，来管理各个方面。 在此步骤中，我们将检查 MDM 注册、管理、监视和报告生命周期的要求。
 
-## 关于此步骤
+## <a name="about-this-step"></a>关于此步骤
 
 本指南此部分有 11 个步骤。 阅读此部分的总时间大约为 38 分钟，你也可以跳到指定部分：
 
@@ -45,6 +46,6 @@ ms.openlocfilehash: f3d64de32f2096c2282e698900e04a8fd7a9cf39
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

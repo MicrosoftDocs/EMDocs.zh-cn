@@ -1,8 +1,9 @@
 ---
 title: "证书管理选项"
-description: 
+description: "本文提供关于如何规划和设计证书基础结构以支持使用 Microsoft Intune 独立版和混合版配置证书的决策点。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,18 +15,18 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: f479997932cd7091677da5097e0d7a418895858f
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 2f0d445b35c6a7aea29684a0488decd92784c2ab
 
 
 ---
 
-# 证书管理选项
+# <a name="certificate-management-options"></a>证书管理选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-[Intune](/Intune/deploy-use/secure-resource-access-with-certificate-profiles) 独立版以及[混合 Intune 和 ConfigMgr](https://technet.microsoft.com/library/dn261202.aspx) 部署方案均支持使用数字证书管理和证书配置文件。 这些功能允许你将受信任的根证书部署到移动设备以及基于简单证书注册协议 (SCEP) 的配置文件，这将指示移动设备从组织中的 NDES 服务器获取其他证书。
+[Intune](/Intune/deploy-use/secure-resource-access-with-certificate-profiles) 独立版和[混合版](https://technet.microsoft.com/library/dn261202.aspx)部署方案均支持使用数字证书管理和证书配置文件。 这些功能允许你将受信任的根证书部署到移动设备以及基于简单证书注册协议 (SCEP) 的配置文件，这将指示移动设备从组织中的 NDES 服务器获取其他证书。
 
 因为 iOS、Windows 10 和 8.1 以及 Windows Phone 10 和 8.1 本机支持 SCEP，并且通过适用于 Android 的 Microsoft Intune 公司门户应用也可以支持 SCEP，所以使用此注册协议具有直接在移动设备上生成私钥的优势。 ConfigMgr 或 Intune 永远无法生成、缓存或存储私钥，这有助于保护移动设备的安全。
 
@@ -47,7 +48,7 @@ ms.openlocfilehash: f479997932cd7091677da5097e0d7a418895858f
 
 以下列表将帮助你了解 Intune 和混合 Intune 与 ConfigMgr 部署方案的证书配置文件管理的优缺点：
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -63,11 +64,11 @@ ms.openlocfilehash: f479997932cd7091677da5097e0d7a418895858f
  - 企业证书颁发机构
  - 安装在运行 NDES 的服务器上的 Intune NDES 连接器
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 - Office 365 的 MDM 中不提供对证书配置文件的支持。
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -86,6 +87,6 @@ ms.openlocfilehash: f479997932cd7091677da5097e0d7a418895858f
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

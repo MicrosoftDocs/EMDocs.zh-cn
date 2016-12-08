@@ -1,8 +1,9 @@
 ---
 title: "设备监视选项"
-description: 
+description: "本文提供有关使用企业移动性 + 安全性规划和设计 Microsoft 移动设备管理解决方案时的现有设备监视选项的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: c34d0000d723594ab46917ae9baedc3e56ebbb48
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: fb4062531b8b202fb22ffcb0fbba390879be89cd
 
 
 ---
 
-# 设备监视选项
+# <a name="device-monitoring-options"></a>设备监视选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -43,7 +44,7 @@ ms.openlocfilehash: c34d0000d723594ab46917ae9baedc3e56ebbb48
 
 提供给任务 2 中的问题的答案可以帮助你确定移动设备的监视和报告需求。 下面的列表显示了每个 MDM 解决方案中的监视和报告功能的优缺点。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -67,7 +68,7 @@ ms.openlocfilehash: c34d0000d723594ab46917ae9baedc3e56ebbb48
 
 - 仅限电子邮件警报，无基于文本或语音的警报
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -81,7 +82,7 @@ ms.openlocfilehash: c34d0000d723594ab46917ae9baedc3e56ebbb48
 
 - 仅限移动设备合规性状态报告
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -102,6 +103,6 @@ ms.openlocfilehash: c34d0000d723594ab46917ae9baedc3e56ebbb48
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

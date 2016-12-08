@@ -1,10 +1,11 @@
 ---
 title: "收集数据保护要求"
-description: "移动设备管理方案中有关数据保护的常见要求。"
+description: "本文介绍一系列应用于移动设备管理方案中数据保护的常规要求。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 7be45973429ae6a54210494188751e3e6c54592e
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 9cf26f4ead50e00580fc5abe1983ba88ee4c8ce9
 
 
 ---
 
-# 收集数据保护要求
+# <a name="gather-your-data-protection-requirements"></a>收集数据保护要求
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -67,6 +68,6 @@ ms.openlocfilehash: 7be45973429ae6a54210494188751e3e6c54592e
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

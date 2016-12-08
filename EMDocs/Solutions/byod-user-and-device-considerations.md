@@ -1,10 +1,11 @@
 ---
 title: "用户和设备注意事项"
-description: "适用于 BYOD 方案中使用自有设备或公司设备访问公司资源的用户的设计注意事项。"
+description: "本文介绍适用于“自带设备办公”方案中使用自有设备或公司设备访问公司资源的用户的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,19 +15,19 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 00cd28bc9b58d6386a1d74c67d63ccebb202370e
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 717183b0b7f94277379ebbeee2136227d29f88ef
 
 
 ---
 
-# 用户和设备注意事项
+# <a name="user-and-device-considerations"></a>用户和设备注意事项
 
 你需要解决的首要用户和设备问题是：现有技术将如何影响安全访问公司资源时的用户体验。 跨不同的设备解决用户体验问题十分困难，这不仅适用于安全的角度，从应用开发的角度来看也是如此。 为避免数据在传输时泄露，必须针对所需的适当级别的网络安全性考虑设备和公司资源之间的通信信道。
 
 以下各节基于本指南的 [BYOD 问题定义](byod-design-considerations-guide.md#problem-definition)部分中用户和设备子域的各个组件，即 BYOD 问题域的概念图。
 
-## Profiles
+## <a name="profiles"></a>Profiles
 
 在设计你的 BYOD 基础结构解决方案时，了解用户的需求和要求以从他们选择的设备执行其工作非常重要。 并非所有用户都具有相同的要求；一些用户始终访问本地数据，面向他们的策略强制措施可能有所不同。 远程工作人员将从各种不同的位置以及不同情况下访问公司数据。 你必须考虑可用于满足这些需求的选项。 根据其需求确定每位用户的配置文件：
 
@@ -37,9 +38,9 @@ ms.openlocfilehash: 00cd28bc9b58d6386a1d74c67d63ccebb202370e
 
 本指南中建议的用户配置文件是：
 
-- **轻**
+- **轻型**
     - 可以在本地或云中访问基于 Web 的应用
-    - 访问企业移动应用
+    - 可以访问企业移动应用
 - **中等**
     - 可以在本地或云中访问基于 Web 的应用
     - 可以访问企业移动应用
@@ -56,7 +57,7 @@ ms.openlocfilehash: 00cd28bc9b58d6386a1d74c67d63ccebb202370e
 
 你需要确定哪些用户配置文件更适合你的 BYOD 基础结构解决方案。 你可以考虑根据其工作需求建立多位用户的配置文件。 在理想情况下，使用来实现 BYOD 基础结构解决方案的技术应该可以适应所有用户配置文件，因为要求可能会因人而异。 
 
-## 设备
+## <a name="devices"></a>设备
 
 IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方案如下：当员工不在办公室时，他们每小时检查其工时单，或者查看公司通知或社交网站。 在许多组织中，这些要求通常只是涉及到 LAN 的服务，但现在它们可能面向个人设备开放。 检查其计划的人是否需要设备管理？ 了解设备的空间占用量将帮助 IT 进行以下工作：
 
@@ -70,7 +71,7 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 - 方法 3（1 + 2）：在每个用户的设备中注册并安装一个管理代理。
 
 
-### 未知到已知设备选项 - 优点和缺点
+### <a name="unknown-to-known-device-options-advantages-and-disadvantages"></a>未知到已知设备选项 - 优点和缺点
 
 使用以下列表来了解未知到已知设备选项的优点和缺点：
 
@@ -111,13 +112,13 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 
 如果你考虑使用 DRS，请了解此功能不提供任何管理功能。 如果你的公司需要更多安全控制，以便具有更多用于控制用户设备的选项，请考虑结合使用 DRS 和[移动设备注册](https://technet.microsoft.com/library/jj733620.aspx)以作为管理代理解决方案。 但是，如果你选择此选项，你必须具有 Windows Intune 订阅。 有关 Microsoft Intune 的详细信息，请参阅 [Microsoft Intune 页](/intune/understand-explore/introduction-to-microsoft-intune)。
 
-## Network (网络)
+## <a name="network"></a>Network (网络)
 
 必须从用户和设备的角度处理企业网络访问权限。 用户如何在使用自己的设备时访问公司数据？ 大多数 BYOD 基础架构解决方案仅在最低程度上关注从用户的设备进行远程访问；但是，如果采取以人为中心的做法，就必须考虑用户所在的物理位置。 你不仅应该关注远程访问，还应关注用户在本地访问数据的方式。 此外，你需要考虑特定于贵组织的地缘政治联合的法规问题。 例如，在物理上位于不同国家或地区的用户如何具有个性化的网络访问权限？
 
 如果贵公司在公共云中的资源将通过 Internet 从用户设备进行访问，你必须考虑如何处理通信。 请考虑在数据从用户设备传输到云提供商的过程中使用加密。 当用户访问内部资源时，你也应该使用数据加密。
 
-### 网络连接选项 - 优点和缺点
+### <a name="network-connectivity-options-advantages-and-disadvantages"></a>网络连接选项 - 优点和缺点
 
 使用以下列表来了解连接选项的优点和缺点：
 
@@ -174,7 +175,7 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 可以在你的无线接入点和网络组件上（交换机和路由器）选择物理分段，以隔离使用自己的设备进行连接的用户。 你还可以通过使用 [Configuration Manager 中的 Wi-Fi 配置文件](https://technet.microsoft.com/library/dn261221.aspx)实现这种分段。 提供范围广泛的安全设置，例如，用于服务器验证和客户端身份验证的证书，这些证书已使用 [Configuration Manager 证书配置文件](https://technet.microsoft.com/library/dn270540.aspx)进行预配。
 
 
-### Wi-Fi 网络分段选项 - 优点和缺点
+### <a name="wi-fi-network-segmentation-options---advantages-and-disadvantages"></a>Wi-Fi 网络分段选项 - 优点和缺点
 
 使用以下列表来了解 Wi-Fi 分段选项的优点和缺点：
 
@@ -211,6 +212,6 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

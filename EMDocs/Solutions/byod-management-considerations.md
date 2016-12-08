@@ -1,10 +1,11 @@
 ---
 title: "管理注意事项"
-description: "BYOD 方案的管理注意事项。"
+description: "本文介绍一系列“自带设备办公”方案中应考虑的管理设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,23 +15,23 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 70d0ddf77b2f73a37ede22833a7a9f659ff6de3e
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: da1652d5bb9a7b7176c74482bfc814aaf8902c3f
 
 
 ---
 
-# 管理注意事项
+# <a name="management-considerations"></a>管理注意事项
 
 支持 BYOD 模型的基础结构中必须具有管理域。 为了完全支持 BYOD 需求，管理域必须允许 IT 监视资源、提供报告功能、管理计算和存储资源、支持设备配置和自动化，并且可以管理应用部署和设置。
 
-## 监视
+## <a name="monitoring"></a>监视
 
 管理域的角色之一是监视符合性设置，不仅对于公司资产，对于用户拥有的移动设备也是如此。 应根据公司业务线评估符合性方面的注意事项。 一些公司可能仅允许公司数据在已加密时驻留在用户的设备上。 IT 必须控制安全设置以强制执行这些策略。
 
 根据公司策略和公司将采用的 BYOD 基础结构，用户设备中的管理级别将有所不同。 如果公司规定必须提供完全擦除功能才能访问公司资源，IT 必须在所有受监控的设备上强制实施此设置。 IT 还需要能够将设备重置为制造商的默认设置，这会擦除所有个人设置和数据（如有必要）。 使用以下部分来确定你的 BYOD 基础结构将需要的监视选项。
 
-### 监视选项 - 优点和缺点
+### <a name="monitoring-options-advantages-and-disadvantages"></a>监视选项 - 优点和缺点
 
 使用以下列表了解每个监视选项的优点和缺点：
 
@@ -59,7 +60,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 
 通过使用 Windows 选择性擦除，IT 可以确保企业分散在公司或个人设备上的公司数据的安全。 开发人员可以创建应用以对数据使用 Windows 选择性擦除策略，并在企业拥有的 Internet 域上对其进行保护。 有关 Windows 选择性擦除的详细信息，请参阅“用于设备数据管理的 Windows 选择性擦除”。
 
-## 报表
+## <a name="reporting"></a>报表
 
 若要保持对已知设备的控制，报告设备功能或者简单地了解这些设备的行为是 IT 的基本任务。 可以使用报告更好地了解当前的环境。 当你不仅尝试了解环境，还要了解某些移动设备的功能时，将出现以下一些问题：
 
@@ -70,7 +71,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 
 请考虑使用可提供设备清单和可自定义报告的管理解决方案。 通过选择此选项，你将在 IT 需要发现关于用户设备的详细信息时为他们提供更灵活的方法。 IT 必须能得到关于已在本地和云中注册的所有设备的报告。 管理系统的报告功能可以位于本地或云中 - 也可以是两者混合（称为混合解决方案）。 使用下表来确定哪个报告选项适用于你的公司。
 
-### 报告选项 - 优点和缺点
+### <a name="reporting-options-advantages-and-disadvantages"></a>报告选项 - 优点和缺点
 
 使用以下列表了解每个报告选项的优点和缺点：
 
@@ -105,7 +106,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 
 有关 Configuration Manager 报告功能的详细信息，请参阅 [Configuration Manager 中的报告简介](https://technet.microsoft.com/library/gg682105.aspx)。
 
-## 计算和存储
+## <a name="compute-and-storage"></a>计算和存储
 
 在开发新应用且用户使用自己的设备对其进行远程访问之后，如果没有合理规划解决方案，应用性能可能会降低。 尽管此设计注意事项指南不会向你深入介绍性能注意事项，但必须回答有关管理基础结构的问题：
 
@@ -113,7 +114,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 - 贵公司当前使用的管理解决方案是否能根据一组预先设定的规则针对支持从用户设备访问应用的平台增加计算和存储资源？
 如果目前采用的管理解决方案不能满足上述两个要求，可考虑使用一种通过解决下表所示的两个核心要求来管理计算和存储的管理解决方案。
 
-### 计算和存储管理功能 - 优点和缺点
+### <a name="compute-and-storage-management-capabilities-advantages-and-disadvantages"></a>计算和存储管理功能 - 优点和缺点
 
 使用以下列表了解每个存储管理功能的优缺点：
 
@@ -138,14 +139,14 @@ System Center 2012 R2 可以使用资源池和弹性来管理存储和计算。 
 
 有关 System Center 2012 R2 存储功能的详细信息，请参阅 [System Center 2012 R2 的 VMM 中的新增功能](https://technet.microsoft.com/library/dn246490.aspx)。 
 
-## 自动化
+## <a name="automation"></a>自动化
 
 自动化可用于修正不合规的设备，并且 IT 还可以指定不同级别的不合规严重性。 你应该考虑自动化在 BYOD 不同方面的用法；例如，如何自动部署将由移动设备使用的新服务？ 如何自动化移动设备的授权过程？
 
 尽管你将看到显示的所有 BYOD 子域都可以利用自动化，但自动化资源的责任属于管理子域。 自动化可内置于操作系统；但是，公司将采用的管理解决方案将负责扩展这些功能并提供减轻 IT 日常任务的方法，同时还要监视和报告自动化所产生的结果。
 System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell。 有关 System Center 2012 R2 自动化的详细信息，请参阅使用 [Windows PowerShell 的 System Center 自动化](https://technet.microsoft.com/library/dn507037(v=sc.20).aspx)。 但是，还可使用另一个选项，它提供一种更为简单但不十分可靠的自动化任务形式：任务序列。 使用下表来评估每个选项的优缺点。
 
-### 自动化选项 - 优点和缺点
+### <a name="automation-options-advantages-and-disadvantages"></a>自动化选项 - 优点和缺点
 
 使用以下列表了解每个自动化选项的优点和缺点：
 
@@ -168,7 +169,7 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
         - 不可脚本化
         - 功能仅适用于 System Center 本身的一些任务
 
-## 部署和设置
+## <a name="deployment-and-provisioning"></a>部署和设置
 
 下一步是了解将应用部署和设置到远程设备的相关注意事项。 应回答两个关键问题：
 
@@ -198,6 +199,6 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

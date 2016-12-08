@@ -1,8 +1,9 @@
 ---
 title: "应用程序管理选项"
-description: 
+description: "本文说明 Intune 独立版和混合版上的移动应用管理 (MAM) 功能，以便客户能够保护企业和个人设备 (BYOD) 上的企业数据。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 2236a337c57c7fede4aed6830ab99d4ee7df3c9b
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 58270148fda3f3b3bb407055abff962ae86f1a14
 
 
 ---
 
-# 应用程序管理选项
+# <a name="application-management-options"></a>应用程序管理选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -39,9 +40,7 @@ Intune MAM 功能不是整个 MDM 解决方案的一种替代方案。 许多设
 
 根据你对步骤 1 中的问题的回答，你应该能够确定想要在移动设备管理解决方案中如何管理应用程序。 以下列表显示每个应用管理选项的优缺点。
 
-## Intune（独立版）
-
-**优点**
+## <a name="intune-standalone"></a>Intune（独立版）
 
 - 支持在以下设备上管理应用程序：在 Intune 中注册的设备、在其他管理解决方案中注册的设备，或未在任何管理解决方案中注册的设备
 - 将公司数据与为 Intune 启用的应用内的客户个人数据中分隔。 其中包括 Office Mobile 应用、已采用 Intune SDK 的第三方应用，或由 Intune 包装的业务线应用
@@ -49,17 +48,13 @@ Intune MAM 功能不是整个 MDM 解决方案的一种替代方案。 许多设
 - 关键数据丢失防护策略，如每个应用的 PIN、另存为控件和应用之间的托管数据共享。
 - 这些功能在 Microsoft Word、Excel、PowerPoint、Outlook、OneNote 和 OneDrive for Business 中受到支持
 - 管理通过企业批量采购计划的 Apple 批量采购计划购买的 iOS 应用
-- 在 Android 和 iOS 设备上受支持
+- 通过其内置功能 [Windows 信息保护](https://technet.microsoft.com/itpro/windows/keep-secure/protect-enterprise-data-using-wip)支持在 Android、iOS 设备和 Windows 10 设备上使用。
 
-**缺点**
-
-- 在 Windows Phone 上不受支持
-
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 - 当前不支持
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -74,6 +69,6 @@ Intune MAM 功能不是整个 MDM 解决方案的一种替代方案。 许多设
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

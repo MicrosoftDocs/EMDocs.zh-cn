@@ -1,10 +1,11 @@
 ---
 title: "应用注意事项"
-description: "BYOD 方案中应用的设计注意事项。"
+description: "本文介绍一系列“自带设备办公”方案中应考虑的针对应用的注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,14 +15,14 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
 
 
 ---
 
 
-# 应用注意事项
+# <a name="app-considerations"></a>应用注意事项
 
 关于 BYOD 的应用注意事项可能会因公司目标、约束和资源而有所不同。 公司应评估其当前应用、已用于开发应用的技术、在任何设备上运行应用的要求，以及用户必需利用哪些应用才能从任意位置进行访问。 尽管现代应用不像基于 Windows 的应用那样需要消耗大量资源进行预配和部署，但是依旧需要成本去开发和维护它们。
 
@@ -34,14 +35,14 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 有关创建移动应用的一般注意事项的详细信息，请阅读[创建适用于商业的移动应用的 10 大注意事项](https://www.microsoft.com/en-gb/developers/articles/week01jan14/10-considerations-when-creating-mobile-apps-for-business)。
 
-## 体验
+## <a name="experience"></a>体验
 
 为了根据将运行应用的平台和部署策略提供更好的用户体验，公司必须确定将发布哪些应用以及发布方式。 如果确定存在异构环境且一些设备受公司支持，可采用通过公司门户发布应用这一策略。 最终，业务决策将决定关于用户体验的注意事项。 公司是否愿意开发无论在哪种平台都提供相同体验的应用？ 或者，公司是否会向用户提供培训，以便他们在不同平台中使用这些应用，而不提供相同的体验？
 针对上一段落提到的每种情况，考虑成本和投资回报。 虽然可以在主要的 Web 门户页面中整合提供相同体验的所有应用，但应用可能根据平台表现出不同的行为。
 
 请考虑以下方面：面向远程用户的应用应该在多个平台上运行、尽可能轻便，并对用户设备要求最小的访问权限，你应该按照基于 Web 的应用和现代应用缩减选项。 下节内容会帮助你确定应将哪种应用体验用于你的解决方案。
 
-### 应用体验选项 - 优点和缺点
+### <a name="app-experience-options-advantages-and-disadvantages"></a>应用体验选项 - 优点和缺点
 
 使用以下列表了解每个应用体验选项的优缺点：
 
@@ -70,7 +71,7 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
         - 可能需要开发人员提升知识，以使用这一新形式开发应用。
 
 
-### 应用要求 - 注意事项
+### <a name="app-requirements-considerations"></a>应用要求 - 注意事项
 
 评估那些为了便于远程用户从他们的设备使用而进行调整的应用，并确保向用户显示以下要求。 下面为你提供了应用要求列表和每个要求的注意事项：
 
@@ -92,13 +93,13 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 为了增强用户体验，你还应该根据开发团队的标准将所有应用分类，以免用户总是需要滚动浏览数百个应用。
 
-## 平台
+## <a name="platform"></a>平台
 
 在处理用户体验时，评估不同的平台并确定你的公司愿意支持哪种平台是很正常的。 很多时候，支持用户使用自己的设备意味着具有一个异构生态系统，IT 可能还没准备好支持这种生态系统。
 
 每个平台对于签名和发布应用都有不同的要求，它们会直接影响 IT 资源，因为 IT 需要评估在特定平台上运行的应用的整个生命周期。 你还需要访问用于 BYOD 基础结构解决方案的应用的平台要求。 下一节包含有关应用平台要求的关键注意事项。
 
-### 应用平台要求 - 注意事项
+### <a name="app-platform-requirements-considerations"></a>应用平台要求 - 注意事项
 
 下面为你提供了应用平台要求列表和每个要求的注意事项：
 
@@ -127,11 +128,11 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 根据公司部署策略的当前状态，以及该状态在他们选择使用 Windows 应用商店时的发展方式，这些答案将有所不同。 请记住，Windows 应用商店是一种数字分配系统，并且是 Windows 10、Windows 8.1、Windows 8 和 Windows RT 中现代应用的主要分配平台。 但是，也可以使用 Windows 应用商店列出那些已认证为可以在基于 Windows 8 的设备上运行的桌面应用。 有关旁加载应用的详细信息，请参阅[试用：旁加载的 Windows 应用商店应用](https://technet.microsoft.com/windows/jj874388.aspx)。
 
-## 部署
+## <a name="deployment"></a>部署
 
 为了处理有关要部署到用户的应用的注意事项，有必要了解公司访问权限的相关要求。 即使用户不需要有权访问其他公司资源，或不需要对企业网络内所有企业资源的完全访问权限，部署方案中仍包含必须始终连接到公司资源的应用。 验证每个应用的部署选项，并评估哪种方法是贵公司的首选。 下一节包含最常用的部署选项，你可以将其用作决策基线的一部分。
 
-### 部署选项 - 优点和缺点
+### <a name="deployment-options-advantages-and-disadvantages"></a>部署选项 - 优点和缺点
 
 使用以下列表了解每个部署选项的优缺点：
 
@@ -163,7 +164,7 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
         - 通常需要云服务订购。
         - 与本地部署解决方案的集成可能会因云服务而有所不同。
 
-### 应用部署要求 - 注意事项
+### <a name="app-deployment-requirements-considerations"></a>应用部署要求 - 注意事项
 
 你还需要针对 BYOD 基础结构解决方案访问应用的部署要求。 以下列表包含一些关键的应用部署注意事项：
 
@@ -185,7 +186,7 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 如果你的公司采用 Windows Phone，并希望使用户能够针对此平台使用 LOB 应用，首先应了解应用的注册过程。 公司必须执行一些步骤以建立公司帐户、注册设备并将应用分发到它们注册的设备。 有关 Windows Phone 应用部署的详细信息，请参阅 [Windows Phone 的公司应用分发](https://msdn.microsoft.com/library/windowsphone/develop/jj206943(v=vs.105).aspx)。
 
-## 存储和网络
+## <a name="storage-and-network"></a>存储和网络
 
 存储和网络应用注意事项可能对应用服务器和设备都有影响。 当你开始考虑应用的这两个核心组件时，将出现下列问题：
 
@@ -196,7 +197,7 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 下一节包含关于应用存储和网络要求的关键注意事项。
 
-### 应用存储和网络要求 - 注意事项
+### <a name="app-storage-and-network-requirementsconsiderations"></a>应用存储和网络要求 - 注意事项
 
 使用以下列表了解每个应用存储的优缺点以及网络要求和注意事项：
 
@@ -231,7 +232,7 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 对于将哪些应用部署和体验用于 BYOD 基础架构设计的决策应与总拥有成本 (TCO) 相均衡。 若要更好地了解采用 VDI 的 TCO，我们推荐你阅读[针对机构工作人员环境的 VDI TCO 分析](http://www.intel.in/content/www/in/en/data-center-efficiency/data-center-efficiency-vdi-tco-analysis-for-office-worker-environments-report.html)。
 
-## 安全
+## <a name="security"></a>安全
 
 请考虑为所有应用（它们将由利用自己设备的用户使用）使用安全开发生命周期。 必须在开发过程的所有阶段中嵌入安全性措施，并且应考虑到所有可能的威胁。 [STRIDE](https://msdn.microsoft.com/magazine/cc163519.aspx) 和其他安全策略可以通过使用 [Microsoft 安全开发生命周期 (SDL)](https://www.microsoft.com/security/sdl/process/requirements.aspx) 合并到开发生命周期。 当前基础结构将如何与 BYOD 的总体安全策略集成？这是一个重要的注意事项。 当前环境能够为应用提供安全的基础吗？ 公司是否需要获取第三方安全解决方案以减少采用新方案会带来的任何潜在漏洞？
 
@@ -239,6 +240,6 @@ ms.openlocfilehash: 09044a31ace0ea1409599abcc70dba857e45a8af
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

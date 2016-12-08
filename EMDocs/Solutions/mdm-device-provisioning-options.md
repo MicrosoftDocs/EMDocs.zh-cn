@@ -1,8 +1,9 @@
 ---
-title: "设备预配选项"
-description: 
+title: "设备设置选项"
+description: "本文提供有关使用企业移动性 + 安全性规划和设计 Microsoft 移动设备管理解决方案时的设备设置选项的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 9a92d3822f8791d2095f434cdf3e67582e329cae
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 3df9be3ef643303f4205aa1b6daf18fdf53762d8
 
 
 ---
 
-# 设备预配选项
+# <a name="device-provisioning-options"></a>设备设置选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -39,7 +40,7 @@ ms.openlocfilehash: 9a92d3822f8791d2095f434cdf3e67582e329cae
 
 根据你对步骤 1 中的问题的回答，你应该能够确定想要在移动设备管理解决方案中如何管理设备。 下面的列表显示了每个预配选项的优缺点。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -53,7 +54,7 @@ ms.openlocfilehash: 9a92d3822f8791d2095f434cdf3e67582e329cae
 - （仅）在将本地管理平台用于非移动设备时，预配移动设备还有其他管理界面
 - 适用于基于云的服务和本地管理平台的单独设备合规性和安全策略 
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -67,7 +68,7 @@ ms.openlocfilehash: 9a92d3822f8791d2095f434cdf3e67582e329cae
 - 适用于基于云的服务和本地管理平台的单独设备合规性和安全策略
 - 普通设备预配选项
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -84,6 +85,6 @@ ms.openlocfilehash: 9a92d3822f8791d2095f434cdf3e67582e329cae
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

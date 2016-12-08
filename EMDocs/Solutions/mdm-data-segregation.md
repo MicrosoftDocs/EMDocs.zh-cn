@@ -1,10 +1,11 @@
 ---
 title: "数据分隔"
-description: "移动设备管理方案的数据分隔设计注意事项。"
+description: "本文介绍一系列移动设备管理方案中应考虑的有关数据分隔的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 56e61eddf9ae62417d3e05082edbdf0560f6e00d
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 030d0c1dca506ac7757e8c26910ea4725a1b9c2c
 
 
 ---
 
-# 数据分隔
+# <a name="data-segregation"></a>数据分隔
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -29,7 +30,7 @@ ms.openlocfilehash: 56e61eddf9ae62417d3e05082edbdf0560f6e00d
 
 ![数据分隔](./media/MDM_Figure_10.png)
 
-## 用户的个人数据与公司的数据隔离
+## <a name="users-personal-data-is-isolated-from-companys-data"></a>用户的个人数据与公司的数据隔离
 
 通过使 MDM 解决方案部署的所有应用、公司数据和策略保持分离，可以在必要时使用选择性擦除从设备中删除这些内容，而不会影响用户的个人内容和应用。 
 
@@ -52,7 +53,7 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 
 下表比较了不同的 MDM 解决方案提供的选择性擦除功能，以帮助你选择最符合你的组织的数据分隔要求的 MDM 解决方案。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -65,7 +66,7 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 - 不包括移动设备存储的本机加密
 - 没有与当前本地 MDM 平台的集成意味着将增加一个管理接口供你使用
 
-## 包含 MDM 的 Office 365
+## <a name="office-365-with-mdm"></a>包含 MDM 的 Office 365
 
 **优点**
 
@@ -76,7 +77,7 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 
 - 没有与当前本地 MDM 平台的集成意味着将增加一个管理接口供你使用
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -93,6 +94,6 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

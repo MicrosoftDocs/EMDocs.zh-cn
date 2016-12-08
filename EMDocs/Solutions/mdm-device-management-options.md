@@ -1,8 +1,9 @@
 ---
 title: "设备管理选项"
-description: 
+description: "本文提供有关使用企业移动性 + 安全性规划和设计 Microsoft 移动设备管理解决方案时的设备管理选项的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 93e88e3b36f2f247978981d2af381d30c6d79f5b
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 3e930a5a9a39b15a4ce39c5cfa1e37038917f842
 
 
 ---
 
-# 设备管理选项
+# <a name="device-management-options"></a>设备管理选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -42,7 +43,7 @@ ms.openlocfilehash: 93e88e3b36f2f247978981d2af381d30c6d79f5b
 
 对步骤 1 中的问题的回答可以帮助你确定想要如何在移动设备管理解决方案中注册设备。 下面的列表将有助于你了解每个管理方案的优缺点。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -62,7 +63,7 @@ ms.openlocfilehash: 93e88e3b36f2f247978981d2af381d30c6d79f5b
 
 - 用户帐户在 Intune 服务中注册设备的其他许可要求和成本
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -82,7 +83,7 @@ ms.openlocfilehash: 93e88e3b36f2f247978981d2af381d30c6d79f5b
  - 将企业数据安全扩展到移动设备的业务线应用
  - 托管的浏览器或其他内容查看应用程序
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -98,6 +99,6 @@ ms.openlocfilehash: 93e88e3b36f2f247978981d2af381d30c6d79f5b
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

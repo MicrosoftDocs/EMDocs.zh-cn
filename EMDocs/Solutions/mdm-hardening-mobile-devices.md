@@ -1,10 +1,11 @@
 ---
 title: "强化移动设备"
-description: "在移动设备管理方案中的增强移动设备时的注意事项。"
+description: "本文介绍移动设备管理方案中有关强化移动设备的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 050d92824ad2616440d9d4b972a812be0ab5a14a
 
 
 ---
 
-# 强化移动设备
+# <a name="hardening-mobile-devices"></a>强化移动设备
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -32,7 +33,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 
 ![安全层](./media/MDM_Figure_12.png)
 
-## 移动设备强化的不同区域
+## <a name="different-areas-of-mobile-device-hardening"></a>移动设备强化的不同区域
 
 每个层可用于对必须符合你的业务安全要求的区域进行分组。 例如，可以配置 Intune 以部署专门用于强化系统设置并启用加密的设备的[安全策略](/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)。 这些策略还将通过创建访问允许列表来确保仅[兼容应用](https://technet.microsoft.com/library/dn818906.aspx)可在移动设备上进行安装。
 
@@ -53,7 +54,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 
 强化移动设备平台对于在保护公司数据的同时允许用户在不影响安全性的情况下使用他们的移动设备起到了重要的作用。 使用下表作为参考协助你选择最符合组织的数据强化要求的 MDM 选项。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -65,7 +66,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 - 缺乏与当前本地 MDM 平台的集成，将引入一个附加的管理接口供你在管理移动设备时使用
 - 某些策略可能不适用于某些移动平台
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -78,7 +79,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 - 某些策略可能不适用于某些移动平台
 - 不允许与 Intune 相当的粒度
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -95,6 +96,6 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

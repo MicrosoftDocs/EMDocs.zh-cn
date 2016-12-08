@@ -1,10 +1,11 @@
 ---
 title: "BYOD 设计注意事项指南"
-description: "BYOD 采用的简介和设计注意事项过程的概述。"
+description: "本文介绍有关采用“自带设备办公”模型的相关问题，并概述设计考虑过程。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 836489f7601f6d82a2adb9f9aa989cdb163afbd0
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 78fad0e7714797962fc2ab3c8f8ec6c10d8019d0
 
 
 ---
 
-# BYOD 设计注意事项指南
+# <a name="byod-design-considerations-guide"></a>BYOD 设计注意事项指南
 
 随着员工所使用设备的迅速普及，大多数企业正面临着严峻的两难境地：如何既能允许他们的用户使用自己的设备，同时又能保护留在这些设备上的公司数据？ 企业正在从传统的模型（企业拥有并为员工提供设备）转变到另一种模型（员工使用个人设备完成一些工作任务）。 此模型通常称为[自带设备办公 (BYOD)](https://technet.microsoft.com/library/dn645493.aspx)。 在此模型中，允许员工使用其个人设备执行某些工作任务，但前提是员工允许公司管理他们设备的某些方面以确保企业数据的安全。 通常，这意味着用户允许公司应用自定义策略、加强设备，或标准化根据公司政策建立的操作系统。 读过来自 Microsoft 的[关于工作方式转换的 CIO 注意事项](http://download.microsoft.com/download/5/3/A/53A96632-02E3-416C-B209-D8725AA80AFE/CIO%20Considerations%20for%20Workstyle%20Transformation2.pdf)文章的公司高管和决策者还可以确定采用一种员工有权使用其设备高效工作的模型所带来的好处。
 
@@ -34,11 +35,11 @@ ms.openlocfilehash: 836489f7601f6d82a2adb9f9aa989cdb163afbd0
 
 本指南向系统设计师和系统设计人员提供关键设计注意事项的集合，在设计允许员工使用自己的设备并保护公司数据的“自带设备办公 (BYOD)”基础结构之前，必须考虑这些注意事项。
 
-## 目标受众
+## <a name="intended-audience"></a>目标受众
 
 本指南的主要受众是那些有兴趣了解他们在实现 BYOD 基础结构之前要考虑的问题的系统架构师或系统设计人员。 对此指南感兴趣的其他人可能包括 IT 实施人员、企业安全专家以及设备管理专家。</para>
     
-## 目的
+## <a name="purpose"></a>目的
   
 本指南的目的：
 
@@ -62,7 +63,7 @@ ms.openlocfilehash: 836489f7601f6d82a2adb9f9aa989cdb163afbd0
 - 提供用于移动设备的应用开发最佳做法。
 - 提供用于第三方组件的指南和最佳做法。
 
-## 问题定义
+## <a name="problem-definition"></a>问题定义
 
 尝试采用 BYOD 的公司通常会遇到以下问题或挑战：
 
@@ -78,6 +79,6 @@ ms.openlocfilehash: 836489f7601f6d82a2adb9f9aa989cdb163afbd0
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

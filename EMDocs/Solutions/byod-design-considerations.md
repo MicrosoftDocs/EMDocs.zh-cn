@@ -1,10 +1,11 @@
 ---
 title: "设计注意事项"
-description: "BYOD 方案中产品和技术的设计注意事项。"
+description: "本文介绍一系列有关“自带设备办公”方案中产品和技术的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,19 +15,19 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: c78024f38da8660a9c8e4e9813890110f49107be
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 3dbf7072bbc3baf6a97072f1cbbd15bd236349d3
 
 
 ---
 
-# 设计注意事项
+# <a name="design-considerations"></a>设计注意事项
 
 了解本文档中“构想 BYOD 基础结构解决方案”中详细介绍的要求之后，你可以选择适当的产品和技术来实现 BYOD 基础结构设计的要求。 下表列出了可用于实现 BYOD 基础架构解决方案的 Microsoft 产品、技术和服务。
 
 本指南中所述的用于 BYOD 基础架构解决方案的 Microsoft 产品、技术和服务分别为：
 
-## 用户和设备
+## <a name="user-and-device"></a>用户和设备
 
 - Windows Server 2012 R2
 - Windows 10
@@ -37,7 +38,7 @@ ms.openlocfilehash: c78024f38da8660a9c8e4e9813890110f49107be
 - Company Portal
 - HTTPS 协议
 
-## 数据访问和保护
+## <a name="data-access-and-protection"></a>数据访问和保护
 
 - Windows Server 2012 R2
 - Active Directory 域服务 (AD DS)
@@ -52,7 +53,7 @@ ms.openlocfilehash: c78024f38da8660a9c8e4e9813890110f49107be
 - 工作文件夹
 - Web 应用程序代理 (WAP)
 
-## Management
+## <a name="management"></a>Management
 
 - Microsoft Intune
 - 设备管理策略
@@ -62,7 +63,7 @@ ms.openlocfilehash: c78024f38da8660a9c8e4e9813890110f49107be
 - 分发点使用报告和管理
 - System Center 2012 R2 Configuration Manager
 
-## 应用
+## <a name="apps"></a>应用
 
 - Web 应用程序代理
 - 自动触发器 VPN
@@ -83,6 +84,6 @@ ms.openlocfilehash: c78024f38da8660a9c8e4e9813890110f49107be
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

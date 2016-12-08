@@ -1,8 +1,9 @@
 ---
 title: "确定 SaaS 连接要求"
-description: 
+description: "本文帮助确定使用企业移动性 + 安全性解决方案规划实施移动设备管理时的服务型软件连接要求。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 5fecc1493f447e507324da3f6a201377e39aee4e
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 3cea66edad4cb791342cb193495629fa4ce27d0d
 
 
 ---
 
-# 确定 SaaS 连接要求
+# <a name="identify-saas-connectivity-requirements"></a>确定 SaaS 连接要求
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -35,7 +36,7 @@ ms.openlocfilehash: 5fecc1493f447e507324da3f6a201377e39aee4e
 
 根据你对任务 2 中的问题的回答，你应该能够确定 SaaS 解决方案需要如何连接到移动设备管理解决方案的本地客户端管理平台。 下面的列表将帮助你了解将本地基础结构与 SaaS 解决方案连接的优点和缺点。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -48,7 +49,7 @@ ms.openlocfilehash: 5fecc1493f447e507324da3f6a201377e39aee4e
 
 - 高级目录服务连接性特性和功能需要与 Azure Active Directory Premium 配对
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -61,7 +62,7 @@ ms.openlocfilehash: 5fecc1493f447e507324da3f6a201377e39aee4e
 
 - 不支持与其他 SaaS 解决方案或应用程序的移动应用程序管理集成
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -75,6 +76,6 @@ ms.openlocfilehash: 5fecc1493f447e507324da3f6a201377e39aee4e
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

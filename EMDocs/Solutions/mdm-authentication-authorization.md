@@ -1,10 +1,11 @@
 ---
 title: "身份验证和授权"
-description: "移动设备管理方案的身份验证和授权设计注意事项。"
+description: "本文介绍一系列移动设备管理方案中应考虑的有关身份验证和授权的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 989c899bc25ef28bea6d73f759998a70def1e659
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: ff3b086f2ad076776e7cff918ef4bb26161427fd
 
 
 ---
 
-# 身份验证和授权
+# <a name="authentication-and-authorization"></a>身份验证和授权
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -44,7 +45,7 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 使用下表作为参考协助你选择最符合组织的身份验证和授权要求的 MDM 选项。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -56,7 +57,7 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 - 当你购买 Intune 订阅时，不包含 Azure AD 云服务
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -69,7 +70,7 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 - 当你购买 Office 365 订阅时，不包含 Azure AD 云服务
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -80,7 +81,7 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 - 当你购买 Intune 订阅时，不包含 Azure AD 云服务
 
-## 企业移动性 + 安全性
+## <a name="enterprise-mobility-security"></a>企业移动性 + 安全性
 
 **优点**
 
@@ -97,6 +98,6 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

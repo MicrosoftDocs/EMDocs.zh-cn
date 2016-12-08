@@ -1,8 +1,9 @@
 ---
 title: "移动设备管理设计注意事项指南"
-description: 
+description: "本文为 IT 专业人员提供有关如何基于企业移动性 + 安全性设计 Microsoft 移动设备管理 (MDM) 解决方案的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/18/2016
 ms.topic: solution
@@ -14,17 +15,17 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 4ec5d33354205d37fa1f8f57458272f009cc8877
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
 
 
 ---
 
-# 移动设备管理设计注意事项指南
+# <a name="mobile-device-management-design-considerations-guide"></a>移动设备管理设计注意事项指南
 
 由于移动设备管理 (MDM) 解决方案有许多不同的设计和配置选项，因此有时难以确定哪个解决方案最符合组织的需求。 此设计指南将帮助你了解 MDM 设计要求，并且将详细介绍一系列你可以遵循的步骤和任务，以设计最符合组织的业务和技术需求的 MDM 解决方案。 
 
-## 入门
+## <a name="getting-started"></a>入门
 
 在这些步骤和任务中，本指南将介绍组织可以使用的相关技术和功能选项以满足功能和服务质量（例如可用性、可伸缩性、性能、可管理性和安全性）级别要求。
 
@@ -51,25 +52,25 @@ ms.openlocfilehash: 4ec5d33354205d37fa1f8f57458272f009cc8877
 
 **假设：**具有使用 Microsoft Intune、System Center 2012 R2 Configuration Manager (ConfigMgr)、Windows Server 2012 R2 和运行 Android、iOS 和 Windows Phone 的移动设备的经验。 你可能在初始 MDM 测试或有限生成环境中部署过其中一个解决方案。 在本指南中，我们假设你正在查找这些解决方案如何单独或在集成的解决方案中满足你的业务需求。
 
-## MDM 设计注意事项
+## <a name="mdm-design-considerations"></a>MDM 设计注意事项
 本指南涵盖一组你可以遵循的步骤和任务，以设计最符合你的要求的解决方案。 这些步骤将按顺序呈现。 但是，由于你的设计日趋成熟或设计选择发生冲突，你在后续步骤中了解的设计注意事项可能会提示你更改在你之前的步骤中所做的决策。 我们将在本指南中向你警报潜在的设计冲突。
 
 只有在为了将本指南中的所有注意事项纳入考虑而循环访问以下步骤足够多的次数之后，你才会开发出最符合要求的移动设备管理设计。 
 
 - [步骤 1 - 确定你的移动设备管理要求](mdm-step-1-identify-your-mobile-device-management-requirements.md)
-- [步骤 2 - 规划移动设备管理](mdm-step-2-plan-for-mobile-device-management.md)
+- [步骤 2 - 计划移动设备管理](mdm-step-2-plan-for-mobile-device-management.md)
 - [步骤 3 - 计划保护移动设备](mdm-step-3-plan-enhancing-mobile-devices-protection.md)
-- [步骤 4 - 规划软件型服务移动设备管理](mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md)
+- [步骤 4 - 规划软件即服务移动设备管理](mdm-step-4-plan-for-software-as-a-service-mobile-device-management.md)
 - [后续步骤和其他资源](mdm-next-steps-and-additional-resources.md)
 
 >[!NOTE]
 > 使用本指南前，也可观看 Channel9 播出的[移动设备管理的设计注意事项视频演示](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1610)，了解有关本指南的帮助。 
         
-## 正在查找可下载的版本？
+## <a name="looking-for-a-downloadable-version"></a>正在查找可下载的版本？
 可在 [ TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)中获取此完整指南的可下载副本。
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

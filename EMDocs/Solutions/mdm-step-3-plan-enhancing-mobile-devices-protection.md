@@ -1,10 +1,11 @@
 ---
 title: "移动设备保护加强计划"
-description: "移动设备管理方案中有关移动设备保护的设计注意事项。"
+description: "本文介绍移动设备管理方案中有关移动设备保护的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/3/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: fe00ace9c2a1fcdba26fd64c583f11f794ee8259
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: bbef17c4d072706a5704c871eee490fba5c9052c
 
 
 ---
 
-# 移动设备保护加强计划
+# <a name="plan-for-enhancing-mobile-devices-protection"></a>移动设备保护加强计划
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -31,7 +32,7 @@ ms.openlocfilehash: fe00ace9c2a1fcdba26fd64c583f11f794ee8259
 
 ![MDM 平台的核心安全功能](./media/MDM_Figure_08.png)
 
-## MDM 解决方案中的安全功能
+## <a name="security-capabilities-in-a-mdm-solution"></a>MDM 解决方案中的安全功能
 
 下图显示任何 MDM 解决方案中所需的核心安全功能。 要考虑的关键领域如下所示：
 
@@ -58,7 +59,7 @@ ms.openlocfilehash: fe00ace9c2a1fcdba26fd64c583f11f794ee8259
 
 下列部分描述的任务可以帮助你了解你的特定安全需求将如何影响关于业务要求的最佳 MDM 解决方案的决策。
 
-## 关于此步骤
+## <a name="about-this-step"></a>关于此步骤
 
 本指南此部分有 12 个步骤。 阅读这些部分的总时间大约为 36 分钟，你也可以跳到特定的部分。
 
@@ -78,6 +79,6 @@ ms.openlocfilehash: fe00ace9c2a1fcdba26fd64c583f11f794ee8259
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

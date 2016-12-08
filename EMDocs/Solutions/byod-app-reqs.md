@@ -1,10 +1,11 @@
 ---
 title: "应用要求"
-description: "在 BYOD 方案中部署应用的常见要求。"
+description: "本文介绍一系列“自带设备办公”方案中应使用的针对应用部署的常规要求。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: d5297dbb3d22feda4189bc120b2bb4537fa5f590
 
 
 ---
 
-# 应用要求
+# <a name="app-requirements"></a>应用要求
 
 每个组织都使用多种技术能力以使其工作人员以优化的方式执行任务，在大多数情况下，主要工具是一个应用。 可以使用多平台方法（不同的技术用于实现特定的目标），或者通过创建能够执行某个任务或使某些过程自动化的自定义应用，将这些功能合并。 设计 BYOD 策略时请务必考虑应用。 用户将使用不同的外观设置来使用这些应用；因此，你必须考虑这些应用应支持的各种功能。 下图显示了用户和设备如何通过应用使用数据，以及“应用”子域的每个组件的注意事项。
 
@@ -28,7 +29,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 
 下一节包含为了制定解决方案设计的要求而必须回答的有关应用要求的问题。
 
-## 要提出的问题
+## <a name="questions-to-ask"></a>要提出的问题
 
 应用要求可分为六个方面：
 
@@ -40,7 +41,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 - 安全
 
 
-### 体验
+### <a name="experience"></a>体验
 
 - 你是否打算保留相同的用户体验，而不考虑将运行应用的设备？
 - 这些应用是否需要从用户设备访问 Internet？
@@ -55,7 +56,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 - 这些应用是否与社交网络有任何集成？
 
 
-### 平台
+### <a name="platform"></a>平台
 
 - 运行这些应用需要哪种类型的后端平台？
 - 对于将需要升级你打算允许远程用户使用的应用后端平台的 BYOD 采用，你是否预知任何活动增加？
@@ -63,7 +64,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 - 将支持这些应用的平台完全位于本地，或是否还存在位于云中的服务器？
 
 
-### 部署
+### <a name="deployment"></a>部署
 
 - 你是否了解将为 BYOD 用户提供哪些应用？
 - 你打算如何将这些应用部署到用户设备？
@@ -75,7 +76,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
     - 如果是，将使用哪种证书颁发机构（专用或公用）？
 - 用户是否需要物理连接到企业网络来执行安装，或是否可以通过 Internet 安装应用？
 
-### 存储
+### <a name="storage"></a>存储
 
 - 在目标设备中安装每个应用所需的空间大小是多少？
 - 应用是否会加密位于设备存储中的数据？
@@ -85,7 +86,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 - 由应用使用的数据是位于本地存储中、云存储中，还是本地存储和云存储中？
 - 在数据中心存储中还是在云中加密由应用使用的数据？
 
-### 网络
+### <a name="network"></a>网络
 
 - 你打算为 BYOD 用户部署的应用的网络要求有哪些？
 - 在应用通过网络将数据从用户设备传输到后端上的应用服务器之前，是否对数据进行加密？
@@ -95,7 +96,7 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 - 这些应用是否可在低延迟的网络中运行？
 - 是否可以通过网络远程卸载这些应用，或者必须通过设备控制台卸载它们？
 
-### 安全
+### <a name="security"></a>安全
 
 - 开发的应用是否使用了任何安全开发方法？
 - 这些应用是否提供身份验证功能？
@@ -121,6 +122,6 @@ ms.openlocfilehash: afca333ad60c623e0355e4a6423238c72287c950
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

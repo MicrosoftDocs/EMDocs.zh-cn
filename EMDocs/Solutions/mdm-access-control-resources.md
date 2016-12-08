@@ -1,10 +1,11 @@
 ---
 title: "对资源的访问控制"
-description: "移动设备管理的访问控制设计注意事项。"
+description: "本文介绍一系列移动设备管理方案中应考虑的有关访问控制的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 80a435883f8df7ea7f6dde46e40f80e873ea617e
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 782f6dac4a366312ce0a6d04735262908df6fe72
 
 
 ---
 
-# 对资源的访问控制
+# <a name="access-control-to-resources"></a>对资源的访问控制
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -31,7 +32,7 @@ ms.openlocfilehash: 80a435883f8df7ea7f6dde46e40f80e873ea617e
 
 ![身份验证流](./media/MDM_Figure_13.png)
 
-## 基本身份验证和授权流
+## <a name="basic-authentication-and-authorization-flow"></a>基本身份验证和授权流
 
 传统的访问控制列表 (ACL) 非常有限，并且不会考虑用户状态的其他方面，例如他尝试访问此资源时所在的位置。 如果你的组织在授予对资源的访问权限之前需要包含更多的变量，可以使用在 Windows Server 2012 中本地提供的[动态访问控制](https://technet.microsoft.com/library/dn408191.aspx)。 Windows 10 支持运行状况证明，这在提供数据访问权限之前有助于 IT 人员控制设备的运行状况的状态。 远程运行状况证明服务执行一系列测量检查。 它验证安全相关的数据点，包括启动状态（安全启动、调试模式等），以及管理安全性的组件状态（BitLocker、设备保护等）。 然后，它通过向设备发回运行状况加密的 blob 来传递设备的运行状况状态。 有关详细信息，请参阅[控制基于 Windows 10 的设备运行状况](https://technet.microsoft.com/library/mt592023.aspx)。
 
@@ -43,7 +44,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 
 使用下表作为参考协助你选择最符合组织的访问控制要求的 MDM 选项。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -55,7 +56,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 - 如果缺少与当前本地 MDM 平台的集成，将引入一个附加的管理接口供你使用
 - 某些策略可能不适用于某些移动平台
  
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -67,7 +68,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 - 如果缺少与当前本地 MDM 平台的集成，将引入一个附加的管理接口供你使用
 - 某些策略可能不适用于某些移动平台
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -78,7 +79,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 
 - 当你购买 Intune 订阅时，不包含 Azure AD 云服务
 
-## 企业移动性 + 安全性
+## <a name="enterprise-mobility-security"></a>企业移动性 + 安全性
 
 **优点**
 
@@ -92,6 +93,6 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

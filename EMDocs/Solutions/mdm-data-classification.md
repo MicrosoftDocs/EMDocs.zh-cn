@@ -1,10 +1,11 @@
 ---
 title: "数据分类"
-description: "移动设备管理方案的数据分类设计注意事项。"
+description: "本文介绍一系列移动设备管理方案中应考虑的有关数据分类的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,13 +15,13 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 3e877ecf720e0932209abcfd954e94a7c551bfb4
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 94c02152e553bdeba1bd1568c409d816ac078e9a
 
 
 ---
 
-# 数据分类
+# <a name="data-classification"></a>数据分类
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -35,7 +36,7 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 使用下表作为参考协助你选择最符合组织的*数据分类*要求的 MDM 选项。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -45,7 +46,7 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 - 不可用
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -56,7 +57,7 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 - 文件本身不执行数据分类。 在文件位于移动设备上后，可以不受限制地使用它。
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -66,7 +67,7 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 - 不可用
 
-## 企业移动性 + 安全性
+## <a name="enterprise-mobility-security"></a>企业移动性 + 安全性
 
 **优点**
 
@@ -82,6 +83,6 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

@@ -1,10 +1,11 @@
 ---
 title: "数据访问和保护注意事项"
-description: "BYOD 方案中有关数据访问和保护的设计注意事项。"
+description: "本文介绍一系列有关“自带设备办公”方案中数据访问和保护的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 11/28/2016
 ms.topic: solution
 ms.prod: 
 ms.service: 
@@ -14,18 +15,18 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: e7411890405267eaea2e32d686052472b88edad2
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: cbf0f54d2d288baf66f914ef8366a70448218607
 
 
 ---
 
-# 数据访问和保护注意事项
+# <a name="data-access-and-protection-considerations"></a>数据访问和保护注意事项
 
 任何公司都面临着丢失敏感数据的操作风险，随着 BYOD 的出现，信息将驻留在比以往更多的位置。 这将带来更大的威胁和更高的风险，必须正确地将其缓解。 由于一系列司法、公司和行业规定管理着对于敏感数据的保护，因此数据保护是一个复杂的过程。 请务必考虑到这些法律要求、公司内部政策以及行业规定。
 作为 BYOD 基础结构战略的一部分，在定义策略和数据分类之后，必须将数据以物理方式放置在适当的分类级别，并应用适当的安全设置，这点十分重要。 IT 需要通过一种方法来验证用户的身份，并且希望针对能够访问公司提供的信息和应用的设备类型应用其他条件。
 
-## 存储
+## <a name="storage"></a>存储
 
 在用户设备中存储数据的方式直接影响你选择如何为 BYOD 处理数据访问和保护。 必须考虑数据加密，并且设备必须允许 IT 控制何时启用数据加密以及对哪些类型的数据启用数据加密。 公司必须查看其策略和规定，以了解允许哪些类型的数据离开数据中心并存放在远程设备的存储中。 对数据中心的存储中存放的数据进行加密至关重要。 如果你的公司尚未执行此任务，则它必须作为 BYOD 基础结构战略的一部分加以考虑。 理想情况下，应该在整个路径中对数据进行加密。
 
@@ -37,7 +38,7 @@ ms.openlocfilehash: e7411890405267eaea2e32d686052472b88edad2
 
 Windows 操作系统中可用的其他存储技术还可用于增强对数据的总体保护，例如，用于驱动器加密的 BitLocker 和用于文件加密的[加密文件系统 (EFS)](https://technet.microsoft.com/library/cc700811.aspx)。 使用下表查看存储保护的优缺点。 请记住，这些选项并不相互排斥。 换言之，你的设计决策可能推断出你在 BYOD 基础架构解决方案中需要以下所有选项来进行存储保护。
 
-### 存储保护选项 - 优点和缺点
+### <a name="storage-protection-options-advantages-and-disadvantages"></a>存储保护选项 - 优点和缺点
 
 使用以下列表了解每个存储保护选项的优缺点：
 
@@ -85,7 +86,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
         - 不限制使用第三方屏幕捕获程序复制内容
         - 不会阻止由计算机病毒操作导致的内容丢失或损坏
 
-## 网络
+## <a name="network"></a>网络
 
 要考虑使用户能够使用他们的设备，以及使数据在数据中心（本地）或云与用户设备之间的整条路径上保持安全所涉及到的各个因素，这一点至关重要。 这些因素在下图中突出显示：
 
@@ -93,7 +94,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
 
 此关系图突出显示了关键的区域，其中必须针对 BYOD 基础结构考虑数据保护。 下节将更加详细地介绍这些区域。
 
-### 数据保护 - 位置和注意事项
+### <a name="data-protection-locations-and-considerations"></a>数据保护 - 位置和注意事项
     
 根据数据位置，使用下面的列表来了解有关数据保护的注意事项。 以下列表中的数字对应于上面的关系图：
 
@@ -121,7 +122,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 使用下一节评估哪个网络保护选项可以最好地满足你对后端服务器通信的设计要求。
 
-### 网络保护选项 - 优点和缺点
+### <a name="network-protection-options-advantages-and-disadvantages"></a>网络保护选项 - 优点和缺点
 
 使用以下列表了解每个网络保护选项的优缺点：
 
@@ -150,13 +151,13 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
     - 缺点
         - 它仅适用于 Windows 8 和更高版本的客户端计算机以及 Windows Server 2012 和更高版本的服务器计算机
 
-## 目录
+## <a name="directory"></a>目录
 
 用户属性应存储在目录中，这使 IT 能够轻松查询诸如角色和组等用户信息。 此外，你还应该考虑如何跟踪用户和设备之间的关系。 每个由 IT 从未知转变为已知或可管理的设备都应该在管理数据库或目录中有一条记录，它使 IT 可以审核该设备。
 
 在混合环境中，将存在不同的身份验证存储库，各公司应考虑如何使用户能够使用相同的凭据进行身份验证，而不考虑他们的位置和应用的位置。 如果你要在本地集中身份验证而不是通过云服务提供商复制目录，请考虑使用 Active Directory 联合身份验证服务 (AD FS)。 使用下一节来评估用于 BYOD 基础结构的目录选项。
 
-### 目录选项 - 优点和缺点
+### <a name="directory-options-advantages-and-disadvantages"></a>目录选项 - 优点和缺点
 
 使用以下列表了解每个目录保护选项的优缺点：
 
@@ -204,7 +205,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 在 Windows 8.1 中使用设备注册服务时，证书安装在用户的设备中，并且将在 AD DS 中创建一条带有证书指纹编号的设备记录。 设备和用户之间的这一链接使 IT 可以跟踪每个用户注册了哪些设备。 此功能不要求企业 PKI。 设备注册同样在 Windows 10 和 Azure AD 中可用。 有关使用 Azure AD 和 Windows 10 进行设备注册的详细信息，请参阅 [Azure Active Directory 设备注册入门](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access-device-registration-overview/)。
 
-## 身份验证和授权
+## <a name="authentication-and-authorization"></a>身份验证和授权
 
 使用户能够从他们的设备访问应用和数据的决策必须保证通过可靠的身份验证过程对用户进行识别，并保证用户有权使用请求的资源。 公司应该查看其当前的身份验证和授权策略，并考虑以下问题：
 
@@ -221,13 +222,13 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 >[!NOTE] 
 > 如果你采用混合方案，且需要体验无缝的用户身份验证和授权，请参阅[混合标识设计注意事项指南](http://aka.ms/azhidcg)。
 
-## 策略和合规性
+## <a name="policy-and-compliance"></a>策略和合规性
 
 在采用 BYOD 的任何战略中，都应该优先考虑策略和符合性注意事项。 一些公司可能存在硬性要求，它们由于业务规定而不能适应此模型。 转向以人为中心战略的公司必须了解当前策略，以及这些策略在采用 BYOD 时将受到什么影响。 考虑有关数据分类的要求以及 IT 可用于控制数据分类的方式，即使数据正存放在设备存储中。 在考虑数据分类时，能够在进行某些操作（如编辑文件）的同时对数据进行分类非常重要。
 
 应该从一个集中的位置执行策略，以便 IT 在发生影响所有用户的临时更改时能够快速响应。 还应考虑移动设备可靠的审核能力。 如果违反了策略，IT 应该可以跟踪哪个策略已被违反、违反它的人以及发生的时间 - 这点至关重要。
     
-### 策略和符合性 - 功能和注意事项
+### <a name="policy-and-compliancecapabilities-and-considerations"></a>策略和符合性 - 功能和注意事项
 
 使用以下列表了解有关策略和合规性功能的注意事项：
 
@@ -251,6 +252,6 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 
