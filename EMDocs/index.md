@@ -11,12 +11,12 @@ ms.topic: hubpage
 ms.suite: ems
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 translationtype: Human Translation
-ms.sourcegitcommit: 3e1c4b4997cb01d308ab51bcd902ecac6a1e6d99
-ms.openlocfilehash: 49296346014d88ccba1b00c15864d5205e7c6403
+ms.sourcegitcommit: 2c3da9606e96e98246b097055f5e144faa2ae0a5
+ms.openlocfilehash: d194bb4a17d5bd97f9f47d56d35f4d5578c48ea4
 
 
 ---
-# 企业移动性 + 安全性文档
+# 企业移动性 + 安全性文档  
 <article id="main">
     <section id="hero-content" class="graph">
         <h1>企业移动性 + 安全性文档</h1>
@@ -132,7 +132,7 @@ ms.openlocfilehash: 49296346014d88ccba1b00c15864d5205e7c6403
                                 </a>
                             </li>
                             <li class="column column-third">
-                                <a href="https://technet.microsoft.com/library/mt489024.aspx">
+                                <a href="/cloud-app-security/">
                                 <h3>Cloud App Security</h3>
                                 <p>将本地系统的安全性带入云应用程序，以加深可见性、完善控制能力和增强保护。</p>
                                 </a>
@@ -148,14 +148,14 @@ ms.openlocfilehash: 49296346014d88ccba1b00c15864d5205e7c6403
             <h2 class="section-heading"><span class="icon icon-note"></span> 应用场景 &amp; 解决方案</h2>
             <div class="resource-list row">
               <ul class="column-half">
-                  <li><a href="/enterprise-mobility/solutions/manage-access-at-scale">EMS 技术方案</a></li>
-                  <li><a href="/enterprise-mobility/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
+                  <li><a href="/enterprise-mobility-security/solutions/ems-get-started">EMS 技术方案</a></li>
+                  <li><a href="/enterprise-mobility-security/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
                   <li><a href="https://support.office.com/en-us/article/Plan-for-Office-365-security-and-information-protection-capabilities-3d4ac4a1-3920-4ff9-918f-011f3ce60408?ui=en-US&rs=en-US&ad=US">Office 365 安全和保护功能</a></li>
               </ul>
               <ul class="column-half">
                   <li><a href="https://docs.microsoft.com/active-directory/active-directory-hybrid-identity-design-considerations-overview">混合身份设计注意事项指南</a></li>
-                  <li><a href="/enterprise-mobility/solutions/byod-design-considerations-guide">BYOD 设计注意事项指南</a></li>
-                  <li><a href="/enterprise-mobility/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
+                  <li><a href="/enterprise-mobility-security/solutions/byod-design-considerations-guide">BYOD 设计注意事项指南</a></li>
+                  <li><a href="/enterprise-mobility-security/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
             </ul>
             </div>            
         </section>
@@ -171,6 +171,6 @@ ms.openlocfilehash: 49296346014d88ccba1b00c15864d5205e7c6403
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO2-->
 
 
