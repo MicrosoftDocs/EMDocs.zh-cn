@@ -2,32 +2,36 @@
 title: "第一道防线 | Azure Active Directory 标识保护"
 description: "此方案描述如何使用企业移动性 + 安全性来保护标识，通过采用 Microsoft Azure Active Directory Identity Protection 和 Azure Active Directory Privileged Identity Management 功能安全访问公司资源。"
 author: yuridio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/19/2016
+ms.date: 12/07/2016
 ms.topic: solution
 ms.prod: 
-ms.service: 
+ms.service: ems
 ms.technology: techgroup-identity
 ms.assetid: c9aeabcf-db9b-4a35-b1bc-61331c464165
+ms.reviewer: v-craic
+ms.suite: ems
+ms.custom: active-directory, microsoft-identity-manager
 translationtype: Human Translation
-ms.sourcegitcommit: c20f69b821a2acfbf2fa399b960b60fc31dbf502
-ms.openlocfilehash: 086b1ba71db8446b5d174ca5e74a8c9d07d8905e
+ms.sourcegitcommit: 02b0e611805ad2214b1b108b8c466590aad7999a
+ms.openlocfilehash: c61f68b5922373ffe5509ddb80a158d6a9757ff1
 
 
 ---
 
-# 第一道防线
+# <a name="protect-at-the-front-door"></a>第一道防线
 
 传统的安全解决方案在过去足以保护你的业务。 但随着移动性行业的发展，攻击风险日益增大，而向云端的过渡使得员工与其他用户、设备、应用和数据的交互变得更加复杂。 现在为了切实地保护公司，需要采用更加全面和创新的安全性策略，一种可以防止、检测和应对本地和云端的各种威胁的策略。
 
 在超过 63% 的数据泄露中，攻击者通过安全性弱、采用默认设置或者被盗的用户凭据获取公司网络的访问权限。  Microsoft 标识驱动安全着眼于用户凭据，通过管理和保护标识（包括特权和非特权标识）杜绝凭据盗用。
 
 
-## 企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 
 企业移动性 + 安全性 (EMS) 安全策略首先采用一个受保护的常用标识，通过基于风险的[条件访问](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access/)安全访问本地和云端的所有公司资源。 通过此策略，IT 可使用新颖高级的基于风险的条件访问为公司资源建立第一道防线。 EMS 为访问数千的应用提供一个受保护的常用标识，有助于 IT 管理和保护特权标识。
 
-## 建议的解决方案
+## <a name="recommended-solution"></a>建议的解决方案
 
 为了满足此方案的要求，EMS 使用 [Azure AD Identity Protection](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/) 和 [Azure AD Privileged Identity Management](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-configure/)。 通过实施这些技术，组织将能够：
 
@@ -42,7 +46,7 @@ ms.openlocfilehash: 086b1ba71db8446b5d174ca5e74a8c9d07d8905e
 
 ![保护资源](./media/protect-front-door/protect-front-door-fig1.png)
 
-## 实现本解决方案的方式
+## <a name="how-to-implement-this-solution"></a>实现本解决方案的方式
 
 请按照以下步骤实施 Azure AD Identity Protection 和 Azure AD Privileged Identity Management：
 
@@ -54,19 +58,19 @@ ms.openlocfilehash: 086b1ba71db8446b5d174ca5e74a8c9d07d8905e
 - 步骤 6：Privileged Identity Management 操作
 
 
-## 如何建立资源保护的第一道防线
+## <a name="how-to-protect-your-resources-at-the-front-door"></a>如何建立资源保护的第一道防线
 
 不同组织对事件优先级有不同的理解。 对某个行业至关重要的事件可能对另一个行业并不重要。 因此，应该首先了解 Azure AD Identity Protection 如何划分[风险级别](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#detection-and-risk)，即风险事件的严重性指示（“高”、“中”或“低”）。 Azure AD Identity Protection 还可评估用户标识被盗用的可能性并分配其自己的风险级别，称为[用户的风险级别](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#what-is-a-user-risk-level)。 Azure AD Identity Protection 将识别[漏洞](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-vulnerabilities/)并为其分配风险级别。 风险有[不同类型](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-risk-events-types/)，每一种风险根据其重要程度划分级别。 按照第 1 到 3 步执行操作，使用 Azure AD Identity Protection 启用、实施和监视资源。
 
 此解决方案的第二阶段（第 4 到 6 步）将实施 Azure Active Directory (AD) Privileged Identity Management 以发现、限制和监视特权标识。 使用 Azure 的组织可[在 Azure AD 中分配角色](https://azure.microsoft.com/documentation/articles/active-directory-assign-admin-roles/)，Azure AD Privileged Identity Management 可管理[其中一些角色](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-roles/)。
 
-### 步骤 1：启用 Azure AD Identity Protection
+### <a name="step-1-enable-azure-ad-identity-protection"></a>步骤 1：启用 Azure AD Identity Protection
 
 实施此解决方案前，请确保 [Azure AD Premium 许可证](https://azure.microsoft.com/documentation/articles/active-directory-get-started-premium/)已分配给最终用户。 如果使用联合域且要在云中强制执行密码更改以将密码写回本地，需要启用[密码写回](https://azure.microsoft.com/documentation/articles/active-directory-passwords-getting-started/)。 查看完这些要求后，从应用商店安装 Azure AD Identity Protection，以[启用 Azure AD Identity Protection](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-enable/)。 完成安装后，将拥有对 Azure AD Identity Protection 仪表板的访问权，此仪表板可能会显示为空，如下图所示。
 
-![Azure AD Identity Protection](./media/protect-front-door/protect-front-door-fig1-1.png)
+![Azure AD Identity Protection](./media/protect-front-door/protect-front-door-fig2.png)
 
-### 步骤 2：配置 Azure AD Identity Protection
+### <a name="step-2-configure-azure-ad-identity-protection"></a>步骤 2：配置 Azure AD Identity Protection
 
 计划实施 Azure AD Identity Protection 时，必须首先定义以下策略：
 
@@ -76,7 +80,7 @@ ms.openlocfilehash: 086b1ba71db8446b5d174ca5e74a8c9d07d8905e
 
 这些策略位于“配置”部分下的 Azure AD Identity Protection 仪表板中，如下面屏幕所示：
 
-![策略](./media/protect-front-door/protect-front-door-fig2-1.png)
+![策略](./media/protect-front-door/protect-front-door-fig3.png)
 
 除了配置安全策略外，还可自定义哪些用户将收到警报。 应使用 Azure AD Identity Protection 仪表板中的“设置”部分下的“警报”选项，如下图所示：
 
@@ -84,7 +88,7 @@ ms.openlocfilehash: 086b1ba71db8446b5d174ca5e74a8c9d07d8905e
 
 请注意：在此配置中，仅当用户风险级别为“高”时，用户才会收到警报。
 
-### 步骤 3：监视和修正
+### <a name="step-3-monitor-and-remediation"></a>步骤 3：监视和修正
 
 连续监视是任何安全操作的必要组成部分。 通过采用 Azure AD Identity Protection [调查](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#investigation)功能，IT 将通过通知和修正建议获得对基于机器学习的威胁检测的见解。 可使用 Azure AD Identity Protection 仪表板快速访问当前环境并根据重要程度轻松识别应处理的问题。 或者，可在 Azure AD Identity Protection 仪表板中的“调查”部分下的以下区域中缩小调查范围：
 
@@ -96,36 +100,36 @@ ms.openlocfilehash: 086b1ba71db8446b5d174ca5e74a8c9d07d8905e
 
 也可利用[Azure AD Premium 访问和使用情况报告](https://azure.microsoft.com/documentation/articles/active-directory-view-access-usage-reports/)获取有关用户行为和潜在威胁的详细信息。
 
-### 步骤 4：启用 Azure AD Privileged Identity Management
+### <a name="step-4-enable-azure-ad-privileged-identity-management"></a>步骤 4：启用 Azure AD Privileged Identity Management
 
 若要获得对 Azure AD Privileged Identity Management 的访问权限，必须首先[从应用商店安装它](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-getting-started/)。 Azure AD Privileged Identity Management 和 Azure 多重身份验证 (MFA) 配合使用有助于 IT 管理访问权限以保护应用程序和服务。 安装 Azure AD Privileged Identity Management 后，将执行测试以验证是否可使用 MFA。 单击此选项验证帐户时，将重定向到一个网页，你需要在此网页上键入凭据。 如果帐户未启用 MFA，将出现类似于以下屏幕的消息：
 
-![登录屏幕](./media/protect-front-door/protect-front-door-fig7-1.png)
+![登录屏幕](./media/protect-front-door/protect-front-door-fig7.png)
 
 单击“立即设置”，然后执行向导操作。 需要键入手机或电话号码用于验证。 完成此向导后，将看到验证完成消息：
 
-![验证](./media/protect-front-door/protect-front-door-fig8-1.png)
+![验证](./media/protect-front-door/protect-front-door-fig8.png)
 
-### 步骤 5：配置 Azure AD Privileged Identity Management
+### <a name="step-5-configure-azure-ad-privileged-identity-management"></a>步骤 5：配置 Azure AD Privileged Identity Management
 
 初始配置通过使用[安全向导](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-security-wizard/)执行，其具有三个阶段，如“保护组织”边栏选项卡所示：
 
-![安全向导](./media/protect-front-door/protect-front-door-fig9-1.png)
+![安全向导](./media/protect-front-door/protect-front-door-fig9.png)
 
 在第一个阶段中，将查看 Azure AD Privileged Identity Management 发现的[特权角色](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-roles/)。 第二个阶段的目的是减少组织中分配有永久特权角色的用户数量，可最大程度地直接减少安全漏洞。 在最后一个阶段，用户可查看特权角色中对用户进行的更改。
 
 如果在此流程中，将管理角色授予其他用户，则此用户有资格执行此角色任务，也就是说，在需要执行此角色所需任务时，可[激活此角色](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-activate-role/)。
 
-### 步骤 6：Privileged Identity Management 操作
+### <a name="step-6-privileged-identity-management-operations"></a>步骤 6：Privileged Identity Management 操作
 
 安装和配置 Azure AD Privileged Identity Management 后，可执行初始评估以验证当前角色架构和警报。 在“特权标识管理”边栏选项卡中单击“管理特权角色”，将看到类似于下图所示的仪表板：
 
-![特权角色](./media/protect-front-door/protect-front-door-fig10-1.png)
+![特权角色](./media/protect-front-door/protect-front-door-fig10.png)
 
-在此仪表板中，可看到当前活动，例如[安全警报](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-configure-security-alerts/)和[访问评审](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-start-security-review/)。 还可使用此仪表板[添加](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-give-access-to-pim/)或[删除](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-give-access-to-pim/#remove-another-users-access-rights-for-managing-pim)一个或多个对 Azure AD Privileged Identity Management 的用户访问权限。 
+在此仪表板中，可看到当前活动，例如[安全警报](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-configure-security-alerts/)和[访问评审](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-start-security-review/)。 还可使用此仪表板[添加](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-give-access-to-pim/)或[删除](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-give-access-to-pim/#remove-another-users-access-rights-for-managing-pim)一个或多个对 Azure AD Privileged Identity Management 的用户访问权限。
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Dec16_HO2-->
 
 
