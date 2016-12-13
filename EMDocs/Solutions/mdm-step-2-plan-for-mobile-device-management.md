@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 3cdc1318-50a2-4280-b051-1e009620816e
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 13b9f2fac331d25d797ed9d21f27cc70c876eeda

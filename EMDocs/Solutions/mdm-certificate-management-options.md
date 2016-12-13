@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c3d350b5-4437-4f3d-907f-57ce6a819a74
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 2f0d445b35c6a7aea29684a0488decd92784c2ab
@@ -44,7 +43,7 @@ ms.openlocfilehash: 2f0d445b35c6a7aea29684a0488decd92784c2ab
 6. NDES 将证书颁发请求发送至 CA，然后后者将相应证书发送给 NDES 角色。
 7. NDES 角色将该证书发送到设备。
 
-根据你对任务 3 中的问题的回答，你应该能够确定想要在移动设备管理解决方案中如何管理证书。 Office 365 的 MDM 当前不支持管理移动设备的证书配置文件。 
+根据你对任务 3 中的问题的回答，你应该能够确定想要在移动设备管理解决方案中如何管理证书。 Office 365 的 MDM 当前不支持管理移动设备的证书配置文件。
 
 以下列表将帮助你了解 Intune 和混合 Intune 与 ConfigMgr 部署方案的证书配置文件管理的优缺点：
 
@@ -77,7 +76,7 @@ ms.openlocfilehash: 2f0d445b35c6a7aea29684a0488decd92784c2ab
 
 **缺点**
 
-- 若要使用证书配置文件，一些现有的本地基础结构必须存在。 
+- 若要使用证书配置文件，一些现有的本地基础结构必须存在。
 - 你必须通过 Intune 集成以下本地基础结构：
  - 运行网络设备注册服务的服务器
  - 企业证书颁发机构

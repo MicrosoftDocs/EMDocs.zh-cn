@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: bf0d4210-5edc-4ad7-bcb5-372099049630
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 9347d0ff642a3ea4a337962b5ec10a0c4c6cdc66
@@ -98,7 +97,6 @@ ms.openlocfilehash: 9347d0ff642a3ea4a337962b5ec10a0c4c6cdc66
 - 是否存在任何由公司的 IT 部门注册的个人设备，还是这些设备是由个人注册？
 - 是否会准备一个计划以允许用户使用他们自己的设备设置服务？
     - 如果是，本机管理系统是否允许用户从他们的设备执行此操作？
-
 
 
 

@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ac136523-8089-409b-b74d-2d4c0ce399d4
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 2a03416cf8255a29c0394746b3d5285057163d15
@@ -28,7 +27,7 @@ ms.openlocfilehash: 2a03416cf8255a29c0394746b3d5285057163d15
 
 为了确保用户和设备遵守你的企业策略和安全策略，监视和捕获移动设备的状态和事件信息十分重要。 这对于必须遵守政府法规要求和行业合规性指南的组织而言尤为重要。
 
-报告还可以提供有关组织中软件、硬件和软件许可证的有价值的信息，以帮助管理清单。 
+报告还可以提供有关组织中软件、硬件和软件许可证的有价值的信息，以帮助管理清单。
 
 在制定监视和报告指南时，要意识到用户隐私的重要性（尤其是在用户可以在组织的移动设备管理解决方案中注册个人所有的设备时）。 你的组织不应捕获、监视、报告或共享任何个人活动或者信息。
 
@@ -55,7 +54,7 @@ ms.openlocfilehash: 2a03416cf8255a29c0394746b3d5285057163d15
 - 你需要自定义的按需报告吗？
 - 当设备取消注册时，应该捕获特定清单和报告事件吗？
 - 设备取消注册后，应该存档/维护旧的清单和报告事件吗？
- 
+
 >[!TIP]
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
 

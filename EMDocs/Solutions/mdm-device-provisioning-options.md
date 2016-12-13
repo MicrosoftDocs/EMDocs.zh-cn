@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 991cd722-089c-4e8c-80b9-b82e405cc891
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 3df9be3ef643303f4205aa1b6daf18fdf53762d8
@@ -52,7 +51,7 @@ ms.openlocfilehash: 3df9be3ef643303f4205aa1b6daf18fdf53762d8
 **缺点**
 
 - （仅）在将本地管理平台用于非移动设备时，预配移动设备还有其他管理界面
-- 适用于基于云的服务和本地管理平台的单独设备合规性和安全策略 
+- 适用于基于云的服务和本地管理平台的单独设备合规性和安全策略
 
 ## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 

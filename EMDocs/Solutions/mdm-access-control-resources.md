@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 5967876b-3c08-4498-a0a6-0225b562d35f
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 782f6dac4a366312ce0a6d04735262908df6fe72
@@ -36,11 +35,11 @@ ms.openlocfilehash: 782f6dac4a366312ce0a6d04735262908df6fe72
 
 传统的访问控制列表 (ACL) 非常有限，并且不会考虑用户状态的其他方面，例如他尝试访问此资源时所在的位置。 如果你的组织在授予对资源的访问权限之前需要包含更多的变量，可以使用在 Windows Server 2012 中本地提供的[动态访问控制](https://technet.microsoft.com/library/dn408191.aspx)。 Windows 10 支持运行状况证明，这在提供数据访问权限之前有助于 IT 人员控制设备的运行状况的状态。 远程运行状况证明服务执行一系列测量检查。 它验证安全相关的数据点，包括启动状态（安全启动、调试模式等），以及管理安全性的组件状态（BitLocker、设备保护等）。 然后，它通过向设备发回运行状况加密的 blob 来传递设备的运行状况状态。 有关详细信息，请参阅[控制基于 Windows 10 的设备运行状况](https://technet.microsoft.com/library/mt592023.aspx)。
 
-Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introduction-to-device-compliance-policies-in-microsoft-intune)中查看 Windows 10 设备运行状况证明的状态。 设备运行状况证明让管理员能够确保客户端计算机具有可信 BIOS、TPM 和启动软件配置。 为了支持设备运行状况证明，客户端设备必须运行 Windows 10 并启用 TPM 2。 
+Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introduction-to-device-compliance-policies-in-microsoft-intune)中查看 Windows 10 设备运行状况证明的状态。 设备运行状况证明让管理员能够确保客户端计算机具有可信 BIOS、TPM 和启动软件配置。 为了支持设备运行状况证明，客户端设备必须运行 Windows 10 并启用 TPM 2。
 
 对于许多自行充当云提供商（通过使用允许他们拥有私有云的技术）的公司，另一个选项是使用基于角色的访问控制 (RBAC)。 [Azure AD 允许 IT 人员使用 RBAC](http://azure.microsoft.com/documentation/articles/role-based-access-control-configure/) 控制对资源的访问权限。 并且由于 Azure AD 可以与本地 Active Directory 集成，所以你可以同时使用它们，以确定用户访问资源的方式。
 
-资源也可以是应用，这意味着若要实现对资源的访问控制，你的 MDM 解决方案还必须能够控制如何安装和访问应用。 [Intune 中的移动应用程序管理策略](/intune/deploy-use/configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console)可使你修改所部署的应用的功能，以帮助确保它们符合公司合规性和安全策略。 
+资源也可以是应用，这意味着若要实现对资源的访问控制，你的 MDM 解决方案还必须能够控制如何安装和访问应用。 [Intune 中的移动应用程序管理策略](/intune/deploy-use/configure-and-deploy-mobile-application-management-policies-in-the-microsoft-intune-console)可使你修改所部署的应用的功能，以帮助确保它们符合公司合规性和安全策略。
 
 使用下表作为参考协助你选择最符合组织的访问控制要求的 MDM 选项。
 
@@ -55,7 +54,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 
 - 如果缺少与当前本地 MDM 平台的集成，将引入一个附加的管理接口供你使用
 - 某些策略可能不适用于某些移动平台
- 
+
 ## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**

@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: eb38d461-bfb0-407c-a5e6-94fa728a86d6
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 5c917ca88c5c33e4274b0437fbd57eb07865866f
@@ -28,14 +27,14 @@ ms.openlocfilehash: 5c917ca88c5c33e4274b0437fbd57eb07865866f
 
 现在你已完成定义你的要求和检查移动设备管理解决方案的所有选项，你可以随时执行有关部署支持适合你和你的组织的基础结构的后续步骤。
 
-## <a name="mobile-device-management-solutions"></a>移动设备管理解决方案 
+## <a name="mobile-device-management-solutions"></a>移动设备管理解决方案
 
-利用符合你的需求的特定解决方案是查看和规划部署移动设备管理基础结构的细节的绝好方法。 以下解决方案概述了几个最常见的移动设备管理方案： 
+利用符合你的需求的特定解决方案是查看和规划部署移动设备管理基础结构的细节的绝好方法。 以下解决方案概述了几个最常见的移动设备管理方案：
 
-- [在企业环境中管理移动设备和电脑](https://technet.microsoft.com/library/dn582037.aspx)解决方案通过使用 Microsoft Intune 将你的本地 System Center 2012 R2 Configuration Manager 基础结构扩展到云中，从而帮助你管理移动设备。 此混合基础结构可帮助中型和大型公司在减少管理复杂性的同时支持 BYOD 和远程访问。 
+- [在企业环境中管理移动设备和电脑](https://technet.microsoft.com/library/dn582037.aspx)解决方案通过使用 Microsoft Intune 将你的本地 System Center 2012 R2 Configuration Manager 基础结构扩展到云中，从而帮助你管理移动设备。 此混合基础结构可帮助中型和大型公司在减少管理复杂性的同时支持 BYOD 和远程访问。
 - 如果你的基础结构为 System Center Configuration Manager 2007，[Configuration Manager 2007 管理移动设备](https://technet.microsoft.com/library/dn508400.aspx)解决方案可帮助你管理移动设备。 本解决方案演示了如何设置运行 System Center 2012 R2 Configuration Manager 的单个服务器，以便你可以随后运行 Microsoft Intune 并利用其 MDM 功能。
 - [管理小型环境中的移动设备](https://technet.microsoft.com/library/dn715906.aspx)解决方案适用于需要支持 MDM 的小型企业。 它阐释了如何使用 Microsoft Intune 扩展你当前的基础结构，以支持移动设备管理和 BYOD。 本解决方案介绍了在没有本地服务器且仅限于云的配置中使用 Microsoft Intune 独立版时支持的最简单方案。
-        
+
 ## <a name="mobile-device-management-documentation"></a>移动设备管理文档
 
 在实现移动设备管理解决方案时，概念性和程序性的规划、部署和管理内容很有用。

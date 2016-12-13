@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c799a6c4-fe0a-4148-8e75-29e6ffdb7e6e
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
@@ -27,12 +26,12 @@ ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
 当你的公司部署移动设备管理时，请务必注意用户隐私和组织隐私之间的界限。 理想情况下，你的组织应该已经有一个明确的隐私策略，指出用户在数据隐私方面的预期。 由于移动设备可能存储公司数据，并且这些设备将随用户而动，因此明确定义界限并让用户事先知道他们在维护组织隐私方面所起的作用很重要。
-  
-另一个注意事项是你将如何确保用户知道当他们在组织的 MDM 解决方案中注册其设备时会发生什么。 使用 [Microsoft Intune 公司门户](https://technet.microsoft.com/library/dn646957.aspx)，你可以自定义公司的隐私声明来包含一个 URL，该 URL 具有当用户使用托管设备时将收集用户的哪些信息的说明。
- 
-你还可以发布条款和条件，供用户在首次从其设备使用公司门户时查看，无论该设备是否已在 MDM 解决方案中注册。 用户必须接受这些条款才能访问公司门户。 当你更新条款和条件并希望用户查看和接受新条款时，你可以将新的条款和条件标记为新版本，并且用户将在下次访问公司门户时完成相同的接受过程。 
 
-当你有将 ConfigMgr 与 Intune 连接的混合环境时，也可以使用相同的要求接受条款和条件的功能。 此外，ConfigMgr 可以使用合规性设置来确定设备是否符合你使用配置基线部署的配置项目。 如果某些设置不合规，可以自动修复它们。 
+另一个注意事项是你将如何确保用户知道当他们在组织的 MDM 解决方案中注册其设备时会发生什么。 使用 [Microsoft Intune 公司门户](https://technet.microsoft.com/library/dn646957.aspx)，你可以自定义公司的隐私声明来包含一个 URL，该 URL 具有当用户使用托管设备时将收集用户的哪些信息的说明。
+
+你还可以发布条款和条件，供用户在首次从其设备使用公司门户时查看，无论该设备是否已在 MDM 解决方案中注册。 用户必须接受这些条款才能访问公司门户。 当你更新条款和条件并希望用户查看和接受新条款时，你可以将新的条款和条件标记为新版本，并且用户将在下次访问公司门户时完成相同的接受过程。
+
+当你有将 ConfigMgr 与 Intune 连接的混合环境时，也可以使用相同的要求接受条款和条件的功能。 此外，ConfigMgr 可以使用合规性设置来确定设备是否符合你使用配置基线部署的配置项目。 如果某些设置不合规，可以自动修复它们。
 
 管理点会将符合性信息会发送到站点服务器，并存储在站点数据库中。 设备在将此信息发送到管理点时会对其进行加密，但信息不会以加密格式存储在站点数据库中。 信息将保留在数据库中，直到每 90 天站点维护任务“删除过期的配置管理数据”将其删除。  你还能够配置删除间隔。 此合规性信息不会被发送到 Microsoft。
 
@@ -73,7 +72,6 @@ ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
 **缺点**
 
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
-
 
 
 

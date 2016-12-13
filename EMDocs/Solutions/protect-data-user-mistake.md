@@ -7,12 +7,12 @@ manager: swadhwa
 ms.date: 10/24/2016
 ms.topic: solution
 ms.prod: 
-ms.service: ems
+ms.service: cloud-app-security
 ms.technology: techgroup-identity
 ms.assetid: 0af3894c-7b0e-4c0c-8874-31e041d81300
 ms.reviewer: v-craic
 ms.suite: ems
-ms.custom: cloud-app-security, information-protection
+ms.custom: information-protection
 translationtype: Human Translation
 ms.sourcegitcommit: 02b0e611805ad2214b1b108b8c466590aad7999a
 ms.openlocfilehash: 669042461511939695717de1d5d22c14c071923c

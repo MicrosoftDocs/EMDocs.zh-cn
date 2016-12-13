@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b871c74-fec8-45e2-8b45-6ef0e62f7cc6
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084

@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 639dfd46-33ea-4cfd-918d-f3d8e57645ed
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 3dbf7072bbc3baf6a97072f1cbbd15bd236349d3
@@ -47,7 +46,7 @@ ms.openlocfilehash: 3dbf7072bbc3baf6a97072f1cbbd15bd236349d3
 - Active Directory 联合身份验证服务 (AD FS)
 - 动态访问控制
 - Microsoft 权限管理服务
-- Azure 信息保护 
+- Azure 信息保护
 - SMB 加密
 - 单一登录(SSO)
 - 工作文件夹
@@ -79,8 +78,6 @@ ms.openlocfilehash: 3dbf7072bbc3baf6a97072f1cbbd15bd236349d3
 文档的其余部分涉及到设计注意事项以及上表中列出的产品、技术和服务。 在使用多种 Microsoft 产品、技术和服务来处理不同的设计注意事项时，将讨论它们之间的权衡。
 
 用于支持 BYOD 的基础结构设计将总结已在本文出现的问题的解答，以及可供你使用的技术功能和选项。 本文档讨论的设计使用基于 Microsoft 的技术。 但是，设计选项和注意事项可应用于任何用来实现 BYOD 模型的基础结构。
-
-
 
 
 

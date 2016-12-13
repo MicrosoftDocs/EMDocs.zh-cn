@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/18/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 7083b6b8-27a3-427b-b505-25d007d63cdd
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
@@ -23,7 +22,7 @@ ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
 
 # <a name="mobile-device-management-design-considerations-guide"></a>移动设备管理设计注意事项指南
 
-由于移动设备管理 (MDM) 解决方案有许多不同的设计和配置选项，因此有时难以确定哪个解决方案最符合组织的需求。 此设计指南将帮助你了解 MDM 设计要求，并且将详细介绍一系列你可以遵循的步骤和任务，以设计最符合组织的业务和技术需求的 MDM 解决方案。 
+由于移动设备管理 (MDM) 解决方案有许多不同的设计和配置选项，因此有时难以确定哪个解决方案最符合组织的需求。 此设计指南将帮助你了解 MDM 设计要求，并且将详细介绍一系列你可以遵循的步骤和任务，以设计最符合组织的业务和技术需求的 MDM 解决方案。
 
 ## <a name="getting-started"></a>入门
 
@@ -43,8 +42,8 @@ ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
 **混合 Intune 和 System Center Configuration Manager MDM 解决方案的示例**
 
 上图是混合管理解决方案的示例，在该方案中它利用云服务与本地功能集成，以便管理所有类型的设备，而不考虑设备位置。 尽管这是一个非常常见的方案，但每个组织的 MDM 设计可能由于每个组织的独特管理要求而与示例不同。
- 
-本指南详细介绍一系列你应该遵循的步骤，以协助你设计满足你的组织的独特要求的自定义 MDM 解决方案。 在以下步骤和任务中，本指南涵盖了你可用于满足 MDM 的功能和服务质量级别要求的相关技术和功能选项。 
+
+本指南详细介绍一系列你应该遵循的步骤，以协助你设计满足你的组织的独特要求的自定义 MDM 解决方案。 在以下步骤和任务中，本指南涵盖了你可用于满足 MDM 的功能和服务质量级别要求的相关技术和功能选项。
 
 尽管本指南可帮助你设计 MDM 解决方案，但它不讨论管理解决方案的具体实现、操作选项或如何从现有第三方 MDM 解决方案迁移。 你可以使用位于本指南末尾的**后续步骤和其他资源**部分中提供的链接在 docs.microsoft.com 和 TechNet 库中查找 [Microsoft Intune](/Intune/)、[适用于 Office 365 的移动设备管理](https://technet.microsoft.com/library/ms.o365.cc.devicepolicy.aspx)和 [Microsoft System Center Configuration Manager](https://technet.microsoft.com/library/cc507089.aspx) 的详细部署和配置步骤。
 
@@ -55,7 +54,7 @@ ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
 ## <a name="mdm-design-considerations"></a>MDM 设计注意事项
 本指南涵盖一组你可以遵循的步骤和任务，以设计最符合你的要求的解决方案。 这些步骤将按顺序呈现。 但是，由于你的设计日趋成熟或设计选择发生冲突，你在后续步骤中了解的设计注意事项可能会提示你更改在你之前的步骤中所做的决策。 我们将在本指南中向你警报潜在的设计冲突。
 
-只有在为了将本指南中的所有注意事项纳入考虑而循环访问以下步骤足够多的次数之后，你才会开发出最符合要求的移动设备管理设计。 
+只有在为了将本指南中的所有注意事项纳入考虑而循环访问以下步骤足够多的次数之后，你才会开发出最符合要求的移动设备管理设计。
 
 - [步骤 1 - 确定你的移动设备管理要求](mdm-step-1-identify-your-mobile-device-management-requirements.md)
 - [步骤 2 - 计划移动设备管理](mdm-step-2-plan-for-mobile-device-management.md)
@@ -64,8 +63,8 @@ ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
 - [后续步骤和其他资源](mdm-next-steps-and-additional-resources.md)
 
 >[!NOTE]
-> 使用本指南前，也可观看 Channel9 播出的[移动设备管理的设计注意事项视频演示](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1610)，了解有关本指南的帮助。 
-        
+> 使用本指南前，也可观看 Channel9 播出的[移动设备管理的设计注意事项视频演示](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1610)，了解有关本指南的帮助。
+
 ## <a name="looking-for-a-downloadable-version"></a>正在查找可下载的版本？
 可在 [ TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)中获取此完整指南的可下载副本。
 

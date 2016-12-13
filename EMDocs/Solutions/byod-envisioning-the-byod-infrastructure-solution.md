@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ecb6271f-8f38-42bd-aae7-10ba5e17a5f1
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 7dbb0c9b1b2b3b29eb54ad8cdeee527d9d7f078f
@@ -27,7 +26,7 @@ ms.openlocfilehash: 7dbb0c9b1b2b3b29eb54ad8cdeee527d9d7f078f
 
 ## <a name="solution-definition"></a>解决方案定义
 
-若要解决以前发现的问题，并帮助组织鼓励用户自带设备办公，并使用它们访问公司数据，则公司必须从以设备为中心的 IT 方法转换为以人为中心的 IT 方法。 若要定义你自己的 BYOD 基础结构解决方案以达到以下目的，可以使用本指南中的设计注意事项： 
+若要解决以前发现的问题，并帮助组织鼓励用户自带设备办公，并使用它们访问公司数据，则公司必须从以设备为中心的 IT 方法转换为以人为中心的 IT 方法。 若要定义你自己的 BYOD 基础结构解决方案以达到以下目的，可以使用本指南中的设计注意事项：
 
 - 使用户能够灵活地使用他们自己的设备来访问企业应用和数据。
 - 管理从本地和云访问公司资源的设备。
@@ -51,7 +50,6 @@ ms.openlocfilehash: 7dbb0c9b1b2b3b29eb54ad8cdeee527d9d7f078f
 - [数据访问和保护要求](byod-data-access-protection-reqs.md)
 - [管理要求](byod-management-reqs.md)
 - [应用要求](byod-app-reqs.md)
-
 
 
 

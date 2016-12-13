@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 10172816-b52d-4a55-8803-6a6805126fab
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
@@ -26,7 +25,7 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-在本任务中，你将开发移动设备管理采用策略，以符合你在任务 1 和 2 中确定的业务要求。 
+在本任务中，你将开发移动设备管理采用策略，以符合你在任务 1 和 2 中确定的业务要求。
 
 ## <a name="device-ownership"></a>设备所有权
 
@@ -34,7 +33,7 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 
 ## <a name="employee-owns-the-device-byod"></a>员工拥有设备 (BYOD)
 
-**优点** 
+**优点**
 
 - 你的公司不需要为员工购买移动设备
 - 该方案通常能使员工提高工作效率，因为他们将使用自己选择的移动设备
@@ -48,7 +47,7 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 
 ## <a name="company-owned-device"></a>公司拥有的设备
 
-**优点** 
+**优点**
 
 - 完整的管理功能，包括设备强化和安全控件
 - 更好地控制移动设备
@@ -101,7 +100,7 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 - Intune 和 ConfigMgr 之间的本机集成
 - 允许你使用集中式的控制台来部署策略和管理本地电脑、服务器以及移动设备
 
-**缺点** 
+**缺点**
 
 - 需要执行其他配置步骤来连接 Intune 和 ConfigMgr
 - 如果组织在本地没有当前 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
@@ -128,7 +127,7 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 
 **缺点**
 
-- 由于缺少与本地设备管理解决方案的集成，将引入一个附加的管理接口，以便你可以在管理移动设备时使用（如果你拥有本地解决方案）。 
+- 由于缺少与本地设备管理解决方案的集成，将引入一个附加的管理接口，以便你可以在管理移动设备时使用（如果你拥有本地解决方案）。
 - 使用本地 MDM 平台创建的策略无法复制到云服务，因为需要两组管理与合规性策略（如果你拥有本地 MDM 解决方案）
 
 
@@ -167,10 +166,8 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 
 了解用户行为并且能够确定他们的位置是包含在你的移动设备管理策略中的重要因素。 跟踪设备的方式将因你的业务要求和需求而异。  每个移动操作系统中都提供了不同的跟踪功能，因此你选择支持的移动设备平台将影响你的选项。 例如，合规性要求可能会影响你对要采用的允许你跟踪用户位置并使用地理围栏的移动设备平台设置优先级。
 
->[!TIP] 
-> 地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。 
-
-
+>[!TIP]
+> 地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。
 
 
 

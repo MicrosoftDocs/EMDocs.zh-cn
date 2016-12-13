@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 77e7cab9-2fae-4857-be5d-2b6f57e981be
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 417ff912c3e7ff50e0f8371dccbc3ad99c5832d2
@@ -56,7 +55,7 @@ ms.openlocfilehash: 417ff912c3e7ff50e0f8371dccbc3ad99c5832d2
 - 当移动设备需要从你的电子邮件系统中断开连接时，电子邮件数据将如何从移动设备中删除？
 - 管理员和用户是否都需要具备删除电子邮件数据或电子邮件系统的连接的能力？
 - 如何验证或确认电子邮件数据删除的确认情况？
-- 如果你同时使用本地和基于云的电子邮件系统，它们将如何与移动设备管理解决方案集成？ 
+- 如果你同时使用本地和基于云的电子邮件系统，它们将如何与移动设备管理解决方案集成？
 - 从 IT 角度来看，各种电子邮件配置文件或各种受管理的托管访问策略是相同还是不同？ 用户的电子邮件连接体验是否会因为其邮箱的托管位置而有所不同？
 
 ## <a name="network-connectivity-management"></a>网络连接管理
@@ -72,7 +71,7 @@ ms.openlocfilehash: 417ff912c3e7ff50e0f8371dccbc3ad99c5832d2
 ### <a name="network-connectivity-management-planning-questions"></a>网络连接管理规划问题
 
 回答以下有关规划网络连接管理的问题：
- 
+
 - 你已在本地网络上部署了哪类 VPN 平台？
 - VPN 平台是否受支持或者是否能够与移动设备管理解决方案集成？
 - 如果 VPN 平台已集成或者受现有非移动设备管理解决方案支持，移动设备管理解决方案会与这两个系统集成吗？

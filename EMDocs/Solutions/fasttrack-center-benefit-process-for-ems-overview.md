@@ -2,16 +2,15 @@
 title: "概述"
 description: "概述"
 keywords: 
-author: staciebarker
-ms.author: stabar
+author: NathBarn
+ms.author: NathBarn
 manager: angrobe
 ms.date: 11/07/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation

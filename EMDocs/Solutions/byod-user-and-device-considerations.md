@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: d1653116-3922-40d3-bc4f-3d845b6aaecb
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 717183b0b7f94277379ebbeee2136227d29f88ef
@@ -55,7 +54,7 @@ ms.openlocfilehash: 717183b0b7f94277379ebbeee2136227d29f88ef
     - 可以访问使用远程桌面的计算机
     - 可以访问其他本地计算机
 
-你需要确定哪些用户配置文件更适合你的 BYOD 基础结构解决方案。 你可以考虑根据其工作需求建立多位用户的配置文件。 在理想情况下，使用来实现 BYOD 基础结构解决方案的技术应该可以适应所有用户配置文件，因为要求可能会因人而异。 
+你需要确定哪些用户配置文件更适合你的 BYOD 基础结构解决方案。 你可以考虑根据其工作需求建立多位用户的配置文件。 在理想情况下，使用来实现 BYOD 基础结构解决方案的技术应该可以适应所有用户配置文件，因为要求可能会因人而异。
 
 ## <a name="devices"></a>设备
 
@@ -204,11 +203,10 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
     - 缺点
         - 需要 IPsec 才能使用 [Microsoft 网络访问保护 (NAP)](https://technet.microsoft.com/library/cc731276(v=ws.10).aspx) 实现此类分段，对于需要支持“任何设备”的 BYOD 方案，这可能会造成问题。
 
-> [!NOTE] 
+> [!NOTE]
 > 有关 Configuration Manager 中 Wi-Fi 配置文件的详细信息，请参阅 [Configuration Manager 中的 Wi-Fi 配置文件简介](https://technet.microsoft.com/library/dn261224.aspx)。
 
 网络位置是考虑用户和设备时的一个重要注意事项。 你可以利用 AD FS 中的多重访问控制以启用按应用程序的授权策略，借此你可以根据用户、设备和网络位置来允许或拒绝访问。 有关如何设置环境以验证此功能的详细信息，请参阅[使用多重访问控制管理风险](https://technet.microsoft.com/library/dn280936.aspx)。
-
 
 
 

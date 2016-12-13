@@ -7,12 +7,12 @@ manager: swadhwa
 ms.date: 12/07/2016
 ms.topic: solution
 ms.prod: 
-ms.service: ems
+ms.service: active-directory
 ms.technology: techgroup-identity
 ms.assetid: c9aeabcf-db9b-4a35-b1bc-61331c464165
 ms.reviewer: v-craic
 ms.suite: ems
-ms.custom: active-directory, microsoft-identity-manager
+ms.custom: microsoft-identity-manager
 translationtype: Human Translation
 ms.sourcegitcommit: 02b0e611805ad2214b1b108b8c466590aad7999a
 ms.openlocfilehash: c61f68b5922373ffe5509ddb80a158d6a9757ff1

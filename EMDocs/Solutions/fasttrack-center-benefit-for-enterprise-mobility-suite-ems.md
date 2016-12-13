@@ -2,16 +2,15 @@
 title: "符合条件的服务和计划"
 description: "符合 FastTrack 中心权益条件的服务和计划"
 keywords: 
-author: staciebarker
-ms.author: stabar
+author: NathBarn
+ms.author: NathBarn
 manager: angrobe
 ms.date: 11/07/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 484156c7-c3c4-469d-b718-9fa33d9d0ec2
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation

@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 181eb917-119d-4e56-8ead-1182b1dc5cab
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: cbf0f54d2d288baf66f914ef8366a70448218607
@@ -34,7 +33,7 @@ ms.openlocfilehash: cbf0f54d2d288baf66f914ef8366a70448218607
 
 如果你将存储视为内容的容器，则保护对该内容的消耗将带来很大的价值。 通过强制执行那些影响最终用户对存储中内容的使用方式的策略，可以防止数据泄露。 可使用 [Active Directory Rights Management Services (AD RMS)](https://technet.microsoft.com/library/hh831554.aspx) 通过保护使用信息权限管理 (IRM) 的文档来加强贵组织的安全策略。 AD RMS 允许个人和管理员通过 IRM 策略指定对文档、工作簿和演示文稿的访问权限。 这就有助于防止敏感信息被未经授权的人打印、转发或复制。 在使用 IRM 限制对文件的权限之后，无论信息在什么位置都会强制执行访问和使用限制，因为对文件的权限存储在该文件自身中。
 
-如果公司想要使用基于云的解决方案执行文件保护，那么还可以使用 [Azure 信息保护](/information-protection/understand-explore/what-is-information-protection)。 Azure 信息保护使用加密、标识和授权策略来帮助保护文件和电子邮件，使公司的敏感信息得到保护，它可以在多种设备（手机、平板电脑和 PC）中运行。 可以保护组织内外的信息，因为该保护保留在数据中，即使数据离开了组织的边界，也是如此。 
+如果公司想要使用基于云的解决方案执行文件保护，那么还可以使用 [Azure 信息保护](/information-protection/understand-explore/what-is-information-protection)。 Azure 信息保护使用加密、标识和授权策略来帮助保护文件和电子邮件，使公司的敏感信息得到保护，它可以在多种设备（手机、平板电脑和 PC）中运行。 可以保护组织内外的信息，因为该保护保留在数据中，即使数据离开了组织的边界，也是如此。
 
 Windows 操作系统中可用的其他存储技术还可用于增强对数据的总体保护，例如，用于驱动器加密的 BitLocker 和用于文件加密的[加密文件系统 (EFS)](https://technet.microsoft.com/library/cc700811.aspx)。 使用下表查看存储保护的优缺点。 请记住，这些选项并不相互排斥。 换言之，你的设计决策可能推断出你在 BYOD 基础架构解决方案中需要以下所有选项来进行存储保护。
 
@@ -95,7 +94,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
 此关系图突出显示了关键的区域，其中必须针对 BYOD 基础结构考虑数据保护。 下节将更加详细地介绍这些区域。
 
 ### <a name="data-protection-locations-and-considerations"></a>数据保护 - 位置和注意事项
-    
+
 根据数据位置，使用下面的列表来了解有关数据保护的注意事项。 以下列表中的数字对应于上面的关系图：
 
 - (1) 在数据中心存放的数据
@@ -219,7 +218,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 若要针对从外部或内部网络访问应用的用户强制为每个应用授权，IT 可以利用 Web 应用程序代理。 通过使用 Web 应用程序代理，IT 部门可以创建特定规则以结合 AD FS 强制执行身份验证和授权。 Web 应用程序代理发布适用于任何用户设备；它们可以使用个人便携式计算机、平板电脑或智能手机。 此外，用户无需在设备上安装任何其他软件，即可访问已发布的应用。 Web 应用程序代理可用作通过它发布的任何应用的反向代理，因此用户体验与用户设备直接连接到应用时相同。 有关 Web 应用程序代理的详细信息，请参阅 [Web 应用程序代理概述](https://technet.microsoft.com/library/dn280944.aspx)。
 
->[!NOTE] 
+>[!NOTE]
 > 如果你采用混合方案，且需要体验无缝的用户身份验证和授权，请参阅[混合标识设计注意事项指南](http://aka.ms/azhidcg)。
 
 ## <a name="policy-and-compliance"></a>策略和合规性
@@ -227,7 +226,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 在采用 BYOD 的任何战略中，都应该优先考虑策略和符合性注意事项。 一些公司可能存在硬性要求，它们由于业务规定而不能适应此模型。 转向以人为中心战略的公司必须了解当前策略，以及这些策略在采用 BYOD 时将受到什么影响。 考虑有关数据分类的要求以及 IT 可用于控制数据分类的方式，即使数据正存放在设备存储中。 在考虑数据分类时，能够在进行某些操作（如编辑文件）的同时对数据进行分类非常重要。
 
 应该从一个集中的位置执行策略，以便 IT 在发生影响所有用户的临时更改时能够快速响应。 还应考虑移动设备可靠的审核能力。 如果违反了策略，IT 应该可以跟踪哪个策略已被违反、违反它的人以及发生的时间 - 这点至关重要。
-    
+
 ### <a name="policy-and-compliancecapabilities-and-considerations"></a>策略和符合性 - 功能和注意事项
 
 使用以下列表了解有关策略和合规性功能的注意事项：

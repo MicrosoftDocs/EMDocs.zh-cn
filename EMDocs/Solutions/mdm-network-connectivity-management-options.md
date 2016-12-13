@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: bc7cdb8f-3485-45ae-9493-f840ad9ed3ea
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 856d2d2ba9968aa0f4a0da4f4afcbf452260e548
@@ -40,7 +39,7 @@ ms.openlocfilehash: 856d2d2ba9968aa0f4a0da4f4afcbf452260e548
 
 **优点**
 
-- 支持所有主要的移动设备操作系统（Android、iOS、Windows 10、Windows 8.x 以及 Windows Phone）上的无线和 VPN 配置文件 
+- 支持所有主要的移动设备操作系统（Android、iOS、Windows 10、Windows 8.x 以及 Windows Phone）上的无线和 VPN 配置文件
 - 支持业界领先的 VPN 连接类型，包括 Cisco、Juniper、Dell SonicWall 和 Checkpoint 等
 - 无线和 VPN 配置文件可与 SCEP 证书配置文件集成，以提升安全性
 - 支持为不同类型的用户、设备、设备操作系统或用户组和角色配置自定义的无线和 VPN 配置文件
@@ -65,7 +64,7 @@ Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 
 **缺点**
 
-- 若要支持 VPN 配置文件，你将需要部署和维护本地 VPN 基础结构 
+- 若要支持 VPN 配置文件，你将需要部署和维护本地 VPN 基础结构
 - 必须授予特定安全权限，以在 ConfigMgr 中管理 [Wi-Fi 配置文件](https://technet.microsoft.com/library/dn408646.aspx)和 [VPN 配置文件](https://technet.microsoft.com/library/dn408643.aspx)
 
 查看以下内容，了解有关移动设备电子邮件配置管理选项的详细信息：

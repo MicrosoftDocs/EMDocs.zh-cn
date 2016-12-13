@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 5380e56c-9c48-459e-aea5-95ad90dbb7d1
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: 68a42159dfbf6b0d435b0543466d4cec26e55b67
@@ -39,7 +38,7 @@ ms.openlocfilehash: 68a42159dfbf6b0d435b0543466d4cec26e55b67
 ## <a name="cloud-types"></a>云类型
 
 *多租户* SaaS 解决方案即通常称为“公有”云基础结构的解决方案。 当服务的软件体系结构在单个实例中，但服务多个租户或组织时，即是这种情况。 该解决方案旨在为每个租户提供其服务（例如用户或设备管理、配置和数据支持）的保留共享。 租户帐户和服务实际上是分离的，每个访问平台基础结构的租户都在单独的实例中。 多租户 SaaS 解决方案通常还提供通过在多个租户之间共享基础结构和分发开销成本赢得的成本节省。 大多数移动设备管理平台在多租户 SaaS 平台基础结构中提供。
-                
+
 *私有*或专用云服务是针对单个组织或租户运营的 SaaS 解决方案的实例。 这些服务可以是组织托管的私有云服务，也可以是第三方提供商托管的私有云服务。 私有云解决方案通常还在服务和安全的领域更有机会实现自定义。 某些专用 SaaS 解决方案提供移动设备管理服务作为更大的私有云租户选项的一部分。
 
 *混合* SaaS 解决方案可以提供多租户和私有云基础结构的组合或者托管（多租户或私有）和本地云基础结构的组合。 混合基础结构可能还包括利用外部云 SaaS 解决方案提供特定类型的服务（例如应用程序），但利用内部资源提供其他类型的服务。 大多数 SaaS 解决方案能够支持混合云配置，但可能在与本地或其他托管云平台的集成的深度和完整性上有很大差异。
@@ -92,7 +91,7 @@ ms.openlocfilehash: 68a42159dfbf6b0d435b0543466d4cec26e55b67
 由于 SaaS 基础结构基于云并且托管在多个数据中心中，因此复原相比传统的本地托管服务通常容易受到较低的稳定性或故障的影响。 多位置服务主机提供针对基于地理位置的故障和服务中断的保护，方法是使用故障转移基础结构和进程在多个数据中心节点上复制数据。 在故障转移期间，原始地理位置区域中可能保留也可能不保留对服务的访问权限，具体取决于 SaaS 解决方案。
 
 ### <a name="resiliency-questions"></a>复原问题
- 
+
 作为 SaaS 管理生命周期规划的一部分，你将需要回答以下有关规划云复原的问题：
 
 - 在发生主 SaaS 解决方案故障转移时，移动设备管理服务将会受到怎样的影响？

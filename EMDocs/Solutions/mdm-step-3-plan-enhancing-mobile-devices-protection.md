@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: a4504456-a241-4380-ab92-3bc14c91347c
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: bbef17c4d072706a5704c871eee490fba5c9052c
@@ -27,7 +26,7 @@ ms.openlocfilehash: bbef17c4d072706a5704c871eee490fba5c9052c
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
 虽然本地和远程用户可通过在其移动设备上访问公司资源来提高工作效率，但允许他们这样做也会增加安全威胁，你将需要缓解这些威胁来帮助保护你的公司数据和维护用户隐私。 你的公司可能对如何平衡这些需求有特定的要求。 例如，合规性规则可能因你的公司所经营的行业而异，这可能导致不同的设计决策。
- 
+
 但是，需要浏览和遵循移动设备管理中安全性的某些常规方面，而无需考虑该行业。 这些如下图中所示。
 
 ![MDM 平台的核心安全功能](./media/MDM_Figure_08.png)
@@ -74,8 +73,6 @@ ms.openlocfilehash: bbef17c4d072706a5704c871eee490fba5c9052c
 - [数据分类](mdm-data-classification.md)
 - [身份验证和授权](mdm-authentication-authorization.md)
 - [对资源的访问控制](mdm-access-control-resources.md)
-
-
 
 
 

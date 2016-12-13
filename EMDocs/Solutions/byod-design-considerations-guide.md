@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ed940ba8-866c-477f-a59b-beb620300a79
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 78fad0e7714797962fc2ab3c8f8ec6c10d8019d0
@@ -38,26 +37,26 @@ ms.openlocfilehash: 78fad0e7714797962fc2ab3c8f8ec6c10d8019d0
 ## <a name="intended-audience"></a>目标受众
 
 本指南的主要受众是那些有兴趣了解他们在实现 BYOD 基础结构之前要考虑的问题的系统架构师或系统设计人员。 对此指南感兴趣的其他人可能包括 IT 实施人员、企业安全专家以及设备管理专家。</para>
-    
+
 ## <a name="purpose"></a>目的
-  
+
 本指南的目的：
 
 1. 向系统架构师或系统设计人员提供一组有待回答的精选问题。 对这些问题的回答可用作对 BYOD 基础结构设计的要求。
-2. 向系统架构师或系统设计人员提供设计选项集合，可根据确定的要求评估和选择它们。 
+2. 向系统架构师或系统设计人员提供设计选项集合，可根据确定的要求评估和选择它们。
 
 尽管这些问题可用于任何供应商，但可用选项的示例将侧重于 Windows Server 2012 R2、System Center 2012 R2 以及 Windows Intune 中的功能
 
 除此之外，本指南还包括：
 
-- 与供应商无关的设计注意事项，可用于适应一个支持 BYOD 模型的基础架构。 
+- 与供应商无关的设计注意事项，可用于适应一个支持 BYOD 模型的基础架构。
 - 针对用户、设备、管理平台、应用以及数据访问和保护的设计注意事项。
 
 在生产环境中启动 BYOD 模型之前，需要在网络、存储、计算和身份方面考虑安全性、可用性、性能和可扩展性的问题。 存在这样一种倾向：在具体分析当前环境，以及需要哪些操作才能安全地使用户能够从任何地方的任何设备进行工作之前，就希望采用 BYOD。
 
 本指南的目的*不*在于：
 
-- 为 BYOD 模型的基础结构组件提供性能基线。 
+- 为 BYOD 模型的基础结构组件提供性能基线。
 - 为 BYOD 的基础结构组件提供性能调整和最佳做法。
 - 提供用于移动设备的应用开发指南。
 - 提供用于移动设备的应用开发最佳做法。
@@ -75,7 +74,6 @@ ms.openlocfilehash: 78fad0e7714797962fc2ab3c8f8ec6c10d8019d0
 在从自行管理设备（假定 IT 可完全控制设备）切换到另一种模型（IT 必须假定它对设备具有更少的控制权，同时需要满足用户对于访问企业数据的需求）之前，具有大型基础结构的组织需要确定各种要求。 这通常称为从以设备为中心切换到以人为中心的 IT。 还必须针对现有的和新的应用或者针对将现有应用移到云环境谨慎地规划相同的注意事项和要求。 图 1 包含 BYOD 问题域以及本指南将涉及的方面的概念图。
 
 ![问题域](./media/BYOD_Figure1.png)
-
 
 
 

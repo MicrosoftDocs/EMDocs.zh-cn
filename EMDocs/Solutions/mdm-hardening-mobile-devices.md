@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ade57c73-a8a2-497f-ad8d-5dfc3cba9e70
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 050d92824ad2616440d9d4b972a812be0ab5a14a
@@ -26,7 +25,7 @@ ms.openlocfilehash: 050d92824ad2616440d9d4b972a812be0ab5a14a
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-在为移动设备创建配置基线以根据你的业务需求强化其功能时，请确保平衡可用性与安全性。 非常严格的强化模板可能会使你的员工遇到可用性和访问问题，这将破坏帮助用户通过使用其设备访问公司资源来提高效率的目的。 
+在为移动设备创建配置基线以根据你的业务需求强化其功能时，请确保平衡可用性与安全性。 非常严格的强化模板可能会使你的员工遇到可用性和访问问题，这将破坏帮助用户通过使用其设备访问公司资源来提高效率的目的。
 
 此外，请记住并非所有策略都可用于所有移动设备平台。 你可能需要平衡允许组织中的移动设备平台与强化设备的安全合规性要求之间的优先级。
 处理移动设备强化的一个方式是使用不同层的安全性。 可用于每个层的设置也可能因 MDM 解决方案而异。 下图显示了如何设置此分层方法的示例。
@@ -91,8 +90,8 @@ ms.openlocfilehash: 050d92824ad2616440d9d4b972a812be0ab5a14a
 
 - 如果你的公司没有当前本地 ConfigMgr 基础结构，它将在集成前需要资源来规划、安装和配置 ConfigMgr
 
->[!TIP] 
-> 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。 
+>[!TIP]
+> 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。
 
 
 

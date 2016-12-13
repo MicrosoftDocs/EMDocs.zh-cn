@@ -2,16 +2,15 @@
 title: "源环境预期"
 description: "使用 FastTrack 中心权益所需的源环境要求"
 keywords: 
-author: staciebarker
-ms.author: stabar
+author: NathBarn
+ms.author: NathBarn
 manager: angrobe
 ms.date: 11/07/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation

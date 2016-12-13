@@ -6,14 +6,13 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 901b52bf-2340-4847-aaff-c94fec9ee925
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
 ms.openlocfilehash: bca54803722814769b45cd30244b68121d72a114
@@ -39,7 +38,7 @@ ms.openlocfilehash: bca54803722814769b45cd30244b68121d72a114
 
 - 管理员管理的注册
 - 用户/所有者自行注册
- 
+
 管理员管理的注册提供集中管理的注册体验，并且通常集中在使用一个目录帐户批量注册多台设备。 这在需要将公司所拥有的多台设备注册到移动设备管理解决方案时会很有用。
 
 而在自行注册时，将由设备用户/所有者在移动设备管理解决方案中自行注册其设备。 这通常用于“自带设备办公”(BYOD) 方案，不过它也可以用于公司拥有设备的方案。 这种注册通常使用“基于推送”的注册模式，即在用户尝试从设备连接到企业网络或网络资源时，将自动触发设备，使它在移动设备管理解决方案中完成注册。 有时，用户也可以在连接到组织网络或资源前选择注册自己的设备。

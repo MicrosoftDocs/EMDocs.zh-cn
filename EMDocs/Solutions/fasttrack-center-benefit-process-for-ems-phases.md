@@ -2,16 +2,15 @@
 title: "载入和迁移阶段"
 description: "FastTrack Center Benefit 的阶段"
 keywords: 
-author: staciebarker
-ms.author: stabar
+author: NathBarn
+ms.author: NathBarn
 manager: angrobe
 ms.date: 11/07/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation

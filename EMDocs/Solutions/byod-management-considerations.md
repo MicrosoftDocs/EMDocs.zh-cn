@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ba8cc256-2075-457f-a827-7ec9213c5235
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: da1652d5bb9a7b7176c74482bfc814aaf8902c3f
@@ -110,7 +109,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 
 在开发新应用且用户使用自己的设备对其进行远程访问之后，如果没有合理规划解决方案，应用性能可能会降低。 尽管此设计注意事项指南不会向你深入介绍性能注意事项，但必须回答有关管理基础结构的问题：
 
-- 贵公司当前使用的管理解决方案是否能够针对支持从用户设备访问应用的平台管理存储和计算资源？ 
+- 贵公司当前使用的管理解决方案是否能够针对支持从用户设备访问应用的平台管理存储和计算资源？
 - 贵公司当前使用的管理解决方案是否能根据一组预先设定的规则针对支持从用户设备访问应用的平台增加计算和存储资源？
 如果目前采用的管理解决方案不能满足上述两个要求，可考虑使用一种通过解决下表所示的两个核心要求来管理计算和存储的管理解决方案。
 
@@ -137,7 +136,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 
 System Center 2012 R2 可以使用资源池和弹性来管理存储和计算。 System Center 2012 R2 还将存储与差异磁盘这一优化集成，它通过允许在多个虚拟磁盘之间共享大部分磁盘数据来降低存储要求，这可以优化存储成本。 使用 System Center 2012 R2 虚拟化并且将由远程用户所使用的应用利用的服务器可以采取这种技术。
 
-有关 System Center 2012 R2 存储功能的详细信息，请参阅 [System Center 2012 R2 的 VMM 中的新增功能](https://technet.microsoft.com/library/dn246490.aspx)。 
+有关 System Center 2012 R2 存储功能的详细信息，请参阅 [System Center 2012 R2 的 VMM 中的新增功能](https://technet.microsoft.com/library/dn246490.aspx)。
 
 ## <a name="automation"></a>自动化
 
@@ -182,10 +181,10 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 
 若要在本地进行集中式管理，你可以使用 Configuration Manager 。 通过使用此选项，IT 可利用企业注册功能在公司的 Configuration Manager 服务器上注册设备。 有关如何使用 Configuration Manager 管理设备的详细信息，请参阅[使用 Configuration Manager 和 Microsoft Intune 管理移动设备](https://technet.microsoft.com/library/jj884158.aspx)。
 
-若要管理不是基于 Windows 设备的其他平台，你可以利用 Microsoft Intune 云服务。 Microsoft Intune 公司门户可以用于注册、管理和安装已授权的应用。 用户可以轻松访问应用，并将它们安装在自己的设备上。 
+若要管理不是基于 Windows 设备的其他平台，你可以利用 Microsoft Intune 云服务。 Microsoft Intune 公司门户可以用于注册、管理和安装已授权的应用。 用户可以轻松访问应用，并将它们安装在自己的设备上。
 
->[!TIP] 
->有关 Microsoft Intune 的详细信息，请参阅 [Microsoft Intune 页](/intune/understand-explore/introduction-to-microsoft-intune)。 
+>[!TIP]
+>有关 Microsoft Intune 的详细信息，请参阅 [Microsoft Intune 页](/intune/understand-explore/introduction-to-microsoft-intune)。
 
 尽管它们是两个不同的选项，但你可以将两者集成，以便从单个位置提供应用部署和设置。 使用下表来确定哪个选项适合你的 BYOD 设计。
 
@@ -195,7 +194,6 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 | 将应用部署和设置到位于公司外部的设备。   | Microsoft Intune                                       |
 | 将应用部署和设置到非 Windows 设备。                   | Microsoft Intune                                       |
 | 仅部署和设置应用程序到本地设备，部署和设置应用到公司外部设备或部署和设置应用到非 Windows 设备。       | 与 Configuration Manager 集成的 Microsoft Intune
-                                                                    
 
 
 

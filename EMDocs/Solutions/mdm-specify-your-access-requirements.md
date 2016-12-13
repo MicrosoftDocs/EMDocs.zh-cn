@@ -6,14 +6,13 @@ author: YuriDio
 ms.author: yurid
 manager: swadhwa
 ms.date: 11/28/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 1cdc3cdf-cb71-46d5-99fd-05ec96771b81
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 482c5baa2fe33c02d4466f38ef05964f64eee2cd
@@ -26,13 +25,13 @@ ms.openlocfilehash: 482c5baa2fe33c02d4466f38ef05964f64eee2cd
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-无法使用应用或访问执行工作所需的公司数据的移动设备对你的员工没有用。 因此了解数据将如何从源位置（本地或云）传送到移动设备很重要。 
+无法使用应用或访问执行工作所需的公司数据的移动设备对你的员工没有用。 因此了解数据将如何从源位置（本地或云）传送到移动设备很重要。
 
 数据通过移动设备传送的潜在路径，以及应为每个路径考虑的注意事项。 许多采用安全策略的公司未考虑移动设备可能如何增加泄露公司数据的可能性。 因此请查看你的当前公司策略以确保你为身份验证、授权和访问控制所开发的要求符合业务要求。
- 
+
 回答以下问题以帮助确定移动设备的访问要求：
 
-- 身份验证和授权：作为允许用户从移动设备访问公司数据的策略的一部分，你必须确定哪些用户有资格获得访问权限。 某些公司决定最初仅允许其部分用户访问数据，然后在其他员工根据业务需求发出请求时向其授予访问权限。 若要限制访问，你的解决方案必须根据公司的策略进行身份验证（确认用户是其所声称的身份）和授权（评估用户是否应有权访问他们所请求的数据）。 
+- 身份验证和授权：作为允许用户从移动设备访问公司数据的策略的一部分，你必须确定哪些用户有资格获得访问权限。 某些公司决定最初仅允许其部分用户访问数据，然后在其他员工根据业务需求发出请求时向其授予访问权限。 若要限制访问，你的解决方案必须根据公司的策略进行身份验证（确认用户是其所声称的身份）和授权（评估用户是否应有权访问他们所请求的数据）。
 
 在设计 MDM 解决方案时，请考虑以下事项：
 
@@ -60,7 +59,7 @@ ms.openlocfilehash: 482c5baa2fe33c02d4466f38ef05964f64eee2cd
     - 如果是，MDM 解决方案是否允许你根据用户的标识启用/禁用的应用程序的功能。
     - 如果是，MDM 解决方案是否允许你管理设备证明？
 
-阅读[从任何设备上的任何位置安全访问公司资源](https://technet.microsoft.com/library/dn550982)，更好地了解如何结合使用内置的 Windows Server 2012 R2 功能与 ConfigMgr 提供对你的公司资源的访问。 
+阅读[从任何设备上的任何位置安全访问公司资源](https://technet.microsoft.com/library/dn550982)，更好地了解如何结合使用内置的 Windows Server 2012 R2 功能与 ConfigMgr 提供对你的公司资源的访问。
 
 
 
