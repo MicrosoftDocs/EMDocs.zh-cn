@@ -1,26 +1,26 @@
 ---
 title: "管理要求"
-description: "BYOD 方案的常见管理要求。"
+description: "本文介绍一系列“自带设备办公”方案中应使用的常规管理设计要求。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
-ms.topic: solution
+ms.date: 11/28/2016
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: bf0d4210-5edc-4ad7-bcb5-372099049630
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 9347d0ff642a3ea4a337962b5ec10a0c4c6cdc66
 
 
 ---
 
-# 管理要求
+# <a name="management-requirements"></a>管理要求
 
 设备管理是任何以人为中心的战略的基础之一，它必须根据公司的要求进行评估。 根据公司的成熟度，一个管理系统可能已经准备就绪，必须对它进行扩展以涵盖公司要采用的 BYOD 方案。 下图显示了管理用户、设备和数据时的管理交互。 必须对管理子域中的每个组件都进行考虑。
 
@@ -28,7 +28,7 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 
 考虑管理功能要求时，应从以下部分列出的问题开始。
 
-## 要提出的问题
+## <a name="questions-to-ask"></a>要提出的问题
 
 管理需求问题分为七个方面：
 
@@ -41,7 +41,7 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 - 部署和设置
 
 
-### 监视
+### <a name="monitoring"></a>监视
 
 - 贵公司是否需要监视符合性设置，例如密码、相机和用户设备上的加密？
 - 贵公司是否需要区分设备所有权（公司所有的设备或用户所有的设备）？
@@ -50,7 +50,7 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 - 贵公司是否希望审核功能内置于管理系统中？
 - 贵公司是否将此类型的记录聚合到单个存储库中？
 
-### 报表
+### <a name="reporting"></a>报表
 
 - 贵公司是否需要为其 BYOD 模型报告功能？
     - 如果是，哪些类型的报告是必需的（例如更新、安装的软件和清单）？
@@ -59,7 +59,7 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 - 加入域的设备和未加入域的设备的报告要求是否有任何区别？
     - 如果是，针对每个方案的要求分别是什么？
 
-### 配置
+### <a name="configuration"></a>配置
 
 - 贵公司是否需要一个要求用户设备加入域以便进行管理的管理系统？
 - 贵公司是否需要一个与你的当前目录集成的管理系统？
@@ -69,13 +69,13 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 - 在用户不再需要访问已安装的应用的情况下，贵公司是否打算执行选择性擦除？
     - 如果是，准备就绪的管理系统是否支持选择性擦除功能？
 
-### 计算
+### <a name="compute"></a>计算
 
 - 在后端服务器上运行管理系统所需的计算功能有哪些？
 - 在用户设备上运行管理系统所需的计算功能有哪些？
 - 管理系统是否支持利用云功能展开本地计算资源？
 
-### 存储
+### <a name="storage"></a>存储
 
 - 在后端服务器上运行管理系统的存储要求有哪些？
 - 在用户设备上运行管理系统的存储要求有哪些？
@@ -83,14 +83,14 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 - 公司是否需要管理已添加到用户设备的外部存储驱动器？
 - 公司是否需要一个还可以与云存储集成的管理系统？
 
-### 自动化
+### <a name="automation"></a>自动化
 
 - 对于 BYOD 方案，贵公司打算使哪些操作自动化？
 - 贵公司打算对管理系统采用的自动化要求有哪些？
 - 当前的管理系统是否支持内置的命令行或脚本自动化？
 - 贵公司是否拥有一个与云服务集成并提供自动化功能的管理系统？
 
-### 部署和设置
+### <a name="deployment-and-provisioning"></a>部署和设置
 
 - 当前管理系统的管理代理部署要求有哪些？
 - 是否会为远程用户提供任何可通过门户立即进行设置的服务？
@@ -100,7 +100,6 @@ ms.openlocfilehash: b9cb5d05d7bcaa05859f48528b05b7ea8e7a6650
 
 
 
-
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

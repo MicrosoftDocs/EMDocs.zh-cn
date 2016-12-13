@@ -1,41 +1,41 @@
 ---
 title: "后续步骤和其他资源"
-description: 
+description: "本文提供用于在企业移动性 + 安全性中部署和支持 Microsoft 移动设备管理解决方案的更多资源和操作方法文章。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: eb38d461-bfb0-407c-a5e6-94fa728a86d6
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: bad9340bb835869656e3633b5a0e74c63307a753
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 5c917ca88c5c33e4274b0437fbd57eb07865866f
 
 
 ---
 
-# 后续步骤和其他资源
+# <a name="next-steps-and-additional-resources"></a>后续步骤和其他资源
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
 现在你已完成定义你的要求和检查移动设备管理解决方案的所有选项，你可以随时执行有关部署支持适合你和你的组织的基础结构的后续步骤。
 
-## 移动设备管理解决方案 
+## <a name="mobile-device-management-solutions"></a>移动设备管理解决方案
 
-利用符合你的需求的特定解决方案是查看和规划部署移动设备管理基础结构的细节的绝好方法。 以下解决方案概述了几个最常见的移动设备管理方案： 
+利用符合你的需求的特定解决方案是查看和规划部署移动设备管理基础结构的细节的绝好方法。 以下解决方案概述了几个最常见的移动设备管理方案：
 
-- [在企业环境中管理移动设备和电脑](https://technet.microsoft.com/library/dn582037.aspx)解决方案通过使用 Microsoft Intune 将你的本地 System Center 2012 R2 Configuration Manager 基础结构扩展到云中，从而帮助你管理移动设备。 此混合基础结构可帮助中型和大型公司在减少管理复杂性的同时支持 BYOD 和远程访问。 
+- [在企业环境中管理移动设备和电脑](https://technet.microsoft.com/library/dn582037.aspx)解决方案通过使用 Microsoft Intune 将你的本地 System Center 2012 R2 Configuration Manager 基础结构扩展到云中，从而帮助你管理移动设备。 此混合基础结构可帮助中型和大型公司在减少管理复杂性的同时支持 BYOD 和远程访问。
 - 如果你的基础结构为 System Center Configuration Manager 2007，[Configuration Manager 2007 管理移动设备](https://technet.microsoft.com/library/dn508400.aspx)解决方案可帮助你管理移动设备。 本解决方案演示了如何设置运行 System Center 2012 R2 Configuration Manager 的单个服务器，以便你可以随后运行 Microsoft Intune 并利用其 MDM 功能。
 - [管理小型环境中的移动设备](https://technet.microsoft.com/library/dn715906.aspx)解决方案适用于需要支持 MDM 的小型企业。 它阐释了如何使用 Microsoft Intune 扩展你当前的基础结构，以支持移动设备管理和 BYOD。 本解决方案介绍了在没有本地服务器且仅限于云的配置中使用 Microsoft Intune 独立版时支持的最简单方案。
-        
-## 移动设备管理文档
+
+## <a name="mobile-device-management-documentation"></a>移动设备管理文档
 
 在实现移动设备管理解决方案时，概念性和程序性的规划、部署和管理内容很有用。
 
@@ -44,7 +44,7 @@ ms.openlocfilehash: bad9340bb835869656e3633b5a0e74c63307a753
 - [Microsoft Intune](/Intune/) 是一种基于云的设备管理服务，可帮助你管理计算机和移动设备并保护公司信息的安全。
 - [适用于 Office 365 的 MDM](https://technet.microsoft.com/library/ms.o365.cc.devicepolicy.aspx) 允许你在将移动设备连接到你的 Office 365 组织时对其进行管理和保护。 你可以使用 Office 365 的 MDM 来设置设备安全策略和访问规则，并在移动设备丢失或被盗时擦除设备中的信息。 在[了解 Office 365 的 内置移动设备管理 (MDM) 功能](https://blogs.office.com/2015/07/21/explore-the-built-in-mobile-device-management-mdm-feature-for-office-365/)中获取 Office 365 中的 MDM 的功能和设置步骤概述。
 
-## 移动设备管理资源
+## <a name="mobile-device-management-resources"></a>移动设备管理资源
 
 监视以下资源可提供有关我们的移动设备管理解决方案的最新资讯和更新：
 
@@ -57,6 +57,6 @@ ms.openlocfilehash: bad9340bb835869656e3633b5a0e74c63307a753
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

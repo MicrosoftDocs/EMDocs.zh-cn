@@ -1,38 +1,38 @@
 ---
 title: "强化移动设备"
-description: "在移动设备管理方案中的增强移动设备时的注意事项。"
+description: "本文介绍移动设备管理方案中有关强化移动设备的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
-ms.topic: solution
+ms.date: 11/28/2016
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ade57c73-a8a2-497f-ad8d-5dfc3cba9e70
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 050d92824ad2616440d9d4b972a812be0ab5a14a
 
 
 ---
 
-# 强化移动设备
+# <a name="hardening-mobile-devices"></a>强化移动设备
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-在为移动设备创建配置基线以根据你的业务需求强化其功能时，请确保平衡可用性与安全性。 非常严格的强化模板可能会使你的员工遇到可用性和访问问题，这将破坏帮助用户通过使用其设备访问公司资源来提高效率的目的。 
+在为移动设备创建配置基线以根据你的业务需求强化其功能时，请确保平衡可用性与安全性。 非常严格的强化模板可能会使你的员工遇到可用性和访问问题，这将破坏帮助用户通过使用其设备访问公司资源来提高效率的目的。
 
 此外，请记住并非所有策略都可用于所有移动设备平台。 你可能需要平衡允许组织中的移动设备平台与强化设备的安全合规性要求之间的优先级。
 处理移动设备强化的一个方式是使用不同层的安全性。 可用于每个层的设置也可能因 MDM 解决方案而异。 下图显示了如何设置此分层方法的示例。
 
 ![安全层](./media/MDM_Figure_12.png)
 
-## 移动设备强化的不同区域
+## <a name="different-areas-of-mobile-device-hardening"></a>移动设备强化的不同区域
 
 每个层可用于对必须符合你的业务安全要求的区域进行分组。 例如，可以配置 Intune 以部署专门用于强化系统设置并启用加密的设备的[安全策略](/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)。 这些策略还将通过创建访问允许列表来确保仅[兼容应用](https://technet.microsoft.com/library/dn818906.aspx)可在移动设备上进行安装。
 
@@ -53,7 +53,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 
 强化移动设备平台对于在保护公司数据的同时允许用户在不影响安全性的情况下使用他们的移动设备起到了重要的作用。 使用下表作为参考协助你选择最符合组织的数据强化要求的 MDM 选项。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -65,7 +65,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 - 缺乏与当前本地 MDM 平台的集成，将引入一个附加的管理接口供你在管理移动设备时使用
 - 某些策略可能不适用于某些移动平台
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -78,7 +78,7 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 - 某些策略可能不适用于某些移动平台
 - 不允许与 Intune 相当的粒度
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -90,11 +90,11 @@ ms.openlocfilehash: 9518ff77696607d9f872942b511342ed07e8db5a
 
 - 如果你的公司没有当前本地 ConfigMgr 基础结构，它将在集成前需要资源来规划、安装和配置 ConfigMgr
 
->[!TIP] 
-> 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。 
+>[!TIP]
+> 请在 [Microsoft Intune 的移动设备管理策略设置](https://technet.microsoft.com/library/dn913730.aspx)中阅读有关可在 Microsoft Intune 移动设备安全策略中配置的移动设备管理设置的详细信息。
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

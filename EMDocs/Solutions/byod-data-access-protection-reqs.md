@@ -1,26 +1,26 @@
 ---
 title: "数据访问和保护要求"
-description: "BYOD 方案中的数据访问和保护的常见要求。"
+description: "本文介绍一系列“自带设备办公”方案中应使用的针对数据访问和保护的常规要求。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
-ms.topic: solution
+ms.date: 11/28/2016
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 29eddc34-5ca5-4169-89b6-8137b03ab7f0
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 9aafb6a87f629f61d04596830ae0cc5cee944696
 
 
 ---
 
-# 数据访问和保护要求
+# <a name="data-access-and-protection-requirements"></a>数据访问和保护要求
 
 允许用户从他们自己的设备访问公司资源时的要素之一是保护公司的数据，并保证该信息的安全。 无论数据位于何处，都建议贵公司具有必须准备的用以确保数据安全的多种符合性要求。 下图显示了访问数据时用户与设备之间的交互以及此子域必须考虑哪些组件。
 
@@ -28,7 +28,7 @@ ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
 
 下节包含为了制定解决方案设计的要求而必须回答的有关数据访问和保护的问题。
 
-## 要提出的问题
+## <a name="questions-to-ask"></a>要提出的问题
 
 数据访问和保护要求的问题分为以下六个方面：
 
@@ -38,7 +38,7 @@ ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
 - 授权
 - 策略和合规性
 
-### 存储
+### <a name="storage"></a>存储
 
 - 当数据中心中的数据处于静态时，你是否启用加密？
 - 贵公司是否会为位于数据中心存储中的数据提供脱机访问（也就是说，你是否会将数据同步到用户设备）？
@@ -50,7 +50,7 @@ ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
 - 你的公司策略是否允许用户从公司计算机使用云存储？
     - 如果不允许，你是否打算为从他们自己的设备访问数据的用户扩展此策略？
 
-### 网络
+### <a name="network"></a>网络
 
 - 你在本地是否拥有任何类型的网络加密？
     - 如果是，它是仅限于服务器到服务器的通信，还是加密整个网络？
@@ -61,14 +61,14 @@ ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
 - 贵公司是否使用任何网络检测机制？
     - 如果是，你是否打算为自带设备并连接到企业网络的用户扩展此功能？
 
-### 目录
+### <a name="directory"></a>目录
 
 - 贵公司是否使用单一的用户目录，或者具有多个访问接口？
 - 你的公司目录位于本地、云中，还是本地以及云中（混合）？
 - 当用户从他们的设备访问应用程序时，将针对哪个目录对其进行身份验证？
 - 贵公司是否打算联合本地和云服务之间的身份验证？
 
-### 身份验证
+### <a name="authentication"></a>身份验证
 
 - 你的环境中现在使用哪种类型的身份验证？
 - 你打算保留这种身份验证方法，还是希望在允许用户使用他们自己的设备来访问公司资源之前对它进行增强？
@@ -77,14 +77,14 @@ ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
 - 你是否打算为从用户设备访问的应用启用单一登录？
 - 你是否打算充分利用云资源来为远程用户提供其他级别的身份验证？
 
-### 授权
+### <a name="authorization"></a>授权
 
 - 在当前环境中，对用户进行身份验证后，你是否准备任何其他控件来验证用户是否有权访问他们正在请求的信息？
 - 你是否打算基于一组预定义规则为远程用户提供有条件的访问？
 - 贵公司是否会为位于本地或云环境中的数据执行授权强制？
 - 贵公司是否使用[必须了解的原则](http://en.wikipedia.org/wiki/Need_to_know)来为数据访问授权？
 
-### 策略和合规性
+### <a name="policy-and-compliance"></a>策略和合规性
 
 - 贵公司是否具有用来定义如何对访问数据进行分类的策略？
 - 贵公司是否必须遵守任何适用于数据处理和隐私的规定？
@@ -94,6 +94,6 @@ ms.openlocfilehash: be15d3cdc06579702f8b8f72697868110add30b7
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

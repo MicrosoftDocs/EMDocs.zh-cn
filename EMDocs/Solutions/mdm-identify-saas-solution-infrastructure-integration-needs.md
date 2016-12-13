@@ -1,26 +1,26 @@
 ---
 title: "确定 SaaS 解决方案基础结构集成需求"
-description: 
+description: "本文帮助确定使用 Microsoft 企业移动性 + 安全性规划和设计移动设备管理时的服务型软件基础结构集成要求。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 26b15471-b496-4404-934d-67e621655bca
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 329bb692d300aa700e9f84b88c216c7d66952dba
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: c21b0a8c413c4e7299e8026f55a3e43e7f825f82
 
 
 ---
 
-# 确定 SaaS 解决方案基础结构集成需求
+# <a name="identify-saas-solution-infrastructure-integration-needs"></a>确定 SaaS 解决方案基础结构集成需求
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -32,13 +32,13 @@ ms.openlocfilehash: 329bb692d300aa700e9f84b88c216c7d66952dba
 
 你在这两个方面所做的决策将显著影响你的移动设备管理解决方案的总体部署、管理和最终用户体验。
 
-## 身份和目录连接性
+## <a name="identity-and-directory-connectivity"></a>身份和目录连接性
 
 将本地用户和设备帐户目录与 SaaS 解决方案连接和同步是真正将用户、移动设备、移动应用程序和移动设备管理连接起来的纽带。 了解用户是谁（身份）并将该身份与特定移动设备相关联对于从移动设备管理对公司资源和数据的访问至关重要。 在许多方面，最大程度提高这些领域与 SaaS 解决方案的连接程度决定了对你和你的移动设备用户的总体价值。  无处不在的连接性意味着用户和设备可以在任何地方使用设备和应用程序，并且使用户身份管理与此连接性的需求保持同步很重要。 你管理身份和用户身份验证的方式对移动设备管理解决方案的成功至关重要，这一点怎样强调都不为过。
 
 将本地目录服务同步到 SaaS 解决方案是在定义移动设备管理策略时应考虑的另一个重要方面。 大多数组织倾向于维持本地用户和设备目录基础结构，但需要将这些帐户扩展到各种基于云的服务。 这可能仅包括基于 SaaS 的移动设备管理解决方案，但在大多数情况下，组织需要将用户和设备帐户集成到多个不同类型的基于云的服务。 这可能包括基于云的应用程序、数据或第三方 Web 服务。 保持用户和设备目录帐户同步是精心设计的身份管理解决方案的基础。 将本地目录与云目录集成后，你还可以启用单一登录 (SSO) 来允许用户使用他们的本地凭据登录到所有服务。 <token>Intune</token> 和 Office 365 都可利用此集成来为组织希望使用的 SaaS 应用启用 SSO。
 
-### 身份和目录连接
+### <a name="identity-and-directory-connectivity-questions"></a>身份和目录连接
 
 作为 SaaS 管理生命周期规划的一部分，你需要回答以下有关规划身份管理和目录连接的问题：
 
@@ -53,11 +53,11 @@ ms.openlocfilehash: 329bb692d300aa700e9f84b88c216c7d66952dba
 - 是否所有目录对象属性都与 SaaS 解决方案同步？ 你是否需要同步自定义目录对象属性？
 - 本地目录服务是否托管在单个位置或逻辑分组中？ 如果否，SaaS 解决方案是否支持同步来自多个位置和逻辑分组的多个目录服务？
 
-## 与现有客户端管理平台连接
+## <a name="connecting-with-existing-client-management-platforms"></a>与现有客户端管理平台连接
 
 大多数组织都有现有本地客户端管理平台，用于管理台式计算机和服务器。 你将移动设备管理集成到此系统中的方式可能对 IT 基础结构成本、设备管理管理进程、设备清单和报告支持以及与其他业务关键应用程序和服务的总体集成产生重大影响。 通过连接这两个平台，组织能够利用单个、统一管理平台的规模经济效应。
 
-### 与现有客户端管理平台连接
+### <a name="connecting-existing-client-management-platforms-questions"></a>与现有客户端管理平台连接
 
 作为 SaaS 管理生命周期规划的一部分，你需要回答以下有关规划将 SaaS 解决方案与现有客户端管理平台连接的问题：
 
@@ -80,6 +80,6 @@ ms.openlocfilehash: 329bb692d300aa700e9f84b88c216c7d66952dba
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

@@ -1,39 +1,39 @@
 ---
 title: "指定你的隐私要求"
-description: "移动设备管理方案的常见隐私要求。"
+description: "本文介绍一系列移动设备管理方案中应使用的常规隐私要求。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
-ms.topic: solution
+ms.date: 11/28/2016
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: d02d3ec2-706a-4e03-977c-b7c06cbd4ebd
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 40d3d98d70bdf81fc003725acbf6efb19d4d23fe
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 14f3c9958c2c959df8c6537728e8237a1f226760
 
 
 ---
 
-# 指定你的隐私要求
+# <a name="specify-your-privacy-requirements"></a>指定你的隐私要求
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
 
-在上一步中，你定义了设备管理任务，其中包括设备管理和内容分发管理。 在此任务中，目标是定义对将驻留在移动设备上的公司内容的隐私要求。 
+在上一步中，你定义了设备管理任务，其中包括设备管理和内容分发管理。 在此任务中，目标是定义对将驻留在移动设备上的公司内容的隐私要求。
 
->[!TIP] 
+>[!TIP]
 > 有关移动设备的内容分发的详细信息，请参阅混合环境中的移动设备和计算机的简化管理解决方案。
 
-组织的隐私与合规性要求将因行业、适用法规和业务类型而异。 例如，你可能希望你的 MDM 解决方案允许你在移动设备上执行基本的硬件清单、软件清单、文件收集和软件分发。 默认情况下，通常支持硬件清单和软件分发。 
+组织的隐私与合规性要求将因行业、适用法规和业务类型而异。 例如，你可能希望你的 MDM 解决方案允许你在移动设备上执行基本的硬件清单、软件清单、文件收集和软件分发。 默认情况下，通常支持硬件清单和软件分发。
 
-请记住，适用于客户端计算机的清单和软件分发的隐私问题也适用于移动设备。 
+请记住，适用于客户端计算机的清单和软件分发的隐私问题也适用于移动设备。
 
 在选择移动设备管理解决方案前，请考虑你的独特隐私要求。 例如，请考虑如下事项：
 
@@ -41,7 +41,7 @@ ms.openlocfilehash: 40d3d98d70bdf81fc003725acbf6efb19d4d23fe
     - 你是否需要为用户提供你公司的隐私策略，隐私策略应包括哪些内容？
         - 如果是，MDM 解决方案是否包括易于为用户提供隐私策略的功能？
     - MDM 解决方案是否将用户的移动设备信息或数据存储在云中？
-        - 如果是，用户的隐私在云中如何维护？ 
+        - 如果是，用户的隐私在云中如何维护？
 - 谁有权访问数据？
 - 如何使他们的数据保持隐私？
 - 数据分类与合规性：定义公司数据如何构成以及它将如何被保护至关重要。 采用策略和机制来为数据分类应是计划的一部分，以便在管理移动设备时确保隐私。
@@ -56,6 +56,6 @@ ms.openlocfilehash: 40d3d98d70bdf81fc003725acbf6efb19d4d23fe
 
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 
