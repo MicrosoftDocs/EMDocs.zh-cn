@@ -1,26 +1,26 @@
 ---
 title: "用户和设备要求"
-description: "BYOD 方案中用户和设备的常见要求。"
+description: "本文介绍一系列“自带设备办公”方案中用户及其设备要采用的常规要求。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
-ms.topic: solution
+ms.date: 11/28/2016
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: a6319952-e9cd-4308-b9b9-b2e6005e6506
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: f665128a88ce1e6525b433a78b71437814e47a09
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: e8052d7c45b1b0a579dab9c17112907ade027f8f
 
 
 ---
 
-# 用户和设备要求
+# <a name="user-and-device-requirements"></a>用户和设备要求
 
 允许用户从他们的设备访问公司资源之前，请先回答与环境中这些资源的使用者以及 IT 部门协作之后的部分中的问题。 下图显示了用户和设备之间进行的交互，最终目标是访问和使用数据。 请注意，该关系图没有涉及地理位置。 尽管地理位置是一个重要的注意事项（将在本指南后面进行介绍），但是此图旨在阐述用户和设备的核心组件。 必须进行设计方面的考虑以引发此通信。
 
@@ -28,7 +28,7 @@ ms.openlocfilehash: f665128a88ce1e6525b433a78b71437814e47a09
 
 此过程最终将提供明确的功能定义。 以下部分包含为了制定解决方案设计的要求而必须回答的有关用户和设备的问题。
 
-## 要提出的问题
+## <a name="questions-to-ask"></a>要提出的问题
 
 用户和设备要求分为三个方面：
 
@@ -36,14 +36,14 @@ ms.openlocfilehash: f665128a88ce1e6525b433a78b71437814e47a09
 - 设备
 - 网络
 
-### Profile
+### <a name="profile"></a>Profile
 
 - 在企业中，你拥有的用户配置文件类型有哪些（例如远程员工、偶尔出差的员工和全职的家庭办公员工）？
 - 是否所有用户对于执行其工作都有相同的要求？
 - 你是否拥有一个可以根据工作/角色建立用户需求的矩阵？
 
 
-### 设备
+### <a name="devices"></a>设备
 
 - 用户将携带的设备类型有哪些（例如智能手机、平板电脑和便携式计算机）？
 - 你是否打算为所有设备类型提供远程擦除功能？
@@ -53,7 +53,7 @@ ms.openlocfilehash: f665128a88ce1e6525b433a78b71437814e47a09
 - 贵公司是否遵循必须应用于可能会访问公司数据的所有设备的任何符合性要求？
 - 贵公司是否准备好用于处理被盗设备的策略？
 
-### 网络
+### <a name="network"></a>网络
 
 - 贵公司是否具有可从用户设备通过 Internet 访问的位于云中的任何资源？
 - 对于从不同的地理位置访问公司数据的用户，贵公司是否具有策略限制？
@@ -64,13 +64,12 @@ ms.openlocfilehash: f665128a88ce1e6525b433a78b71437814e47a09
 - 对于家庭办公员工来说，如何在网络中连接这些用户？有线、无线还是两者皆可？
     - 如果是无线连接，你打算如何处理设备的身份验证、授权和记帐 (AAA)，以便未注册/未授权的设备在无需所规定许可的情况下能够使用网络资源？
 
-### 技术支持
+### <a name="technical-support"></a>技术支持
 - 你的网络/安全团队是否已准备好调整常规设备合规性的审核？
 - 你是否已更改了管理策略和过程以支持 BYOD 实现？
 
 
 
-
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

@@ -1,26 +1,26 @@
 ---
 title: "网络连接管理选项"
-description: 
+description: "本文提供有关使用企业移动性 + 安全性规划和设计 Microsoft 移动设备管理解决方案时的网络连接管理选项的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: bc7cdb8f-3485-45ae-9493-f840ad9ed3ea
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 32b586bde6be834a5b0d16cb9b46e7da23beb216
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 856d2d2ba9968aa0f4a0da4f4afcbf452260e548
 
 
 ---
 
-# 网络连接管理选项
+# <a name="network-connectivity-management-options"></a>网络连接管理选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -35,11 +35,11 @@ ms.openlocfilehash: 32b586bde6be834a5b0d16cb9b46e7da23beb216
 
 下表列出了使用 Intune 独立版和带 ConfigMgr 的 Intune 混合版来管理无线网络和 VPN 网络的优缺点。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
-- 支持所有主要的移动设备操作系统（Android、iOS、Windows 10、Windows 8.x 以及 Windows Phone）上的无线和 VPN 配置文件 
+- 支持所有主要的移动设备操作系统（Android、iOS、Windows 10、Windows 8.x 以及 Windows Phone）上的无线和 VPN 配置文件
 - 支持业界领先的 VPN 连接类型，包括 Cisco、Juniper、Dell SonicWall 和 Checkpoint 等
 - 无线和 VPN 配置文件可与 SCEP 证书配置文件集成，以提升安全性
 - 支持为不同类型的用户、设备、设备操作系统或用户组和角色配置自定义的无线和 VPN 配置文件
@@ -51,11 +51,11 @@ ms.openlocfilehash: 32b586bde6be834a5b0d16cb9b46e7da23beb216
 
 - 若要支持 VPN 配置文件，你将需要部署和维护本地 VPN 基础结构
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -64,7 +64,7 @@ Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 
 **缺点**
 
-- 若要支持 VPN 配置文件，你将需要部署和维护本地 VPN 基础结构 
+- 若要支持 VPN 配置文件，你将需要部署和维护本地 VPN 基础结构
 - 必须授予特定安全权限，以在 ConfigMgr 中管理 [Wi-Fi 配置文件](https://technet.microsoft.com/library/dn408646.aspx)和 [VPN 配置文件](https://technet.microsoft.com/library/dn408643.aspx)
 
 查看以下内容，了解有关移动设备电子邮件配置管理选项的详细信息：
@@ -74,6 +74,6 @@ Office 365 的 MDM 不支持 Wi-Fi 和 VPN 策略。
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

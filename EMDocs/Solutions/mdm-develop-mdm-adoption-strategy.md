@@ -1,39 +1,39 @@
 ---
 title: "制定你的移动设备管理采用策略"
-description: "采用移动设备管理的设计注意事项。"
+description: "本文提供一系列在组织中采用移动设备管理时需考虑的设计注意事项。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
-ms.date: 10/18/2016
-ms.topic: solution
+ms.date: 11/28/2016
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 10172816-b52d-4a55-8803-6a6805126fab
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: cc449bca094772759983cc924b3294a4f6b44d83
-ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
+ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
+ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 
 
 ---
 
-# 制定你的移动设备管理采用策略
+# <a name="develop-your-mobile-device-management-adoption-strategy"></a>制定你的移动设备管理采用策略
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-在本任务中，你将开发移动设备管理采用策略，以符合你在任务 1 和 2 中确定的业务要求。 
+在本任务中，你将开发移动设备管理采用策略，以符合你在任务 1 和 2 中确定的业务要求。
 
-## 设备所有权
+## <a name="device-ownership"></a>设备所有权
 
 在查看你的组织当前用于管理设备的策略后，你应该有一个你的组织计划实施的方案列表。 以下部分将帮助你了解每个方案的优点和缺点：
 
-## 员工拥有设备 (BYOD)
+## <a name="employee-owns-the-device-byod"></a>员工拥有设备 (BYOD)
 
-**优点** 
+**优点**
 
 - 你的公司不需要为员工购买移动设备
 - 该方案通常能使员工提高工作效率，因为他们将使用自己选择的移动设备
@@ -45,9 +45,9 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 - 将增加数据泄露的可能性，尤其是在未安装相应的安全控件时
 - 有限的管理功能，因为隐私限制
 
-## 公司拥有的设备
+## <a name="company-owned-device"></a>公司拥有的设备
 
-**优点** 
+**优点**
 
 - 完整的管理功能，包括设备强化和安全控件
 - 更好地控制移动设备
@@ -61,11 +61,11 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 
 在某些情况下，组织可以接受这两种模式：BYOD 和公司拥有的设备。 在这种情况下，设备管理平台必须能够在与当前的本地基础结构集成的同时管理多个平台。 如果你的组织适合这种情况，还请确保你的安全策略从法规遵从性的角度可涵盖这两种模式。 每种模式可能有不同的要求，当由 IT 进行控制时，你的移动设备管理解决方案应能处理两者。
 
-## 支持的移动设备平台
+## <a name="supported-mobile-device-platforms"></a>支持的移动设备平台
 
 你所做的有关设备所有权的决策将有助于你确定你将支持哪些移动设备平台。 你选择的移动设备管理解决方案将需要符合这一决策。 在单个移动设备平台方案中，平台选择将不像多平台方案中的平台选择那样具有相关性。 使用以下部分来帮助你为多平台方案选择移动设备管理解决方案：
 
-### Intune（独立版）
+### <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -80,7 +80,7 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 - 因为缺少与当前本地设备管理解决方案的集成，所以引入了一个附加的管理接口供你使用
 - 使用本地 MDM 解决方案创建的策略不会复制到云服务
 
-### Office 365 的 MDM
+### <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -93,26 +93,26 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 - 用于管理移动设备的有限的功能集（请参阅此表后面的说明）
 - 因为缺少与当前本地设备管理解决方案的集成，所以引入了一个附加的管理接口供你使用
 
-### 混合版（带 ConfigMgr 的 Intune）
+### <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
 - Intune 和 ConfigMgr 之间的本机集成
 - 允许你使用集中式的控制台来部署策略和管理本地电脑、服务器以及移动设备
 
-**缺点** 
+**缺点**
 
 - 需要执行其他配置步骤来连接 Intune 和 ConfigMgr
 - 如果组织在本地没有当前 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
 
 如果你只需要管理对移动设备中的工作电子邮件、日历、联系人和任务的访问权限，请参阅 [Office 365 中提供的 Exchange ActiveSync 设备管理功能](https://technet.microsoft.com/library/dn792010.aspx#tasks)。
 
-## 应用程序要求
+## <a name="application-requirements"></a>应用程序要求
 
 根据在任务 1 中定义的要求，你可以选择最适合你组织的移动设备管理解决方案。 使用下表来比较 MDM 选项，以及每个选项的优点和缺点。
 
 
-### Intune（独立版）
+### <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -127,11 +127,11 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 
 **缺点**
 
-- 由于缺少与本地设备管理解决方案的集成，将引入一个附加的管理接口，以便你可以在管理移动设备时使用（如果你拥有本地解决方案）。 
+- 由于缺少与本地设备管理解决方案的集成，将引入一个附加的管理接口，以便你可以在管理移动设备时使用（如果你拥有本地解决方案）。
 - 使用本地 MDM 平台创建的策略无法复制到云服务，因为需要两组管理与合规性策略（如果你拥有本地 MDM 解决方案）
 
 
-### Office 365 的 MDM
+### <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -144,7 +144,7 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 - 无法部署应用并应用移动应用程序管理功能
 
 
-### 混合版（带 ConfigMgr 的 Intune）
+### <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -162,17 +162,15 @@ ms.openlocfilehash: 2ff57e80fd68a58a78d4a626036416f95966dab5
 - 如果没有与 Intune 集成，ConfigMgr 的移动设备管理解决方案将有一定限制，具体取决于支持的移动设备平台。 有关详细信息，请参阅“确定如何在 Configuration Manager 中管理移动设备”。
 
 
-## 跟踪要求
+## <a name="track-requirements"></a>跟踪要求
 
 了解用户行为并且能够确定他们的位置是包含在你的移动设备管理策略中的重要因素。 跟踪设备的方式将因你的业务要求和需求而异。  每个移动操作系统中都提供了不同的跟踪功能，因此你选择支持的移动设备平台将影响你的选项。 例如，合规性要求可能会影响你对要采用的允许你跟踪用户位置并使用地理围栏的移动设备平台设置优先级。
 
->[!TIP] 
-> 地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。 
+>[!TIP]
+> 地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。
 
 
 
-
-
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Nov16_HO4-->
 
 

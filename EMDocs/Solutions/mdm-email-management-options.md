@@ -1,26 +1,26 @@
 ---
 title: "电子邮件管理选项"
-description: 
+description: "本文提供有关使用企业移动性 + 安全性规划和设计 Microsoft 移动设备管理解决方案时的现有电子邮件管理选项的指导。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 9b89da63-039f-4831-b204-28c0681478fe
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 919ce43f116714c7b08b8a17973c4955681b5a5a
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: ac2c64b54883204f0051250c23f7a6b085e67ebe
 
 
 ---
 
-# 电子邮件管理选项
+# <a name="email-management-options"></a>电子邮件管理选项
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
@@ -29,7 +29,7 @@ ms.openlocfilehash: 919ce43f116714c7b08b8a17973c4955681b5a5a
 
 在 Intune、混合 Intune 和 ConfigMgr部署中配置电子邮件管理选项时应遵循类似的过程。 主要区别在于你可以比在 Office 365 的 MDM 中实现更高级的电子邮件管理选项。 例如，使用 Intune 独立版可以配置条件电子邮件访问以允许访问托管在 Exchange Online 和本地 Exchange 上的邮箱，还可以配置自定义的电子邮件配置文件。 Intune 通过使用配置和合规性策略启用这些功能。  混合 Intune 和 ConfigMgr 部署也支持条件电子邮件访问，但仅限于托管在 Exchange Online 上的邮箱
 
-在下图 6 所示的方案中，用户已在 Intune 中注册设备，现在正尝试使用 Office 365 或本地 Exchange 访问其企业电子邮件。 根据公司 IT 管理员定义的设置，Intune 运行策略验证过程。 在此方案中，如果设备已加密、密码已设置并且设备没有越狱或没有获取根权限，将授予用户访问权限。 如果用户尝试访问企业电子邮件但其设备尚未注册，或与 IT 管理员定义的设置不兼容，他将收到一封电子邮件，说明访问受阻的原因以及如何解决该问题的步骤。 
+在下图 6 所示的方案中，用户已在 Intune 中注册设备，现在正尝试使用 Office 365 或本地 Exchange 访问其企业电子邮件。 根据公司 IT 管理员定义的设置，Intune 运行策略验证过程。 在此方案中，如果设备已加密、密码已设置并且设备没有越狱或没有获取根权限，将授予用户访问权限。 如果用户尝试访问企业电子邮件但其设备尚未注册，或与 IT 管理员定义的设置不兼容，他将收到一封电子邮件，说明访问受阻的原因以及如何解决该问题的步骤。
 
 ![条件性访问](./media/MDM_Figure_06.png)
 
@@ -37,7 +37,7 @@ ms.openlocfilehash: 919ce43f116714c7b08b8a17973c4955681b5a5a
 
 对步骤 1 中的问题的回答可以帮助你确定想要如何使用移动设备管理解决方案管理设备。 下表列出了每个 MDM 解决方案的电子邮件管理的优缺点。
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -51,7 +51,7 @@ ms.openlocfilehash: 919ce43f116714c7b08b8a17973c4955681b5a5a
 
 - 基于 Android 的移动设备不支持电子邮件配置文件
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -61,10 +61,10 @@ ms.openlocfilehash: 919ce43f116714c7b08b8a17973c4955681b5a5a
 
 **缺点**
 
-- 不支持某些高级电子邮件管理选项 
+- 不支持某些高级电子邮件管理选项
 - 不支持部署电子邮件配置文件（iOS 除外）
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -88,6 +88,6 @@ ms.openlocfilehash: 919ce43f116714c7b08b8a17973c4955681b5a5a
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 

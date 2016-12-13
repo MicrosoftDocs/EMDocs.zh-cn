@@ -1,13 +1,22 @@
 # 解决方案
+## [了解企业移动性 + 安全性](learn-about-ems.md)
+## [开始使用企业移动性 + 安全性](ems-get-started.md)
 ## [标识和访问管理](manage-access-at-scale.md)
+### [数千个应用，一个标识](thousands-apps-one-identity.md)
+### [实现商业无国界](enable-business-without-borders.md)
 ### [大规模管理访问权限](manage-access-at-scale.md)
+### [由云支持的保护](cloud-powered-protection.md)
 ## [标识驱动安全](protect-front-door.md)
 ### [第一道防线](protect-front-door.md)
+### [针对用户错误保护数据](protect-data-user-mistake.md)
+### [在导致损害前检测出攻击](detect-attacks-before-damage.md)
 ## [信息保护](infoprotect-secure-classify-scenario.md)
 ### [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
+### [在内部和外部共享敏感数据](share-sensitive-data.md)
+### [跟踪共享数据使用情况并对数据滥用做出响应](infoprotect-track-usage-scenario.md)
 ## [托管移动工作效率](protect-office365-data-with-intune.md)
 ### [使用 Intune 保护 Office 365 公司数据](protect-office365-data-with-intune.md)
-
+### [使用 Intune 保护本地公司数据](protect-on-premises-data-with-intune.md)
 ## [设计和体系结构指南](byod-design-considerations-guide.md)
 ### [BYOD 设计指南](byod-design-considerations-guide.md)
 #### [构想基础结构解决方案](byod-envisioning-the-byod-infrastructure-solution.md)
@@ -18,7 +27,7 @@
 #### [设计注意事项](byod-design-considerations.md)
 ##### [用户和设备](byod-user-and-device-considerations.md)
 ##### [数据访问和保护](byod-data-access-and-protection-considerations.md)
-##### [Management](byod-management-considerations.md)
+##### [管理](byod-management-considerations.md)
 ##### [应用](byod-app-considerations.md)
 ### [移动设备管理设计指南](mdm-design-considerations-guide.md)
 #### [步骤 1：确定要求](mdm-step-1-identify-your-mobile-device-management-requirements.md)
@@ -64,7 +73,7 @@
 ##### [Exchange Online](conditional-access-intune-exchange-online.md)
 ##### [Exchange 内部部署](conditional-access-intune-exchange.md)
 #### [使用 Intune 和 Configuration Manager 的条件访问](conditional-access-intune-configmgr.md)
-##### [Exchange Online](conditional-access-intune-configmgr-exchange-online.md)
+##### [Exchange online](conditional-access-intune-configmgr-exchange-online.md)
 ##### [Exchange 内部部署](conditional-access-intune-configmgr-exchange.md)
 ##### [Exchange Online 和 Exchange 内部部署](conditional-access-intune-configmgr-coexist.md)
 #### [条件访问的用户体验](end-user-experience-conditional-access.md)
@@ -76,14 +85,14 @@
 #### [带 Configuration Manager 的 MAM](MAM-configmgr.md)
 #### [MAM 用户体验](end-user-experience-MAM.md)
 
-## [FastTrack 入门](enterprise-mobility-fasttrack-program.md)
-### [EMS 的 FastTrack 权益](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)
-### [EMS 的 FastTrack 权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
+## [企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益](enterprise-mobility-fasttrack-program.md)
+### [符合条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)
+### [FastTrack 流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
 #### [概述](fasttrack-center-benefit-process-for-ems-overview.md)
-#### [源环境](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
-#### [阶段](fasttrack-center-benefit-process-for-ems-phases.md)
+#### [源环境预期](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
+#### [载入和迁移阶段](fasttrack-center-benefit-process-for-ems-phases.md)
 #### [Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
-#### [客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
+#### [你的职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 ### [如何设置其他安全性验证的首选方式](fasttrack-how-to-enroll-in-mfa.md)
 ### [如何管理密码](fasttrack-how-to-manage-your-password.md)
 ### [IT 管理员最终用户 Intune 注册说明](fasttrack-intune-enduser-enrollment-instructions.md)
@@ -94,6 +103,6 @@
 ## [EMS 支持常见问题](ems-support-faq.md)
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Dec16_HO2-->
 
 

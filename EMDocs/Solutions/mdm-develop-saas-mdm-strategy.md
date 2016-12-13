@@ -1,35 +1,35 @@
 ---
 title: "制定 SaaS 移动设备管理策略"
-description: 
+description: "本文旨在帮助客户制定适用于使用 Microsoft 企业移动性 + 安全性实现的移动设备管理的服务型软件策略。"
 keywords: 
 author: andredm7
+ms.author: andredm
 manager: swadhwa
 ms.date: 10/3/2016
-ms.topic: solution
+ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: b3cefcc5-b045-48f9-91f5-6d282a4428f3
 ms.reviewer: 
 ms.suite: ems
-ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 601e2e16d62c59002da329e99873263d64e005a0
+ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
+ms.openlocfilehash: 735874e0f5c30628fbc4bdcdce18e6db3a2ec735
 
 
 ---
 
-# 制定 SaaS 移动设备管理策略
+# <a name="develop-saas-mobile-device-management-strategy"></a>制定 SaaS 移动设备管理策略
 
 >[!NOTE]
 >本主题是更大的设计注意事项指南的一部分。 如果你希望从指南的开头开始，请查看[主要主题](mdm-design-considerations-guide.md)。 若要获取此完整指南的可下载副本，请访问 [TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)。
 
-## 确定你的 SaaS 解决方案要求
+## <a name="identify-your-saas-solution-requirements"></a>确定你的 SaaS 解决方案要求
 
 根据你对任务 1 中的问题的回答，你应该能够确定需要在移动设备管理解决方案中支持的 SaaS 解决方案。 下面的表 20 将有助于你了解每个 SaaS 解决方案的优点和缺点：
 
-## Intune（独立版）
+## <a name="intune-standalone"></a>Intune（独立版）
 
 **优点**
 
@@ -46,7 +46,7 @@ ms.openlocfilehash: 601e2e16d62c59002da329e99873263d64e005a0
 - 不支持私有云实例
 - 如果你需要支持 50,000 台以上的移动设备，你需要将 Itune 连接到 ConfigMgr 以管理其他设备
 
-## Office 365 的 MDM
+## <a name="mdm-for-office-365"></a>Office 365 的 MDM
 
 **优点**
 
@@ -59,7 +59,7 @@ ms.openlocfilehash: 601e2e16d62c59002da329e99873263d64e005a0
 - 不支持管理非移动操作系统
 - （仅）在将本地管理平台用于非移动设备时，预配移动设备还有其他管理界面。
 
-## 混合版（带 ConfigMgr 的 Intune）
+## <a name="hybrid-intune-with-configmgr"></a>混合版（带 ConfigMgr 的 Intune）
 
 **优点**
 
@@ -78,6 +78,6 @@ ms.openlocfilehash: 601e2e16d62c59002da329e99873263d64e005a0
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO4-->
 
 
