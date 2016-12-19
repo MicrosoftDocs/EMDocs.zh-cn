@@ -22,7 +22,7 @@ ms.openlocfilehash: b0dd2c797fb6b33e10ef62fa74bb4c646e89bede
 # <a name="protect-on-premises-company-data-with-intune"></a>使用 Intune 保护本地公司数据
 只使用防火墙不再能提供足够的公司安全边界。 当今，安全边界必须包括最终用户及其访问、使用和共享公司数据的方式。 无论使用智能手机、平板电脑或是笔记本电脑，信息工作者希望可在任何位置、任何设备、任何需要的时候访问资源。 为用户启用访问和保护功能对想要确保公司数据受到保护的 IT 管理员来说是个挑战。 借助企业移动性 + 安全性 (EMS)，可使员工通过使用其最喜欢的应用和设备提高工作效率，同时保护本地公司数据。 继续阅读，了解详情。
 
-## <a name="how-can-enterprise-mobility-security-ems-help-you"></a>企业移动性 + 安全性 (EMS) 可提供什么帮助？
+## <a name="how-can-enterprise-mobility--security-ems-help-you"></a>企业移动性 + 安全性 (EMS) 可提供什么帮助？
 企业移动性 + 安全性 (EMS) 是一个不仅从设备自身本机保护公司数据，还采用身份、设备、应用和数据这四个保护层提供更多保护的综合云解决方案。 借助 EMS，员工可安全顺畅地访问公司电子邮件和文档，同时 IT 可确信公司数据受到保护。
 
 ## <a name="recommended-solution"></a>建议的解决方案

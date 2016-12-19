@@ -26,7 +26,7 @@ ms.openlocfilehash: 669042461511939695717de1d5d22c14c071923c
 
 数据控制资源可针对用户错误保护企业数据并防止数据丢失，是实现保护资源同时保持用户高效的重要环节。
 
-## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 
 企业移动性 + 安全性 (EMS) 可使 IT 深入了解本地和云中的用户、设备和数据活动。  通过 EMS，IT 可以借助更强的控制力和执行力，针对用户错误保护企业数据。  IT 将能够通过针对已发现的应用程序的用户、上传/下载流量、使用模式和交易，应用强大的报表和分析功能，来监视风险检测。
 

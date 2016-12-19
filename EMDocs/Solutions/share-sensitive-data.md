@@ -29,7 +29,7 @@ ms.openlocfilehash: d76fa5c4857b12e2eb91de9fb3217ba78ea6a11f
 
 在这种情况下，通常企业会进行这类项目：员工需能够跨数据接收器进行内部协作并与第三方供应商进行外部协作，在业务中采用一致的安全协议的同时，在数据分类和保护过程中影响最终用户行为。 
 
-## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 
 企业移动性 + 安全性 (EMS) 是一个不仅从设备自身本机保护公司数据，还采用身份、设备、应用和数据这四个保护层提供更多保护的综合云解决方案。 EMS 可帮助解决移动优先、云优先世界中的一个重大难题，即如何向出行在外的员工传送安全的电子邮件。 使用 EMS，可以让员工在组织内外安全地进行协作。 EMS 允许 IT 管理员对电子邮件使用应用 [Azure 权限管理](https://docs.microsoft.com/information-protection/understand-explore/what-is-azure-rms)策略模板。 使用权限附加在邮件上，以便在联机和脱机、组织防火墙内部和外部提供保护。
 

@@ -19,7 +19,7 @@ ms.openlocfilehash: 9f97e64ec3be78e17b05484d27b903e30c340ecf
 
 
 ---
-# <a name="learn-about-enterprise-mobility-security"></a>了解企业移动性 + 安全性
+# <a name="learn-about-enterprise-mobility--security"></a>了解企业移动性 + 安全性
 
  组织在进行数字转换时确保高效工作、协作和企业数据安全非常重要，Microsoft 致力于提供一种新方法来确保这种转换。 Microsoft 的 [安全高效企业 (SPE)](https://www.microsoft.com/secure-productive-enterprise/default.aspx) 是可靠、安全和高效的处理方法，它融合了 Office 365、企业移动性 + 安全性和 Windows 10 企业版的最佳性能来促进员工的工作，让组织顺利实施数字转换，它重点关注以下方面：
 
