@@ -3,6 +3,7 @@ title: "企业移动性 + 安全性支持 FAQ"
 description: 
 keywords: 
 author: jeffgilb
+ms.author: jeffgilb
 manager: swadhwa
 ms.date: 9/20/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: 7bfee675-ec69-479c-bda2-f807bbb55712
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
-ms.openlocfilehash: c14a6e0328bc9134708d65f0ff5754506c92321b
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: b5b85dbe9346e40c5bdcdebbe25417f49041f6a4
 
 
 ---
@@ -65,6 +66,6 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

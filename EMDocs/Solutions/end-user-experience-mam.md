@@ -3,6 +3,7 @@ title: "MAM 的最终用户体验"
 description: "移动应用管理策略的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 05/12/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: bbc9f6ea-fc92-468d-bb5b-60c67949ca28
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
-ms.openlocfilehash: 3c1fa5aac308beb3710fa52ae99efa389a0d5465
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: a968afb8deb875d12281b4c3bd6448a962dab870
 
 
 ---
@@ -66,6 +67,6 @@ ms.openlocfilehash: 3c1fa5aac308beb3710fa52ae99efa389a0d5465
 
 
 
-<!--HONumber=Sep16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

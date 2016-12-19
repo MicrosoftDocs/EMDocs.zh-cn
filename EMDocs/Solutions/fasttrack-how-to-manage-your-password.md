@@ -3,19 +3,20 @@ title: "如何管理密码"
 description: "如何管理密码"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: jeffgilb
 ms.date: 09/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: ems
 ms.technology: 
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: e422a74e551753ddb579d98789670cd8c1811b80
-ms.openlocfilehash: 32363af4edcdcc74779fd126768017dab4484664
+ms.sourcegitcommit: dab9c133dd5a79afef07291405c2ac25218ca715
+ms.openlocfilehash: 665d0eabcadcb78d7f12e018c4ab1b1927976a3d
 
 
 ---
@@ -80,6 +81,6 @@ ms.openlocfilehash: 32363af4edcdcc74779fd126768017dab4484664
 
 
 
-<!--HONumber=Oct16_HO2-->
+<!--HONumber=Nov16_HO3-->
 
 

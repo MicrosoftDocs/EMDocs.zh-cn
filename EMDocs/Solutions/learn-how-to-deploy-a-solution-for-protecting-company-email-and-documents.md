@@ -3,18 +3,19 @@ title: "了解如何部署用于保护公司电子邮件和文档的解决方案
 description: "确定，然后部署公司用于强制实施条件访问的最佳解决方案。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
-ms.openlocfilehash: 346338c40e83164d63476cf8e08117a5687903b3
+ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
+ms.openlocfilehash: 232939cbf147b27732991a817827036963289b67
 
 
 ---
@@ -70,6 +71,6 @@ Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

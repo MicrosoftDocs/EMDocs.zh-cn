@@ -3,6 +3,7 @@ title: "Windows Phone 上的条件访问的最终用户体验"
 description: "注册 Windows Phone 的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: 906566e0-f05e-4af5-b4d5-0efb083dca76
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
-ms.openlocfilehash: b6735c1cd42ca9cafb9a728cf61db79d478dcb74
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: 501a38f97d2ed63fbf0d654d8c4156a0888f0094
 
 
 ---
@@ -101,6 +102,6 @@ ms.openlocfilehash: b6735c1cd42ca9cafb9a728cf61db79d478dcb74
 
 
 
-<!--HONumber=Sep16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

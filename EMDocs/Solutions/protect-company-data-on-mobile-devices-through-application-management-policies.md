@@ -3,18 +3,19 @@ title: "通过 MDM 保护使用 MAM 的公司数据"
 description: "通过移动应用管理 (MAM) 策略创建和部署应用，以更好地保护公司数据。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 05/12/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 6c7088a9-ca88-4ff2-97a6-f842691fd3c7
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 55a3dbe32e3b5e10e21a6d99bc101ec76fc51f5e
-ms.openlocfilehash: 8e1b6153191727fba11366f6907ae3f70e11d246
+ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
+ms.openlocfilehash: dcf178146e9145f7526368763a8c1452327d939a
 
 
 ---
@@ -74,6 +75,6 @@ ms.openlocfilehash: 8e1b6153191727fba11366f6907ae3f70e11d246
 
 
 
-<!--HONumber=Aug16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 
