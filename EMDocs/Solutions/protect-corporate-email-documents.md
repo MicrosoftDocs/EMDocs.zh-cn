@@ -3,18 +3,19 @@ title: "保护公司电子邮件和文档"
 description: "只允许合规设备访问你公司的电子邮件和保护电子邮件和附件中的内容。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 78d8368e-1bfe-4ac4-991d-467321a76ed7
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
-ms.openlocfilehash: b3a0ce1b7a7465ca29888b4d332ede6b5a604fd6
+ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
+ms.openlocfilehash: d71c2e0f31d7db2d3219ab9a947cce83e8070831
 
 
 ---
@@ -122,6 +123,6 @@ Azure AD 或 Exchange 无需复杂的体系结构设置即可实现此目标。 
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

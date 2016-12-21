@@ -80,7 +80,7 @@ ConfigMgr 允许集成 [Microsoft Passport for Work](https://technet.microsoft.c
 
 - 当你购买 Intune 订阅时，不包含 Azure AD 云服务
 
-## <a name="enterprise-mobility-security"></a>企业移动性 + 安全性
+## <a name="enterprise-mobility--security"></a>企业移动性 + 安全性
 
 **优点**
 

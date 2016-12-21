@@ -26,7 +26,7 @@ ms.openlocfilehash: 8f79e391813c7a15e522f07ff27a2f6abd8536cc
 
 这个新领域带来了传统工具无法应对的挑战和高级威胁。 由于新边界是用户，因此仅保护自己的网络是没有意义的。 在这种环境中提高工作效率和获得保护的关键是强大的标识解决方案。
 
-## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 企业移动性 + 安全性 (EMS) 是一个不仅从设备自身本机保护公司数据，还采用身份、设备、应用和数据这四个保护层提供更多保护的综合云解决方案。 EMS 可帮助解决移动优先、云优先世界中的一个重大难题 - 如何提供一个适用于跨云和本地资产的单一标识，并尽可能让用户保持高效。
 
 ### <a name="access-to-single-sign-on-applications"></a>访问单一登录应用程序

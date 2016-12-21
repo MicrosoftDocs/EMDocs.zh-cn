@@ -3,6 +3,7 @@ title: "通过 Intune 和 Configuration Manager 使用 Exchange 中的条件访�
 description: "将本地 Exchange 和 Exchange Online 并存的部署与 Configuration Manager 和 Intune 配合使用，来管理移动设备上的电子邮件访问和保护电子邮件数据。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: 5ccd033f-bc31-4fae-b6bf-9e1c2722627f
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
-ms.openlocfilehash: 1a3b5aeb61a3feaa0c6e87f887ea7083007bc500
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: 2a153729b8b5f36ea1c5cc64667674b00959956f
 
 
 ---
@@ -39,6 +40,6 @@ ms.openlocfilehash: 1a3b5aeb61a3feaa0c6e87f887ea7083007bc500
 
 
 
-<!--HONumber=Sep16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

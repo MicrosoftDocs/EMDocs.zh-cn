@@ -24,7 +24,7 @@ ms.openlocfilehash: fa2795fb578c0d278d55cbff9f44c19ca2e13309
 # <a name="manage-access-at-scale"></a>大规模管理访问权限
 Microsoft 自成立以来一直在为各大组织提供支持。 Microsoft 不仅提供标识以便随时随地进行访问，还提供一组工具以便在组织内对 IT 资源进行自动化、保护和管理。 即使在云计算问世后，仍需要管理和控制 IT 任务，如呼叫支持人员以重置用户密码、管理用户组和应用程序请求。
 
-## <a name="how-enterprise-mobility-security-can-help-you"></a>企业移动性 + 安全性可提供哪些帮助
+## <a name="how-enterprise-mobility--security-can-help-you"></a>企业移动性 + 安全性可提供哪些帮助
 企业移动性 + 安全性 (EMS) 不仅从设备自身本机保护公司数据，还是采用标识、设备、应用和数据这四个保护层提供更多保护的综合云解决方案。 EMS 帮助你解决移动优先、云优先世界中的其中一个主要挑战，即如何在 Azure Active directory (Azure AD) 中提供一组全面型工具，帮助你实现以下目的：
 - 高级用户生命周期管理
 - 低 IT 开销和成本

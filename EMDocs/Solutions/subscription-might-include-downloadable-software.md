@@ -3,6 +3,7 @@ title: "付费版 Microsoft Intune 或企业移动性订阅可能包含某些可
 description: 
 keywords: 
 author: NathBarn
+ms.author: nathbarn
 manager: jeffgilb
 ms.date: 06/08/2016
 ms.topic: article
@@ -11,8 +12,8 @@ ms.service:
 ms.technology: 
 ms.assetid: 9d031fa7-9c07-48c5-b915-6525aea54870
 translationtype: Human Translation
-ms.sourcegitcommit: afb1f4e7c68882cb7c8b8c0421652d5bfb09de10
-ms.openlocfilehash: 66b51bc7f6c9ddf5c4623065829d6fe85b094420
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: a95670d089a8aa3cb05c4d2ff421b0af9c9c0b79
 
 ---
 
@@ -39,6 +40,6 @@ ms.openlocfilehash: 66b51bc7f6c9ddf5c4623065829d6fe85b094420
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

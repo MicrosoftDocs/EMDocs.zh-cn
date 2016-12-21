@@ -27,7 +27,7 @@ ms.openlocfilehash: c61f68b5922373ffe5509ddb80a158d6a9757ff1
 在超过 63% 的数据泄露中，攻击者通过安全性弱、采用默认设置或者被盗的用户凭据获取公司网络的访问权限。  Microsoft 标识驱动安全着眼于用户凭据，通过管理和保护标识（包括特权和非特权标识）杜绝凭据盗用。
 
 
-## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 
 企业移动性 + 安全性 (EMS) 安全策略首先采用一个受保护的常用标识，通过基于风险的[条件访问](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access/)安全访问本地和云端的所有公司资源。 通过此策略，IT 可使用新颖高级的基于风险的条件访问为公司资源建立第一道防线。 EMS 为访问数千的应用提供一个受保护的常用标识，有助于 IT 管理和保护特权标识。
 

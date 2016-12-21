@@ -26,7 +26,7 @@ ms.openlocfilehash: 27f71a706990997908a13b34477a1aa87ba698ab
 
 Azure AD 与当前许多受欢迎的 SaaS 应用程序集成，如 Box、Twitter、ServiceNow、DocuSign 和 Workday 等。 它支持单一登录 (SSO) 身份验证、标识，以及通过任何设备以安全可靠的方式对应用程序进行安全访问管理。
 
-## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 企业移动性 + 安全性 (EMS) 是一个不仅从设备自身本机保护公司数据，还采用身份、设备、应用和数据这四个保护层提供更多保护的综合云解决方案。 EMS 可帮助解决移动优先、云优先世界中的一个重大难题 - 提供适用于行业中任何基于 Web 的应用的单一标识：
 - 连接云的无缝身份验证体验
 - 单一登录到 1000 个预先集成的应用或自己的应用

@@ -3,19 +3,20 @@ title: "如何注册多重身份验证"
 description: "如何设置其他安全性验证的首选方式"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: jeffgilb
 ms.date: 09/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: ems
 ms.technology: 
 ms.assetid: 06e21ca9-ed6a-4f6e-a7e2-5445aaeb3552
 ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: e422a74e551753ddb579d98789670cd8c1811b80
-ms.openlocfilehash: 4b1c82f5ecd5360b51d0f2af69df77ff2924aa0e
+ms.sourcegitcommit: dab9c133dd5a79afef07291405c2ac25218ca715
+ms.openlocfilehash: 4c8f2d3dbe72a4bf3d948f074b55b6ba4b936522
 
 
 ---
@@ -121,6 +122,6 @@ Azure 验证器应用可用于 Windows Phone、Android 和 IOS。
 
 
 
-<!--HONumber=Oct16_HO2-->
+<!--HONumber=Nov16_HO3-->
 
 

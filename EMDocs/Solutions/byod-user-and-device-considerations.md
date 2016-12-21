@@ -70,7 +70,7 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 - 方法 3（1 + 2）：在每个用户的设备中注册并安装一个管理代理。
 
 
-### <a name="unknown-to-known-device-options-advantages-and-disadvantages"></a>未知到已知设备选项 - 优点和缺点
+### <a name="unknown-to-known-device-options--advantages-and-disadvantages"></a>未知到已知设备选项 - 优点和缺点
 
 使用以下列表来了解未知到已知设备选项的优点和缺点：
 
@@ -117,7 +117,7 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 
 如果贵公司在公共云中的资源将通过 Internet 从用户设备进行访问，你必须考虑如何处理通信。 请考虑在数据从用户设备传输到云提供商的过程中使用加密。 当用户访问内部资源时，你也应该使用数据加密。
 
-### <a name="network-connectivity-options-advantages-and-disadvantages"></a>网络连接选项 - 优点和缺点
+### <a name="network-connectivity-options--advantages-and-disadvantages"></a>网络连接选项 - 优点和缺点
 
 使用以下列表来了解连接选项的优点和缺点：
 
