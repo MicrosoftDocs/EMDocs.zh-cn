@@ -26,7 +26,7 @@ ms.openlocfilehash: 449df764d3979f8030f8d35d8f6920dedb64b239
 强大的检测系统必须能够通过深层次可见性和持续的行为分析来发现可疑活动和确定威胁。 这让 IT 人员能够迅速针对检测到的攻击采取相应措施，并通过强大的支持实现高效恢复。
 
 
-## <a name="how-can-enterprise-mobility-security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
+## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 Microsoft 企业移动性 + 安全性让 IT 人员能够使用革新性的行为分析和异常检测技术，确定组织中本地和云中的攻击者。  这将帮助 IT 人员检测出系统中的已知恶意攻击和已知安全漏洞。
 
 ## <a name="recommended-solution"></a>建议的解决方案

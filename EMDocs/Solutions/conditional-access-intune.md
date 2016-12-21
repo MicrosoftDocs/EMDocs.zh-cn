@@ -3,6 +3,7 @@ title: "结合使用条件访问和 Microsoft Intune"
 description: "使用 Intune 中的条件访问帮助确保电子邮件和其他服务的安全。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: 28662db2-faea-425f-ada9-04cf1d976fc2
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
-ms.openlocfilehash: 5f7492c80640f6a814613e947aee169525aab161
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: 8c40e178b70bd6fb3110174edd4ad7bfabadc53e
 
 
 ---
@@ -99,6 +100,6 @@ Exchange 内部部署支持的条件访问：
 
 
 
-<!--HONumber=Sep16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

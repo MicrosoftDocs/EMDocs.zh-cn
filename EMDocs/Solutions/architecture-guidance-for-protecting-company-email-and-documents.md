@@ -3,6 +3,7 @@ title: "有关保护公司电子邮件和文档的体系结构指南"
 description: "在确保最终用户体验简单且不影响工作效率的同时，为公司提供数据保护。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: d1211e3ef25b73679c851bce7f5eca872520f023
-ms.openlocfilehash: c50f47066794b411e272b74828cd6f707b96caec
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: 66732b444e6a449256a7929324d7b26e3e814f15
 
 
 ---
@@ -99,6 +100,6 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

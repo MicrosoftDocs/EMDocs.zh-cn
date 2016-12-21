@@ -37,7 +37,7 @@ ms.openlocfilehash: cbf0f54d2d288baf66f914ef8366a70448218607
 
 Windows 操作系统中可用的其他存储技术还可用于增强对数据的总体保护，例如，用于驱动器加密的 BitLocker 和用于文件加密的[加密文件系统 (EFS)](https://technet.microsoft.com/library/cc700811.aspx)。 使用下表查看存储保护的优缺点。 请记住，这些选项并不相互排斥。 换言之，你的设计决策可能推断出你在 BYOD 基础架构解决方案中需要以下所有选项来进行存储保护。
 
-### <a name="storage-protection-options-advantages-and-disadvantages"></a>存储保护选项 - 优点和缺点
+### <a name="storage-protection-options--advantages-and-disadvantages"></a>存储保护选项 - 优点和缺点
 
 使用以下列表了解每个存储保护选项的优缺点：
 
@@ -93,7 +93,7 @@ Windows 操作系统中可用的其他存储技术还可用于增强对数据的
 
 此关系图突出显示了关键的区域，其中必须针对 BYOD 基础结构考虑数据保护。 下节将更加详细地介绍这些区域。
 
-### <a name="data-protection-locations-and-considerations"></a>数据保护 - 位置和注意事项
+### <a name="data-protection--locations-and-considerations"></a>数据保护 - 位置和注意事项
 
 根据数据位置，使用下面的列表来了解有关数据保护的注意事项。 以下列表中的数字对应于上面的关系图：
 
@@ -121,7 +121,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 使用下一节评估哪个网络保护选项可以最好地满足你对后端服务器通信的设计要求。
 
-### <a name="network-protection-options-advantages-and-disadvantages"></a>网络保护选项 - 优点和缺点
+### <a name="network-protection-options--advantages-and-disadvantages"></a>网络保护选项 - 优点和缺点
 
 使用以下列表了解每个网络保护选项的优缺点：
 
@@ -156,7 +156,7 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 
 在混合环境中，将存在不同的身份验证存储库，各公司应考虑如何使用户能够使用相同的凭据进行身份验证，而不考虑他们的位置和应用的位置。 如果你要在本地集中身份验证而不是通过云服务提供商复制目录，请考虑使用 Active Directory 联合身份验证服务 (AD FS)。 使用下一节来评估用于 BYOD 基础结构的目录选项。
 
-### <a name="directory-options-advantages-and-disadvantages"></a>目录选项 - 优点和缺点
+### <a name="directory-options--advantages-and-disadvantages"></a>目录选项 - 优点和缺点
 
 使用以下列表了解每个目录保护选项的优缺点：
 

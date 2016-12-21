@@ -3,19 +3,20 @@ title: "IT 管理员最终用户 Intune 注册说明"
 description: "IT 管理员最终用户 Intune 注册说明"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: jeffgilb
 ms.date: 09/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: ems
 ms.technology: 
 ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
 ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: e422a74e551753ddb579d98789670cd8c1811b80
-ms.openlocfilehash: 7d04b320606403530801de71a37d308cf378856f
+ms.sourcegitcommit: dab9c133dd5a79afef07291405c2ac25218ca715
+ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
 
 
 ---
@@ -173,6 +174,6 @@ ms.openlocfilehash: 7d04b320606403530801de71a37d308cf378856f
 
 
 
-<!--HONumber=Oct16_HO2-->
+<!--HONumber=Nov16_HO3-->
 
 

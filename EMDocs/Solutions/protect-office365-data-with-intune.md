@@ -22,7 +22,7 @@ ms.openlocfilehash: 59bbc2cd3476c8632f8a72c9144eeedcdb141c42
 # <a name="protect-office-365-company-data-with-intune"></a>使用 Intune 保护 Office 365 公司数据
 大多数员工希望通过其移动设备做的第一件事是访问公司电子邮件和文档。 他们希望设置步骤简单，不需要询问支持人员。 另一方面，IT 希望确保公司数据保持安全，无需维护大型的本地基础结构。 通过企业移动性 + 安全性 (EMS)，可使员工通过使用其最喜欢的应用和设备提高工作效率，同时保护公司数据。 敬请阅读，了解详情。
 
-## <a name="how-can-enterprise-mobility-security-ems-help-you"></a>企业移动性 + 安全性 (EMS) 可提供什么帮助？
+## <a name="how-can-enterprise-mobility--security-ems-help-you"></a>企业移动性 + 安全性 (EMS) 可提供什么帮助？
 EMS 是旨在本地保护用户用来工作的所有设备上的 Microsoft Office 电子邮件、文件和应用的唯一解决方案。 EMS 在后台简化了将安全电子邮件传递给外出员工的过程，这是通过标识、设备、应用和数据的四层保护实现的。 通过 EMS，员工可以安全无缝地访问公司电子邮件和文档，体验到 Office Mobile 应用（如 Outlook、Word、Excel、PowerPoint 和 OneDrive）熟悉的电子邮件和工作效率。
 
 Office 365 适用于随时随地可以办公但又不愿牺牲用户体验的员工。 EMS 和 Office 365 的结合造就了完全托管的移动工作效率解决方案，可为用户带来绝对标准的工作效率，为 IT 人员提供深度集成的数据控件。

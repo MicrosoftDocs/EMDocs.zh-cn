@@ -30,7 +30,7 @@ ms.openlocfilehash: da1652d5bb9a7b7176c74482bfc814aaf8902c3f
 
 根据公司策略和公司将采用的 BYOD 基础结构，用户设备中的管理级别将有所不同。 如果公司规定必须提供完全擦除功能才能访问公司资源，IT 必须在所有受监控的设备上强制实施此设置。 IT 还需要能够将设备重置为制造商的默认设置，这会擦除所有个人设置和数据（如有必要）。 使用以下部分来确定你的 BYOD 基础结构将需要的监视选项。
 
-### <a name="monitoring-options-advantages-and-disadvantages"></a>监视选项 - 优点和缺点
+### <a name="monitoring-options--advantages-and-disadvantages"></a>监视选项 - 优点和缺点
 
 使用以下列表了解每个监视选项的优点和缺点：
 
@@ -70,7 +70,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 
 请考虑使用可提供设备清单和可自定义报告的管理解决方案。 通过选择此选项，你将在 IT 需要发现关于用户设备的详细信息时为他们提供更灵活的方法。 IT 必须能得到关于已在本地和云中注册的所有设备的报告。 管理系统的报告功能可以位于本地或云中 - 也可以是两者混合（称为混合解决方案）。 使用下表来确定哪个报告选项适用于你的公司。
 
-### <a name="reporting-options-advantages-and-disadvantages"></a>报告选项 - 优点和缺点
+### <a name="reporting-options--advantages-and-disadvantages"></a>报告选项 - 优点和缺点
 
 使用以下列表了解每个报告选项的优点和缺点：
 
@@ -113,7 +113,7 @@ Configuration Manager 中的符合性设置使 IT 能够管理企业中服务器
 - 贵公司当前使用的管理解决方案是否能根据一组预先设定的规则针对支持从用户设备访问应用的平台增加计算和存储资源？
 如果目前采用的管理解决方案不能满足上述两个要求，可考虑使用一种通过解决下表所示的两个核心要求来管理计算和存储的管理解决方案。
 
-### <a name="compute-and-storage-management-capabilities-advantages-and-disadvantages"></a>计算和存储管理功能 - 优点和缺点
+### <a name="compute-and-storage-management-capabilities--advantages-and-disadvantages"></a>计算和存储管理功能 - 优点和缺点
 
 使用以下列表了解每个存储管理功能的优缺点：
 
@@ -145,7 +145,7 @@ System Center 2012 R2 可以使用资源池和弹性来管理存储和计算。 
 尽管你将看到显示的所有 BYOD 子域都可以利用自动化，但自动化资源的责任属于管理子域。 自动化可内置于操作系统；但是，公司将采用的管理解决方案将负责扩展这些功能并提供减轻 IT 日常任务的方法，同时还要监视和报告自动化所产生的结果。
 System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell。 有关 System Center 2012 R2 自动化的详细信息，请参阅使用 [Windows PowerShell 的 System Center 自动化](https://technet.microsoft.com/library/dn507037(v=sc.20).aspx)。 但是，还可使用另一个选项，它提供一种更为简单但不十分可靠的自动化任务形式：任务序列。 使用下表来评估每个选项的优缺点。
 
-### <a name="automation-options-advantages-and-disadvantages"></a>自动化选项 - 优点和缺点
+### <a name="automation-options--advantages-and-disadvantages"></a>自动化选项 - 优点和缺点
 
 使用以下列表了解每个自动化选项的优点和缺点：
 

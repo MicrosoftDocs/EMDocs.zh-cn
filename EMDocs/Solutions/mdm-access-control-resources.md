@@ -78,7 +78,7 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 
 - 当你购买 Intune 订阅时，不包含 Azure AD 云服务
 
-## <a name="enterprise-mobility-security"></a>企业移动性 + 安全性
+## <a name="enterprise-mobility--security"></a>企业移动性 + 安全性
 
 **优点**
 

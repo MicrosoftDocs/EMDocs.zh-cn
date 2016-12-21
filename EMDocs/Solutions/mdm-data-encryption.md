@@ -3,6 +3,7 @@ title: "制定数据加密要求"
 description: "本主题有讨论对移动设备中的数据加密的设计注意事项。 本主题是有关移动设备管理设计注意事项的大型文章集的一部分。"
 keywords: 
 author: YuriDio
+ms.author: yurid
 manager: swadhwa
 ms.date: 10/3/2016
 ms.topic: solution
@@ -14,8 +15,8 @@ ms.reviewer:
 ms.suite: ems
 ms.custom: microsoft-intune
 translationtype: Human Translation
-ms.sourcegitcommit: 0808c833aa2b6f36baa8d8f48ce797cc9f18aafa
-ms.openlocfilehash: 4f892c4b9269b40ee4931aef4baf499e08b5f5c5
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: 9d6194247048242509f4306e34fc805bc0b41466
 
 
 ---
@@ -83,6 +84,6 @@ Windows 10 移动版使用基于 BitLocker 技术的设备加密来加密所有�
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 

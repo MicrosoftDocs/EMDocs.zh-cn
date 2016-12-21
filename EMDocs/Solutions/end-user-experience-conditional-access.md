@@ -3,6 +3,7 @@ title: "条件访问的最终用户体验"
 description: "注册设备或修复合规性问题的最终用户体验。"
 keywords: 
 author: craigcaseyMSFT
+ms.author: v-craic
 manager: swadhwa
 ms.date: 04/28/2016
 ms.topic: article
@@ -13,8 +14,8 @@ ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: faa30f461ff9a1a14d150bd85d86d37cd298570c
-ms.openlocfilehash: c953a126cf84b3af3ee346bc764f60794442886a
+ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
+ms.openlocfilehash: f8304ee6da77189f3d28c6d8f40175b8e58009a6
 
 
 ---
@@ -42,6 +43,6 @@ ms.openlocfilehash: c953a126cf84b3af3ee346bc764f60794442886a
 
 
 
-<!--HONumber=Sep16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 
