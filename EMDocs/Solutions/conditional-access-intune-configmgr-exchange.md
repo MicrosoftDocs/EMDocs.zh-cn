@@ -20,7 +20,7 @@ ms.openlocfilehash: 446078327ee3fe309dc6dea33db315b79fa38cae
 
 ---
 
-# 将 Microsoft Intune 和 Configuration Manager 与本地 Exchange Server 结合部署
+# <a name="deploy-exchange-server-on-premises-with-microsoft-intune-and-configuration-manager"></a>将 Microsoft Intune 和 Configuration Manager 与本地 Exchange Server 结合部署
 你已通读了[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents.md)，现在可以继续部署解决方案。
 
 如果你已在你的本地基础结构中使用 System Center Configuration Manager 和 Exchange，则你可以集成 Intune 来管理移动设备上的电子邮件访问和保护电子邮件数据。 用于实施此解决方案的高级别过程如下所示：
@@ -33,7 +33,7 @@ ms.openlocfilehash: 446078327ee3fe309dc6dea33db315b79fa38cae
 
 -   开始实施条件访问。
 
-## 本地 Exchange Server 的条件访问控制流
+## <a name="conditional-access-control-flow-for-exchange-server-on-premises"></a>本地 Exchange Server 的条件访问控制流
 下图显示客户端试图在本地 Exchange 中访问电子邮件的控制流。
 
 ![与 Intune 和本地 Exchange Server 结合使用的 Configuration Manager 中的条件访问控制流程图](./media/ProtectEmail/Hybrid-on-prem-CA-architecture.png)
@@ -46,7 +46,7 @@ ms.openlocfilehash: 446078327ee3fe309dc6dea33db315b79fa38cae
 
 -   本地 Exchange：根据设备状态执行对电子邮件的访问
 
-## 在开始之前
+## <a name="before-you-begin"></a>在开始之前
 确保你的环境满足实施此解决方案的要求。
 
 > [!NOTE]
@@ -95,13 +95,13 @@ ms.openlocfilehash: 446078327ee3fe309dc6dea33db315b79fa38cae
 > [!IMPORTANT]
 > 如果你尝试在没有所需 cmdlet 的情况下安装或使用 Exchange Server 连接器，你将看到以下消息记录的错误：站点服务器计算机上的 EasDisc.log 文件中_调用 cmdlet &lt;cmdlet&gt;失败_。
 
-## 部署步骤
+## <a name="deployment-steps"></a>部署步骤
 请按照以下步骤来部署本地 Exchange 解决方案：
 
-### 步骤 1：确保安装了 Intune Connector 角色。
+### <a name="step-1-ensure-that-intune-connector-role-is-installed"></a>步骤 1：确保安装了 Intune Connector 角色。
 确保已安装 Intune Connector 角色，以便 Configuration Manager 可以与 Intune 进行交互。 有关详细信息，请参阅[使用 Configuration Manager 和 Intune 管理移动设备](https://technet.microsoft.com/library/JJ884158.aspx)。
 
-### 步骤 2：安装和配置 Exchange Server 连接器。
+### <a name="step-2-install-and-configure-an-exchange-server-connector"></a>步骤 2：安装和配置 Exchange Server 连接器。
 Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 > [!IMPORTANT]
@@ -109,7 +109,7 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 按照[如何使用 Configuration Manager 和 Exchange 管理移动设备](https://technet.microsoft.com/library/gg682001.aspx)中的步骤安装并配置 Exchange Server 连接器。
 
-### 步骤 3：运行完全同步来发现用户。
+### <a name="step-3-run-a-full-synchronization-to-discover-users"></a>步骤 3：运行完全同步来发现用户。
 
 1.  在 Configuration Manager 控制台中，单击“管理” ，展开“层次结构配置” ，然后选择“Exchange Server 连接器” 。
 
@@ -123,12 +123,12 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 使用 Configuration Manager 跟踪日志工具，可以打开 EasDisc.log 文件（位于安装 Configuration Manager 的 **Microsoft Configuration Manager/Logs** 文件夹）以验证连接器是否正在运行和查询设备连接。 完全同步完成后，该工具将列出与本地 Exchange 连接的所有移动设备的 Exchange ActiveSync ID (EASID) 的清单。
 
-### 步骤 4：创建用户集合
+### <a name="step-4-create-user-collections"></a>步骤 4：创建用户集合
 确定条件访问策略将要针对的 Intune 用户组。 然后，创建要在条件访问策略中包括或排除的用户组的用户集合。 你可以在以后实施条件访问时指定这些组。
 
 请按照[如何在 Configuration Manager 中创建集合](https://technet.microsoft.com/library/gg712295.aspx)的步骤创建用户集合。
 
-### 步骤 5：创建合规性策略，并部署到用户。
+### <a name="step-5-create-compliance-policies-and-deploy-to-users"></a>步骤 5：创建合规性策略，并部署到用户。
 合规性策略定义设备必须遵从的规则和设置，以便将设备视为符合条件访问策略。 请按照 [Configuration Manager 中的合规性策略](https://technet.microsoft.com/library/mt131417.aspx)中的步骤创建合规性策略。
 
 如果你希望在 iOS 设备不再属于公司之后，你能够从该设备中删除所有公司的电子邮件，那么你必须创建并部署电子邮件配置文件，然后设置合规性策略，该策略指定由 Intune 管理电子邮件配置文件。 你必须将电子邮件配置文件部署到此合规性策略针对的同一用户集。
@@ -139,22 +139,22 @@ Configuration Manager 仅支持一个 Exchange 组织包含一个连接器。
 
 创建合规性策略后，在列表中选择合规性策略的名称，然后单击“部署” 。
 
-### 步骤 6：配置条件访问策略。
+### <a name="step-6-configure-conditional-access-policy"></a>步骤 6：配置条件访问策略。
 首先，确定以何种方式、何时实施条件访问，以及将影响哪些员工。 然后，按照 [Configuration Manager 中针对 Exchange 电子邮件的条件访问](https://technet.microsoft.com/library/mt131421.aspx)中的步骤为本地 Exchange 配置条件访问策略。
 
-### 步骤 7：监视注册情况并实施条件访问。
+### <a name="step-7-monitor-enrollments-and-enforce-conditional-access"></a>步骤 7：监视注册情况并实施条件访问。
 如果 Intune 中已经注册大量符合条件访问的用户，则你可以开始实施条件访问，方法是每天向大约 500 个用户推出条件访问。 对于 70,000 个用户，这将需要花费大约 4 到 5 个月的时间，并且你需要解决在未限制太多用户在同一时间访问电子邮件的情况下可能产生的任何问题。
 
 如果 Intune 中尚未注册大量用户，则条件访问将为用户提供针对注册的引导式体验，如[条件访问的最终用户体验](end-user-experience-conditional-access.md)中所述。
 
-## 验证步骤
+## <a name="verification-steps"></a>验证步骤
 使用 Configuration Manager 跟踪日志工具，可以打开 EasDisc.log 文件（位于安装 Configuration Manager 的 Microsoft Configuration Manager/Logs 文件夹）。 在日志文件中搜索 "Exchange Connector" 以查找有关 Exchange Connector 是否正在运行以及连接的设备数量的信息。
 
 ![显示 EasDisc 日志文件在 Configuration Manager 跟踪日志工具中打开的屏幕截图](./media/ProtectEmail/Hybrid-Onprem-Eas-DiscLog-Sample.PNG)
 
 Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configuration Manager 工具包](http://www.microsoft.com/download/details.aspx?id=50012)中。
 
-## 报表
+## <a name="reporting"></a>报表
 可以使用 Configuration Manager 控制台以查看有关 Exchange Connector 已发现的设备的特定信息。 对于已实施条件访问的设备，你可以查看每个设备的当前状态、最后一次使用 Exchange Server 连接设备的时间等等。
 
 在 Configuration Manager 控制台中，单击“资产和合规性”  ，然后单击“设备” 。 在“Exchange 访问状态”列中可以查看每个设备的当前状态（阻止或允许）  。 如果该列尚未显示，可以右键单击列标题栏区域来添加该列。 通过添加“上次成功同步到 Exchange Server 的时间”  列，还可以查看如 Exchange 报告的每个设备的上次成功同步时间。
@@ -179,14 +179,14 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 ![显示配置策略的部署状态的屏幕截图](./media/ProtectEmail/Hybrid-Reports-Deployment-Status.png)
 
-### 延迟
+### <a name="latency"></a>延迟
 当 Exchange Connector 发现设备后，设备即被阻止。 阻止的延迟时间取决于完全同步和增量同步所配置的时间间隔以及设备连接到 Exchange Server 时这两个时间间隔之间的时间。 默认情况下，完全同步每 24 小时执行一次，增量同步每 240 分钟执行一次。 设备在延迟期间视为合规。
 
-## 后续步骤
+## <a name="where-to-go-from-here"></a>后续步骤
 当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Dec16_HO4-->
 
 
