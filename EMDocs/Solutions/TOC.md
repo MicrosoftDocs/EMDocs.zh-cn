@@ -17,6 +17,7 @@
 ## [托管移动工作效率](protect-office365-data-with-intune.md)
 ### [使用 Intune 保护 Office 365 公司数据](protect-office365-data-with-intune.md)
 ### [使用 Intune 保护本地公司数据](protect-on-premises-data-with-intune.md)
+### [在不使用 Intune 管理设备的情况下保护公司数据](protect-company-data-without-managing-devices.md)
 ## [设计和体系结构指南](byod-design-considerations-guide.md)
 ### [BYOD 设计指南](byod-design-considerations-guide.md)
 #### [构想基础结构解决方案](byod-envisioning-the-byod-infrastructure-solution.md)
@@ -93,16 +94,11 @@
 #### [载入和迁移阶段](fasttrack-center-benefit-process-for-ems-phases.md)
 #### [Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
 #### [你的职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
-### [如何设置其他安全性验证的首选方式](fasttrack-how-to-enroll-in-mfa.md)
-### [如何管理密码](fasttrack-how-to-manage-your-password.md)
-### [IT 管理员最终用户 Intune 注册说明](fasttrack-intune-enduser-enrollment-instructions.md)
-### [如何使用具有多身份标识支持的应用](fasttrack-how-to-use-apps-with-multi-identity-support.md)
-### [如何使用组织管理的移动应用](fasttrack-how-to-work-with-managed-apps.md)
 
 ## [下载 EMS 附带的软件许可证](subscription-might-include-downloadable-software.md)
 ## [EMS 支持常见问题](ems-support-faq.md)
 
 
-<!--HONumber=Dec16_HO2-->
+<!--HONumber=Jan17_HO1-->
 
 
