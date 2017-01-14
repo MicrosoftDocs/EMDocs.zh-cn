@@ -2,26 +2,25 @@
 title: "IT 管理员最终用户 Intune 注册说明"
 description: "IT 管理员最终用户 Intune 注册说明"
 keywords: 
-author: craigcaseyMSFT
-ms.author: v-craic
-manager: jeffgilb
+author: nathbarn
+ms.author: nathbarn
+manager: angrobe
 ms.date: 09/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: dab9c133dd5a79afef07291405c2ac25218ca715
-ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
+ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
+ms.openlocfilehash: 698af6701d756beac696648addbef11d709764fa
 
 
 ---
 
-# IT 管理员最终用户 Intune 注册说明
+# <a name="end-user-intune-enrollment-instructions-for-it-administrators"></a>IT 管理员最终用户 Intune 注册说明
 
 该文档包含你可自定义和提供给用户的注册说明，以帮助用户在 Microsoft Intune™ 中注册 iOS 和 Android 设备（对于 Windows 设备，请参阅“通过 Intune 使用 Windows 设备”）。 我们建议复制本文档中你认为最适合于用户的部分。 例如，建议对每个设备平台生成一个单一文档或添加更多屏幕截图。
 
@@ -30,12 +29,12 @@ ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
 > [!NOTE]
 > Microsoft、Intune 和 Office 365 是 Microsoft Corporation 的注册商标。 iPhone、Mac 和 Apple 是 Apple Inc. 的商标Android 是 Google Inc. 的商标Samsung KNOX 是 Samsung Electronics Co., Ltd. 的商标
 
-## 在 Intune 中注册的原因
+## <a name="why-enroll-in-intune"></a>在 Intune 中注册的原因
 注册后，可使用移动设备访问工作或学校文件和数据。 还可让 IT 部门来管理这些工作或学校资源并保护其安全，同时使你可以自由地使用首选设备来完成工作。
 
 若要在工作中使用设备，可使用公司门户在 Intune 中注册你的设备。 随后，你便可轻松地找到要安装的公司应用、查看已添加的其他设备，并找到你的 IT 管理员的联系信息。 你还可授予 IT 管理员管理你的设备的权限，以帮助保护设备上的公司信息。 开始注册之前，请确保连接到 Internet 的 wifi 或手机网络连接良好，然后再开始。
 
-## 使用 Intune 公司门户应用在 Intune 中注册 Android 设备
+## <a name="enroll-your-android-device-in-intune-using-the-intune-company-portal-app"></a>使用 Intune 公司门户应用在 Intune 中注册 Android 设备
 
 这些注册步骤适用于 Samsung Knox Android 设备和“本机”（非 Samsung Knox）Android 设备。 若要确定你的设备是否为 Samsung Knox 设备，请转到“设置”>“关于手机”。 如果未在此处看到列出了“Knox”一词，则你具有本机 Android 设备。 设备上显示的屏幕可能与本部分中的屏幕略有不同。
 
@@ -57,10 +56,10 @@ ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
 
   - 如果看到消息“是否允许公司门户访问你的联系人？”，请点击“允许”。 点击“允许”是安全的，因为 Microsoft 绝不会访问你的联系人！ 消息文本由 Google 管控，Microsoft 无法更改。 允许访问时，只允许公司门户应用访问数据日志以帮助解决与设备有关的问题。
 
-        ![Screenshot asking user to allow portal to access contacts on an Android device](./media/ft-userEnrollAndroid-3-accessContacts.png)
+        ![要求用户允许门户访问 Android 设备上的联系人的屏幕截图](./media/ft-userEnrollAndroid-3-accessContacts.png)
   - 如果看到消息“是否允许公司门户发起和管理电话呼叫?”，请点击“允许”。 点击“允许”是安全的，因为 Microsoft 绝不会发起或管理电话呼叫！ 消息文本由 Google 管控，Microsoft 无法更改。 允许访问仅允许公司门户应用查看你的电话号码和名为 IMEI 的 ID。
 
-        ![Screenshot asking user to allow portal to manage phone calls on an Android device](./media/ft-userEnrollAndroid-4-manageCalls.png)
+        ![要求用户允许门户管理 Android 设备上的电话呼叫的屏幕截图](./media/ft-userEnrollAndroid-4-manageCalls.png)
 
   如果点击“拒绝”，下次登录到公司门户时将再次出现此消息，但你可点击“不再询问”复选框关闭显示此消息。 如果你以后决定允许访问，请转到“设置”>“应用”>“公司门户”>“权限”>“手机”，然后打开此权限。
 6.  使用你的工作或学校帐户和密码登录公司门户应用，然后点击**登录**。
@@ -104,7 +103,7 @@ ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
 16. 你的设备现已在 Intune 中注册，你会返回到公司门户应用。
 17. 你需转到“设置”>“安全性”，然后打开“未知源”才能尝试安装公司应用。 如果你在尝试安装应用前未打开此选项，则会看到消息“已阻止安装”。 出于安全性考虑，你的手机已设置为阻止安装未知来源的应用。” 你可点击错误对话框上的“设置”以转到“未知来源”选项。
 
-## 在 Intune 中注册 iOS 设备
+## <a name="enroll-your-ios-device-in-intune"></a>在 Intune 中注册 iOS 设备
 使用这些说明在 Intune 中注册 iOS 设备。 有关注册的详细信息，请参阅[安装公司门户应用并在 Intune 中注册设备后会发生什么？](https://technet.microsoft.com/library/mt598622(TechNet.10).aspx#BKMK_ios_what_happ_enroll)。 如果尝试在 Intune 中注册设备时遇到错误，请参阅[将注册错误发送给 IT 管理员](https://technet.microsoft.com/library/mt598622(TechNet.10).aspx#BKMK_ios_error_enrolling_tbl)。
 
 注册前/后，系统可能会要求你选择最恰当地描述了你使用设备的方式的类别。 IT 管理员将使用此类别来帮助确定你有权访问哪些应用。
@@ -153,7 +152,7 @@ ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
 
 你的设备现已在 Intune 中注册，你会返回到公司门户应用。
 
-## 在 Intune 中注册 Mac OS X 设备
+## <a name="enroll-your-mac-os-x-device-in-intune"></a>在 Intune 中注册 Mac OS X 设备
 1.  使用 Safari 浏览器，打开[公司门户网站](https://portal.manage.microsoft.com/)，然后点击通知栏。
 2.  点击“未注册此设备，或公司门户无法对其进行识别”。
 
@@ -169,11 +168,11 @@ ms.openlocfilehash: 9c01c3c380edfa02d4055a84d59588552f092ea8
 
   ![显示已验证 Mac OS X 设备上的管理配置文件的屏幕截图](./media/ft-userEnrollMacOSx-4-profileVerified.png)
 
-### 了解更多信息？
+### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO1-->
 
 
