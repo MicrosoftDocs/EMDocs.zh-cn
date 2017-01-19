@@ -2,28 +2,27 @@
 title: "如何使用组织管理的移动应用程序"
 description: "如何使用组织管理的移动应用"
 keywords: 
-author: craigcaseyMSFT
-ms.author: v-craic
-manager: jeffgilb
+author: nathbarn
+ms.author: nathbarn
+manager: angrobe
 ms.date: 09/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 174348f0-dbc6-4204-8626-3c6f38b7bbde
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: dab9c133dd5a79afef07291405c2ac25218ca715
-ms.openlocfilehash: f9464790624d94d89c43aae3db35f58ffae6da01
+ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
+ms.openlocfilehash: c426653ebb7848a86fdb7a884cd88d01bd8601ee
 
 
 ---
 
-# 如何使用组织管理的移动应用
+# <a name="how-to-use-mobile-apps-managed-by-your-organization"></a>如何使用组织管理的移动应用
 
-## 在 iOS 设备上访问 OneDrive
+## <a name="accessing-onedrive-on-an-ios-device"></a>在 iOS 设备上访问 OneDrive
 
 本部分使用 OneDrive for Business 作为示例来演示 Intune 管理的应用程序上的用户体验如何稍有不同。
 
@@ -51,7 +50,7 @@ ms.openlocfilehash: f9464790624d94d89c43aae3db35f58ffae6da01
 > [!NOTE]
 > 更改已部署策略时，将在下次打开该应用时应用更改。
 
-## 在 Android 设备上访问 OneDrive
+## <a name="accessing-onedrive-on-an-android-device"></a>在 Android 设备上访问 OneDrive
 本部分使用 OneDrive for Business 作为示例来演示 Intune 管理的应用程序上的用户体验如何稍有不同。
 1.  启动 **OneDrive for Business** 应用以打开登录页。
 > [!NOTE]
@@ -77,11 +76,11 @@ ms.openlocfilehash: f9464790624d94d89c43aae3db35f58ffae6da01
   ![系统提示 Android 用户为应用设置 PIN 的屏幕截图](./media/ft-useMngdApps-9-setNewPIN.png)
 8.  设置并确认 PIN 后，即可继续使用 **OneDrive for Business**，它现由应用策略管理。
 
-### 了解更多信息？
+### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO1-->
 
 

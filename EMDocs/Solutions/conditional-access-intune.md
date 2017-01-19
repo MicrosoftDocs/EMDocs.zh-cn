@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,13 +14,13 @@ ms.assetid: 28662db2-faea-425f-ada9-04cf1d976fc2
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: 8c40e178b70bd6fb3110174edd4ad7bfabadc53e
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: 033720647c8c284a415bd79cbc58b65e41d3e177
 
 
 ---
 
-# 结合使用条件访问和 Microsoft Intune
+# <a name="use-conditional-access-with-microsoft-intune"></a>结合使用条件访问和 Microsoft Intune
 借助此解决方案，可根据你指定的条件使用 Intune 中的条件访问帮助确保电子邮件和其他服务的安全。
 
 有关如何通过 Intune 使用条件访问功能的详细信息，请参阅[通过 Microsoft Intune 限制对电子邮件和 O365 服务的访问](/intune/deploy-use/restrict-access-to-email-and-o365-services-with-microsoft-intune)。
@@ -28,7 +28,7 @@ ms.openlocfilehash: 8c40e178b70bd6fb3110174edd4ad7bfabadc53e
 > [!TIP]
 > 可在 [TechNet 库](https://gallery.technet.microsoft.com/protect-company-data-and-8c5e08b4)中获取此完整主题的可下载副本。
 
-## 在开始之前
+## <a name="before-you-begin"></a>在开始之前
 可以从以下邮件应用控制对 Exchange Online 和 Exchange 内部部署的访问：
 
 -   Android 4.0 及更高版本或者 Samsung Knox 4.0 标准版及更高版本的内置应用
@@ -43,7 +43,7 @@ ms.openlocfilehash: 8c40e178b70bd6fb3110174edd4ad7bfabadc53e
 
 在你开始使用条件访问之前，请确保已经满足正确的要求：
 
-## 对于 Exchange Online
+## <a name="for-exchange-online"></a>对于 Exchange Online
 条件访问 Exchange Online 支持运行以下操作系统的设备：
 
 -   Windows 8.1 及更高版本（注册到 Intune 时）
@@ -71,7 +71,7 @@ AAD DRS 将对 Intune 和 Office 365 客户自动激活。 已经部署了 ADFS 
 
     现在，你就可以了解如何[使用 Intune 部署 Exchange Online](conditional-access-intune-exchange-online.md)。
 
-## 对于本地 Exchange Server
+## <a name="for-exchange-server-on-premises"></a>对于本地 Exchange Server
 Exchange 内部部署支持的条件访问：
 
 -   Windows 8 及更高版本（注册到 Intune 时）
@@ -100,6 +100,6 @@ Exchange 内部部署支持的条件访问：
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 

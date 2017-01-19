@@ -2,9 +2,9 @@
 title: "条件访问的最终用户体验"
 description: "注册设备或修复合规性问题的最终用户体验。"
 keywords: 
-author: craigcaseyMSFT
-ms.author: v-craic
-manager: swadhwa
+author: nathbarn
+ms.author: nathbarn
+manager: angrobe
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod: 
@@ -14,13 +14,13 @@ ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: f8304ee6da77189f3d28c6d8f40175b8e58009a6
+ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
+ms.openlocfilehash: 580d2e909813390fbc86d3ca8edaf88f0f19a6d7
 
 
 ---
 
-# 条件访问的最终用户体验
+# <a name="end-user-experience-of-conditional-access"></a>条件访问的最终用户体验
 当用户首次尝试访问设备上的电子邮件或随后同步时，将检查设备注册和合规性状态。 注册或修复合规性问题的过程是一种指导式体验。 将向最终用户显示注册设备并让其合规的必要步骤，用户无需联系 IT 支持人员：
 
 -   **如果设备未注册**，登录页面将显示访问被拒绝并提示你进行注册。 注册时，设备会自动注册 Azure Active Directory。 Intune 检查设备是否合规，并提供修正措施以解决任何非合规性问题。 设备合规后，Intune 将使用 Azure Active Directory 设定设备的合规性状态。
@@ -29,20 +29,20 @@ ms.openlocfilehash: f8304ee6da77189f3d28c6d8f40175b8e58009a6
 
 设备被评定为已注册且合规后，几分钟内即会进行电子邮件同步。
 
-## Android
+## <a name="android"></a>Android
 
 [本主题](end-user-experience-conditional-access-android.md)描述在启用条件访问并且最终用户首次尝试在其 Android 移动设备上访问电子邮件之后的注册体验。
 
-## iOS
+## <a name="ios"></a>iOS
 
 [本主题](end-user-experience-conditional-access-ios.md)描述在启用条件访问后，当最终用户首次尝试在其 iOS 移动设备上访问电子邮件时的用户体验。
 
-## Windows Phone
+## <a name="windows-phone"></a>Windows Phone
 
 [本主题](end-user-experience-conditional-access-winphone.md)描述在启用条件访问并且最终用户首次尝试在其 Windows Phone 上访问电子邮件之后的最终用户体验。
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO1-->
 
 
