@@ -14,8 +14,8 @@ ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: f6e0986ce867f1167e202c95535cca778ad30434
-ms.openlocfilehash: 8ca47fecd7d8cde512587ee01801290a0cb62bfb
+ms.sourcegitcommit: 46a7ebaf91f4bc10026b0ddc5c5a383c1b8633c7
+ms.openlocfilehash: f611ba88fb26ab113125912beb1a8d0c40160f47
 
 
 ---
@@ -27,8 +27,10 @@ ms.openlocfilehash: 8ca47fecd7d8cde512587ee01801290a0cb62bfb
 
 若要了解有关 FastTrack 中心流程以及由谁来负责何部分的信息，请参阅[企业移动性 + 安全性的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
 
+若要下载包含企业移动性 + 安全性“操作方法”指南，以及可通过公司徽标自定义的电子邮件的 .zip 文件，以促进在组织中采用 EMS，请参阅[“操作方法”指南和自定义电子邮件的 EMS FastTrack](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)。
 
 
-<!--HONumber=Nov16_HO3-->
+
+<!--HONumber=Jan17_HO1-->
 
 

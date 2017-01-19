@@ -14,8 +14,8 @@ ms.reviewer: vlpetros
 ms.suite: ems
 ms.custom: active-directory
 translationtype: Human Translation
-ms.sourcegitcommit: 168d6d559aa17bbe0b8e912a53cbd384a3dc48a3
-ms.openlocfilehash: b0dd2c797fb6b33e10ef62fa74bb4c646e89bede
+ms.sourcegitcommit: b5acf1041ff91a68443464a9fe196b179c6668a6
+ms.openlocfilehash: 8b2c453c18f1569ac1fe94bb7c1e3e8c568d28ec
 
 
 ---
@@ -133,12 +133,9 @@ Intune Wi-Fi 配置策略可轻松实现[将无线网络设置部署到用户](h
 -   iOS 8.0 及更高版本
 -   Mac OS X 10.9 及更高版本
 -   Android 4.0 及更高版本和 Android for Work
--   Windows 10（桌面版和移动版）及更高版本
-
-对于运行以下平台的设备只能使用 **SCEP 证书配置文件**：
-
 -   Window 8.1 及更高版本
 -   Windows Phone 8.1 及更高版本
+-   Windows 10（桌面版和移动版）及更高版本
 
 虽然需要企业证书颁发机构 (CA) 来进行公司的任何基于证书的身份验证，在使用 SCEP 或 .PFX 证书前还须满足其他先决条件，从而安全访问公司资源。
 
@@ -158,6 +155,6 @@ Intune Wi-Fi 配置策略可轻松实现[将无线网络设置部署到用户](h
 
 
 
-<!--HONumber=Dec16_HO2-->
+<!--HONumber=Jan17_HO1-->
 
 

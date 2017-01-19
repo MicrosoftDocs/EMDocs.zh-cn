@@ -2,9 +2,9 @@
 title: "Windows Phone 上的条件访问的最终用户体验"
 description: "注册 Windows Phone 的最终用户体验。"
 keywords: 
-author: craigcaseyMSFT
-ms.author: v-craic
-manager: swadhwa
+author: nathbarn
+ms.author: nathbarn
+manager: angrobe
 ms.date: 04/28/2016
 ms.topic: article
 ms.prod: 
@@ -14,17 +14,17 @@ ms.assetid: 906566e0-f05e-4af5-b4d5-0efb083dca76
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: 501a38f97d2ed63fbf0d654d8c4156a0888f0094
+ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
+ms.openlocfilehash: e498fd2a1efea2ef6416185c5ce63223004805c6
 
 
 ---
 
-# Windows Phone
+# <a name="windows-phone"></a>Windows Phone
 
 根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。  本主题描述了注册 Windows Phone 的最终用户体验。
 
-## 注册
+## <a name="enrolling"></a>注册
 
 1.  如果用户已在 Intune 中注册并且合规，则他们在 Windows 设备上不会看到任何区别；他们将继续可以访问电子邮件。 尚未在 Intune 中注册的用户会收到类似于此示例的隔离电子邮件：
 
@@ -82,7 +82,7 @@ ms.openlocfilehash: 501a38f97d2ed63fbf0d654d8c4156a0888f0094
 
 -   致电技术支持。
 
-## 问题和解决方案
+## <a name="issues-and-solutions"></a>问题和解决方案
 默认情况下，每 8 小时会检查一次设备，以确保它们仍然合规。 如果以前合规的设备在以后被视为不合规（例如，添加或更改了合规性策略），则用户可以执行这些步骤以使其设备重新合规：
 
 1.  用户会通过电子邮件或在其设备上收到声明其设备不合规的通知。 此时，设备会在 Exchange 中受到隔离。
@@ -97,11 +97,11 @@ ms.openlocfilehash: 501a38f97d2ed63fbf0d654d8c4156a0888f0094
 
 5.  如果问题得到解决，则用户单击“继续”  以完成该过程。 应在几分钟内可再次访问电子邮件。
 
-### 后续步骤
+### <a name="where-to-go-from-here"></a>后续步骤
 最终用户体验在其他移动设备上会稍有不同。 你可以了解有关 [Android](end-user-experience-conditional-access-android.md) 和 [iOS](end-user-experience-conditional-access-ios.md) 最终用户体验的更多信息。
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO1-->
 
 

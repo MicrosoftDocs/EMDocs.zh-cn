@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 05/12/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,13 +14,13 @@ ms.assetid: 6c7088a9-ca88-4ff2-97a6-f842691fd3c7
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
-ms.openlocfilehash: dcf178146e9145f7526368763a8c1452327d939a
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: 88625a3bc5ac5f1a877650f73185721674e0f28d
 
 
 ---
 
-# 通过应用管理策略保护移动设备上的公司数据
+# <a name="protect-company-data-on-mobile-devices-through-app-management-policies"></a>通过应用管理策略保护移动设备上的公司数据
 保护公司数据至关重要，而随着更多员工使用其移动设备访问公司资源（包括电子邮件和电子邮件附件），这成为了越来越具有挑战性的任务。 作为 IT 管理员，你要确保即使在那些移动设备不在公司的物理位置范围中时，公司数据也受到保护。
 
 本指南着重于在托管应用程序应用于两个 Intune MDM 部署时对它的启用：
@@ -35,7 +35,7 @@ ms.openlocfilehash: dcf178146e9145f7526368763a8c1452327d939a
 > [!TIP]
 > 可从 [TechNet 库](https://gallery.technet.microsoft.com/Protect-Company-Data-on-d972f4f4/file/154240/1/Protect%20Company%20Data%20on%20Mobile%20Devices%20through%20Application%20Management%20Policies.pdf)中获取此完整主题的可下载副本。
 
-## 简介
+## <a name="introduction"></a>简介
 托管应用是应用了 MAM 策略的应用，这些策略使它们符合公司的安全要求。 有两个可用于管理移动应用的选项：
 - **默认功能**，如“Apple Managed Open In”，此功能可通过控制允许打开特定文档及电子邮件附件的应用来保护企业数据
 - **Intune App SDK**，它允许你限制功能并限制任何启用了 Intune App SDK 的应用的数据共享。 Intune 应用 SDK 的某些主要功能让你可以：
@@ -46,7 +46,7 @@ ms.openlocfilehash: dcf178146e9145f7526368763a8c1452327d939a
 
   请参阅[Intune App SDK 概述](https://docs.microsoft.com/intune/develop/intune-app-sdk)，了解所有 SDK 功能的说明。
 
-## 在开始之前
+## <a name="before-you-begin"></a>在开始之前
 - **了解如何使用 Microsoft Intune 部署应用：** [了解](https://docs.microsoft.com/intune/understand-explore/get-started-with-a-30-day-trial-of-microsoft-intune)有关 Intune 应用部署的基础知识。
 
 - **评估所需实现：**面对用于管理移动设备的所有不同设计和配置选项时，难以确定可最好地满足公司需求的组合。 [移动设备管理设计注意事项指南](https://docs.microsoft.com/enterprise-mobility/Solutions/mdm-design-considerations-guide)可帮助你了解移动设备管理设计要求，并详细介绍了一系列步骤和任务，你可以遵循这些步骤和任务来设计最符合公司的业务和技术需求的解决方案。
@@ -70,11 +70,11 @@ ms.openlocfilehash: dcf178146e9145f7526368763a8c1452327d939a
   - 如果策略已经部署到设备，则现有策略设置不会被覆盖。
   - 如果尚无策略部署到设备，并且两个冲突设置已经部署，则将使用设备内的默认设置。
 
-## 后续步骤
+## <a name="where-to-go-from-here"></a>后续步骤
 熟悉了 MAM 的整个过程后，就可以开始[在 Intune 中使用移动应用管理策略](mam-intune.md)或[使用 Configuration Manager 中的移动应用管理策略](mam-configmgr.md)。 或者可以阅读了解 [MAM 策略的最终用户体验](end-user-experience-mam.md)。
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 

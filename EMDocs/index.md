@@ -1,176 +1,384 @@
----
-asset_id: 961350ed-a3f1-44f1-b239-b46345b8f620
+--- 
 layout: HubPage
 title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
-keywords: "Microsoft 文档、企业移动性文档，了解企业移动性、企业移动性指南、企业移动性技术文档"
-author: msswadhwa
-manager: swadhwa
-ms.date: 10/03/2016
-ms.topic: hubpage
-ms.suite: ems
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 translationtype: Human Translation
-ms.sourcegitcommit: 2c3da9606e96e98246b097055f5e144faa2ae0a5
-ms.openlocfilehash: d194bb4a17d5bd97f9f47d56d35f4d5578c48ea4
-
+ms.sourcegitcommit: 43bf23ec5a695e83da7d559153ae7ba0bd342f85
+ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
 
 ---
-# 企业移动性 + 安全性文档  
-<article id="main">
-    <section id="hero-content" class="graph">
+<div id="main" class="v2">
+    <div class="container">
         <h1>企业移动性 + 安全性文档</h1>
-        <h2>欢迎使用 Microsoft 企业移动性 + 安全性的技术文档。 这些文档将帮助你了解并探索企业移动性+ 安全性中的解决方案和产品，助你服务开始使用这些服务并规划实现。 你还可以找到有助于部署和使用服务、部署应用程序以及解决问题更深入的技术内容。</h2>
-        <h3>对企业移动性 + 安全性还不熟悉？ <a href="http://go.microsoft.com/fwlink/?LinkId=816837" target="_blank">请访问 Microsoft 企业移动性 + 安全性页面 &rarr;</a></h3>
-    </section>
-    <aside class="alert section-border">
-        <p>注册以试用企业移动性 + 安全性 30 天</p>
-        <ol class="action-list">
-        <li><a href="http://go.microsoft.com/fwlink/?LinkId=816834" target="_blank" class="button-bordered button-translucent">免费试用版</a></li>
-        </ol>
-    </aside>
-    <section id="featured" class="container">
-        <h2 class="section-heading"><span class="icon icon-lightbulb-checked"></span> 特色内容</h2>
-        <div class="features row">
-            <ul class="column-half">
-                <li><mark><b>全新</b></mark> <a href="/information-protection/">通用版本：Azure 信息保护</a></li>
-                <li><a href="/enterprise-mobility/solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems">EMS 的 FastTrack 权益</a></li>
-                <li><a href="/intune/understand-explore/introduction-to-microsoft-intune">什么是 Microsoft Intune？</a></li>
-                <li><a href="/advanced-threat-analytics/understand-explore/what-is-ata">什么是高级威胁分析？</a></li>
-            </ul>
-            <ul class="column-half">
-                <li><a href="/active-directory/active-directory-whatis">什么是 Azure Active Directory？</a></li>
-                <li><a href="/microsoft-identity-manager/understand-explore/microsoft-identity-manager-2016">什么是 Microsoft Identity Manager？</a></li>
-                <li><a href="/information-protection/understand-explore/what-is-information-protection">什么是 Azure 信息保护？</a></li>
-                <li><a href="https://www.microsoft.com/itshowcase/Article/Content/588/Mobile-device-management-at-Microsoft" target="_blank">Microsoft 中的移动设备管理</a></li>
-            </ul>
-        </div>
-    </section>
-    <div id="journeys">
-        <section class="container">
-            <h2 class="section-heading"><span class="icon icon-inheritance"></span> 解决方案 &amp; 产品</h2>
-            <ul class="journeys-list">
-                <li class="journey-step">
-                    <header class="journey-step-header row">
-                            <div class="title column-third">
-                                <span class="icon icon-connect"></span>
-                                <p>标识 &amp; 访问管理</p>
-                            </div>
-                            <p class="description column-two-thirds">企业级标识和访问管理几乎适用于任何应用或设备，并且适合在云中或本地使用。 提供了单一登录、多重身份验证、自助服务密码等。
-                            </p>
-                    </header>
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="/active-directory/">
-                                <h3>Azure Active Directory</h3>
-                                <p>同步本地目录，并启用单一登录。</p>
+        <ul class="pivots">
+            <li>
+                <a href="#products">产品 + 服务</a>
+                <ul id="products">
+                    <li>
+                        <a  data-default="true" href="#all">全部</a>
+                        <ul id="all" class="cardsW">
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardText">
+                                                <h3>标识和访问管理</h3>
+                                                <p>
+                                                    <a href="/azure/active-directory/index">Azure Active Directory</a>
+                                                </p>
+                                                <p>
+                                                    <a href="/azure/multi-factor-authentication/index"> 多重身份验证 </a>
+                                                </p>
+                                                <p>
+                                                    <a href="/microsoft-identity-manager/"> Microsoft 标识管理器 </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardText">
+                                                <h3>设备和应用管理</h3>
+                                                <p>
+                                                    <a href="/intune/"> Microsoft Intune </a>
+                                                </p>
+                                                <p>
+                                                    <a href="/sccm/"> System Center Configuration Manager </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardText">
+                                                <h3>信息保护 + 安全性</h3>
+                                                <p>
+                                                    <a href="/information-protection/"> Azure 信息保护 </a>
+                                                </p>
+                                                <p>
+                                                    <a href="/advanced-threat-analytics/"> 高级威胁分析 </a>
+                                                </p>
+                                                <p>
+                                                    <a href="/cloud-app-security/"> Cloud App Security </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#identity">标识和访问管理</a>
+                        <ul id="identity" class="cardsC">
+                            <li>
+                                <a href="/azure/active-directory/index">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_identity-access-mgmt-1.svg" alt="Azure Active Directory" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Azure Active Directory</h3>
+                                                    <p>同步本地目录，并启用单一登录</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </a>
                             </li>
-                            <li class="column column-third">
-                                <a href="/multi-factor-authentication/">
-                                <h3>多重身份验证</h3>
-                                <p>使用额外的身份验证级别安全访问你的数据和应用。</p>
+                            <li>
+                                <a href="/azure/multi-factor-authentication/index">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_identity-access-mgmt-2.svg" alt="Multi-factor Authentication" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>多重身份验证</h3>
+                                                    <p>使用额外的身份验证级别安全访问你的数据和应用</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </a>
                             </li>
-                            <li class="column column-third">
+                            <li>
                                 <a href="/microsoft-identity-manager/">
-                                <h3>Microsoft 标识管理器</h3>
-                                <p>配置安全、灵活且云就绪的标识和访问管理。</p>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_identity-access-mgmt-3.svg" alt="Microsoft Identity Manager" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Microsoft 标识管理器</h3>
+                                                    <p>通过自动化工作流、自助服务等功能管理标识</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </a>
                             </li>
                         </ul>
-                    </section>
-                </li>
-                <li class="journey-step">
-                    <header class="journey-step-header row">
-                            <div class="title column-third">
-                                <span class="icon icon-mobile"></span>
-                                <p>移动设备 &amp; 应用程序管理</p>
-                            </div>
-                            <p class="description column-two-thirds">基于云的企业移动性管理，可帮助你控制员工对几乎在任何设备上的企业应用程序和数据的访问权限。
-                            </p>
-                    </header>
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
+                    </li>
+                    <li>
+                        <a href="#management">设备和应用管理</a>
+                        <ul id="management" class="cardsC">
+                            <li>
                                 <a href="/intune/">
-                                <h3>Intune</h3>
-                                <p>使用 Intune 的 MDM &amp; MAM 功能管理 &amp; 保护设备上的企业应用 &amp; 数据。</p>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_device-app-mgmt-1.svg" alt="Microsoft Intune" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Microsoft Intune</h3>
+                                                    <p>从云中管理移动设备、应用和电脑</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </a>
                             </li>
-                            <li class="column column-third">
+                            <li>
                                 <a href="/sccm/">
-                                <h3>System Center Configuration Manager</h3>
-                                <p>利用 Configuration Manager 本地基础结构来管理和保护公司计算机、服务器和设备。</p>
-                                </a>
-                            </li>
-                          </ul>
-                    </section>
-                </li>
-                <li class="journey-step">
-                    <header class="journey-step-header row">
-                            <div class="title column-third">
-                                <span class="icon icon-shield"></span>
-                                <p>信息保护 &amp; 安全性</p>
-                            </div>
-                            <p class="description column-two-thirds">通过允许以更安全的方式访问公司资源并启用组织内部和外部敏感信息安全共享来保护企业数据。
-                            </p>
-                    </header>
-                    <section class="journey-step-elements content">
-                        <ul class="row">
-                            <li class="column column-third">
-                                <a href="/information-protection/">
-                                <h3>Azure 信息保护</h3>
-                                <p>对电子邮件和其他敏感数据进行分类、标记和应用保护。</p>
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="/advanced-threat-analytics/">
-                                <h3>高级威胁分析</h3>
-                                <p>使用行为分析确定漏洞 &amp; 威胁，并根据攻击时间线创建报表。</p>
-                                </a>
-                            </li>
-                            <li class="column column-third">
-                                <a href="/cloud-app-security/">
-                                <h3>Cloud App Security</h3>
-                                <p>将本地系统的安全性带入云应用程序，以加深可见性、完善控制能力和增强保护。</p>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_device-app-mgmt-2.svg" alt="System Center Configuration Manager" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>System Center Configuration Manager</h3>
+                                                    <p>管理电脑、Mac 和 UNIX/Linux 服务器以及基于云的设备</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </a>
                             </li>
                         </ul>
-                    </section>
-                </li>
-            </ul>
-        </section>
+                    </li>
+                    <li>
+                        <a href="#security">信息保护和安全</a>
+                        <ul id="security" class="cardsC">
+                            <li>
+                                <a href="/information-protection/">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_info-protection-security-1.svg" alt="Azure Information Protection" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Azure 信息保护</h3>
+                                                    <p>在创建或更新时，根据源、上下文和内容对数据进行分类</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/advanced-threat-analytics/">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_info-protection-security-2.svg" alt="Advanced Threat Analytics" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>高级威胁分析</h3>
+                                                    <p>使用行为分析确定漏洞和威胁，并根据攻击时间线创建报表</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/cloud-app-security/">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_info-protection-security-3.svg" alt="Cloud App Security" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Cloud App Security</h3>
+                                                    <p>能够深入了解、全面掌控并增强 SaaS 的安全性</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#solutions">解决方案</a>
+                <ul id="solutions">
+                    <li>
+                        <a href="#SolutionsPanel1"></a>
+                        <ul id="SolutionsPanel1" class="cardsC">
+                            <li>
+                                <div class="container">
+                                    <p>帮助你了解企业移动性 + 安全 (EMS) 随附的内容以及如何解决常见的业务问题的示例方案。 在此处还可以找到有关 EMS 的 FastTrack 中心权益的信息，并且获得 EMS 支持的常见问题解答。</p>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="/enterprise-mobility-security/solutions/learn-about-ems">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_solutions-1.svg" alt="Learn about EMS" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>了解 EMS</h3>
+                                                    <p>了解 EMS 如何提供灵活、全面的移动性和安全性解决方案，使你过渡到移动设备和云。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/enterprise-mobility-security/solutions/ems-get-started">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_solutions-2.svg" alt="Start using EMS" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>开始使用 EMS</h3>
+                                                    <p>开始使用 EMS 和标识驱动的方案，帮助用户安全高效地使用自己喜欢的应用和设备。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_solutions-3.svg" alt="Get on the FastTrack" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>开始使用 FastTrack</h3>
+                                                    <p>如果购买了至少 150 个 EMS 许可证，就可以在 Microsoft 专家的指导下快速入门 EMS。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/enterprise-mobility-security/solutions/byod-design-considerations-guide">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_solutions-4.svg" alt="Design and Architecture Guides" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>设计和体系结构指南</h3>
+                                                    <p>获取实施从 BYOD 到保护公司数据的所有操作时所要提出的问题和要执行的步骤有关的专家建议。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://channel9.msdn.com/Tags/emm">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_solutions-6.svg" alt="EMS Support FAQ" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>观看第 9 频道的视频</h3>
+                                                    <p>查看最新发布到网上的视频。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/enterprise-mobility-security/solutions/ems-support-faq">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img data-scaleimage="images/ems_solutions-6.svg" alt="EMS Support FAQ" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>EMS 支持常见问题解答</h3>
+                                                    <p>快速解答 EMS 售前、帐单、订阅和技术支持方面的问题。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
     </div>
-    <div class="section-border">
-        <section class="resources container">
-            <h2 class="section-heading"><span class="icon icon-note"></span> 应用场景 &amp; 解决方案</h2>
-            <div class="resource-list row">
-              <ul class="column-half">
-                  <li><a href="/enterprise-mobility-security/solutions/ems-get-started">EMS 技术方案</a></li>
-                  <li><a href="/enterprise-mobility-security/solutions/architecture-guidance-for-protecting-company-email-and-documents">保护公司电子邮件和文档</a></li>
-                  <li><a href="https://support.office.com/en-us/article/Plan-for-Office-365-security-and-information-protection-capabilities-3d4ac4a1-3920-4ff9-918f-011f3ce60408?ui=en-US&rs=en-US&ad=US">Office 365 安全和保护功能</a></li>
-              </ul>
-              <ul class="column-half">
-                  <li><a href="https://docs.microsoft.com/active-directory/active-directory-hybrid-identity-design-considerations-overview">混合身份设计注意事项指南</a></li>
-                  <li><a href="/enterprise-mobility-security/solutions/byod-design-considerations-guide">BYOD 设计注意事项指南</a></li>
-                  <li><a href="/enterprise-mobility-security/solutions/mdm-design-considerations-guide">移动设备管理设计注意事项指南</a></li>
-            </ul>
-            </div>            
-        </section>
-    </div>
-    <aside class="alert alert-social">
-        <p>关注最新消息</p>
-        <ol class="action-list">
-            <li><a href="https://blogs.technet.microsoft.com/enterprisemobility/" target="_blank" class="button-bordered button-translucent">企业移动性 + 安全博客</a></li>
-            <li><a href="https://blogs.technet.microsoft.com/in_the_cloud/" target="_blank" class="button-bordered button-translucent">云中的博客</a></li>
-        </ol>
-    </aside>
-</article>
 
 
-
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -14,8 +14,8 @@ ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 52bdc7e5b67f9aeae2142d2b8bb2f8ed474dcc8d
-ms.openlocfilehash: d4cc34daa08f3db2508c08b51ca70651cf832015
+ms.sourcegitcommit: 59e06bc9534edf816618e2644d5870f549f32742
+ms.openlocfilehash: aece953566d06fa2b8d97cdb82866ab02df97f13
 
 
 ---
@@ -37,7 +37,7 @@ ms.openlocfilehash: d4cc34daa08f3db2508c08b51ca70651cf832015
 
 下面是此过程的工作原理：
 
-- 购买符合条件的服务的许可证后，Microsoft 会尝试与你联系来提供载入协助。 如果已准备好在组织中部署这些服务，还可以从 [FastTrack 中心](http://fasttrack.microsoft.com/)请求协助。 若要请求协助，请使用工作或学校帐户登录到 [FastTrack 中心](http://fasttrack.microsoft.com/)，转到仪表板，展开屏幕左侧的“需要帮助?”，然后按照提示完成请求。 启动载入支持之后，我们将为联机会议设置一个日程安排。
+- 购买符合条件的服务的许可证后，Microsoft 会尝试与你联系来提供载入协助。 如果已准备好在组织中部署这些服务，还可以从 [FastTrack 中心](http://fasttrack.microsoft.com/)请求协助。 若要请求协助，请使用工作或学校帐户登录到 [FastTrack 中心](http://fasttrack.microsoft.com/)，转到仪表板，展开页面右下角的“需要帮助?”链接，然后按照提示完成请求。 启动载入支持之后，我们将为联机会议设置一个日程安排。
 
 -   Microsoft 载入团队首先会提供核心功能（Microsoft Online Services 常见功能）方面的帮助，然后帮助你载入每个符合条件的服务的。
 
@@ -57,6 +57,6 @@ ms.openlocfilehash: d4cc34daa08f3db2508c08b51ca70651cf832015
 
 
 
-<!--HONumber=Dec16_HO2-->
+<!--HONumber=Jan17_HO1-->
 
 

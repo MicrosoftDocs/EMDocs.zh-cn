@@ -2,30 +2,29 @@
 title: "如何管理密码"
 description: "如何管理密码"
 keywords: 
-author: craigcaseyMSFT
-ms.author: v-craic
-manager: jeffgilb
+author: NathBarn
+ms.author: NathBarn
+manager: angrobe
 ms.date: 09/28/2016
 ms.topic: article
 ms.prod: 
-ms.service: ems
+ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
-ROBOTS: noindex
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: dab9c133dd5a79afef07291405c2ac25218ca715
-ms.openlocfilehash: 665d0eabcadcb78d7f12e018c4ab1b1927976a3d
+ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
+ms.openlocfilehash: 6831444169da8aa83ca5b08fdfb8f847124f844c
 
 
 ---
 
-# 如何管理密码
+# <a name="how-to-manage-your-own-password"></a>如何管理密码
 
 如果你是使用 Office 365 或 Microsoft 帐户来访问工作资源的组织中的用户（非管理员），请阅读以下部分，了解如何修复有关密码的常见问题。
 
-## 如何注册以进行密码重置
+## <a name="how-to-register-for-password-reset"></a>如何注册以进行密码重置
 注册以进行密码重置最快速的方法是转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
 
 1.  导航到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
@@ -43,7 +42,7 @@ ms.openlocfilehash: 665d0eabcadcb78d7f12e018c4ab1b1927976a3d
 > [!IMPORTANT]
 > 如果管理员允许你注册多个选项，强烈建议注册一个备份选项，以防手机丢失或无法访问电子邮件。
 
-## 如何重置密码
+## <a name="how-to-reset-your-password"></a>如何重置密码
 请按照以下步骤在任何工作或学校帐户的登录屏幕上重置工作或学校帐户的密码。
 
 > [!IMPORTANT]
@@ -76,11 +75,11 @@ ms.openlocfilehash: 665d0eabcadcb78d7f12e018c4ab1b1927976a3d
 ![显示已完成密码重置过程的屏幕截图。](./media/ft-mngPW-13-success.png)
 重置密码时遇到问题？ 请阅读 [common problems and their solutions](https://azure.microsoft.com/en-us/documentation/articles/active-directory-passwords-update-your-own-password/#common-problems-and-their-solutions)（常见问题和解决方案）。
 
-### 了解更多信息？
+### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO1-->
 
 

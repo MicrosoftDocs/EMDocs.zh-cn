@@ -8,16 +8,16 @@ manager: jeffgilb
 ms.date: 06/08/2016
 ms.topic: article
 ms.prod: 
-ms.service: 
+ms.service: ems
 ms.technology: 
 ms.assetid: 9d031fa7-9c07-48c5-b915-6525aea54870
 translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: a95670d089a8aa3cb05c4d2ff421b0af9c9c0b79
+ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
+ms.openlocfilehash: d78ac8d2d569b95b32650266fa64a0232bdeacbd
 
 ---
 
-# 付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证
+# <a name="your-paid-microsoft-intune-or-enterprise-mobility-subscription-might-include-a-license-to-use-certain-downloadable-software"></a>付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证
 
 付费版 Microsoft Online Services 订阅中可能包含以下软件。  你可以通过查看协议条款来确认你获得了哪些软件的许可证。
 
@@ -40,6 +40,6 @@ ms.openlocfilehash: a95670d089a8aa3cb05c4d2ff421b0af9c9c0b79
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO1-->
 
 

@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,22 +14,22 @@ ms.assetid: e65a0662-33ff-4e8c-9305-a21e80ea0f69
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: c80c3b4aedd25c573b3f0fd9b78bd511981cec0f
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: eae78f8e5a4c5a1a0e44cf17fa320175ac622ac1
 
 
 ---
 
-# 通过 Intune 和 Configuration Manager 使用条件访问
+# <a name="use-conditional-access-with-intune-and-configuration-manager"></a>通过 Intune 和 Configuration Manager 使用条件访问
 本主题假设你已在公司中使用 System Center Configuration Manager 和本地 Microsoft Exchange Server、Exchange Online 或两者的混合部署来管理电子邮件访问。 该解决方案将现有的 Configuration Manager 环境与 Intune 相结合，以便安全地管理所有类型设备上的电子邮件访问，而无需考虑设备的位置。
 
 > [!TIP]
 > 可在 [TechNet 库](https://gallery.technet.microsoft.com/Deploying-Enterprise-16499404)中获取本完整主题的可下载副本。
 
-## 在开始之前
+## <a name="before-you-begin"></a>在开始之前
 在你开始使用条件性访问之前，请确保已经满足正确的要求：
 
-## 对于 Exchange Online
+## <a name="for-exchange-online"></a>对于 Exchange Online
 条件访问 Exchange Online 支持运行以下操作系统的设备：
 
 -   Windows 8.1 及更高版本（注册到 Intune 时）
@@ -57,7 +57,7 @@ AAD DRS 将对 Intune 和 Office 365 客户自动激活。 已经部署了 ADFS 
 
     现在，你就可以了解如何[使用 Intune 部署 Exchange Online](conditional-access-intune-exchange-online.md)。
 
-## 对于本地 Exchange Server
+## <a name="for-exchange-server-on-premises"></a>对于本地 Exchange Server
 Exchange 内部部署支持的条件访问：
 
 -   Windows 8 及更高版本（注册到 Intune 时）
@@ -88,6 +88,6 @@ Exchange 内部部署支持的条件访问：
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 
