@@ -16,9 +16,9 @@
       href: /azure/active-directory/
       homepage: /azure/active-directory
       items:
-        - name: "当前" 
-          href: /active-directory/adal/ 
-          homepage: /active-directory/adal/microsoft.identitymodel.clients.activedirectory 
+        - name: "当前"
+          href: /active-directory/adal/
+          homepage: /active-directory/adal/microsoft.identitymodel.clients.activedirectory
         - name: "ADAL v3"
           href: /active-directory/adal/v3/
           homepage: /active-directory/adal/v3/microsoft.identitymodel.clients.activedirectory
@@ -72,12 +72,15 @@
           href: /intune/troubleshoot/
           homepage: /intune/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
         - name: "开始使用"
-          href: /intune/get-started/get-started
-          homepage: /intune/get-started/what-s-new-in-microsoft-intune
+          href: /intune/get-started/
+          homepage: /intune/get-started/get-started
         - name: "开发和自定义应用"
           href: /intune/develop/
           homepage: /intune/develop/intune-app-sdk
- 
+        - name: "新功能"
+          href: /intune/whats-new/
+          homepage: /intune/whats-new/whats-new-in-microsoft-intune
+
 
     - name: "Azure 信息保护"
       href: /information-protection/
