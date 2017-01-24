@@ -340,7 +340,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-6.svg" alt="EMS Support FAQ" />
+                                                        <img data-scaleimage="images/ems_solutions-5.svg" alt="EMS Support FAQ" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -377,6 +377,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
             </li>
         </ul>
     </div>
+
 
 
 <!--HONumber=Jan17_HO2-->
