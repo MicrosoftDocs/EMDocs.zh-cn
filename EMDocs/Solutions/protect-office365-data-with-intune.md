@@ -4,7 +4,7 @@ description: "EMS 和 Office 365 的结合造就了完全托管的移动工作�
 keywords: 
 author: jeffgilb
 manager: swadhwa
-ms.date: 10/18/2016
+ms.date: 1/18/2017
 ms.topic: solution
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,8 +13,8 @@ ms.assetid: cc0d2e1f-9c34-4dcb-ac1f-2f355e9ebb7e
 ms.reviewer: vlpetros
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 168d6d559aa17bbe0b8e912a53cbd384a3dc48a3
-ms.openlocfilehash: 59bbc2cd3476c8632f8a72c9144eeedcdb141c42
+ms.sourcegitcommit: 6f7b68c5be373752eaf272a05023e611e6ac5e5d
+ms.openlocfilehash: e81e3d5bdfdaf464de5c72aa6d87aa8d802674a5
 
 
 ---
@@ -28,7 +28,7 @@ EMS 是旨在本地保护用户用来工作的所有设备上的 Microsoft Offic
 Office 365 适用于随时随地可以办公但又不愿牺牲用户体验的员工。 EMS 和 Office 365 的结合造就了完全托管的移动工作效率解决方案，可为用户带来绝对标准的工作效率，为 IT 人员提供深度集成的数据控件。
 
 ### <a name="recommended-solution"></a>建议的解决方案
-通过使用 EMS 的“管理武器”Intune，可轻松地授予员工几乎可从任何设备随时随地访问公司应用程序、数据和资源的权限，同时确保了公司信息安全。 与大多数传统本地解决方案相比，Intune 不仅更简便，而且还是更现代的一种保护公司数据的经济高效方式。 通过 Intune 保护 Office 365 数据，无需安装和维护任何本地基础结构或打开公司防火墙路由流量。
+使用 Intune，可轻松地授予员工几乎可从任何设备随时随地访问公司应用程序、数据和资源的权限，同时确保了公司信息安全。 与大多数传统本地解决方案相比，Intune 不仅更简便，而且还是更现代的一种保护公司数据的经济高效方式。 通过 Intune 保护 Office 365 数据，无需安装和维护任何本地基础结构或打开公司防火墙路由流量。
 
 以下短视频快速介绍了如何搭配使用 Intune 和 Office 365，为员工提供从 iOS、Android 和 Windows 设备安全访问公司数据的无缝体验：
 
@@ -145,6 +145,6 @@ Intune 的 WIP 策略有助于防止托管的 Windows 10 设备发生潜在的�
 
 
 
-<!--HONumber=Dec16_HO2-->
+<!--HONumber=Jan17_HO3-->
 
 
