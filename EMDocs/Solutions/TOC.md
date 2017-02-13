@@ -1,7 +1,7 @@
 # 解决方案
 ## [了解企业移动性 + 安全性](learn-about-ems.md)
 ## [开始使用企业移动性 + 安全性](ems-get-started.md)
-## [标识和访问管理](manage-access-at-scale.md)
+## [标识和访问管理](thousands-apps-one-identity.md)
 ### [数千个应用，一个标识](thousands-apps-one-identity.md)
 ### [实现商业无国界](enable-business-without-borders.md)
 ### [大规模管理访问权限](manage-access-at-scale.md)
@@ -14,6 +14,7 @@
 ### [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
 ### [在内部和外部共享敏感数据](share-sensitive-data.md)
 ### [跟踪共享数据使用情况并对数据滥用做出响应](infoprotect-track-usage-scenario.md)
+### [Azure 信息保护在保护数据方面的角色](azure-information-protection-securing-data.md)
 ## [托管移动工作效率](protect-office365-data-with-intune.md)
 ### [使用 Intune 保护 Office 365 公司数据](protect-office365-data-with-intune.md)
 ### [使用 Intune 保护本地公司数据](protect-on-premises-data-with-intune.md)
@@ -99,6 +100,6 @@
 ## [EMS 支持常见问题](ems-support-faq.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Feb17_HO1-->
 
 
