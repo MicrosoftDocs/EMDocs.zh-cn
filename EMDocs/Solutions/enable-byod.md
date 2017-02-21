@@ -13,8 +13,8 @@ ms.assetid: 6d31eebe-81d2-4c6b-bfec-fbd536096dda
 ms.reviewer: vlpetros
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 371bf70d4f3389e61ff46f3eab48d19db77610b5
-ms.openlocfilehash: 27080ccb165917e7b32a1a74ff5a8d5a77ed0205
+ms.sourcegitcommit: b4edb16e4ef00b7376af800ab542f42c0e530197
+ms.openlocfilehash: 9defe28a74bc3e53f6ae5dc33b33396e47247265
 
 
 ---
