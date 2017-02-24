@@ -4,7 +4,7 @@ description: "本文介绍 Azure 信息保护在保持组织数据安全中的�
 author: yuridio
 ms.author: yurid
 manager: mbaldwin
-ms.date: 02/13/17
+ms.date: 02/23/2017
 ms.topic: solution
 ms.prod: 
 ms.service: rights-management
