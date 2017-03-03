@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.assetid: edc744d8-97d9-42e0-8906-6f0dedd8d629
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
-ms.openlocfilehash: 7df900a8224c847eed28ad22cdaffbd6b424c4c8
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: 4a7537775ce2c6c19850720f789ea5882d062aec
 
 
 ---
 
-# 实现用于保护电子邮件和附件的解决方案
+# <a name="implementing-your-solution-for-protecting-email-and-attachments"></a>实现用于保护电子邮件和附件的解决方案
 本文将帮助你做好准备，然后实现用于保护公司电子邮件内容和附件的解决方案。
 
-## 规划实现时应该考虑以下因素：
+## <a name="what-you-should-consider-when-planning-your-implementation"></a>规划实现时应该考虑以下因素：
 
 -   **设备平台支持**：你还必须考虑是否允许在 Intune 不支持的平台上访问电子邮件。 Intune 移动设备管理支持下列操作系统：
 
@@ -77,12 +77,12 @@ ms.openlocfilehash: 7df900a8224c847eed28ad22cdaffbd6b424c4c8
 
     -   Ping 等第三方联合服务也应发挥作用。 建议在实现之前进行测试。
 
-## 本地实现
+## <a name="on-premises-implementation"></a>本地实现
 如果已具备现有的 System Center Configuration Manager、Active Directory 和/或 Exchange Server 实现，则可以通过与 Intune、Azure AD 和 Office 365 集成来扩展现有的体系结构。 你可以使用此混合实现在所有本地和云设备上提供一致的管理体验。 Intune 和 Configuration Manager 提供一组类似的功能，允许根据设备状态限制对电子邮件的访问。
 
 对于 Exchange Online Dedicated 实现，是否可以利用前述的基于云的解决方案，或使用混合实现，这都取决于你当前的实现。 请咨询帐户团队以确定将采用哪种实现。
 
-## 操作和事件响应
+## <a name="operations-and-incidence-response"></a>操作和事件响应
 实现解决方案后，你需要管理环境并确定潜在的安全风险。 Intune 和 Azure AD 都具有监视和报告功能，这些功能可帮助监视和快速响应安全事件。
 
 下面是部分报告功能：
@@ -91,7 +91,7 @@ ms.openlocfilehash: 7df900a8224c847eed28ad22cdaffbd6b424c4c8
 
 -   Azure AD 具有审核和活动日志记录功能。 你可以监视密码更改和用户管理等事务。 Azure Active Directory Premium 包含高级异常安全报告和警报。 这些警报基于详细的机器学习报告，报告中显示登录活动、不一致的访问模式和潜在的威胁领域。
 
-## 后续步骤
+## <a name="where-to-go-from-here"></a>后续步骤
 有关如何部署用于保护公司电子邮件内容和附件的解决方案的分步说明，请参阅下面的一个主题，具体视你的特定环境而定：
 
 - [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
@@ -99,6 +99,6 @@ ms.openlocfilehash: 7df900a8224c847eed28ad22cdaffbd6b424c4c8
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 

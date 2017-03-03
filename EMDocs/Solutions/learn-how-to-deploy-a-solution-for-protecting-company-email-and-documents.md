@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,13 +14,13 @@ ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
-ms.openlocfilehash: 232939cbf147b27732991a817827036963289b67
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: 7f7a8c8fc0333461359440781adc8a6240e9f4bb
 
 
 ---
 
-# 了解如何部署用于保护公司电子邮件和文档的解决方案
+# <a name="learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents"></a>了解如何部署用于保护公司电子邮件和文档的解决方案
 越来越多的公司允许员工通过其移动设备访问电子邮件、文档和公司资源，从而提高工作效率。 但是，存储在公司电子邮件和文档中的机密数据量会为公司带来重大的安全风险。
 
 本指南适用于你（即 IT 专业人员），可帮助为公司确定然后部署最佳解决方案，以便采用如下所述的配置之一来实施条件访问。 这会使员工可以使用其移动设备访问公司电子邮件，同时仍保护公司的数据。
@@ -30,7 +30,7 @@ ms.openlocfilehash: 232939cbf147b27732991a817827036963289b67
 > [!TIP]
 > 可在 [TechNet 库](https://gallery.technet.microsoft.com/Deploying-Enterprise-16499404)中获取本完整主题的可下载副本。
 
-## 简介
+## <a name="introduction"></a>简介
 保护公司数据至关重要，而随着更多员工使用其移动设备访问公司资源（包括电子邮件和电子邮件附件），这成为了越来越具有挑战性的任务。 作为 IT 管理员，你要确保即使在那些移动设备不在公司的物理位置范围中时，公司数据也受到保护。
 
 Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备、应用程序和数据）提供公司电子邮件和文档的全面保护，来应对此挑战。 EMS 以及其他功能确保员工只能从由 Microsoft Intune 管理并符合 IT 策略的设备访问公司电子邮件。
@@ -46,7 +46,7 @@ Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备
     > [!NOTE]
     > 可以创建和部署电子邮件配置文件，然后设置指定电子邮件配置文件必须由 Intune 进行管理（推荐）的合规性策略。 这使你能够从注销的设备中擦除电子邮件，并可确保对于 iOS，附件只能在 Intune 管理的应用程序中打开。 请参阅[步骤 5：创建合规性策略，并部署到用户。](conditional-access-intune-configmgr-exchange.md) 获取更多相关信息。
 
-### 本文中涵盖的解决方案
+### <a name="solutions-covered-in-this-article"></a>本文中涵盖的解决方案
 本部分提供有关每个解决方案（具有 Intune 实现的 Configuration Manager、Intune 本身、移动应用管理和 Azure 信息保护）的高级概述。
 
 -   **使用条件访问管理对电子邮件的访问：**可以混合使用 Configuration Manager 与 Intune，或仅仅使用 Intune 本身，以及 Exchange Online 或 Exchange Server 内部部署对所有类型的电脑和移动设备（不考虑其位置）管理和实施条件访问。 通过在此类型的环境中实施条件访问，你可以让用户提高工作效率，同时使公司数据保持安全。
@@ -55,15 +55,15 @@ Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备
 
 -   **用于数据丢失防护策略的 Azure 信息保护：**Azure 信息保护（先前的 Azure RMS）利用加密、标识和授权策略来帮助跨多个设备（如手机、平板电脑和 PC）保护文件和电子邮件。 信息可以在公司内部和外部得到保护，因为保护会随数据而保持，即使在数据离开公司边界时。
 
-### 评估所需实现
+### <a name="evaluating-your-desired-implementation"></a>评估所需实现
 面对用于管理移动设备的所有不同设计和配置选项时，难以确定可最好地满足公司需求的组合。 [移动设备管理设计注意事项指南](mdm-design-considerations-guide.md)可帮助你了解移动设备管理设计要求，并详细介绍了一系列步骤和任务，你可以遵循这些步骤和任务来设计最符合公司的业务和技术需求的解决方案。
 
-### 高级最终用户体验
+### <a name="high-level-end-user-experience"></a>高级最终用户体验
 实现解决方案之后，最终用户只能在托管**且**合规的设备上访问公司电子邮件。 一旦他们能够在设备上访问电子邮件，公司数据便受到保护并且包含在应用生态系统内，只能由预期用户使用。 如果设备不合规，则可以随时撤消访问权限。
 
 具体而言，在 Intune 中设置的条件访问策略可确保仅当设备符合所设置的合规性策略时，它们才能访问电子邮件。 可以使用移动应用程序管理策略来限制诸如复制和粘贴或保存到个人云存储服务这类操作。 Azure 信息保护可用于确保只有预期收件人才能读取敏感电子邮件数据和转发的附件。 有关最终用户体验更详细的描述，请参阅[条件访问的最终用户体验](end-user-experience-conditional-access.md)。
 
-### 后续步骤
+### <a name="where-to-go-from-here"></a>后续步骤
 你已经通读了本主题，现在可以依据你的环境，了解有关如何部署用于保护公司电子邮件和文档的特定解决方案的详细信息：
 
 - [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
@@ -71,6 +71,6 @@ Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 

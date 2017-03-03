@@ -1,24 +1,26 @@
 # 解决方案
 ## [了解企业移动性 + 安全性](learn-about-ems.md)
 ## [开始使用企业移动性 + 安全性](ems-get-started.md)
-## [标识和访问管理](manage-access-at-scale.md)
+## [标识和访问管理]()
 ### [数千个应用，一个标识](thousands-apps-one-identity.md)
 ### [实现商业无国界](enable-business-without-borders.md)
 ### [大规模管理访问权限](manage-access-at-scale.md)
 ### [由云支持的保护](cloud-powered-protection.md)
-## [标识驱动安全](protect-front-door.md)
+## [标识驱动安全]()
 ### [第一道防线](protect-front-door.md)
 ### [针对用户错误保护数据](protect-data-user-mistake.md)
 ### [在导致损害前检测出攻击](detect-attacks-before-damage.md)
-## [信息保护](infoprotect-secure-classify-scenario.md)
+## [信息保护]()
 ### [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
 ### [在内部和外部共享敏感数据](share-sensitive-data.md)
 ### [跟踪共享数据使用情况并对数据滥用做出响应](infoprotect-track-usage-scenario.md)
-## [托管移动工作效率](protect-office365-data-with-intune.md)
+### [Azure 信息保护在保护数据方面的角色](azure-information-protection-securing-data.md)
+## [托管移动工作效率]()
 ### [使用 Intune 保护 Office 365 公司数据](protect-office365-data-with-intune.md)
 ### [使用 Intune 保护本地公司数据](protect-on-premises-data-with-intune.md)
 ### [在不使用 Intune 管理设备的情况下保护公司数据](protect-company-data-without-managing-devices.md)
-## [设计和体系结构指南](byod-design-considerations-guide.md)
+### [通过 Intune 启用 BYOD](enable-byod.md)
+## [设计和体系结构指南]()
 ### [BYOD 设计指南](byod-design-considerations-guide.md)
 #### [构想基础结构解决方案](byod-envisioning-the-byod-infrastructure-solution.md)
 ##### [用户和设备要求](byod-user-device-reqs.md)
@@ -97,8 +99,3 @@
 
 ## [下载 EMS 附带的软件许可证](subscription-might-include-downloadable-software.md)
 ## [EMS 支持常见问题](ems-support-faq.md)
-
-
-<!--HONumber=Jan17_HO1-->
-
-

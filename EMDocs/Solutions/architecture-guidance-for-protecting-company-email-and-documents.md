@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,13 +14,13 @@ ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
 ms.reviewer: 
 ms.suite: ems
 translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: 66732b444e6a449256a7929324d7b26e3e814f15
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: 43594d947f3fa081a777eee6081c83b35621a9bf
 
 
 ---
 
-# 有关保护公司电子邮件和文档的体系结构指南
+# <a name="architecture-guidance-for-protecting-company-email-and-documents"></a>有关保护公司电子邮件和文档的体系结构指南
 本主题首先概述了如何在确保最终用户体验简单且不影响工作效率的同时，为公司提供数据保护。 然后，我们将专门重点介绍如何使用 Microsoft 企业移动性 + 安全性解决方案，帮助提供对公司电子邮件的安全访问，以及帮助保护电子邮件和附件中的公司数据。
 
 本节讨论用于保护公司电子邮件和文档的体系结构。 有关部署解决方案的指南，请参阅[详细了解如何部署用于保护公司电子邮件和文档的解决方案](learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md)。
@@ -46,7 +46,7 @@ ms.openlocfilehash: 66732b444e6a449256a7929324d7b26e3e814f15
 
 由于最终用户想要使用自己的个人设备处理公司事务，且电子邮件是最常访问的应用程序，IT 部门的第一步是确保最终用户可以在其自己的设备上访问公司电子邮件，同时确保邮件中的敏感数据不会被泄露。
 
-## 概述
+## <a name="overview"></a>概述
 Microsoft 推出了企业移动性 + 安全性 (EMS)，这是用于识别身份、管理移动设备、管理应用和保护数据的全面解决方案。 EMS 提供分层的安全模型，可让你的 IT 部门管理几乎任何设备对电子邮件、数据和企业应用程序的访问。
 
 EMS 由以下云服务组成：
@@ -65,7 +65,7 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 
 当员工移动或更改作业或者丢失设备时，EMS 可帮助远程并选择性地擦除设备中的公司数据。 最终用户或 IT 管理员都可执行此操作。
 
-## EMS 如何帮助保护你的数据
+## <a name="how-ems-can-help-protect-your-data"></a>EMS 如何帮助保护你的数据
 4 层的身份识别、设备、应用和数据安全模型旨在确保只有目标用户，通过满足你所配置的一组合规性策略的设备，在托管应用内才能访问公司资源。
 
 ![显示标识、设备、应用和数据的四层安全模型的图形](./media/ProtectEmail/Protecting_your_data.png)
@@ -78,7 +78,7 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 
 *Azure 信息保护（原 Azure RMS）*在安全模型的文件级别对数据进行保护。 应用于数据的安全策略与数据一起传送、帮助保护传输中和未使用数据的安全，不受访问数据的设备影响。 这是安全模型的**数据层**。
 
-## 后续步骤
+## <a name="where-to-go-from-here"></a>后续步骤
 - [观看](https://www.youtube.com/watch?v=ltcZvm4VOFU) 这段视频，了解如何注册试用帐户并开始使用。
 
 - 请阅读[移动设备管理设计注意事项指南](mdm-design-considerations-guide.md)，更好地了解移动设备管理设计要求。
@@ -88,7 +88,7 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 此外，如果你希望了解有关 EMS 和 Azure Active Directory 的详细信息，你可以从以下这些文章中获取更多相关信息：
 - [EMS 体系结构](https://azure.microsoft.com/documentation/infographics/enterprise-mobility/)
 
-- [Azure Active Directory 是什么](/active-directory/active-directory-whatis)
+- [什么是 Azure Active Directory？](/active-directory/active-directory-whatis)
 
 - [Azure Active Directory 如何支持 Office 365、Microsoft Intune 和其他 Microsoft 服务？](/active-directory/active-directory-administer#what-is-an-azure-ad-tenant)
 
@@ -100,6 +100,6 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 
 
 
-<!--HONumber=Nov16_HO2-->
+<!--HONumber=Jan17_HO2-->
 
 
