@@ -3,9 +3,10 @@ layout: HubPage
 title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
+hide_bc: true
 translationtype: Human Translation
-ms.sourcegitcommit: 43bf23ec5a695e83da7d559153ae7ba0bd342f85
-ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
+ms.sourcegitcommit: e1a57fc7a7fa30eac753b93dd1366eaa8e7c3a72
+ms.openlocfilehash: 504d49e556bf698e924fc8641ceb588ad5f12357
 
 ---
 <div id="main" class="v2">
@@ -60,7 +61,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardText">
-                                                <h3>信息保护 + 安全性</h3>
+                                                <h3>信息保护和安全</h3>
                                                 <p>
                                                     <a href="/information-protection/"> Azure 信息保护 </a>
                                                 </p>
@@ -87,7 +88,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_identity-access-mgmt-1.svg" alt="Azure Active Directory" />
+                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-1.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -106,7 +107,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_identity-access-mgmt-2.svg" alt="Multi-factor Authentication" />
+                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-2.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -125,7 +126,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_identity-access-mgmt-3.svg" alt="Microsoft Identity Manager" />
+                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-3.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -149,7 +150,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_device-app-mgmt-1.svg" alt="Microsoft Intune" />
+                                                        <img src="/media/hubs/ems/ems_device-app-mgmt-1.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -168,12 +169,12 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_device-app-mgmt-2.svg" alt="System Center Configuration Manager" />
+                                                        <img src="/media/hubs/ems/ems_device-app-mgmt-2.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>System Center Configuration Manager</h3>
-                                                    <p>管理电脑、Mac 和 UNIX/Linux 服务器以及基于云的设备</p>
+                                                    <p>通过本地和基于云的基础结构，管理 PC、服务器和移动设备（例如 iPhone 和 Android 设备）</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -192,7 +193,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_info-protection-security-1.svg" alt="Azure Information Protection" />
+                                                        <img src="/media/hubs/ems/ems_info-protection-security-1.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -211,7 +212,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_info-protection-security-2.svg" alt="Advanced Threat Analytics" />
+                                                        <img src="/media/hubs/ems/ems_info-protection-security-2.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -230,7 +231,7 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_info-protection-security-3.svg" alt="Cloud App Security" />
+                                                        <img src="/media/hubs/ems/ems_info-protection-security-3.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -253,23 +254,18 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                         <a href="#SolutionsPanel1"></a>
                         <ul id="SolutionsPanel1" class="cardsC">
                             <li>
-                                <div class="container">
-                                    <p>帮助你了解企业移动性 + 安全 (EMS) 随附的内容以及如何解决常见的业务问题的示例方案。 在此处还可以找到有关 EMS 的 FastTrack 中心权益的信息，并且获得 EMS 支持的常见问题解答。</p>
-                                </div>
-                            </li>
-                            <li>
-                                <a href="/enterprise-mobility-security/solutions/learn-about-ems">
+                                <a href="/enterprise-mobility-security/solutions/protect-office365-data-with-intune">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-1.svg" alt="Learn about EMS" />
+                                                        <img src="/media/hubs/ems/ems_solutions-1.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>了解 EMS</h3>
-                                                    <p>了解 EMS 如何提供灵活、全面的移动性和安全性解决方案，使你过渡到移动设备和云。</p>
+                                                    <h3>托管移动工作效率</h3>
+                                                    <p>了解如何使用 Intune 保护 Office 365 公司数据、使用 Intune 保护本地公司数据和使用 Intune 保护公司数据（而不管理设备）。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -277,18 +273,18 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                 </a>
                             </li>
                             <li>
-                                <a href="/enterprise-mobility-security/solutions/ems-get-started">
+                                <a href="/enterprise-mobility-security/solutions/thousands-apps-one-identity">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-2.svg" alt="Start using EMS" />
+                                                        <img src="/media/hubs/ems/ems_solutions-2.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>开始使用 EMS</h3>
-                                                    <p>开始使用 EMS 和标识驱动的方案，帮助用户安全高效地使用自己喜欢的应用和设备。</p>
+                                                    <h3>标识和访问管理</h3>
+                                                    <p>Azure Active Directory 如何通过为访问云和本地资源的 SaaS 应用程序用户提供通用身份，提高用户工作效率。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -296,18 +292,18 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                 </a>
                             </li>
                             <li>
-                                <a href="/enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program">
+                                <a href="/enterprise-mobility-security/solutions/protect-front-door">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-3.svg" alt="Get on the FastTrack" />
+                                                        <img src="/media/hubs/ems/ems_solutions-3.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>开始使用 FastTrack</h3>
-                                                    <p>如果购买了至少 150 个 EMS 许可证，就可以在 Microsoft 专家的指导下快速入门 EMS。</p>
+                                                    <h3>标识驱动安全</h3>
+                                                    <p>采用更全面的创新安全方法，保护、检测和应对本地和云中的各种威胁。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -315,56 +311,18 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                                 </a>
                             </li>
                             <li>
-                                <a href="/enterprise-mobility-security/solutions/byod-design-considerations-guide">
+                                <a href="/enterprise-mobility-security/solutions/infoprotect-secure-classify-scenario">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-4.svg" alt="Design and Architecture Guides" />
+                                                        <img src="/media/hubs/ems/ems_solutions-4.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>设计和体系结构指南</h3>
-                                                    <p>获取实施从 BYOD 到保护公司数据的所有操作时所要提出的问题和要执行的步骤有关的专家建议。</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://channel9.msdn.com/Tags/emm">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-6.svg" alt="EMS Support FAQ" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>观看第 9 频道的视频</h3>
-                                                    <p>查看最新发布到网上的视频。</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/enterprise-mobility-security/solutions/ems-support-faq">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img data-scaleimage="images/ems_solutions-6.svg" alt="EMS Support FAQ" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>EMS 支持常见问题解答</h3>
-                                                    <p>快速解答 EMS 售前、帐单、订阅和技术支持方面的问题。</p>
+                                                    <h3>信息保护</h3>
+                                                    <p>了解如何使用分类、标记和保护来保持数据安全，内部和外部共享敏感数据，跟踪共享数据的使用情况，并响应数据滥用行为。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -375,10 +333,68 @@ ms.openlocfilehash: c4f92867a5d31a0b8b8c5f7c498e3805a80c8ed9
                     </li>
                 </ul>
             </li>
+            <li>
+                <a href="#more">更多资源</a>
+                <ul id="more">
+                    <li>
+                        <a href="#more-all"></a>
+                        <ul id="more-all" class="cardsFTitle">
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="/media/common/i_blog.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3><a href="https://blogs.technet.microsoft.com/enterprisemobility/">请参阅企业移动与安全团队博客</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="/media/common/i_benefits.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3><a href="http://fasttrack.microsoft.com/ems">150 多个许可证？利用 FastTrack 权益</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img src="/media/common/i_video.svg" alt="" />
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3><a href="https://channel9.msdn.com/Tags/emm">观看第 9 频道的视频</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
         </ul>
     </div>
 
 
-<!--HONumber=Jan17_HO2-->
+
+<!--HONumber=Feb17_HO2-->
 
 
