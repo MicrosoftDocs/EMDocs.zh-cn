@@ -7,6 +7,7 @@ hide_bc: true
 translationtype: Human Translation
 ms.sourcegitcommit: e1a57fc7a7fa30eac753b93dd1366eaa8e7c3a72
 ms.openlocfilehash: 504d49e556bf698e924fc8641ceb588ad5f12357
+ms.lasthandoff: 02/13/2017
 
 ---
 <div id="main" class="v2">
@@ -392,9 +393,4 @@ ms.openlocfilehash: 504d49e556bf698e924fc8641ceb588ad5f12357
                 </ul>
         </ul>
     </div>
-
-
-
-<!--HONumber=Feb17_HO2-->
-
 
