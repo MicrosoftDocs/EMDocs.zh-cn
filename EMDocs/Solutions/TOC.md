@@ -10,6 +10,7 @@
 ### [第一道防线](protect-front-door.md)
 ### [针对用户错误保护数据](protect-data-user-mistake.md)
 ### [在导致损害前检测出攻击](detect-attacks-before-damage.md)
+### [攻击模拟操作手册](ata-attack-simulation-playbook.md)
 ## [信息保护]()
 ### [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
 ### [在内部和外部共享敏感数据](share-sensitive-data.md)
