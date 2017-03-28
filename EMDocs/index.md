@@ -5,9 +5,9 @@ description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: true
 translationtype: Human Translation
-ms.sourcegitcommit: e1a57fc7a7fa30eac753b93dd1366eaa8e7c3a72
-ms.openlocfilehash: 504d49e556bf698e924fc8641ceb588ad5f12357
-ms.lasthandoff: 02/13/2017
+ms.sourcegitcommit: 524272bb9454816c10ceddbb0eb56a4a27491889
+ms.openlocfilehash: ce56224ca38b3889650dcb0e008bf6f1b5aedee6
+ms.lasthandoff: 03/27/2017
 
 ---
 <div id="main" class="v2">
@@ -18,70 +18,8 @@ ms.lasthandoff: 02/13/2017
                 <a href="#products">产品 + 服务</a>
                 <ul id="products">
                     <li>
-                        <a  data-default="true" href="#all">全部</a>
-                        <ul id="all" class="cardsW">
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardText">
-                                                <h3>标识和访问管理</h3>
-                                                <p>
-                                                    <a href="/azure/active-directory/index">Azure Active Directory</a>
-                                                </p>
-                                                <p>
-                                                    <a href="/azure/multi-factor-authentication/index"> 多重身份验证 </a>
-                                                </p>
-                                                <p>
-                                                    <a href="/microsoft-identity-manager/"> Microsoft 标识管理器 </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardText">
-                                                <h3>设备和应用管理</h3>
-                                                <p>
-                                                    <a href="/intune/"> Microsoft Intune </a>
-                                                </p>
-                                                <p>
-                                                    <a href="/sccm/"> System Center Configuration Manager </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="cardSize">
-                                    <div class="cardPadding">
-                                        <div class="card">
-                                            <div class="cardText">
-                                                <h3>信息保护和安全</h3>
-                                                <p>
-                                                    <a href="/information-protection/"> Azure 信息保护 </a>
-                                                </p>
-                                                <p>
-                                                    <a href="/advanced-threat-analytics/"> 高级威胁分析 </a>
-                                                </p>
-                                                <p>
-                                                    <a href="/cloud-app-security/"> Cloud App Security </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#identity">标识和访问管理</a>
-                        <ul id="identity" class="cardsC">
+                        <a href="#products-all"></a>
+                        <ul id="products-all" class="cardsC">
                             <li>
                                 <a href="/azure/active-directory/index">
                                     <div class="cardSize">
@@ -101,49 +39,6 @@ ms.lasthandoff: 02/13/2017
                                     </div>
                                 </a>
                             </li>
-                            <li>
-                                <a href="/azure/multi-factor-authentication/index">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-2.svg" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>多重身份验证</h3>
-                                                    <p>使用额外的身份验证级别安全访问你的数据和应用</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/microsoft-identity-manager/">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-3.svg" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Microsoft 标识管理器</h3>
-                                                    <p>通过自动化工作流、自助服务等功能管理标识</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#management">设备和应用管理</a>
-                        <ul id="management" class="cardsC">
                             <li>
                                 <a href="/intune/">
                                     <div class="cardSize">
@@ -175,18 +70,32 @@ ms.lasthandoff: 02/13/2017
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>System Center Configuration Manager</h3>
-                                                    <p>通过本地和基于云的基础结构，管理 PC、服务器和移动设备（例如 iPhone 和 Android 设备）</p>
+                                                    <p>通过本地和基于云的基础结构，管理 PC、服务器和移动设备（例如 iPhone 和 Android 设备） </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </a>
                             </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#security">信息保护和安全</a>
-                        <ul id="security" class="cardsC">
+                            <li>
+                                <a href="/cloud-app-security/">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="/media/hubs/ems/ems_info-protection-security-3.svg" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Cloud App Security</h3>
+                                                    <p>能够深入了解、全面掌控并增强 SaaS 的安全性</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
                             <li>
                                 <a href="/information-protection/">
                                     <div class="cardSize">
@@ -200,6 +109,25 @@ ms.lasthandoff: 02/13/2017
                                                 <div class="cardText">
                                                     <h3>Azure 信息保护</h3>
                                                     <p>在创建或更新时，根据源、上下文和内容对数据进行分类</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/azure/multi-factor-authentication/index">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-2.svg" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>多重身份验证</h3>
+                                                    <p>使用额外的身份验证级别安全访问你的数据和应用</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -226,18 +154,18 @@ ms.lasthandoff: 02/13/2017
                                 </a>
                             </li>
                             <li>
-                                <a href="/cloud-app-security/">
+                                <a href="/microsoft-identity-manager/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_info-protection-security-3.svg" alt="" />
+                                                        <img src="/media/hubs/ems/ems_identity-access-mgmt-3.svg" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Cloud App Security</h3>
-                                                    <p>能够深入了解、全面掌控并增强 SaaS 的安全性</p>
+                                                    <h3>Microsoft 标识管理器</h3>
+                                                    <p>通过自动化工作流、自助服务等功能管理标识</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -391,6 +319,7 @@ ms.lasthandoff: 02/13/2017
                         </ul>
                     </li>
                 </ul>
+            </li>
         </ul>
     </div>
-
+</div>
