@@ -126,7 +126,7 @@ ms.lasthandoff: 03/27/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>多重身份验证</h3>
+                                                    <h3>Microsoft Azure Multi-Factor Authentication</h3>
                                                     <p>使用额外的身份验证级别安全访问你的数据和应用</p>
                                                 </div>
                                             </div>
