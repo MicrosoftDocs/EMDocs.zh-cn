@@ -107,7 +107,7 @@ ms.lasthandoff: 03/27/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Azure 信息保护</h3>
+                                                    <h3>Azure Information Protection</h3>
                                                     <p>在创建或更新时，根据源、上下文和内容对数据进行分类</p>
                                                 </div>
                                             </div>
@@ -164,7 +164,7 @@ ms.lasthandoff: 03/27/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Microsoft 标识管理器</h3>
+                                                    <h3>Microsoft Identity Manager</h3>
                                                     <p>通过自动化工作流、自助服务等功能管理标识</p>
                                                 </div>
                                             </div>
