@@ -16,6 +16,7 @@ ms.suite: ems
 translationtype: Human Translation
 ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
 ms.openlocfilehash: 0367aea637810515742a344ac707f4e5272d29b1
+ms.lasthandoff: 01/05/2017
 
 
 ---
@@ -58,15 +59,10 @@ ms.openlocfilehash: 0367aea637810515742a344ac707f4e5272d29b1
 
   Azure AD 成功验证凭据后，将应用 MAM 策略。
 
-3.  如果将策略设置设置为需要使用 **PIN **才能访问 **OneDrive** 应用，则 **OneDrive** 应用会自动启动并将提示用户设置 **PIN**。
+3.  如果将策略设置设置为需要使用 **PIN**才能访问 **OneDrive** 应用，则 **OneDrive** 应用会自动启动并将提示用户设置 **PIN**。
 
 4.  设置并确认 PIN 后，用户即可继续使用 **OneDrive**，它现由应用策略托管。
 
 ## <a name="where-to-go-from-here"></a>后续步骤
 你可以阅读有关其他最终用户体验的详细信息，包括[使用具有多身份支持的应用](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#using-apps-with-multi-identity-support)、[管理用户帐户](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#managing-user-accounts)以及[通过 Rights Management 共享应用查看媒体文件](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#viewing-media-files-with-the-rights-management-sharing-app)。
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 
