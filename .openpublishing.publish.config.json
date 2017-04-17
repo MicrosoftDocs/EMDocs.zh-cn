@@ -5,9 +5,9 @@
   "docsets_to_publish": [
     {
       "docset_name": "EMDocs",
+      "build_source_folder": "EMDocs",
       "build_output_subfolder": "EMDocs",
       "locale": "zh-cn",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
@@ -15,9 +15,9 @@
     },
     {
       "docset_name": "EMSolutions",
+      "build_source_folder": "EMDocs/Solutions",
       "build_output_subfolder": "EMDocs/Solutions",
       "locale": "zh-cn",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
@@ -33,16 +33,22 @@
   "git_repository_url_open_to_public_contributors": "https://github.com/Microsoft/EMDocs.zh-cn",
   "git_repository_branch_open_to_public_contributors": "live",
   "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
-      "branch": "master"
+      "branch": "master",
+      "branch_mapping": {}
     },
     {
       "path_to_root": "_repo.en-us",
       "url": "https://github.com/Microsoft/EMDocs-pr",
-      "branch": "live"
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
     }
   ],
   "need_generate_pdf_url_template": false
