@@ -12,9 +12,10 @@ ms.technology: techgroup-identity
 ms.assetid: da5eda7c-29bb-429f-9366-72495667c010
 ms.reviewer: v-craic
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: cff5b87f6c5d0b9aa987631fefe5bf74e3a43862
 ms.openlocfilehash: 41672ccdbd2c868add70e423b7dbc8048713259b
+ms.contentlocale: zh-cn
 ms.lasthandoff: 03/14/2017
 
 
@@ -236,7 +237,7 @@ Microsoft ATA 可标记可疑的 DNS 活动，有助于检测这种类型的攻�
 攻击者现持有所有用户列表和组列表，并了解哪些用户属于高权限“*域管理员*”组。 在实际情形中，攻击者很有可能继续提升权限并试图获取企业管理员权限，因为“*企业管理员*”与“*域管理员*”之间没有安全边界。
 
 > [!IMPORTANT]
-> 若要详细了解林和域、“企业管理员”和“域管理员”之间的安全边界以及其他“第&0; 层”权限，请参阅[保护特权访问参考资料](http://www.aka.ms/tier0)。
+> 若要详细了解林和域、“企业管理员”和“域管理员”之间的安全边界以及其他“第 0 层”权限，请参阅[保护特权访问参考资料](http://www.aka.ms/tier0)。
 
 若要在实验室中获取“*企业管理员*”组的成员列表，请在*受害者 PC* 上运行以下命令：
 
@@ -330,7 +331,7 @@ Microsoft ATA 提供的数据对于提高安全意识至关重要，这有助于
 
 现在是时候利用 *RonHD* 展开[超传递哈希]()攻击，从而执行横向移动了。 如果攻击者处于的环境未禁用 WDigest，那么攻击者就已经胜利了，因为他们有纯文本密码。  不过，鉴于此实验室的用途，假定你不知道/无权访问纯文本密码。
 
-使用超传递哈希技术，可以获取 NTLM 哈希，并使用它通过 Kerberos\Active Directory 获取票证授予票证 (TGT)。  借助 TGT，可以仿冒成 Ron**HD，并访问*RonHD* 有权访问的任何域资源。  
+使用超传递哈希技术，可以获取 NTLM 哈希，并使用它通过 Kerberos\Active Directory 获取票证授予票证 (TGT)。  借助 TGT，可以仿冒成 Ron**HD，并访问* RonHD* 有权访问的任何域资源。  
 
 从之前搜集的 victim-pc.txt（通过“操作：转储受害者 PC 中的凭据”）中复制 *RonHD* 的 NTLM 哈希。 接下来，转到*受害者 PC*，访问 *mimikatz* 在文件系统上的存储位置，然后执行以下命令：
 
