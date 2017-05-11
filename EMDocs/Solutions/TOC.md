@@ -22,6 +22,7 @@
 ### [在不使用 Intune 管理设备的情况下保护公司数据](protect-company-data-without-managing-devices.md)
 ### [通过 Intune 启用 BYOD](enable-byod.md)
 ### [利用 Intune 管理公司所拥有的设备](issue-corp-devices.md)
+### [通过 Intune 启用使用受限的共享设备解决方案](limited-use-shared-devices.md)
 ## [设计和体系结构指南]()
 ### [BYOD 设计指南](byod-design-considerations-guide.md)
 #### [构想基础结构解决方案](byod-envisioning-the-byod-infrastructure-solution.md)
