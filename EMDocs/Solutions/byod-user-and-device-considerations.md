@@ -4,8 +4,8 @@ description: "本文介绍适用于“自带设备办公”方案中使用自有
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/23/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: d1653116-3922-40d3-bc4f-3d845b6aaecb
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 717183b0b7f94277379ebbeee2136227d29f88ef
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -207,9 +209,4 @@ IT 必须确定它是否需要设备方面的知识。 例如，一个 BYOD 方�
 > 有关 Configuration Manager 中 Wi-Fi 配置文件的详细信息，请参阅 [Configuration Manager 中的 Wi-Fi 配置文件简介](https://technet.microsoft.com/library/dn261224.aspx)。
 
 网络位置是考虑用户和设备时的一个重要注意事项。 你可以利用 AD FS 中的多重访问控制以启用按应用程序的授权策略，借此你可以根据用户、设备和网络位置来允许或拒绝访问。 有关如何设置环境以验证此功能的详细信息，请参阅[使用多重访问控制管理风险](https://technet.microsoft.com/library/dn280936.aspx)。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

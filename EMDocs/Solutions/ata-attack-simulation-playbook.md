@@ -4,7 +4,7 @@ description: "本指南将帮助客户了解针对 Windows 操作系统展开的
 author: yuridio
 ms.author: yurid
 manager: mbaldwin
-ms.date: 03/13/2017
+ms.date: 05/18/2017
 ms.topic: solution
 ms.prod: 
 ms.service: advanced-threat-analytics

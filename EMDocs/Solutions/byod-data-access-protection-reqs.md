@@ -4,8 +4,8 @@ description: "本文介绍一系列“自带设备办公”方案中应使用的
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/21/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 29eddc34-5ca5-4169-89b6-8137b03ab7f0
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 9aafb6a87f629f61d04596830ae0cc5cee944696
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -91,9 +93,4 @@ ms.openlocfilehash: 9aafb6a87f629f61d04596830ae0cc5cee944696
     - 如果是，这些规定如何推动当前适用于本地资源的数据访问策略？
 - 你的公司是否具有替代[移动设备管理 (MDM)](mdm-design-considerations-guide.md) 和[移动应用程序管理 (MAM)](https://blogs.technet.microsoft.com/cbernier/2016/01/05/microsoft-intune-mobile-application-management-mam-standalone/) 的策略？
 - 在发生诉讼或刑事侦查的情况下，贵公司是否具有适针对设备没收的策略？
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

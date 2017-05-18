@@ -4,8 +4,8 @@ description: "本文介绍有关采用“自带设备办公”模型的相关问
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 01/04/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: ed940ba8-866c-477f-a59b-beb620300a79
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 242b1a6468bfc9524acdb3c497078128dd26864b
 ms.openlocfilehash: 0744ef860fb1fd06507c9e24af9c676551c54f12
+ms.contentlocale: zh-cn
+ms.lasthandoff: 01/05/2017
 
 
 ---
@@ -74,9 +76,4 @@ ms.openlocfilehash: 0744ef860fb1fd06507c9e24af9c676551c54f12
 在从自行管理设备（假定 IT 可完全控制设备）切换到另一种模型（IT 必须假定它对设备具有更少的控制权，同时需要满足用户对于访问企业数据的需求）之前，具有大型基础结构的组织需要确定各种要求。 这通常称为从以设备为中心切换到以人为中心的 IT。 还必须针对现有的和新的应用或者针对将现有应用移到云环境谨慎地规划相同的注意事项和要求。 图 1 包含 BYOD 问题域以及本指南将涉及的方面的概念图。
 
 ![问题域](./media/BYOD_Figure1.png)
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

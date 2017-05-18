@@ -4,8 +4,8 @@ description: "本文介绍一系列“自带设备办公”方案中应使用的
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/23/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 0c1313b9-361f-4732-a92c-23d0dac07733
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: d5297dbb3d22feda4189bc120b2bb4537fa5f590
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -117,9 +119,4 @@ ms.openlocfilehash: d5297dbb3d22feda4189bc120b2bb4537fa5f590
 - 你是否已对这些应用执行任何隐私分析？
 - 这些应用是否会使用动态磁贴？
     - 如果是，这些动态磁贴是否可能在无意中造成信息泄露？
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

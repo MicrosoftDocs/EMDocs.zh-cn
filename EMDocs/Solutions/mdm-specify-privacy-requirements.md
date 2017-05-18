@@ -4,8 +4,8 @@ description: "本文介绍一系列移动设备管理方案中应使用的常规
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: d02d3ec2-706a-4e03-977c-b7c06cbd4ebd
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 14f3c9958c2c959df8c6537728e8237a1f226760
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -53,9 +55,4 @@ ms.openlocfilehash: 14f3c9958c2c959df8c6537728e8237a1f226760
         - 如果是，请确保在选择移动设备管理平台之前枚举这些要求。
 
 阅读 [Microsoft Online Services 隐私声明](http://www.microsoft.com/server-cloud/products/intune-trust-center/privacy.aspx)以更好地了解 Microsoft Cloud 服务（包括 Intune）如何维护用户隐私。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

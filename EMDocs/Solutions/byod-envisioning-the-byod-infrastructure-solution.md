@@ -4,8 +4,8 @@ description: "本文介绍基于设计过程中所做选择而得出的“自带
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/21/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: ecb6271f-8f38-42bd-aae7-10ba5e17a5f1
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 7dbb0c9b1b2b3b29eb54ad8cdeee527d9d7f078f
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -50,9 +52,4 @@ ms.openlocfilehash: 7dbb0c9b1b2b3b29eb54ad8cdeee527d9d7f078f
 - [数据访问和保护要求](byod-data-access-protection-reqs.md)
 - [管理要求](byod-management-reqs.md)
 - [应用要求](byod-app-reqs.md)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 
