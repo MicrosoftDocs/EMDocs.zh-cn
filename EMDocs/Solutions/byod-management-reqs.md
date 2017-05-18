@@ -4,8 +4,8 @@ description: "本文介绍一系列“自带设备办公”方案中应使用的
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/23/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: bf0d4210-5edc-4ad7-bcb5-372099049630
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 9347d0ff642a3ea4a337962b5ec10a0c4c6cdc66
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -97,9 +99,4 @@ ms.openlocfilehash: 9347d0ff642a3ea4a337962b5ec10a0c4c6cdc66
 - 是否存在任何由公司的 IT 部门注册的个人设备，还是这些设备是由个人注册？
 - 是否会准备一个计划以允许用户使用他们自己的设备设置服务？
     - 如果是，本机管理系统是否允许用户从他们的设备执行此操作？
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

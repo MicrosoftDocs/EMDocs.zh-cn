@@ -4,8 +4,8 @@ description: "本文介绍一系列移动设备管理方案中应使用的常规
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 1cdc3cdf-cb71-46d5-99fd-05ec96771b81
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 482c5baa2fe33c02d4466f38ef05964f64eee2cd
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -60,9 +62,4 @@ ms.openlocfilehash: 482c5baa2fe33c02d4466f38ef05964f64eee2cd
     - 如果是，MDM 解决方案是否允许你管理设备证明？
 
 阅读[从任何设备上的任何位置安全访问公司资源](https://technet.microsoft.com/library/dn550982)，更好地了解如何结合使用内置的 Windows Server 2012 R2 功能与 ConfigMgr 提供对你的公司资源的访问。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

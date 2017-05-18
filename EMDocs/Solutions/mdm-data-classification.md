@@ -4,8 +4,8 @@ description: "本文介绍一系列移动设备管理方案中应考虑的有关
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: f3486381-66d5-469a-93a3-013eaaa17c07
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 94c02152e553bdeba1bd1568c409d816ac078e9a
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -79,9 +81,4 @@ Intune 通过使用合规性策略使 IT 遵从这些策略，这些策略是设
 **缺点**
 
 - 不适用于不采用基于云的解决方案的客户
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

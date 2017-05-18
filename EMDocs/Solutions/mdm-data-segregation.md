@@ -4,8 +4,8 @@ description: "本文介绍一系列移动设备管理方案中应考虑的有关
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 50bd37fe-30b5-4a45-9c36-0b907dd13cc2
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 030d0c1dca506ac7757e8c26910ea4725a1b9c2c
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -90,9 +92,4 @@ EDP 通过对企业数据进行加密提供数据分隔。 有关详细信息，
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
 
 若要了解如何在对每个移动设备平台进行选择性擦除后删除和保留数据，请务必阅读文章[通过 Microsoft Intune 使用完全擦除或选择擦除来帮助保护数据](/intune/deploy-use/use-remote-wipe-to-help-protect-data-using-microsoft-intune)。 如果你有混合环境，请参考文章[如何使用 Configuration Manager 远程擦除移动设备](https://technet.microsoft.com/library/dn956981.aspx)以了解如何使用 ConfigMgr 完成此任务。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

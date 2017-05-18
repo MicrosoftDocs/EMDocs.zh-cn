@@ -4,8 +4,8 @@ description: "本文介绍一系列“自带设备办公”方案中应考虑的
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 4b871c74-fec8-45e2-8b45-6ef0e62f7cc6
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -41,7 +43,7 @@ ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
 
 请考虑以下方面：面向远程用户的应用应该在多个平台上运行、尽可能轻便，并对用户设备要求最小的访问权限，你应该按照基于 Web 的应用和现代应用缩减选项。 下节内容会帮助你确定应将哪种应用体验用于你的解决方案。
 
-### <a name="app-experience-options-advantages-and-disadvantages"></a>应用体验选项 - 优点和缺点
+### <a name="app-experience-options--advantages-and-disadvantages"></a>应用体验选项 - 优点和缺点
 
 使用以下列表了解每个应用体验选项的优缺点：
 
@@ -70,7 +72,7 @@ ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
         - 可能需要开发人员提升知识，以使用这一新形式开发应用。
 
 
-### <a name="app-requirements-considerations"></a>应用要求 - 注意事项
+### <a name="app-requirements--considerations"></a>应用要求 - 注意事项
 
 评估那些为了便于远程用户从他们的设备使用而进行调整的应用，并确保向用户显示以下要求。 下面为你提供了应用要求列表和每个要求的注意事项：
 
@@ -98,7 +100,7 @@ ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
 
 每个平台对于签名和发布应用都有不同的要求，它们会直接影响 IT 资源，因为 IT 需要评估在特定平台上运行的应用的整个生命周期。 你还需要访问用于 BYOD 基础结构解决方案的应用的平台要求。 下一节包含有关应用平台要求的关键注意事项。
 
-### <a name="app-platform-requirements-considerations"></a>应用平台要求 - 注意事项
+### <a name="app-platform-requirements--considerations"></a>应用平台要求 - 注意事项
 
 下面为你提供了应用平台要求列表和每个要求的注意事项：
 
@@ -131,7 +133,7 @@ ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
 
 为了处理有关要部署到用户的应用的注意事项，有必要了解公司访问权限的相关要求。 即使用户不需要有权访问其他公司资源，或不需要对企业网络内所有企业资源的完全访问权限，部署方案中仍包含必须始终连接到公司资源的应用。 验证每个应用的部署选项，并评估哪种方法是贵公司的首选。 下一节包含最常用的部署选项，你可以将其用作决策基线的一部分。
 
-### <a name="deployment-options-advantages-and-disadvantages"></a>部署选项 - 优点和缺点
+### <a name="deployment-options--advantages-and-disadvantages"></a>部署选项 - 优点和缺点
 
 使用以下列表了解每个部署选项的优缺点：
 
@@ -163,7 +165,7 @@ ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
         - 通常需要云服务订购。
         - 与本地部署解决方案的集成可能会因云服务而有所不同。
 
-### <a name="app-deployment-requirements-considerations"></a>应用部署要求 - 注意事项
+### <a name="app-deployment-requirements--considerations"></a>应用部署要求 - 注意事项
 
 你还需要针对 BYOD 基础结构解决方案访问应用的部署要求。 以下列表包含一些关键的应用部署注意事项：
 
@@ -236,9 +238,4 @@ ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
 请考虑为所有应用（它们将由利用自己设备的用户使用）使用安全开发生命周期。 必须在开发过程的所有阶段中嵌入安全性措施，并且应考虑到所有可能的威胁。 [STRIDE](https://msdn.microsoft.com/magazine/cc163519.aspx) 和其他安全策略可以通过使用 [Microsoft 安全开发生命周期 (SDL)](https://www.microsoft.com/security/sdl/process/requirements.aspx) 合并到开发生命周期。 当前基础结构将如何与 BYOD 的总体安全策略集成？这是一个重要的注意事项。 当前环境能够为应用提供安全的基础吗？ 公司是否需要获取第三方安全解决方案以减少采用新方案会带来的任何潜在漏洞？
 
 对于将由采用自己设备的用户使用的应用而言，安全注意事项非常重要。 建议你为几个具有特定访问要求的应用使用基于 Active Directory 安全组的自定义集合来限制目标用户，这可以限制哪些用户可以安装它们。 还可以利用安全性来增强用户体验，因为它允许用户使用相同的用户名和密码来访问公司资源，这可以使用 AD FS 完成。 在设计这些应用的部署时，安全性也很重要。 在启用用户注册前，你应该获取并部署证书和旁加载项。 与其他小组协作以优化应用认证过程。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

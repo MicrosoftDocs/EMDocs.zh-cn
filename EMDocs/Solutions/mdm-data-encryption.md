@@ -4,8 +4,8 @@ description: "本主题有讨论对移动设备中的数据加密的设计注意
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 10/3/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 1072858e-dc0a-44ad-a512-d938f20310b6
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
 ms.openlocfilehash: a7382ec71d94d0b08cc4c89e8dbe90bcd1a4c1d7
+ms.contentlocale: zh-cn
+ms.lasthandoff: 01/05/2017
 
 
 ---
@@ -80,9 +82,4 @@ Windows 10 移动版使用基于 BitLocker 技术的设备加密来加密所有�
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
 
 有关如何将 Intune 和 ConfigMgr 功能结合以增加数据保护并配置加密的详细信息，请阅读[使用配置管理器和 Intune 在移动设备上管理加密](http://blogs.technet.com/b/pauljones/archive/2014/08/04/managing-encryption-on-mobile-devices-with-configuration-manager-and-intune.aspx)。
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

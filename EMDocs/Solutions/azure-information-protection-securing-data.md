@@ -4,7 +4,7 @@ description: "本文介绍 Azure 信息保护在保持组织数据安全中的�
 author: yuridio
 ms.author: yurid
 manager: mbaldwin
-ms.date: 02/23/2017
+ms.date: 05/18/2017
 ms.topic: solution
 ms.prod: 
 ms.service: rights-management
@@ -12,9 +12,11 @@ ms.technology: techgroup-identity
 ms.assetid: 2f906e2e-3d99-40e6-b5cc-8d903fcda444
 ms.reviewer: v-craic
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: bf2418b68e40b60508447fc5400f4acfc5c6b1b3
 ms.openlocfilehash: 17f2a0b6991d05af2a6f000af48e9fc085221a4d
+ms.contentlocale: zh-cn
+ms.lasthandoff: 02/14/2017
 
 
 ---
@@ -122,9 +124,4 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 - [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
 - [在内部和外部共享敏感数据](share-sensitive-data.md)
 - [跟踪共享数据使用情况并对数据滥用做出响应](infoprotect-track-usage-scenario.md)
-
-
-
-<!--HONumber=Feb17_HO2-->
-
 

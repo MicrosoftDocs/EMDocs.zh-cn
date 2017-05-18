@@ -3,8 +3,8 @@ title: "使用分类、标记和保护来保护数据 | Microsoft Docs"
 description: "此方案描述如何使用企业移动性 + 安全性，通过采用 Microsoft Azure 信息保护功能分类、标记和保护数据。"
 author: yuridio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/21/17
+manager: mbaldwin
+ms.date: 05/18/17
 ms.topic: solution
 ms.prod: 
 ms.service: rights-management
@@ -12,9 +12,10 @@ ms.technology: techgroup-identity
 ms.assetid: 65409d5c-4f1b-4026-86e9-e65e1c4fe2b4
 ms.reviewer: v-craic
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 34d04195000f7cdb5a9efdfa31788a12cc8d8d5b
 ms.openlocfilehash: a2fc2e045c413707ad9d53e738b1eec6457c3a95
+ms.contentlocale: zh-cn
 ms.lasthandoff: 02/22/2017
 
 

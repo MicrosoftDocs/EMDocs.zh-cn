@@ -4,8 +4,8 @@ description: "本文介绍一系列移动设备管理方案中应考虑的有关
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: c799a6c4-fe0a-4148-8e75-29e6ffdb7e6e
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -72,9 +74,4 @@ ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
 **缺点**
 
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

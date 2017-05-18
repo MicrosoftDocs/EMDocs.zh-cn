@@ -4,8 +4,8 @@ description: "本文介绍一系列有关制定移动设备管理方案的事件
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 11/28/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 6f9fd9b3-492b-48e1-871c-e5abefe1293a
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: a9bb76fdff02b8ded31fe3e1811678138ffd5504
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -45,9 +47,4 @@ ms.openlocfilehash: a9bb76fdff02b8ded31fe3e1811678138ffd5504
 - 当移动设备受到破坏，并且你需要阻止该设备将恶意应用扩散到公司网络时，MDM 解决方案是否允许你强制执行可快速包含受损设备的策略？
 - MDM 解决方案是否允许你针对潜在攻击进行规划，以便采取预防措施来解决问题？
 - MDM 解决方案是否允许你使用管理控制台标识某个文件何时受恶意软件感染？
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

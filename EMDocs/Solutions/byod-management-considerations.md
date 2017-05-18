@@ -4,8 +4,8 @@ description: "本文介绍一系列“自带设备办公”方案中应考虑的
 keywords: 
 author: YuriDio
 ms.author: yurid
-manager: swadhwa
-ms.date: 02/23/2017
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: ba8cc256-2075-457f-a827-7ec9213c5235
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
 ms.openlocfilehash: da1652d5bb9a7b7176c74482bfc814aaf8902c3f
+ms.contentlocale: zh-cn
+ms.lasthandoff: 11/28/2016
 
 
 ---
@@ -194,9 +196,4 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 | 将应用部署和设置到位于公司外部的设备。   | Microsoft Intune                                       |
 | 将应用部署和设置到非 Windows 设备。                   | Microsoft Intune                                       |
 | 仅部署和设置应用程序到本地设备，部署和设置应用到公司外部设备或部署和设置应用到非 Windows 设备。       | 与 Configuration Manager 集成的 Microsoft Intune
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 
