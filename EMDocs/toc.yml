@@ -1,199 +1,198 @@
-- name: "文档"
+- name: 文档
   href: /
   homepage: /
   items:
-  - name: "企业移动性 + 安全性"
+  - name: 企业移动性 + 安全性
     href: /enterprise-mobility-security/
     homepage: /enterprise-mobility-security
     items:
-    - name: "解决方案"
+    - name: 解决方案
       href: /enterprise-mobility-security/solutions/
       homepage: /enterprise-mobility/solutions/byod-design-considerations-guide
-    - name: "Azure RemoteApp"
+    - name: Azure RemoteApp
       href: /azure/remoteapp/
       homepage: /azure/remoteapp/remoteapp-whatis
-    - name: "Azure Active Directory"
+    - name: Azure Active Directory
       href: /azure/active-directory/
       homepage: /azure/active-directory
       items:
-        - name: "当前"
+        - name: 当前
           href: /active-directory/adal/
           homepage: /active-directory/adal/microsoft.identitymodel.clients.activedirectory
-        - name: "ADAL v3"
+        - name: ADAL v3
           href: /active-directory/adal/v3/
           homepage: /active-directory/adal/v3/microsoft.identitymodel.clients.activedirectory
-        - name: "ADAL v2"
+        - name: ADAL v2
           href: /active-directory/adal/v2/
           homepage: /active-directory/adal/v2/microsoft.identitymodel.clients.activedirectory
-        - name: "AD Graph API"
+        - name: AD Graph API
           href: /azure-ad-graph-api/api/
           homepage: /azure-ad-graph-api/api/api-catalog
-    - name: "多重身份验证"
+    - name: 多重身份验证
       href: /azure/multi-factor-authentication/
       homepage: /azure/multi-factor-authentication
-    - name: "Cloud App Security"
+    - name: Cloud App Security
       href: /cloud-app-security/
       homepage: /cloud-app-security
-    - name: "高级威胁分析"
+    - name: 高级威胁分析
       href: /advanced-threat-analytics/
       homepage: /advanced-threat-analytics
       items:
-        - name: "了解和探索"
+        - name: 了解和探索
           href: /advanced-threat-analytics/understand-explore/
           homepage: /advanced-threat-analytics/understand/ata-understand-and-explore
-        - name: "规划和设计"
+        - name: 规划和设计
           href: /advanced-threat-analytics/plan-design/
           homepage: /advanced-threat-analytics/plandesign/ata-plan-and-design
-        - name: "部署和使用"
+        - name: 部署和使用
           href: /advanced-threat-analytics/deploy-use/
           homepage: /advanced-threat-analytics/deployuse/configure-port-mirroring
-        - name: "故障排除"
+        - name: 故障排除
           href: /advanced-threat-analytics/troubleshoot/
           homepage: /advanced-threat-analytics/troubleshoot/ata-troubleshooting
 
-    - name: "Intune Azure 预览"
-      href: /intune-azure/
-      homepage: /intune-azure
-
-    - name: "Intune"
+    - name: Intune
       href: /intune/
       homepage: /intune
       items:
-        - name: "了解和探索"
-          href: /intune/understand-explore/
-          homepage: /intune/understand-explore/introduction-to-microsoft-intune
-        - name: "规划和设计"
-          href: /intune/plan-design/
-          homepage: /intune/plan-design/
-        - name: "部署和使用"
-          href: /intune/deploy-use/
-          homepage: /intune/deploy-use/overview-of-device-and-app-lifecycles-in-microsoft-intune
-        - name: "故障排除"
-          href: /intune/troubleshoot/
-          homepage: /intune/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
-        - name: "开始使用"
-          href: /intune/get-started/
-          homepage: /intune/get-started/get-started
-        - name: "开发和自定义应用"
-          href: /intune/develop/
-          homepage: /intune/develop/intune-app-sdk
-        - name: "新功能"
-          href: /intune/whats-new/
-          homepage: /intune/whats-new/whats-new-in-microsoft-intune
-
-        - name: "教育的 Intune"
+        - name: 教育的 Intune
           href: /intune-education/
           homepage: /intune-education
 
+    - name: Intune - 经典控制台
+      href: /intune-classic/
+      homepage: /intune-classic
+      items:
+        - name: 了解和探索
+          href: /intune-classic/understand-explore/
+          homepage: /intune-classic/understand-explore/introduction-to-microsoft-intune
+        - name: 规划和设计
+          href: /intune-classic/plan-design/
+          homepage: /intune-classic/plan-design/
+        - name: 部署和使用
+          href: /intune-classic/deploy-use/
+          homepage: /intune-classic/deploy-use/overview-of-device-and-app-lifecycles-in-microsoft-intune
+        - name: 故障排除
+          href: /intune-classic/troubleshoot/
+          homepage: /intune-classic/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
+        - name: 开始使用
+          href: /intune-classic/get-started/
+          homepage: /intune-classic/get-started/get-started
+        - name: 开发和自定义应用
+          href: /intune-classic/develop/
+          homepage: /intune-classic/develop/intune-app-sdk
+        - name: 新功能
+          href: /intune-classic/whats-new/
+          homepage: /intune-classic/whats-new/whats-new-in-microsoft-intune
 
-    - name: "Azure 信息保护"
+    - name: Azure 信息保护
       href: /information-protection/
       homepage: /information-protection
       items:
-        - name: "了解和探索"
+        - name: 了解和探索
           href: /information-protection/understand-explore/
           homepage: /information-protection/understand-explore/what-is-azure-rights-management
-        - name: "开始使用"
+        - name: 开始使用
           href: /information-protection/get-started/
           homepage: /information-protection/get-started/requirements-for-azure-rights-management
-        - name: "规划和设计"
+        - name: 规划和设计
           href: /information-protection/plan-design/
           homepage: /information-protection/plan-design/azure-rights-management-deployment-roadmap
-        - name: "部署和使用该服务"
+        - name: 部署和使用该服务
           href: /information-protection/deploy-use/
           homepage: /information-protection/deploy-use/activating-azure-rights-management
-        - name: "部署和使用该客户端"
+        - name: 部署和使用该客户端
           href: /information-protection/rms-client/
           homepage: /information-protection/rms-client/rights-management-rms-client
-        - name: "开发和自定义应用"
+        - name: 开发和自定义应用
           href: /information-protection/develop/
           homepage: /information-protection/develop/developers-guide
           items:
-          - name: "SDK 4.2"
+          - name: SDK 4.2
             href: /information-protection/sdk/4.2/api/
             homepage: /information-protection/develop/api-reference-4-2
             items:
-            - name: "Android"
+            - name: Android
               href: /information-protection/sdk/4.2/api/android/
               homepage: /information-protection/develop/android-namespaces
-            - name: "iOS"
+            - name: iOS
               href: /information-protection/sdk/4.2/api/iOS/
               homepage: /information-protection/sdk/4.2/api/iOS/iOS
-            - name: "WinRT"
+            - name: WinRT
               href: /information-protection/sdk/4.2/api/winrt/
               homepage: /information-protection/sdk/4.2/api/winrt/Microsoft.RightsManagement
-          - name: "SDK 2.1"
+          - name: SDK 2.1
             href: /information-protection/sdk/2.1/api/
             homepage: /information-protection/develop/api-reference-2-1
             items:
-            - name: "Win 开头的所有虚拟机"
+            - name: Win 开头的所有虚拟机
               href: /information-protection/sdk/2.1/api/win/
               homepage: /information-protection/develop/api-reference-2-1
               items:
-              - name: "常量"
+              - name: 常量
                 href: /information-protection/sdk/2.1/api/win/constants/
                 homepage: /information-protection/sdk/2.1/api/win/constants
-              - name: "数据类型"
+              - name: 数据类型
                 href: /information-protection/sdk/2.1/api/win/data%20types/
                 homepage: /information-protection/sdk/2.1/api/win/data%20types
-              - name: "函数"
+              - name: 函数
                 href: /information-protection/sdk/2.1/api/win/functions/
                 homepage: /information-protection/sdk/2.1/api/win/functions
-              - name: "结构"
+              - name: 结构
                 href: /information-protection/sdk/2.1/api/win/structures/
                 homepage: /information-protection/sdk/2.1/api/win/structures
-    - name: "Microsoft 标识管理器"
+    - name: Microsoft 标识管理器
       href: /microsoft-identity-manager/
       homepage: /microsoft-identity-manager
       items:
-        - name: "了解和探索"
+        - name: 了解和探索
           href: /microsoft-identity-manager/understand-explore/
           homepage: /microsoft-identity-manager/understand-explore/journey-understand-evaluate
-        - name: "规划和设计"
+        - name: 规划和设计
           href: /microsoft-identity-manager/plan-design/
           homepage: /microsoft-identity-manager/plan-design/journey-plan-design
-        - name: "部署和使用"
+        - name: 部署和使用
           href: /microsoft-identity-manager/deploy-use/
           homepage: /microsoft-identity-manager/deploy-use/journey-deploy-use-html
-        - name: "参考"
+        - name: 参考
           href: /microsoft-identity-manager/reference/
           homepage: /microsoft-identity-manager/reference/journey-develop-applications
-        - name: "开始使用"
+        - name: 开始使用
           href: /microsoft-identity-manager/get-started/
           homepage: /microsoft-identity-manager/get-started/journey-get-started
-        - name: "PAM"
+        - name: PAM
           href: /microsoft-identity-manager/pam/
           homepage: https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services
 
-    - name: "配置管理器"
+    - name: 配置管理器
       href: /sccm/
       homepage: /sccm
       items:
-        - name: "核心基础结构"
+        - name: 核心基础结构
           href: /sccm/core/
           homepage: /sccm/core/understand/introduction
-        - name: "应用程序管理"
+        - name: 应用程序管理
           href: /sccm/apps/
           homepage: /sccm/apps/understand/get-started-with-application-management
-        - name: "设备符合性"
+        - name: 设备符合性
           href: /sccm/compliance/
           homepage: /sccm/compliance/understand/ensure-device-compliance
-        - name: "移动设备管理"
+        - name: 移动设备管理
           href: /sccm/mdm/
           homepage: /sccm/mdm/understand/whats-new-in-hybrid-mobile-device-management
-        - name: "操作系统部署"
+        - name: 操作系统部署
           href: /sccm/osd/
           homepage: /sccm/osd/understand/introduction-to-operating-system-deployment
-        - name: "保护数据和基础结构"
+        - name: 保护数据和基础结构
           href: /sccm/protect/
           homepage: /sccm/protect/understand/protect-data-and-site-infrastructure
-        - name: "软件更新管理"
+        - name: 软件更新管理
           href: /sccm/sum/
           homepage: /sccm/sum/understand/software-updates-introduction
-        - name: "开发"
+        - name: 开发
           href: /sccm/develop/
           homepage: /sccm/develop/core/misc/system-center-configuration-manager-sdk
           items:
-            - name: "参考"
+            - name: 参考
               href: /sccm/develop/reference
               homepage: /sccm/develop/reference/configuration-manager-reference
