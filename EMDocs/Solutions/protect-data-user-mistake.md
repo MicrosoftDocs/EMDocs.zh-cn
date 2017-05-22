@@ -1,10 +1,10 @@
 ---
-title: "针对用户错误保护数据 | Azure Active Directory 信息保护"
+title: "针对用户错误保护数据 | Microsoft Docs"
 description: "此方案介绍如何使用企业移动性 + 安全性，通过利用 Cloud App Security 和 Azure 信息保护功能，针对用户错误保护企业数据并防止数据丢失。"
 author: yuridio
 ms.author: yurid
-manager: swadhwa
-ms.date: 10/24/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: solution
 ms.prod: 
 ms.service: cloud-app-security
@@ -13,9 +13,11 @@ ms.assetid: 0af3894c-7b0e-4c0c-8874-31e041d81300
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: information-protection
-translationtype: Human Translation
-ms.sourcegitcommit: 02b0e611805ad2214b1b108b8c466590aad7999a
-ms.openlocfilehash: 669042461511939695717de1d5d22c14c071923c
+ms.translationtype: Human Translation
+ms.sourcegitcommit: bc112d81a2b0e59f9ae67efe2a914b0c64ac76ba
+ms.openlocfilehash: 4c6c81cd9d59f402c1ce458e54063e2986324c5b
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/18/2017
 
 
 ---
@@ -45,6 +47,11 @@ ms.openlocfilehash: 669042461511939695717de1d5d22c14c071923c
 
 ![图示：Cloud App Security 和 Azure 信息保护协同工作以保护本地和云中的数据。](./media/protect-data-user-mistake/protect-data-user-mistake-fig1-1.png)
 
+在下面的简短视频中，可以快速概览企业移动性 + 安全性 (EMS) 如何让 IT 人员了解更多信息，并能掌控一切：
+
+<iframe width="675" height="480" src="https://www.youtube.com/embed/LWlRVHp7sKQ" frameborder="0" allowfullscreen></iframe>
+
+
 ## <a name="how-to-implement-this-solution"></a>实现本解决方案的方式
 
 执行以下步骤以实现 [Cloud App Security](https://technet.microsoft.com/library/mt668458.aspx) 和 [Azure 信息保护](https://docs.microsoft.com/information-protection/understand-explore/what-is-information-protection)：
@@ -54,7 +61,7 @@ ms.openlocfilehash: 669042461511939695717de1d5d22c14c071923c
 
 ## <a name="how-to-protect-data-against-user-mistakes"></a>如何针对用户错误保护数据
 
-现今大多数企业都在使用云应用程序，云中存储的企业数据超过本地存储的企业数据的时代将很快到来。 很多时候，用户会在未经公司同意或公司不知情的情况下从其设备上使用 SaaS 应用，这会导致影子 IT 的云使用率增加。 此结论根据多项研究结果得出，研究显示 80% 的员工表示其出于工作需要在未经批准的情况下使用 SaaS 应用。 [Cloud App Security](https://technet.microsoft.com/library/mt657567.aspx) 提供组织中正在使用的所有云应用的详细总览。 它会标识访问应用程序的所有用户和 IP 地址。 还能对超过 13,000 个云应用执行风险评估，并基于 60 多项参数提供每个应用的自动风险评分。
+现今大多数企业都在使用云应用程序，云中存储的企业数据超过本地存储的企业数据的时代将很快到来。 很多时候，用户会在未经公司同意或公司不知情的情况下从其设备上使用 SaaS 应用，这会导致影子 IT 的云使用率增加。 此结论根据多项研究结果得出，研究显示 80% 的员工表示其出于工作需要在未经批准的情况下使用 SaaS 应用。 [Cloud App Security](https://technet.microsoft.com/library/mt657567.aspx) 提供组织中正在使用的所有云应用的详细总览。 它会标识访问应用程序的所有用户和 IP 地址。 还能对超过 13,000 个云应用执行风险评估，并基于 60 多项参数提供每个应用的自动风险评分。 
 
 执行步骤 1 以发现环境中的云应用，并实施策略以控制这些应用。 此解决方案的第二个阶段将实现 [Azure 信息保护](https://docs.microsoft.com/en-us/information-protection/get-started/requirements)，目的是保护数据并进行分类，这有助于减少用户出错和误用数据的情况。
 
@@ -84,7 +91,7 @@ ms.openlocfilehash: 669042461511939695717de1d5d22c14c071923c
 
 ### <a name="step-2-protect-data-on-premises-or-in-the-cloud"></a>步骤 2：保护本地或云中的数据
 
-实施此解决方案之前，请查看 Azure 信息保护的要求并确保已激活 Azure 权限管理。
+实现此解决方案之前，请先查看 [Azure 信息保护](https://docs.microsoft.com/en-us/information-protection/get-started/infoprotect-tutorial-step1)的要求。
 
 Microsoft Azure 信息保护可帮助在创建数据时对数据进行分类和添加标记。 然后可将保护（加密 + 身份验证 + 使用权）应用于敏感数据。 分类标记和保护会始终伴随数据，以便数据可识别并随时受到保护，而无需考虑其存储位置和共享对象。 计划实现信息保护策略和标签时，请使用以下指南：
 
@@ -114,8 +121,6 @@ Azure 信息保护附带默认标签，但是可以自定义并创建用户可�
 > [!NOTE]
 > 有关数据分类和保护的详细信息，请阅读[使用分类、标记和保护来保护数据](https://docs.microsoft.com/en-us/enterprise-mobility-security/solutions/infoprotect-secure-classify-scenario)。
 
+## <a name="next-steps"></a>后续步骤
 
-
-<!--HONumber=Dec16_HO2-->
-
-
+Microsoft Cloud App Security 提供了一个全面的解决方案，可用于发现、监视、控制和保护云应用程序中的活动和数据。 Cloud App Security 可帮助 IT 管理员使用 Azure 信息保护直接在 Cloud App Security 控制台中进行加密。 通过与 Azure 信息保护进行集成，现在可以根据需要对 SharePoint Online 和 One Drive for Business 中存储的文件进行一般保护。 若要详细了解 Cloud App Security 与 Azure 信息保护的集成，请参阅 [Azure 信息保护集成](https://docs.microsoft.com/en-us/cloud-app-security/azip-integration)。
