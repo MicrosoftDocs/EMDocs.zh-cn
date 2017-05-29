@@ -1,10 +1,10 @@
 ---
-title: "使用 Microsoft Intune 保护本地公司数据 | Microsoft Docs"
+title: "使用 Microsoft Intune 保护本地数据 | Microsoft Docs"
 description: "借助企业移动性 + 安全性 (EMS)，可使员工通过使用其最喜欢的应用和设备提高工作效率，同时保护本地公司数据。"
 keywords: 
 author: jeffgilb
-manager: swadhwa
-ms.date: 12/7/2016
+manager: angrobe
+ms.date: 02/03/2017
 ms.topic: solution
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,9 +13,11 @@ ms.assetid: ebf7be63-4ac2-4158-9772-58f15416ccb7
 ms.reviewer: vlpetros
 ms.suite: ems
 ms.custom: active-directory
-translationtype: Human Translation
-ms.sourcegitcommit: b5acf1041ff91a68443464a9fe196b179c6668a6
-ms.openlocfilehash: 8b2c453c18f1569ac1fe94bb7c1e3e8c568d28ec
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5ea7cc0c6c7b8286077c0bbc4251a22d138ed8e2
+ms.openlocfilehash: 98acda761b353eacb2ce861dcef2f39385691021
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -66,6 +68,7 @@ Intune 服务准备就绪后，将设备注册到管理的过程就非常直接�
 -   Windows 10 桌面版和移动版
 -   iOS 8.0 及更高版本
 -   Android、Samsung Knox 标准版 4.0 及更高版本以及 Android for Work
+
 > [!NOTE]
 > Intune 支持 Google Play 商店中的 Gmail 和 Nine Work 电子邮件应用使用 Android for Work 电子邮件配置文件配置。
 
@@ -152,9 +155,4 @@ Intune Wi-Fi 配置策略可轻松实现[将无线网络设置部署到用户](h
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

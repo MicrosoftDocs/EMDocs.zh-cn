@@ -1,10 +1,10 @@
 ---
-title: "使用 Microsoft Intune 保护 Office 365 公司数据 | Microsoft Docs"
+title: "保护 Office 365 公司数据 | Microsoft Docs"
 description: "EMS 和 Office 365 的结合造就了完全托管的移动工作效率解决方案，可为用户带来绝对标准的工作效率，为 IT 人员提供深度集成的数据控件。"
 keywords: 
 author: jeffgilb
 manager: swadhwa
-ms.date: 1/18/2017
+ms.date: 1/23/2017
 ms.topic: solution
 ms.prod: 
 ms.service: microsoft-intune
@@ -12,9 +12,11 @@ ms.technology:
 ms.assetid: cc0d2e1f-9c34-4dcb-ac1f-2f355e9ebb7e
 ms.reviewer: vlpetros
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 6f7b68c5be373752eaf272a05023e611e6ac5e5d
-ms.openlocfilehash: e81e3d5bdfdaf464de5c72aa6d87aa8d802674a5
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
+ms.openlocfilehash: d7e15962a95135dbb16cb41e2643c602b87039cf
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -82,9 +84,9 @@ Intune 服务准备就绪后，将设备注册到管理的过程就非常直接�
 Intune 也可使用条件访问轻松地[安全访问 SharePoint Online](https://docs.microsoft.com/intune/deploy-use/restrict-access-to-sharepoint-online-with-microsoft-intune)文件。 就像保护对电子邮件的访问权限一样，用户需要设置启用访问权限必须满足的两个策略：确保设备遵循公司策略的设备合规性策略以及设置访问服务必须满足的条件的条件访问策略。
 
 用户尝试使用非托管设备连接由 Intune 条件访问策略保护的 SharePoint Online 服务时，将发生以下情景：
-1.  用户对 SharePoint Online 资源的访问被拒绝，并获得一条告知其加强安全性的消息以及将设备注册到 Intune 管理的链接。
-2.  通过拒绝访问消息提供的链接，用户可注册设备。
-3.  注册设备并评估为符合公司策略后，将恢复对公司 SharePoint Online 数据的完全访问权限。
+1.    用户对 SharePoint Online 资源的访问被拒绝，并获得一条告知其加强安全性的消息以及将设备注册到 Intune 管理的链接。
+2.    通过拒绝访问消息提供的链接，用户可注册设备。
+3.    注册设备并评估为符合公司策略后，将恢复对公司 SharePoint Online 数据的完全访问权限。
 
 ![显示条件访问如何作用于 SharePoint Online 的图像](..\Solutions\media\protect-office365-data-with-intune\protect-office365-data-with-intune-fig2.png)
 
@@ -103,9 +105,9 @@ Intune 也可使用条件访问轻松地[安全访问 SharePoint Online](https:/
 
 以下屏幕截图显示使用 Intune MAM 策略保护应用的一些方法。 在此示例中，需要 PIN 才能访问应用（访问设置）以及通过拒绝将公司信息粘贴到非托管应用来保护公司数据（数据重定位设置）：
 
-1.  首次启动托管应用（此示例中是 Yammer for iOS）时，系统提示用户创建 PIN 以访问应用。 以后每次启动应用时，用户需要输入此 PIN。
-2.  用户可复制 Yammer 对话等公司数据，并将其粘贴到其他托管应用。
-3.  但是，如果用户尝试将此内容粘贴到文本消息（或其他非托管应用），粘贴功能将不可用。  
+1.    首次启动托管应用（此示例中是 Yammer for iOS）时，系统提示用户创建 PIN 以访问应用。 以后每次启动应用时，用户需要输入此 PIN。
+2.    用户可复制 Yammer 对话等公司数据，并将其粘贴到其他托管应用。
+3.    但是，如果用户尝试将此内容粘贴到文本消息（或其他非托管应用），粘贴功能将不可用。  
 
 ![显示 MAM 策略工作原理的图像](..\Solutions\media\protect-office365-data-with-intune\protect-office365-data-with-intune-fig3.png)
 
@@ -121,9 +123,9 @@ Intune 的 WIP 策略有助于防止托管的 Windows 10 设备发生潜在的�
 通过 [WIP 配置策略设置](https://docs.microsoft.com/intune/deploy-use/microsoft-intune-policy-reference#windows-configuration-policies)，可在 Intune 管理控制台中设置不同级别的控制和审核。 数据保护级别从“无提示”（仅记录 WIP 活动）一直到“阻止”（完全阻止用户共享受保护应用的所有内容）。 “替代”是一种中间设置，允许用户将公司数据共享到不受保护的应用（带警告），但同时记录所有此类操作供以后查看。
 
 以下是 Intune WIP 策略帮助保护托管的 Windows 10 设备上的公司数据的方式：
-1.  从 Intune 管理员控制台创建新的 WIP 策略并部署到用户。
-2.  在此示例中，Microsoft Word 的 AppLocker 信息用于将 Word 2016 添加到允许的应用列表，策略限制级别设置为“替代”，策略部署到用户。
-3.  用户尝试将从受保护的 Word 2016 文档复制的公司数据粘贴到新建未受保护的记事本实例。 系统立即提示验证从工作到个人分类的这项更改是否在计划内，并且跟踪此操作。
+1.    从 Intune 管理员控制台创建新的 WIP 策略并部署到用户。
+2.    在此示例中，Microsoft Word 的 AppLocker 信息用于将 Word 2016 添加到允许的应用列表，策略限制级别设置为“替代”，策略部署到用户。
+3.    用户尝试将从受保护的 Word 2016 文档复制的公司数据粘贴到新建未受保护的记事本实例。 系统立即提示验证从工作到个人分类的这项更改是否在计划内，并且跟踪此操作。
 
 ![显示 WIP 策略工作原理的图像](..\Solutions\media\protect-office365-data-with-intune\protect-office365-data-with-intune-fig5.png)
 
@@ -142,9 +144,4 @@ Intune 的 WIP 策略有助于防止托管的 Windows 10 设备发生潜在的�
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-
-
-
-<!--HONumber=Jan17_HO3-->
-
 

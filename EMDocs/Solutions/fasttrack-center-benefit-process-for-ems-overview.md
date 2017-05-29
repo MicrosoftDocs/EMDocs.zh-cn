@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 59e06bc9534edf816618e2644d5870f549f32742
-ms.openlocfilehash: aece953566d06fa2b8d97cdb82866ab02df97f13
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
+ms.openlocfilehash: 783d5747b55623ed10abf00a0413bbe6b9ed47a3
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -54,9 +56,4 @@ ms.openlocfilehash: aece953566d06fa2b8d97cdb82866ab02df97f13
 **想要了解更多信息？**
 
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

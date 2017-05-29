@@ -5,7 +5,7 @@ keywords:
 author: craigcaseyMSFT
 ms.author: v-craic
 manager: swadhwa
-ms.date: 04/28/2016
+ms.date: 01/10/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,14 +13,16 @@ ms.technology:
 ms.assetid: a1e630c1-7190-4ba9-b71d-ed9c2e93a6cc
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: fd6318efea58b5b6b72de306339629b568bc902d
-ms.openlocfilehash: d293494570b08098468927fb9857c10a0e7d03ca
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: a124d56eaa6cbca44551a7c3ea42166479523f9f
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
 
-# 保护电子邮件和附件，防止数据泄露
+# <a name="protect-email-and-attachments-from-data-leakage"></a>保护电子邮件和附件，防止数据泄露
 [保护企业电子邮件和文档](protect-corporate-email-documents.md)讨论了如何能确保只有合规的设备才可以访问企业电子邮件。 但是，仅仅是保护访问权限并无法保护电子邮件和邮件附件中的内容。 内容可以复制、移动、保存到其他位置，或与其他用户共享。 EMS 使用移动应用程序管理 (MAM) 策略解决了这一问题。
 
 托管应用是由 IT 管理员部署的符合公司安全要求的应用。 利用这些应用，IT 部门可以直接控制部署、行进中管理（如储存或更新），以及选择性擦除应用及其关联数据。 此外，通过一组移动应用程序管理 (MAM) 策略，Intune 允许你修改应用的功能并限制数据的共享，例如：
@@ -49,7 +51,7 @@ ms.openlocfilehash: d293494570b08098468927fb9857c10a0e7d03ca
 
     -   检测敏感内容并发出警报提醒发件人在发送电子邮件之前应用保护规则。
 
-## 托管应用组件
+## <a name="managed-app-components"></a>托管应用组件
 
 -   你可以在 **Microsoft Intune** 中配置策略、将策略与应用关联，或使用应用包装工具启用内部应用以使用移动应用程序管理策略。
 
@@ -57,21 +59,16 @@ ms.openlocfilehash: d293494570b08098468927fb9857c10a0e7d03ca
 
 ![显示如何通过公司门户和 Microsoft Intune 处理用于托管应用的策略的图形](./media/ProtectEmail/CADataSheet-Diagram-Apps.png)
 
-## IT 管理员体验：
+## <a name="the-it-admin-experience"></a>IT 管理员体验：
 IT 管理员创建移动应用程序管理策略、将策略关联至应用，并将其部署到用户或设备。 在设备上安装托管应用后，应用限制即会生效。 创建和部署托管应用只需花费极少或无需花费任何额外精力：
 
 -   存在已有应用 SDK 的应用让你可以将限制应用到应用。 无需进行其他处理，只需添加指向应用商店（如 iTunes 或 Google Play）的链接即可。 阅读[这篇文章](https://www.microsoft.com/en-us/cloud-platform/microsoft-intune-partners)以查看托管应用的列表。
 
 -   如果想要管理在内部创建的应用，则可以使用 Microsoft Intune 应用包装工具重新打包应用。 该工具会重新打包应用，从而让你可将限制应用到应用。
 
-## 最终用户体验
+## <a name="the-end-user-experience"></a>最终用户体验
 最终用户可以安装托管应用并使用它们来完成工作。 他们只能移动或共享托管应用之间的数据。 任何将数据移出托管应用生态系统的尝试都会被阻止。
 
-## 后续步骤
+## <a name="where-to-go-from-here"></a>后续步骤
 你已了解了[保护企业电子邮件和文档](protect-corporate-email-documents.md)以及电子邮件附件的相关内容，现在可以详细了解如何[实现保护你的企业电子邮件的解决方案](implement-solution.md)。
-
-
-
-<!--HONumber=Nov16_HO2-->
-
 

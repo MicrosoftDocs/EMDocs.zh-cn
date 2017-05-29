@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 56b6cd2d-3dea-468b-9f1c-92717c9ec5f5
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 0eacdea52150bc8282df618ae73c96724cec26c5
-ms.openlocfilehash: 446078327ee3fe309dc6dea33db315b79fa38cae
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
+ms.openlocfilehash: 9778ccfc6a2c7583e0659c76e7ada91711517243
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -184,9 +186,4 @@ Configuration Manager 跟踪日志工具包含在 [System Center 2012 R2 Configu
 
 ## <a name="where-to-go-from-here"></a>后续步骤
 当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
-
-
-
-<!--HONumber=Dec16_HO4-->
-
 
