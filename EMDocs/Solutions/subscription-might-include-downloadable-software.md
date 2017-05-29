@@ -1,32 +1,34 @@
 ---
-title: "付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证 | Microsoft Intune"
+title: "企业移动性可下载软件 | Microsoft Docs"
 description: 
 keywords: 
 author: NathBarn
 ms.author: nathbarn
-manager: jeffgilb
-ms.date: 06/08/2016
+manager: angrobe
+ms.date: 01/23/2017
 ms.topic: article
 ms.prod: 
 ms.service: ems
 ms.technology: 
 ms.assetid: 9d031fa7-9c07-48c5-b915-6525aea54870
-translationtype: Human Translation
-ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
-ms.openlocfilehash: d78ac8d2d569b95b32650266fa64a0232bdeacbd
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
+ms.openlocfilehash: 25da2d6e50a6e3623a7b34d29d29751e10068d4e
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 ---
 
 # <a name="your-paid-microsoft-intune-or-enterprise-mobility-subscription-might-include-a-license-to-use-certain-downloadable-software"></a>付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证
 
-付费版 Microsoft Online Services 订阅中可能包含以下软件。  你可以通过查看协议条款来确认你获得了哪些软件的许可证。
+付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证。 你可以通过查看协议条款来确认你获得了哪些软件的许可证。
 
 | **Microsoft 服务**    | **本地软件**           |
 | ------------- |-------------|
 |公司移动套件 |    高级威胁分析 |
 |公司移动套件 |    Microsoft 标识管理器 |
-|Microsoft Intune | System Center Configuration Manager |
-|Azure Active Directory Premium |   Microsoft 标识管理器 |
+|Microsoft Intune |    System Center Configuration Manager |
+|Azure Active Directory Premium |    Microsoft 标识管理器 |
 
 上述软件的下载位置取决于你购买 Microsoft Online Service 的方法。
 
@@ -37,9 +39,4 @@ ms.openlocfilehash: d78ac8d2d569b95b32650266fa64a0232bdeacbd
 如果你不确定符合哪些软件的条件，请联系你的客户经理或合作伙伴，或者联系 [Microsoft Online Services 支持](https://technet.microsoft.com/en-us/dn932057.aspx)。
 
 如果你注册了试用版，可以通过访问 [TechNet 评估中心](https://www.microsoft.com/evalcenter/try)来获取这些产品的试用版。
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

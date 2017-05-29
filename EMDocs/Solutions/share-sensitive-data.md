@@ -1,10 +1,10 @@
 ---
-title: "在内部和外部共享敏感数据 | Azure 信息保护"
+title: "在内部和外部共享敏感数据 | Microsoft Docs"
 description: "此方案介绍如何使用企业移动性 + 安全性，通过利用 Microsoft Azure 信息保护功能在内部和外部共享敏感数据。"
 author: yuridio
 ms.author: yurid
 manager: swadhwa
-ms.date: 12/07/2016
+ms.date: 01/23/2017
 ms.topic: solution
 ms.prod: 
 ms.service: rights-management
@@ -12,9 +12,11 @@ ms.technology: techgroup-identity
 ms.assetid: a996fbf8-ece4-40bc-b866-d4606c230027
 ms.reviewer: v-craic
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 02b0e611805ad2214b1b108b8c466590aad7999a
-ms.openlocfilehash: d76fa5c4857b12e2eb91de9fb3217ba78ea6a11f
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
+ms.openlocfilehash: 3d84bbe6d252976e1a3152f65003787e37d408c8
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -23,11 +25,11 @@ ms.openlocfilehash: d76fa5c4857b12e2eb91de9fb3217ba78ea6a11f
 
 虽然许多数据泄露是由网络攻击造成的，但专家认为更多的原因在于人为错误，或者说是因为员工无意间或不慎泄漏敏感商业数据所致。 通过设置适当的安全信息和数据丢失防护协议，几乎能够避免所有这类泄露。
 
-对于企业和用户而言，共享数据不可避免，尽管这很有必要，但同时也带来行业中的最大挑战之一，即：在跨设备共享数据的同时如何减少与他人共享数据时的数据泄露情况？ 在需要与外部源（如合作伙伴、客户和其他方）共享敏感数据时，这种威胁波及的范围甚至更广。 
+对于企业和用户而言，共享数据不可避免，尽管这很有必要，但同时也带来行业中的最大挑战之一，即：在跨设备共享数据的同时如何减少与他人共享数据时的数据泄露情况？ 在需要与外部源（如合作伙伴、客户和其他方）共享敏感数据时，这种威胁波及的范围甚至更广。
 
 ![图示](./media/share-sensitive-data/share-sensitive-data-fig1.png)
 
-在这种情况下，通常企业会进行这类项目：员工需能够跨数据接收器进行内部协作并与第三方供应商进行外部协作，在业务中采用一致的安全协议的同时，在数据分类和保护过程中影响最终用户行为。 
+在这种情况下，通常企业会进行这类项目：员工需能够跨数据接收器进行内部协作并与第三方供应商进行外部协作，在业务中采用一致的安全协议的同时，在数据分类和保护过程中影响最终用户行为。
 
 ## <a name="how-can-enterprise-mobility--security-help-you"></a>企业移动性 + 安全性可提供哪些帮助？
 
@@ -49,7 +51,7 @@ ms.openlocfilehash: d76fa5c4857b12e2eb91de9fb3217ba78ea6a11f
 
 若要配置 Exchange Online 以支持 Azure RMS，你必须为 Exchange Online 配置信息权限管理 (IRM) 服务。 执行以下步骤以实施本解决方案：
 
-1. 与 Exchange 集成： 
+1. 与 Exchange 集成：
     - Exchange Online：使 Exchange Online 能够使用 Azure RMS
     - Exchange 内部部署：部署 Azure 权限管理连接器
 2. 使用 Exchange 发送受保护的 Office 文档
@@ -60,7 +62,7 @@ ms.openlocfilehash: d76fa5c4857b12e2eb91de9fb3217ba78ea6a11f
 
 ### <a name="step-1-integration-with-exchange"></a>步骤 1：与 Exchange 集成
 
-通过将 Azure 权限管理策略模板应用于电子邮件，向电子邮件应用权限管理保护。 启用集成的第一步将因 Exchange 的位置而异，取决于其是在云中 (Exchange online) 还是在本地。 
+通过将 Azure 权限管理策略模板应用于电子邮件，向电子邮件应用权限管理保护。 启用集成的第一步将因 Exchange 的位置而异，取决于其是在云中 (Exchange online) 还是在本地。
 
 #### <a name="enable-rights-management-integration-with-exchange-online"></a>实现权限管理与 Exchange Online 的集成
 
@@ -92,11 +94,6 @@ ms.openlocfilehash: d76fa5c4857b12e2eb91de9fb3217ba78ea6a11f
 
 ![电子邮件](./media/share-sensitive-data/share-sensitive-data-fig5.png)
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > 从 Microsoft Ignite 观看演示文稿[使用 Azure 信息保护安全地进行协作](https://myignite.microsoft.com/videos/49947)，了解有关此方案的详细信息。
-
-
-
-<!--HONumber=Dec16_HO2-->
-
 

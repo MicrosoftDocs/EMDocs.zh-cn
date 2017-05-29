@@ -1,10 +1,10 @@
 ---
-title: "使用 Intune 在不管理设备的情况下保护公司数据 | Microsoft Docs"
+title: "在不管理设备的情况下保护公司数据 | Microsoft Docs"
 description: "Microsoft Intune 中的 EMS 提供了创新的数据丢失防护功能。 通过此功能，可保护公司数据并保留员工熟悉的 Office 365 应用的出色用户体验，而无需管理其设备。"
 keywords: 
 author: jeffgilb
 manager: swadhwa
-ms.date: 12/15/2016
+ms.date: 01/23/2017
 ms.topic: solution
 ms.prod: 
 ms.service: microsoft-intune
@@ -12,9 +12,11 @@ ms.technology:
 ms.assetid: b46877f3-cf32-4919-ba63-4df55cd2af32
 ms.reviewer: vlpetros
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 83e901c3f5d9e6e35aea989de146e59ddc3354ef
-ms.openlocfilehash: 19d2c610417667aec3346ac7d25d2bac95c7d8ba
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
+ms.openlocfilehash: 5a0eef972374efefff886ab9dbf7b6a7e4f7aab7
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -93,9 +95,4 @@ Microsoft Intune 使组织能够在不要求员工注册到设备管理的情况
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

@@ -1,9 +1,9 @@
 ---
-title: "跟踪共享数据使用情况并对数据滥用做出响应 | Azure 权限管理"
+title: "跟踪共享数据的使用情况并对数据滥用做出响应 | Microsoft Docs"
 description: "介绍如何利用 Azure 权限管理功能通过企业移动性 + 安全性来跟踪共享数据的使用情况以及响应数据滥用。"
 author: yuridio
-manager: swadhwa
-ms.date: 12/7/2016
+manager: mbaldwin
+ms.date: 05/18/2017
 ms.topic: solution
 ms.prod: 
 ms.service: rights-management
@@ -11,9 +11,11 @@ ms.technology: techgroup-identity
 ms.assetid: c7e6e01a-5796-4bd7-a0c5-847ecfc08a1e
 ms.reviewer: v-craic
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 02b0e611805ad2214b1b108b8c466590aad7999a
-ms.openlocfilehash: c2004b77928386ed46d947b96b69c1cb85d2e6fb
+ms.translationtype: Human Translation
+ms.sourcegitcommit: bc112d81a2b0e59f9ae67efe2a914b0c64ac76ba
+ms.openlocfilehash: 81e6b6479dcca1a82b37cfc4c832f36e33ac1b7b
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 
@@ -72,9 +74,4 @@ ms.openlocfilehash: c2004b77928386ed46d947b96b69c1cb85d2e6fb
 ![图形显示了“撤销访问”窗体，它可以撤销对文档的访问权限。](./media/infoprotect-track-usage-scenario/infoprotect-track-usage-scenario-fig5.png)
 
 你可以启用此选项以通知收件人已撤销对此文档的访问权限，还可以包含一条消息解释撤销的原因。
-
-
-
-<!--HONumber=Dec16_HO2-->
-
 

@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 61241368440bea9a12bbac136466250da91da997
-ms.openlocfilehash: 847a6aa06ef34004f8de52c2e71f560112c8885a
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
+ms.openlocfilehash: ecd83c311deca5050599a4eb55d45d0094d656f1
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -62,9 +64,9 @@ ms.openlocfilehash: 847a6aa06ef34004f8de52c2e71f560112c8885a
 
 -   提供和配置所有公共安全套接字层 (SSL) 证书。
 
--   按 Microsoft Intune 与 Configuration Manager 集成的最低要求设置或升级 Configuration Manager。
+-     按 Microsoft Intune 与 Configuration Manager 集成的最低要求设置或升级 Configuration Manager。
 
--   如果使用 Intune 部署 Wi-Fi 和 VPN 配置文件时有相关需要，则根据需要提供并配置证书颁发机构、Wi-Fi 和 VPN 基础结构。
+-     如果使用 Intune 部署 Wi-Fi 和 VPN 配置文件时有相关需要，则根据需要提供并配置证书颁发机构、Wi-Fi 和 VPN 基础结构。
 
 -   撰写组织的使用条款 (TOU) 声明，使其在最终用户可访问的 Microsoft Intune 公司门户上处于可配置和可显示状态。
 
@@ -113,9 +115,4 @@ ms.openlocfilehash: 847a6aa06ef34004f8de52c2e71f560112c8885a
 **想要了解更多信息？**
 
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
 

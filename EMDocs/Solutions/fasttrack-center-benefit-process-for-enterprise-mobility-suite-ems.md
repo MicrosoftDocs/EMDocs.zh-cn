@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 52bdc7e5b67f9aeae2142d2b8bb2f8ed474dcc8d
-ms.openlocfilehash: c8183efa009da5215149afdb9b94d4166b1c8030
+ms.translationtype: Human Translation
+ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
+ms.openlocfilehash: 3ba92f5fa1b625757e08998bab3c09a813400727
+ms.contentlocale: zh-cn
+ms.lasthandoff: 05/29/2017
 
 
 ---
@@ -51,9 +53,4 @@ ms.openlocfilehash: c8183efa009da5215149afdb9b94d4166b1c8030
     -   通过 Azure AD Connect 工具从 Active Directory 同步的帐户。 此选项适用于具有单个 Active Directory 林配置的客户。
 
     -   从本地 Active Directory 与 Windows Server 2012 R2 Active Directory 联合身份验证服务 (AD FS) 2.0 或更高版本联合。
-
-
-
-<!--HONumber=Dec16_HO2-->
-
 
