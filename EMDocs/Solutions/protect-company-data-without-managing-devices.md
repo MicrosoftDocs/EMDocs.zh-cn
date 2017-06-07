@@ -4,7 +4,7 @@ description: "Microsoft Intune 中的 EMS 提供了创新的数据丢失防护�
 keywords: 
 author: jeffgilb
 manager: swadhwa
-ms.date: 01/23/2017
+ms.date: 6/7/2017
 ms.topic: solution
 ms.prod: 
 ms.service: microsoft-intune

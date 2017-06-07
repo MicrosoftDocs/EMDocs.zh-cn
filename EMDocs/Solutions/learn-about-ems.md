@@ -4,7 +4,7 @@ description:
 keywords: 
 author: jeffgilb
 manager: swadhwa
-ms.date: 11/10/2016
+ms.date: 6/7/2017
 ms.topic: solution
 ms.prod: 
 ms.service: active-directory
@@ -13,9 +13,10 @@ ms.assetid: f1421a9b-25e6-469e-b6b3-a2a068e9ac46
 ms.reviewer: mhamerof
 ms.suite: ems
 ms.custom: advanced-threat-analytics,cloud-app-security,information-protection,microsoft-identity-manager,microsoft-intune,rights-management
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: ed952bd866758978ed4348c70da826eb519b4733
 ms.openlocfilehash: 9f97e64ec3be78e17b05484d27b903e30c340ecf
+ms.contentlocale: zh-cn
 ms.lasthandoff: 12/08/2016
 
 
