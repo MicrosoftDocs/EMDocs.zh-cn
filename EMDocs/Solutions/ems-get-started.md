@@ -4,7 +4,7 @@ description:
 keywords: 
 author: jeffgilb
 manager: swadhwa
-ms.date: 11/10/2016
+ms.date: 6/7/2017
 ms.topic: solution
 ms.prod: 
 ms.service: active-directory
@@ -15,9 +15,11 @@ ms.suite: ems
 ms.custom: advanced-threat-analytics,cloud-app-security,information-protection,microsoft-identity-manager,microsoft-intune,rights-management
 experimental: true
 experiment_id: jeffgilb-length-20161110
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: ed952bd866758978ed4348c70da826eb519b4733
 ms.openlocfilehash: 78b0119b52ca1459fd644d093bf7f364b80e8ce1
+ms.contentlocale: zh-cn
+ms.lasthandoff: 12/08/2016
 
 
 ---
@@ -91,9 +93,4 @@ EMS 将高级公司数据保护无缝地集成到业务节奏中，使保护公�
 [了解企业移动性 + 安全性](learn-about-ems.md)
 
 [免费试用 EMS](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security-trial)
-
-
-
-<!--HONumber=Dec16_HO2-->
-
 

@@ -4,7 +4,7 @@ description:
 keywords: 
 author: jeffgilb
 manager: angrobe
-ms.date: 3/08/2017
+ms.date: 6/7/2017
 ms.topic: solution
 ms.prod: 
 ms.service: microsoft-intune
@@ -12,9 +12,10 @@ ms.technology:
 ms.assetid: e9e695ec-5608-43bb-bbfb-808b869b1567
 ms.reviewer: vlpetros
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: b5be7105266a7f455e1482a814929f65a130db82
 ms.openlocfilehash: 6b220f4992651b5f3c107b5b958c47900515b77f
+ms.contentlocale: zh-cn
 ms.lasthandoff: 03/08/2017
 
 
