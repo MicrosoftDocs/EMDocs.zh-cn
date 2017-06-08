@@ -4,9 +4,10 @@ title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: true
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 524272bb9454816c10ceddbb0eb56a4a27491889
 ms.openlocfilehash: ce56224ca38b3889650dcb0e008bf6f1b5aedee6
+ms.contentlocale: zh-cn
 ms.lasthandoff: 03/27/2017
 
 ---
@@ -40,7 +41,7 @@ ms.lasthandoff: 03/27/2017
                                 </a>
                             </li>
                             <li>
-                                <a href="/intune/">
+                                <a href="/intune/index">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
