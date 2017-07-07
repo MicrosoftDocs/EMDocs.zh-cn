@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 6c7088a9-ca88-4ff2-97a6-f842691fd3c7
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 88625a3bc5ac5f1a877650f73185721674e0f28d
+ms.contentlocale: zh-cn
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -72,9 +74,4 @@ ms.openlocfilehash: 88625a3bc5ac5f1a877650f73185721674e0f28d
 
 ## <a name="where-to-go-from-here"></a>后续步骤
 熟悉了 MAM 的整个过程后，就可以开始[在 Intune 中使用移动应用管理策略](mam-intune.md)或[使用 Configuration Manager 中的移动应用管理策略](mam-configmgr.md)。 或者可以阅读了解 [MAM 策略的最终用户体验](end-user-experience-mam.md)。
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: e65a0662-33ff-4e8c-9305-a21e80ea0f69
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: eae78f8e5a4c5a1a0e44cf17fa320175ac622ac1
+ms.contentlocale: zh-cn
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -85,9 +87,4 @@ Exchange 内部部署支持的条件访问：
   现在，你就可以了解如何[使用 Intune 部署本地 Exchange Server](conditional-access-intune-exchange.md)。
 
 如果你的环境包括 Exchange Online 和 Exchange 内部部署，你可以阅读[使用 Microsoft Intune 和 Configuration Manager 部署 Exchange Online 和 Exchange 内部部署](conditional-access-intune-configmgr-coexist.md)的相关信息。
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

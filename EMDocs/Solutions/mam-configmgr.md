@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 74288276-84d3-4d24-8307-7875491be9c9
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: d0bc5fb61b481256d816df7c898ade798379aa19
+ms.contentlocale: zh-cn
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -81,9 +83,4 @@ ms.openlocfilehash: d0bc5fb61b481256d816df7c898ade798379aa19
 ## <a name="where-to-go-from-here"></a>后续步骤
 
 创建并部署与 MAM 策略关联的应用后，可以了解有关 [MAM 最终用户体验](end-user-experience-mam.md)的详细信息。 这将帮助你为可能出现的任何问题做好准备。
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 
