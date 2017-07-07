@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 3c641ea8-2c0e-490e-b1de-831336f46d19
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
 ms.openlocfilehash: f06e68a00fd97cb48aee21f6ed749f520d157e9b
+ms.contentlocale: zh-cn
+ms.lasthandoff: 01/05/2017
 
 
 ---
@@ -93,9 +95,4 @@ ms.openlocfilehash: f06e68a00fd97cb48aee21f6ed749f520d157e9b
 
 ### <a name="where-to-go-from-here"></a>后续步骤
 最终用户体验在其他移动设备上会稍有不同。 你可以了解有关 [Android](end-user-experience-conditional-access-android.md) 和 [Windows Phone](end-user-experience-conditional-access-winphone.md) 的最终用户体验的详细信息。
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

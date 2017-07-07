@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 28662db2-faea-425f-ada9-04cf1d976fc2
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 033720647c8c284a415bd79cbc58b65e41d3e177
+ms.contentlocale: zh-cn
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -97,9 +99,4 @@ Exchange 内部部署支持的条件访问：
 > 请确保使用最新版本的本地 Exchange 连接器。 Intune 控制台中可供你使用的内部部署 Exchange 连接器特定于你的 Intune 租户，不能用于其他任何租户。 此外，还应确保仅在一台计算机（而不是多台计算机）上安装适用于你的租户的 Exchange 连接器。
 
   现在，你就可以了解如何[使用 Intune 部署本地 Exchange Server](conditional-access-intune-exchange.md)。
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
 ms.openlocfilehash: 580d2e909813390fbc86d3ca8edaf88f0f19a6d7
+ms.contentlocale: zh-cn
+ms.lasthandoff: 01/05/2017
 
 
 ---
@@ -40,9 +42,4 @@ ms.openlocfilehash: 580d2e909813390fbc86d3ca8edaf88f0f19a6d7
 ## <a name="windows-phone"></a>Windows Phone
 
 [本主题](end-user-experience-conditional-access-winphone.md)描述在启用条件访问并且最终用户首次尝试在其 Windows Phone 上访问电子邮件之后的最终用户体验。
-
-
-
-<!--HONumber=Jan17_HO1-->
-
 

@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 7f7a8c8fc0333461359440781adc8a6240e9f4bb
+ms.contentlocale: zh-cn
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -68,9 +70,4 @@ Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备
 
 - [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
 - [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

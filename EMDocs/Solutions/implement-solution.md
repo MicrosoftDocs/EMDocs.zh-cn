@@ -13,9 +13,11 @@ ms.technology:
 ms.assetid: edc744d8-97d9-42e0-8906-6f0dedd8d629
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
+ms.translationtype: Human Translation
 ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 4a7537775ce2c6c19850720f789ea5882d062aec
+ms.contentlocale: zh-cn
+ms.lasthandoff: 07/07/2017
 
 
 ---
@@ -96,9 +98,4 @@ ms.openlocfilehash: 4a7537775ce2c6c19850720f789ea5882d062aec
 
 - [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
 - [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 
