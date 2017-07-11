@@ -4,7 +4,7 @@ description: "本指南将帮助客户了解针对 Windows 操作系统展开的
 author: yuridio
 ms.author: yurid
 manager: mbaldwin
-ms.date: 05/18/2017
+ms.date: 06/06/2017
 ms.topic: solution
 ms.prod: 
 ms.service: advanced-threat-analytics
@@ -13,15 +13,17 @@ ms.assetid: da5eda7c-29bb-429f-9366-72495667c010
 ms.reviewer: v-craic
 ms.suite: ems
 ms.translationtype: Human Translation
-ms.sourcegitcommit: cff5b87f6c5d0b9aa987631fefe5bf74e3a43862
-ms.openlocfilehash: 41672ccdbd2c868add70e423b7dbc8048713259b
+ms.sourcegitcommit: b14dcbddb611dc49da2f92cf3f1aca1593af11c0
+ms.openlocfilehash: 923f827a8c122af393b1909ba55bb73c650d62fc
 ms.contentlocale: zh-cn
-ms.lasthandoff: 03/14/2017
+ms.lasthandoff: 07/07/2017
 
 
 ---
 
-# <a name="advanced-threat-analytics-attack-simulation-playbook"></a>Advanced Threat Analytics 攻击模拟手册
+<a id="advanced-threat-analytics-attack-simulation-playbook" class="xliff"></a>
+
+# Advanced Threat Analytics 攻击模拟手册
 
 本指南将帮助你了解凭据盗窃（如传递哈希、传递票证、超传递哈希），以及如何使用公开发布的调查工具来模拟此类行为。 本攻击模拟手册的基础攻击场景是攻击者使用有效的 Internet 工具展开攻击。 旨在介绍如何像攻击者一样思考（图像式思维）、如何在凭据被盗的环境中移动，以及如何使用 Microsoft Advanced Threat Analytics (ATA) 在环境中检测这些活动。
 
@@ -40,7 +42,9 @@ ms.lasthandoff: 03/14/2017
 > [!IMPORTANT]
 > 只能在实验室环境中执行本指南中的步骤，不能在生产环境中执行。
 
-## <a name="configuring-your-lab-environment"></a>配置实验室环境
+<a id="configuring-your-lab-environment" class="xliff"></a>
+
+## 配置实验室环境
 
 建议严格遵循下面这些说明（包括最后的试验）。  需要进行一些设置，具体包括设置四台计算机、三位用户，以及用于抢占 Internet 的某调查软件。
 
@@ -50,14 +54,18 @@ ms.lasthandoff: 03/14/2017
 > 本指南以 ATA 版本 1.7 为依据。
 
 
-### <a name="scenario"></a>方案
+<a id="scenario" class="xliff"></a>
+
+### 方案
 
 在此示例实验室环境中，JeffV 是他自己的工作站管理员。  许多 IT 服务提供商仍为其用户群提供管理员权限。  在这种情况下，本地特权提升攻击是没有必要的，因为攻击者已在要执行后渗透操作的环境中拥有管理员访问权限。 
  
 不过，即使 IT 服务提供商将特权降为使用非管理员帐户，攻击者也可以展开其他形式的攻击（如已知应用程序漏洞、零日攻击等）来实现本地特权提升。 在此示例中，本指南假定攻击者已在受害者 PC 上实现本地特权提升。  在这个虚构的实验室中，本地特权提升是通过向 JeffV 发送鱼叉式网络钓鱼电子邮件实现，本指南的后面部分将对此进行详细介绍。
 
 
-### <a name="servers-and-workstations"></a>服务器和工作站
+<a id="servers-and-workstations" class="xliff"></a>
+
+### 服务器和工作站
 
 下面列出了需要使用的计算机，以及本次练习用到的配置。  这些全都暂存为 Windows 10 Hyper-V 上的来宾虚拟机 (VM)。  如果你选择这样做（也是建议操作），请确保 VM 位于同一虚拟交换机中。
 
@@ -71,7 +79,9 @@ ms.lasthandoff: 03/14/2017
 此实验室的域为“CONTOSO.LOCAL”。 创建此域，然后将这些计算机加入域中。 四台计算机全都设置且已加入域后，请立即转到下一部分，将一些虚构用户添加到环境中。
 
 
-### <a name="users-configuration"></a>用户配置
+<a id="users-configuration" class="xliff"></a>
+
+### 用户配置
 
 现在要为技术支持和域管理员创建不同的角色。  创建这些角色旨在进行职责分离。不过，在本指南的后面部分中，你将了解到这并不足以防止凭据盗窃、横向移动或域权限提升发生，因为了解超越环境中这两组的安全依赖项并非易事。 
 
@@ -102,13 +112,15 @@ Contoso 的域管理员 Nuck Chorris 使用*管理员 PC* 工作站。 “*技�
 ![管理员属性 2](./media/ata-attack-simulation-playbook/ata-attack-simulation-playbook-fig2.png)
 
 
-### <a name="security-research-tools"></a>安全调查工具
+<a id="security-research-tools" class="xliff"></a>
+
+### 安全调查工具
 
 若要配置此实验室，需要下载下列工具，并将其安装到*受害者 PC* 中的 *C:\tools* 下：
 
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz)
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
-- [PsExec](https://technet.microsoft.com/en-us/pxexec) 
+- [PsExec](https://technet.microsoft.com/en-us/sysinternals/bb897553.aspx) 
 - [NetSess.exe](http://www.joeware.net/freetools)
 
 工具文件夹应如以下屏幕快照所示：
@@ -121,7 +133,9 @@ Contoso 的域管理员 Nuck Chorris 使用*管理员 PC* 工作站。 “*技�
 
 鉴于此实验室的用途，请禁用*受害者 PC* 中的所有防病毒软件。 虽然禁用防病毒软件可能看似会导致结果出现偏差，但请务必注意，这些工具的源代码可免费获取，也就是说，攻击者可以修改源代码来规避基于防病毒软件特征的检测。 还请务必注意，只要攻击者成为计算机上的本地管理员，就很有可能规避防病毒软件。  此时的目标是保护组织的其余部分。 一台计算机遭到入侵不得导致域权限提升发生，当然也不得导致域入侵发生。
 
-### <a name="environment-topology"></a>环境拓扑
+<a id="environment-topology" class="xliff"></a>
+
+### 环境拓扑
 
 此时，实验室应如下所示：
 
@@ -129,7 +143,9 @@ Contoso 的域管理员 Nuck Chorris 使用*管理员 PC* 工作站。 “*技�
 
 如本指南的前面提到，存在不同的*域管理员*和*技术支持*角色，但在演示期间，你将会发现，只需利用一个安全依赖项联系角色（在此示例中，为用户 *RonHD*），攻击者就可以使用随时可用的调查工具操纵整个环境。
 
-### <a name="helpdesk-simulation"></a>技术支持模拟
+<a id="helpdesk-simulation" class="xliff"></a>
+
+### 技术支持模拟
 
 若要模拟常见的技术支持场景（即技术支持人员登录不同的计算机），请通过 *RonHD* 登录*受害者 PC*，然后以 *JeffV* 身份重新登录。  利用“切换用户”机制在此工作站上模拟特权凭据管理。
 
@@ -139,7 +155,7 @@ Contoso 的域管理员 Nuck Chorris 使用*管理员 PC* 工作站。 “*技�
 还可以通过其他方式在此实验室中模拟这一管理工作流，如在命令行中创建批处理脚本服务帐户、计划任务和 RDP 会话或“runas”。  在安全操作中，某对象（不一定是某人）必须管理这些资源，而管理则表示拥有本地管理员权限。 鉴于此实验室的用途，为了节省时间，我们选择了模拟此工作流的最快方式。
 
 > [!IMPORTANT]
-> 此时，请勿注销或重启*受害者 PC*，因为这样会从内存中擦除 *RonHD* 的凭据，然后需要重现*技术支持*场景。 
+> 此时，请勿注销或重启受害者 PC，因为这样会从内存中擦除 RonHD 的凭据，然后需要重现技术支持**场景。 
 
 下表汇总了每台计算机上保存的凭据：
 
@@ -150,11 +166,15 @@ Contoso 的域管理员 Nuck Chorris 使用*管理员 PC* 工作站。 “*技�
 
 此时，实验室环境已准备就绪。 当前的实验室处于距域入侵攻击一步之遥的状态 (#1ea)。  接下来，你将看到野心勃勃且不会善罢甘休的攻击者通常会从环境中需要最低权限的资产开始，入侵大多数面向 Internet 的应用程序。  这样一来，[假设泄漏](https://blogs.msdn.microsoft.com/azuresecurity/2015/10/19/an-insiders-look-at-the-security-of-microsoft-azure-assume-the-breach/)方法就派上用场了。
 
-## <a name="executing-the-attack"></a>执行攻击
+<a id="executing-the-attack" class="xliff"></a>
+
+## 执行攻击
 
 在本指南的这一部分中，你将使用真实工具来模拟攻击者的后渗透活动。
 
-### <a name="beachhead-via-spearphish"></a>通过鱼叉式网络钓鱼占领据点
+<a id="beachhead-via-spearphish" class="xliff"></a>
+
+### 通过鱼叉式网络钓鱼占领据点
 
 对于此类攻击模拟，假定攻击者已在环境中的一台计算机上获取了本地管理员权限。  虽然这可以通过不同方法实现，但经常是通过对组织展开鱼叉式网络钓鱼活动来实现。 
 
@@ -165,11 +185,15 @@ Contoso 的域管理员 Nuck Chorris 使用*管理员 PC* 工作站。 “*技�
 
 在安全环境中，一个主机遭到入侵不得导致整个域或林被入侵。  在“后泄漏”场景中，请务必检测攻击者的后续行为。
 
-### <a name="reconnaissance"></a>侦测
+<a id="reconnaissance" class="xliff"></a>
+
+### 侦测
 
 当攻击者占据环境后，侦测（亦称为“侦察”）就开始了。  在此阶段，攻击者会花时间来调查环境（发现设置、相关计算机、枚举安全组及其他相关活动目录对象等），以掌握环境的大致情况。
 
-#### <a name="dns-reconnaissance"></a>DNS 侦测
+<a id="dns-reconnaissance" class="xliff"></a>
+
+#### DNS 侦测
 
 许多攻击者首先都会做的一件事是试图从 DNS 接收所有内容，而 Microsoft ATA 可以检测此行为。
 
@@ -197,11 +221,15 @@ Microsoft ATA 可标记可疑的 DNS 活动，有助于检测这种类型的攻�
  
 在上面的 ATA 警报中，你可能会发现“可疑活动”中的蓝色气泡，这表示 ATA 在不断学习生成的数据和分析反馈。  分析反馈有助于剔除无害的警报，并随着时间的推移减少噪音，从而自定义 ATA 及其环境可疑活动检测。
 
-#### <a name="directory-services-enumeration"></a>目录服务枚举
+<a id="directory-services-enumeration" class="xliff"></a>
+
+#### 目录服务枚举
 
 [安全帐户管理器远程协议 (SAMR)](https://msdn.microsoft.com/library/cc245477.aspx) 提供了域用户和组管理功能。  了解用户、组和特权之间的关系对攻击者来说极为重要。  任何经过身份验证的用户都可以执行这些命令。 若要详细了解 SAMR 设置，以及如何限制为只有属于本地管理员组的用户才能进行此类侦测，请参阅[这篇文章](https://gallery.technet.microsoft.com/SAMRi10-Hardening-Remote-48d94b5b#content)。
 
-#### <a name="enumerate-all-users-and-groups"></a>枚举所有用户和组
+<a id="enumerate-all-users-and-groups" class="xliff"></a>
+
+#### 枚举所有用户和组
 
 枚举用户和组对攻击者非常有用。  知道用户名和组名称也很有用。  作为攻击者，在侦测阶段希望获取尽可能多的信息。
 
@@ -224,7 +252,9 @@ Microsoft ATA 可标记可疑的 DNS 活动，有助于检测这种类型的攻�
 
 ![侦测](./media/ata-attack-simulation-playbook/ata-attack-simulation-playbook-fig11.png)
 
-#### <a name="enumerate-high-privileged-accounts"></a>枚举高权限帐户
+<a id="enumerate-high-privileged-accounts" class="xliff"></a>
+
+#### 枚举高权限帐户
 
 此时，攻击者持有用户列表和组列表。  但了解每个用户具体位于哪个组中也很重要，尤其对于高权限组（如“*企业管理员*”和“*域管理员*”）。 若要在实验室环境中获取此类信息，请在*受害者 PC* 中以 *JeffV* 的身份登录，然后执行以下命令：
 
@@ -249,7 +279,9 @@ Microsoft ATA 可标记可疑的 DNS 活动，有助于检测这种类型的攻�
 
 在上面的示例中，“*企业管理员*”组中有一个帐户。 在此示例中，该信息并不十分有用，因为这只是默认帐户，但攻击者对帐户的了解远远大于此，并已确定他们最想要入侵的用户。
 
-### <a name="smb-session-enumeration"></a>SMB 会话枚举
+<a id="smb-session-enumeration" class="xliff"></a>
+
+### SMB 会话枚举
 
 此时，攻击者知道要入侵哪个用户的凭据，但根据当前信息，他们并不完全知道如何入侵这些凭据。 使用 SMB 枚举，攻击者可以精确了解最关注的这些帐户的公开位置。
 
@@ -273,7 +305,9 @@ Microsoft ATA 可标记可疑的 DNS 活动，有助于检测这种类型的攻�
 
 Microsoft ATA 提供的数据对于提高安全意识至关重要，这有助于你充分做好应对攻击的准备。
 
-### <a name="lateral-movement"></a>横向移动
+<a id="lateral-movement" class="xliff"></a>
+
+### 横向移动
 
 此阶段的目标是访问之前发现的 IP 地址 (192.168.10.30)，即公开 *NuckC* 的计算机凭据的位置。 为此，请枚举*受害者 PC* 上的内存中凭据。 请注意，*受害者 PC* 不只公开 *JeffV* 凭据，攻击者还可能会发现其他许多有用的帐户。 
 
@@ -331,7 +365,7 @@ Microsoft ATA 提供的数据对于提高安全意识至关重要，这有助于
 
 现在是时候利用 *RonHD* 展开[超传递哈希]()攻击，从而执行横向移动了。 如果攻击者处于的环境未禁用 WDigest，那么攻击者就已经胜利了，因为他们有纯文本密码。  不过，鉴于此实验室的用途，假定你不知道/无权访问纯文本密码。
 
-使用超传递哈希技术，可以获取 NTLM 哈希，并使用它通过 Kerberos\Active Directory 获取票证授予票证 (TGT)。  借助 TGT，可以仿冒成 Ron**HD，并访问* RonHD* 有权访问的任何域资源。  
+使用超传递哈希技术，可以获取 NTLM 哈希，并使用它通过 Kerberos\Active Directory 获取票证授予票证 (TGT)。  借助 TGT，可以仿冒成 Ron**HD，并访问 RonHD 有权访问的任何域资源。  
 
 从之前搜集的 victim-pc.txt（通过“操作：转储受害者 PC 中的凭据”）中复制 *RonHD* 的 NTLM 哈希。 接下来，转到*受害者 PC*，访问 *mimikatz* 在文件系统上的存储位置，然后执行以下命令：
 
@@ -367,7 +401,9 @@ Microsoft ATA 提供的数据对于提高安全意识至关重要，这有助于
 
 ![异常协议](./media/ata-attack-simulation-playbook/ata-attack-simulation-playbook-fig24.png) 
 
-### <a name="domain-escalation"></a>域权限提升
+<a id="domain-escalation" class="xliff"></a>
+
+### 域权限提升
 
 攻击者现已有权访问*管理员 PC*，在之前的侦测过程中，已发现此计算机是入侵高权限帐户 *NuckC* 的良好攻击途径。 攻击者现在想要移动到*管理员 PC*，提升他们的域权限。
 
@@ -454,7 +490,9 @@ Microsoft ATA 检测到*受害者 PC* 对 DC1 远程执行代码。  在下面�
 
 ![远程执行代码](./media/ata-attack-simulation-playbook/ata-attack-simulation-playbook-fig33.png) 
 
-### <a name="domain-dominance"></a>域控制
+<a id="domain-dominance" class="xliff"></a>
+
+### 域控制
 
 攻击者已实现了域控制，他们可以管理员的身份运行任意代码，并能访问域中的所有资源。
  
@@ -536,7 +574,9 @@ Microsoft ATA 不仅检测到此攻击，还提供了执行修正操作所需的
 
 利用 KRBTGT 签署伪造票证被称为“黄金票证”攻击，也可以通过 ATA 检测到。  不过，鉴于基于范围和签名的检测的目的，它已超出本指南的范围。
 
-## <a name="conclusion"></a>结论
+<a id="conclusion" class="xliff"></a>
+
+## 结论
 
 Microsoft ATA 可以提供其他服务所不能提供的信息和见解，从而帮助你保护网络。  Microsoft ATA 将标识平台变成了发现环境中的后渗透活动的强大检测工具。  Microsoft ATA 可帮助你汇编宏事件，并将其迅速转变成连贯的攻击场景。
 
