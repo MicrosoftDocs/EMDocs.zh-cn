@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: fc9c7d79-d2ca-4cb2-8456-c7a88cbbf6fd
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 43594d947f3fa081a777eee6081c83b35621a9bf
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="architecture-guidance-for-protecting-company-email-and-documents"></a>有关保护公司电子邮件和文档的体系结构指南
 本主题首先概述了如何在确保最终用户体验简单且不影响工作效率的同时，为公司提供数据保护。 然后，我们将专门重点介绍如何使用 Microsoft 企业移动性 + 安全性解决方案，帮助提供对公司电子邮件的安全访问，以及帮助保护电子邮件和附件中的公司数据。
 
@@ -99,4 +96,3 @@ Intune 托管的应用包括 Office 移动应用，这正是此解决方案的�
 - [什么是 Azure 信息保护？](/information-protection/understand-explore/what-is-azure-rms)
 
 - [应用程序如何支持 Azure 信息保护](/information-protection/understand-explore/applications-support)
-

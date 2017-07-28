@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: ac136523-8089-409b-b74d-2d4c0ce399d4
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 2a03416cf8255a29c0394746b3d5285057163d15
-
-
+ms.openlocfilehash: b6020cf872fdd6f98fe24f10ecb028dd9bc0300f
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="gather-monitoring-requirements"></a>收集监视要求
 
 >[!NOTE]
@@ -57,9 +56,3 @@ ms.openlocfilehash: 2a03416cf8255a29c0394746b3d5285057163d15
 
 >[!TIP]
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

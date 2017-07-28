@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 06e21ca9-ed6a-4f6e-a7e2-5445aaeb3552
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 66be84d00e73f98217abfb2537bb52ebac94727a
 ms.openlocfilehash: 7120b4ce41e0f9560bdecb3a98da0bd02171fabb
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="how-to-set-up-your-preferred-method-for-additional-security-verification"></a>如何设置其他安全性验证的首选方式
 
 
@@ -120,4 +117,3 @@ Azure 验证器应用可用于 Windows Phone、Android 和 IOS。
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
-

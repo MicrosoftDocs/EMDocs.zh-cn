@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 5ccd033f-bc31-4fae-b6bf-9e1c2722627f
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: c69cf9eebb89a734991d4e218e1bb9475246dc6f
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="deploy-exchange-online-and-on-premises-with-microsoft-intune-and-configuration-manager"></a>将 Microsoft Intune 和 Configuration Manager 与 Exchange Online 和本地 Exchange Server 结合部署
 你已通读了[有关保护公司电子邮件和文档的体系结构指南](architecture-guidance-for-protecting-company-email-and-documents.md)，现在可以继续部署解决方案。
 
@@ -39,4 +36,3 @@ ms.lasthandoff: 07/07/2017
 
 ## <a name="where-to-go-from-here"></a>后续步骤
 当你在移动设备上部署保护企业电子邮件和电子邮件数据的解决方案后，你可以了解有关[条件访问的最终用户体验](end-user-experience-conditional-access.md)的详细信息。 这将帮助你为最终用户注册其特定设备时可能出现的问题做好准备。
-

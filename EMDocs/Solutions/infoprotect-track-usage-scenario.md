@@ -11,16 +11,12 @@ ms.technology: techgroup-identity
 ms.assetid: c7e6e01a-5796-4bd7-a0c5-847ecfc08a1e
 ms.reviewer: v-craic
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: bc112d81a2b0e59f9ae67efe2a914b0c64ac76ba
 ms.openlocfilehash: 81e6b6479dcca1a82b37cfc4c832f36e33ac1b7b
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="track-usage-of-shared-data-and-respond-to-data-abuse"></a>跟踪共享数据使用情况并对数据滥用做出响应
 
 对共享数据的可见性和控制对于跟踪数据使用情况或滥用至关重要。 当前，数据共享范围很广，组织需要在其域外共享数据以满足业务需求。
@@ -74,4 +70,3 @@ ms.lasthandoff: 07/07/2017
 ![图形显示了“撤销访问”窗体，它可以撤销对文档的访问权限。](./media/infoprotect-track-usage-scenario/infoprotect-track-usage-scenario-fig5.png)
 
 你可以启用此选项以通知收件人已撤销对此文档的访问权限，还可以包含一条消息解释撤销的原因。
-

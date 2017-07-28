@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: a4504456-a241-4380-ab92-3bc14c91347c
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: bbef17c4d072706a5704c871eee490fba5c9052c
-
-
+ms.openlocfilehash: afa421532e14d68794dcdbd96a2f69cbddd7142a
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="plan-for-enhancing-mobile-devices-protection"></a>移动设备保护加强计划
 
 >[!NOTE]
@@ -73,9 +72,3 @@ ms.openlocfilehash: bbef17c4d072706a5704c871eee490fba5c9052c
 - [数据分类](mdm-data-classification.md)
 - [身份验证和授权](mdm-authentication-authorization.md)
 - [对资源的访问控制](mdm-access-control-resources.md)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

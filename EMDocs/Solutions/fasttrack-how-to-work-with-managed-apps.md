@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 174348f0-dbc6-4204-8626-3c6f38b7bbde
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 187f733bf091fc337440c245fa95fb58ddfc1196
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="how-to-use-mobile-apps-managed-by-your-organization"></a>如何使用组织管理的移动应用
 
 ## <a name="accessing-onedrive-on-an-ios-device"></a>在 iOS 设备上访问 OneDrive
@@ -80,4 +77,3 @@ ms.lasthandoff: 07/07/2017
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
-

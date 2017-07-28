@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 1bf552e92104a7872099e555df12993dd4258293
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="how-to-manage-your-own-password"></a>如何管理密码
 
 如果你是使用 Office 365 或 Microsoft 帐户来访问工作资源的组织中的用户（非管理员），请阅读以下部分，了解如何修复有关密码的常见问题。
@@ -79,4 +76,3 @@ ms.lasthandoff: 07/07/2017
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
-

@@ -13,13 +13,11 @@ ms.assetid: f1421a9b-25e6-469e-b6b3-a2a068e9ac46
 ms.reviewer: mhamerof
 ms.suite: ems
 ms.custom: advanced-threat-analytics,cloud-app-security,information-protection,microsoft-identity-manager,microsoft-intune,rights-management
-ms.translationtype: Human Translation
-ms.sourcegitcommit: ed952bd866758978ed4348c70da826eb519b4733
-ms.openlocfilehash: 9f97e64ec3be78e17b05484d27b903e30c340ecf
-ms.contentlocale: zh-cn
-ms.lasthandoff: 12/08/2016
-
-
+ms.openlocfilehash: 19e4cc46998bf7142692b05f90c7ea5243caa4db
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
 # <a name="learn-about-enterprise-mobility--security"></a>了解企业移动性 + 安全性
 
@@ -58,7 +56,7 @@ EMS 使员工能够充分全面地使用 Office 365（基于云的生产力软�
 |   | **标识和访问管理** | **托管移动工作效率** | **信息保护** | **标识驱动安全** |
 |---|---|---|---|---|
 |**Office 365**|**基于 O365 的 Azure AD 的基本标识管理** O365 的单一登录和 O365 基本多重身份验证 (MFA)。 |**基于 O365 的 MDM 的基本移动设备管理**设备设置管理、选择性擦除以及内置于 O365 管理的控制台。 |**基于 O365 的 RMS 的 RMS 保护**保护存储于 Office 的内容（O365 本地）、对 RMS SDK 的访问，并携带你自己的密钥。 |**高级安全管理** 深入了解 Office 365 中的可疑活动。|
-|**企业移动性 + 安全性** *（包括 Office 365 中的所有功能）* | **O365 + 的Azure AD** 高级安全报告、所有应用的单一登录、高级 MFA、自助服务组管理以及密码重置和回写到本地 AD、动态组和基于许可证分配的组成员身份。 | **O365 + 的 MDM** 电脑管理、移动应用管理（阻止从公司应用到个人应用的剪切/复制/粘贴/另存为操作）、安全内容查看器、证书预配和 System Center 集成。 | **O365 + 的 RMS** 自动智能分类和标记数据、共享文档的跟踪和通知、保护本地 Windows Server 文件共享。| **Cloud App Security** 所有云应用的可见性和控制、**高级威胁分析**本地标识中的标识高级威胁 **Azure AD 高级版 P2** 基于风险的条件性访问。 |
+|**企业移动性 + 安全性** *（包括 Office 365 中的所有功能）* | **O365 + 的Azure AD** 高级安全报告、所有应用的单一登录、高级 MFA、自助服务组管理以及密码重置和回写到本地 AD、动态组和基于许可证分配的组成员身份。 | **O365 + 的 MDM** 电脑管理、移动应用管理（阻止从公司应用到个人应用的剪切/复制/粘贴/另存为操作）、安全内容查看器、证书预配和 System Center 集成。 | **O365 + 的 RMS**  自动智能分类和标记数据、共享文档的跟踪和通知、保护本地 Windows Server 文件共享。| **Cloud App Security** 所有云应用的可见性和控制、**高级威胁分析**本地标识中的标识高级威胁 **Azure AD 高级版 P2** 基于风险的条件性访问。 |
 
 
 
@@ -116,4 +114,3 @@ You already get corporate application isolation and management, automatic encryp
 [请访问 Microsoft 企业移动性 + 安全性页面](http://go.microsoft.com/fwlink/?LinkId=816837)
 
 [开始使用企业移动性 + 安全性](ems-get-started.md)
-

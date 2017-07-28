@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 77e7cab9-2fae-4857-be5d-2b6f57e981be
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 417ff912c3e7ff50e0f8371dccbc3ad99c5832d2
-
-
+ms.openlocfilehash: 67f2fb5648d64a53517ae6eaa3d4661570dd39a9
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="determine-network-requirements"></a>确定网络要求
 
 >[!NOTE]
@@ -109,9 +108,3 @@ ms.openlocfilehash: 417ff912c3e7ff50e0f8371dccbc3ad99c5832d2
 
 >[!TIP]
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

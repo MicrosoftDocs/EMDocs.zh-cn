@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: c3d350b5-4437-4f3d-907f-57ce6a819a74
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 2f0d445b35c6a7aea29684a0488decd92784c2ab
-
-
+ms.openlocfilehash: c08087f411440fbc57b1220131dc1c6fc2cdd90c
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="certificate-management-options"></a>证书管理选项
 
 >[!NOTE]
@@ -83,9 +82,3 @@ ms.openlocfilehash: 2f0d445b35c6a7aea29684a0488decd92784c2ab
  - 安装在运行 NDES 的服务器上的 Intune NDES 连接器
 
 有关移动设备证书管理选项的详细信息，请参阅 Intune 中的[启用证书配置文件](/Intune/deploy-use/secure-resource-access-with-certificate-profiles)，并将这些要求和过程与 System Center 2012 R2 Configuration Manager 中的[启用证书配置文件](https://technet.microsoft.com/library/dn261202.aspx)的要求和过程进行比较。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

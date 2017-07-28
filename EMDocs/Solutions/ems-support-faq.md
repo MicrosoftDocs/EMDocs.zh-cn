@@ -13,23 +13,16 @@ ms.technology:
 ms.assetid: 7bfee675-ec69-479c-bda2-f807bbb55712
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: abcb3e7df267e81b43c81ed9c94d955602a67dc6
 ms.openlocfilehash: 2b11d1d3118ce7a2414513b56cf6cfce1b2877ce
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
-<a id="enterprise-mobility--security-support-faqs" class="xliff"></a>
-
-# 企业移动性 + 安全性支持 FAQ
+# <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持 FAQ
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。 管理员可以通过 [Office 365 门户](https://portal.office.com/Default.aspx?SkipSspr=true)或与 [Office 365 支持](https://support.office.com/article/Contact-Office-365-for-business-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?CorrelationId=c1f4c670-18b3-41ec-81c9-e8d383caa6ad)联系以请求支持。
 
-<a id="answers-to-common-ems-support-questions" class="xliff"></a>
-
-## 常见 EMS 支持问题的解答
+## <a name="answers-to-common-ems-support-questions"></a>常见 EMS 支持问题的解答
 
 **是否必须购买 Azure 支持计划，才能提交企业移动性 + 安全性支持请求？**
 
@@ -67,12 +60,9 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 请转至 Azure 门户的许可证分配。 请按照欢迎电子邮件中的说明来管理新的企业移动性 + 安全性许可证。
 
-<a id="additional-help-for-other-questions" class="xliff"></a>
-
-## 其他问题的额外帮助
+## <a name="additional-help-for-other-questions"></a>其他问题的额外帮助
 [Azure Active Directory 支持论坛](https://social.msdn.microsoft.com/forums/home?forum=windowsazuread)
 
 [Azure 信息保护支持论坛](http://www.yammer.com/AskIPTeam)
 
 [Intune 支持论坛](https://social.technet.microsoft.com/forums/windows/home?category=microsoftintune)
-

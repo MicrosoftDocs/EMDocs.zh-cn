@@ -13,13 +13,11 @@ ms.assetid: ebf7be63-4ac2-4158-9772-58f15416ccb7
 ms.reviewer: vlpetros
 ms.suite: ems
 ms.custom: active-directory
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5ea7cc0c6c7b8286077c0bbc4251a22d138ed8e2
-ms.openlocfilehash: 98acda761b353eacb2ce861dcef2f39385691021
-ms.contentlocale: zh-cn
-ms.lasthandoff: 05/29/2017
-
-
+ms.openlocfilehash: 7c835faa3fe56fdc9cf42f0569fefe1acfa22eda
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
 # <a name="protect-on-premises-company-data-with-intune"></a>使用 Intune 保护本地公司数据
 只使用防火墙不再能提供足够的公司安全边界。 当今，安全边界必须包括最终用户及其访问、使用和共享公司数据的方式。 无论使用智能手机、平板电脑或是笔记本电脑，信息工作者希望可在任何位置、任何设备、任何需要的时候访问资源。 为用户启用访问和保护功能对想要确保公司数据受到保护的 IT 管理员来说是个挑战。 借助企业移动性 + 安全性 (EMS)，可使员工通过使用其最喜欢的应用和设备提高工作效率，同时保护本地公司数据。 继续阅读，了解详情。
@@ -155,4 +153,3 @@ Intune Wi-Fi 配置策略可轻松实现[将无线网络设置部署到用户](h
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

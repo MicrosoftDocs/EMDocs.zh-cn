@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: c3b2ab326254602425d5f8149e5d456e578b989c
 ms.openlocfilehash: 395ed9dafde409d2357bfe7f72283bb7eff24820
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="end-user-intune-enrollment-instructions-for-it-administrators"></a>IT 管理员最终用户 Intune 注册说明
 
 该文档包含你可自定义和提供给用户的注册说明，以帮助用户在 Microsoft Intune™ 中注册 iOS 和 Android 设备（对于 Windows 设备，请参阅“通过 Intune 使用 Windows 设备”）。 我们建议复制本文档中你认为最适合于用户的部分。 例如，建议对每个设备平台生成一个单一文档或添加更多屏幕截图。
@@ -172,4 +169,3 @@ ms.lasthandoff: 07/07/2017
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
-

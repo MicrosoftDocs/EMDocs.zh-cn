@@ -13,15 +13,12 @@ ms.assetid: c9aeabcf-db9b-4a35-b1bc-61331c464165
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: microsoft-identity-manager
-ms.translationtype: Human Translation
-ms.sourcegitcommit: bc112d81a2b0e59f9ae67efe2a914b0c64ac76ba
 ms.openlocfilehash: 851a99829280b85d632e79400d53c357692b74ef
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="protect-at-the-front-door"></a>第一道防线
 
 传统的安全解决方案在过去足以保护你的业务。 但随着移动性行业的发展，攻击风险日益增大，而向云端的过渡使得员工与其他用户、设备、应用和数据的交互变得更加复杂。 现在为了切实地保护公司，需要采用更加全面和创新的安全性策略，一种可以防止、检测和应对本地和云端的各种威胁的策略。
@@ -129,4 +126,3 @@ ms.lasthandoff: 07/07/2017
 ![特权角色](./media/protect-front-door/protect-front-door-fig10.png)
 
 在此仪表板中，可看到当前活动，例如[安全警报](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-configure-security-alerts/)和[访问评审](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-start-security-review/)。 还可使用此仪表板[添加](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-give-access-to-pim/)或[删除](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-how-to-give-access-to-pim/#remove-another-users-access-rights-for-managing-pim)一个或多个对 Azure AD Privileged Identity Management 的用户访问权限。
-

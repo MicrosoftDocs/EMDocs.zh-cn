@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 3cdc1318-50a2-4280-b051-1e009620816e
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 13b9f2fac331d25d797ed9d21f27cc70c876eeda
-
-
+ms.openlocfilehash: 35dea3704aeb39f8dd7f2b360efbe4b3d5cda836
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="step-2---plan-for-mobile-device-management"></a>步骤 2 - 计划移动设备管理
 
 >[!NOTE]
@@ -42,9 +41,3 @@ ms.openlocfilehash: 13b9f2fac331d25d797ed9d21f27cc70c876eeda
 - [电子邮件管理选项](mdm-email-management-options.md)
 - [网络连接管理选项](mdm-network-connectivity-management-options.md)
 - [证书管理选项](mdm-certificate-management-options.md)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

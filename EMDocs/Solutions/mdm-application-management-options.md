@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 1f77eba2-8e27-4e08-b2f2-e71e3d776cf4
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 58270148fda3f3b3bb407055abff962ae86f1a14
-
-
+ms.openlocfilehash: 90d23fd6b289971cdd6b0a687799a5b6a34cf772
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="application-management-options"></a>应用程序管理选项
 
 >[!NOTE]
@@ -65,9 +64,3 @@ Intune MAM 功能不是整个 MDM 解决方案的一种替代方案。 许多设
 - 对于尚未配置当前 ConfigMgr 基础结构的组织，需要在与 Intune 集成之前进行规划、安装和配置
 
 通过查看以下 Intune 和 ConfigMgr 内容来了解有关移动应用程序管理选项的详细信息：在 Microsoft Intune 控制台中配置和部署移动应用程序管理策略。 此外，要确保检查在 Intune MAM 策略下可使用的 Microsoft 应用列表以及 Intune 的兼容合作伙伴应用的扩展列表。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

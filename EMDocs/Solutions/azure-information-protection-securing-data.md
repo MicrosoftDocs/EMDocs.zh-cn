@@ -12,15 +12,12 @@ ms.technology: techgroup-identity
 ms.assetid: 2f906e2e-3d99-40e6-b5cc-8d903fcda444
 ms.reviewer: v-craic
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: bf2418b68e40b60508447fc5400f4acfc5c6b1b3
-ms.openlocfilehash: 17f2a0b6991d05af2a6f000af48e9fc085221a4d
-ms.contentlocale: zh-cn
-ms.lasthandoff: 02/14/2017
-
-
+ms.openlocfilehash: 267a69648014d53307d255533f64ee579f4141fa
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 
 [Azure 信息保护 (AIP)](/information-protection/understand-explore/what-is-information-protection) 让客户能够对数据进行分类和标记，并能使用加密来保护数据。 Azure 信息保护使 IT 管理员能够：
@@ -124,4 +121,3 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 - [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
 - [在内部和外部共享敏感数据](share-sensitive-data.md)
 - [跟踪共享数据使用情况并对数据滥用做出响应](infoprotect-track-usage-scenario.md)
-

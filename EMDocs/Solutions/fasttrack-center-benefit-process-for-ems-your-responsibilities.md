@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: ecd83c311deca5050599a4eb55d45d0094d656f1
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="your-responsibilities"></a>您的职责
 
 在载入期间你具有下列职责。
@@ -115,4 +112,3 @@ ms.lasthandoff: 07/07/2017
 **想要了解更多信息？**
 
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

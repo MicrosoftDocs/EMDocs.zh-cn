@@ -12,15 +12,12 @@ ms.technology: techgroup-identity
 ms.assetid: a996fbf8-ece4-40bc-b866-d4606c230027
 ms.reviewer: v-craic
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
 ms.openlocfilehash: 3d84bbe6d252976e1a3152f65003787e37d408c8
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="share-sensitive-data-internally-and-externally"></a>在内部和外部共享敏感数据
 
 虽然许多数据泄露是由网络攻击造成的，但专家认为更多的原因在于人为错误，或者说是因为员工无意间或不慎泄漏敏感商业数据所致。 通过设置适当的安全信息和数据丢失防护协议，几乎能够避免所有这类泄露。
@@ -96,4 +93,3 @@ ms.lasthandoff: 07/07/2017
 
 > [!IMPORTANT]
 > 从 Microsoft Ignite 观看演示文稿[使用 Azure 信息保护安全地进行协作](https://myignite.microsoft.com/videos/49947)，了解有关此方案的详细信息。
-

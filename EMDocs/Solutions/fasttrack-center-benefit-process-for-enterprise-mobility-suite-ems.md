@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 3ba92f5fa1b625757e08998bab3c09a813400727
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程
 如果组织符合 EMS 的 FastTrack 中心权益的条件，则可以与 Microsoft 专家一同远程准备 Microsoft Azure Active Directory Premium 和 Microsoft Intune，使其可供使用。 还可以通过 [FastTrack 站点](http://fasttrack.microsoft.com/ems)为 Azure 信息保护、Microsoft Cloud App Security 和 Microsoft 高级威胁分析请求帮助。 若要确定你的组织是否符合条件，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
 
@@ -53,4 +50,3 @@ ms.lasthandoff: 07/07/2017
     -   通过 Azure AD Connect 工具从 Active Directory 同步的帐户。 此选项适用于具有单个 Active Directory 林配置的客户。
 
     -   从本地 Active Directory 与 Windows Server 2012 R2 Active Directory 联合身份验证服务 (AD FS) 2.0 或更高版本联合。
-

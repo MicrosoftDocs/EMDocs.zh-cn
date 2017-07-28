@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: bbc9f6ea-fc92-468d-bb5b-60c67949ca28
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 001a2de2d35f218258180fff31b7923ee5c79acd
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="end-user-experience-of-mobile-app-management-policies"></a>移动应用管理策略的最终用户体验
 仅当在工作环境中使用应用时，才应用 MAM 策略。 阅读以下示例方案，帮助你对用户进行培训，使其了解托管应用如何工作。
 
@@ -66,4 +63,3 @@ ms.lasthandoff: 07/07/2017
 
 ## <a name="where-to-go-from-here"></a>后续步骤
 你可以阅读有关其他最终用户体验的详细信息，包括[使用具有多身份支持的应用](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#using-apps-with-multi-identity-support)、[管理用户帐户](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#managing-user-accounts)以及[通过 Rights Management 共享应用查看媒体文件](https://docs.microsoft.com/intune/deploy-use/end-user-experience-for-mam-enabled-apps-with-microsoft-intune#viewing-media-files-with-the-rights-management-sharing-app)。
-

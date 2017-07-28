@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 2e10af43-3138-45c0-b2f7-14a1d2bfb237
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 7f7a8c8fc0333461359440781adc8a6240e9f4bb
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents"></a>了解如何部署用于保护公司电子邮件和文档的解决方案
 越来越多的公司允许员工通过其移动设备访问电子邮件、文档和公司资源，从而提高工作效率。 但是，存储在公司电子邮件和文档中的机密数据量会为公司带来重大的安全风险。
 
@@ -70,4 +67,3 @@ Microsoft 企业移动性 + 安全性 (EMS) 通过跨四个层（标识、设备
 
 - [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
 - [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
-

@@ -14,13 +14,12 @@ ms.assetid: 38e9802b-d8c0-4f5c-b89d-8ce1e04f7387
 ROBOTS: 
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: fdb0852611551daaa2aad7d3839a3431abd8b445
 ms.openlocfilehash: 8f79e391813c7a15e522f07ff27a2f6abd8536cc
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="enable-business-without-borders"></a>实现商业无国界
 标识并非可有可无 - 它是员工实现高效工作的核心。 组织需使其员工能通过任何设备随时随地访问所有数据和应用程序。 用户需要相互合作，与合作伙伴合作，并与客户沟通。 他们使用的工具不再驻留于受保护和受控制的环境中，而是可在任何公共云中找到。
 
@@ -60,9 +59,3 @@ Azure AD B2B 协作基于邀请和兑换模型，该模型使用你想与其合�
 以下步骤介绍之前讨论的实现每个 Azure AD B2B 协作的方法。 每个链接表示一组不同的文章，其中包含要在组织中实现的一组不同的说明/步骤：
 - 了解[如何使用 Azure AD B2B 协作](https://azure.microsoft.com/documentation/articles/active-directory-b2b-detailed-walkthrough/)。
 - 了解[如何使用 CSV 文件指定合作伙伴用户信息](https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2b-references-csv-file-format/)。
-
-
-
-<!--HONumber=Dec16_HO2-->
-
-

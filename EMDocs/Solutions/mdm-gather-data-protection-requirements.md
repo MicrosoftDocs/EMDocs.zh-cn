@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 98f7bd00-4be7-478e-82ea-6046813f1556
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 9cf26f4ead50e00580fc5abe1983ba88ee4c8ce9
-
-
+ms.openlocfilehash: 015ffe6330296a002c09edf1206c09fcbc239a0f
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="gather-your-data-protection-requirements"></a>收集数据保护要求
 
 >[!NOTE]
@@ -64,9 +63,3 @@ ms.openlocfilehash: 9cf26f4ead50e00580fc5abe1983ba88ee4c8ce9
 
 >[!TIP]
 > 在 Windows Phone 8.1 中，可以使用[Windows Phone 8.1 企业设备管理协议](http://download.microsoft.com/download/C/A/0/CA091018-1A43-4063-B70B-20B9901F4D10/Windows Phone 8.1 MDM Protocol.pdf)配置允许不使用密码的空闲返回策略。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

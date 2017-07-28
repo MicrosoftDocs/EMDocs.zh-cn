@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 3e186dd2-e17c-40d8-b160-48038b2c6593
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
-ms.openlocfilehash: 580d2e909813390fbc86d3ca8edaf88f0f19a6d7
-ms.contentlocale: zh-cn
-ms.lasthandoff: 01/05/2017
-
-
+ms.openlocfilehash: 1daeb790d5e01f0b59829231ce0e0401a9ff749d
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="end-user-experience-of-conditional-access"></a>条件访问的最终用户体验
 当用户首次尝试访问设备上的电子邮件或随后同步时，将检查设备注册和合规性状态。 注册或修复合规性问题的过程是一种指导式体验。 将向最终用户显示注册设备并让其合规的必要步骤，用户无需联系 IT 支持人员：
 
@@ -42,4 +39,3 @@ ms.lasthandoff: 01/05/2017
 ## <a name="windows-phone"></a>Windows Phone
 
 [本主题](end-user-experience-conditional-access-winphone.md)描述在启用条件访问并且最终用户首次尝试在其 Windows Phone 上访问电子邮件之后的最终用户体验。
-

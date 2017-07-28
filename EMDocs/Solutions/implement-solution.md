@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: edc744d8-97d9-42e0-8906-6f0dedd8d629
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: 4a7537775ce2c6c19850720f789ea5882d062aec
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="implementing-your-solution-for-protecting-email-and-attachments"></a>实现用于保护电子邮件和附件的解决方案
 本文将帮助你做好准备，然后实现用于保护公司电子邮件内容和附件的解决方案。
 
@@ -98,4 +95,3 @@ ms.lasthandoff: 07/07/2017
 
 - [结合使用条件访问和 Microsoft Intune](conditional-access-intune.md)
 - [结合使用条件访问、Microsoft Intune 和 Configuration Manager](conditional-access-intune-configmgr.md)
-

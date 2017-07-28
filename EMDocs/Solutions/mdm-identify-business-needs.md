@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 85783069-14fb-4ead-a159-657d694eb1a7
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 35c9101de6df041b906660743654a8b137d4a542
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: e109d6025513fde7a9cf09afc6e6dbb31222c467
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="identify-your-business-needs"></a>确定你的业务需求
 
 >[!NOTE]
@@ -82,4 +79,3 @@ ms.lasthandoff: 11/28/2016
 
 >[!TIP]
 > 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
-

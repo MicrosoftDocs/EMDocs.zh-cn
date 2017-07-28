@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: c8824726-082e-417a-8522-183a69328ae4
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: cf9b0a04e00ddf991e0f068144a1993f9fb88527
-
-
+ms.openlocfilehash: d5e7d0231795558aadc96786741e710a3352d097
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="specify-your-mobile-device-management-location-requirements"></a>确定你的移动设备管理位置要求
 
 >[!NOTE]
@@ -39,9 +38,3 @@ ms.openlocfilehash: cf9b0a04e00ddf991e0f068144a1993f9fb88527
 
 >[!TIP]
 > 请务必记录下每个答案，并了解答案背后的基本原理。 下一部分将详细阐述可用的选项以及每个选项的优点/缺点。  回答完这些问题后，你将可以选择最符合你业务需求的解决方案。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

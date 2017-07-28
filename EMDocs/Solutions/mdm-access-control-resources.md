@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 5967876b-3c08-4498-a0a6-0225b562d35f
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 782f6dac4a366312ce0a6d04735262908df6fe72
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: acdca6a0357487456ccbe28e6977e61943cebffa
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="access-control-to-resources"></a>对资源的访问控制
 
 >[!NOTE]
@@ -91,4 +88,3 @@ Intune 管理员可以在 [Intune 管理控制台](/intune/deploy-use/introducti
 **缺点**
 
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
-

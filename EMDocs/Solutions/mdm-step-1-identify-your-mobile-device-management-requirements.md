@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 32ef7e4e-41b6-4e40-b9d9-6d2bfb464a99
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 85a05de72b2ba0dd52c9ebe1da274a5783fba34f
-
-
+ms.openlocfilehash: 9501b4f9a2a584e6a54571019a2a3726523cfc5f
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="step-1---identify-your-mobile-device-management-requirements"></a>步骤 1 - 确定你的移动设备管理要求
 
 >[!NOTE]
@@ -34,9 +33,3 @@ ms.openlocfilehash: 85a05de72b2ba0dd52c9ebe1da274a5783fba34f
 - [确定业务需求](mdm-identify-business-needs.md)
 - [指定位置要求](mdm-specify-mdm-location-requirements.md)
 - [制定采用策略](mdm-develop-mdm-adoption-strategy.md)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

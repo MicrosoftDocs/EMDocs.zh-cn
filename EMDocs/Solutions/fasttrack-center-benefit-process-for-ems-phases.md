@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 0c404c758f66fba9ded4672fad904ba3987958b5
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 使用[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)以使 Microsoft Azure Active Directory Premium 和 Microsoft Intune 可供使用时，流程中涉及几个阶段。 以下各部分描述了载入流程的每个阶段。
 
@@ -162,4 +159,3 @@ Microsoft 还会与你联系，提供有关如何推动成功采用符合条件�
 **想要了解更多信息？**
 
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-
