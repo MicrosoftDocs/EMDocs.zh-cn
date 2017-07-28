@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 906566e0-f05e-4af5-b4d5-0efb083dca76
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
-ms.openlocfilehash: e498fd2a1efea2ef6416185c5ce63223004805c6
-ms.contentlocale: zh-cn
-ms.lasthandoff: 01/05/2017
-
-
+ms.openlocfilehash: 46c8690074703d4e7de667cea115ca6db7818984
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="windows-phone"></a>Windows Phone
 
 根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。  本主题描述了注册 Windows Phone 的最终用户体验。
@@ -101,4 +98,3 @@ ms.lasthandoff: 01/05/2017
 
 ### <a name="where-to-go-from-here"></a>后续步骤
 最终用户体验在其他移动设备上会稍有不同。 你可以了解有关 [Android](end-user-experience-conditional-access-android.md) 和 [iOS](end-user-experience-conditional-access-ios.md) 最终用户体验的更多信息。
-

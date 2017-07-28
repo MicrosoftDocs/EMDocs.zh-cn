@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 5380e56c-9c48-459e-aea5-95ad90dbb7d1
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 68a42159dfbf6b0d435b0543466d4cec26e55b67
-
-
+ms.openlocfilehash: b80bc794df43effc05656e7ec0b39cbf476b151e
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="identify-saas-requirements"></a>确定 SaaS 要求
 
 >[!NOTE]
@@ -116,9 +115,3 @@ SaaS 解决方案还能够通过最新的应用程序版本、功能、安全性
 
 >[!TIP]
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

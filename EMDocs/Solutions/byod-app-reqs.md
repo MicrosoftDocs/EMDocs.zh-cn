@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 0c1313b9-361f-4732-a92c-23d0dac07733
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: d5297dbb3d22feda4189bc120b2bb4537fa5f590
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 64d000d8d4313f9b10d145564eef3d2d2cbff5ed
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="app-requirements"></a>应用要求
 
 每个组织都使用多种技术能力以使其工作人员以优化的方式执行任务，在大多数情况下，主要工具是一个应用。 可以使用多平台方法（不同的技术用于实现特定的目标），或者通过创建能够执行某个任务或使某些过程自动化的自定义应用，将这些功能合并。 设计 BYOD 策略时请务必考虑应用。 用户将使用不同的外观设置来使用这些应用；因此，你必须考虑这些应用应支持的各种功能。 下图显示了用户和设备如何通过应用使用数据，以及“应用”子域的每个组件的注意事项。
@@ -119,4 +116,3 @@ ms.lasthandoff: 11/28/2016
 - 你是否已对这些应用执行任何隐私分析？
 - 这些应用是否会使用动态磁贴？
     - 如果是，这些动态磁贴是否可能在无意中造成信息泄露？
-

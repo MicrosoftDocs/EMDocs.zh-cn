@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 181eb917-119d-4e56-8ead-1182b1dc5cab
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: cbf0f54d2d288baf66f914ef8366a70448218607
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 9eb47bcc9b64495759727b7211161b0945bda8b2
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="data-access-and-protection-considerations"></a>数据访问和保护注意事项
 
 任何公司都面临着丢失敏感数据的操作风险，随着 BYOD 的出现，信息将驻留在比以往更多的位置。 这将带来更大的威胁和更高的风险，必须正确地将其缓解。 由于一系列司法、公司和行业规定管理着对于敏感数据的保护，因此数据保护是一个复杂的过程。 请务必考虑到这些法律要求、公司内部政策以及行业规定。
@@ -250,4 +247,3 @@ Windows Server 2012 R2 允许在网络传输中通过 [Web 应用程序代理](h
 当利用动态访问控制功能时，可以使用文件的自动和手动分类来标识数据。 例如，你可以在整个组织内的文件服务器中标记数据。 还可以通过应用采用中央访问策略的网络安全策略来控制对文件的访问。 动态访问控制还会通过对敏感文档使用自动 RMS 加密来利用权限管理服务 (RMS) 保护。 例如，你可以配置 RMS 对包含“健康保险流通与责任法案 (HIPAA)”信息的所有文档进行加密。 对于取证调查和审核，你可以利用中心审核策略进行符合性报告和取证分析。 你可以识别谁访问了高度敏感的信息。
 
 动态访问控制是文件服务器角色的一种功能，使 IT 具有上表所示的能力。 有关动态访问控制的详细信息，请参阅[动态访问控制：方案概述](https://technet.microsoft.com/library/hh831717.aspx)。
-

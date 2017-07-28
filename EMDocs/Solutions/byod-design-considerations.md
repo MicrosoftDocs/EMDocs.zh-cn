@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 639dfd46-33ea-4cfd-918d-f3d8e57645ed
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 3dbf7072bbc3baf6a97072f1cbbd15bd236349d3
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 90adc7c2cdbb566467fc1e5daf91d970ed618f39
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="design-considerations"></a>设计注意事项
 
 了解本文档中“构想 BYOD 基础结构解决方案”中详细介绍的要求之后，你可以选择适当的产品和技术来实现 BYOD 基础结构设计的要求。 下表列出了可用于实现 BYOD 基础架构解决方案的 Microsoft 产品、技术和服务。
@@ -80,4 +77,3 @@ ms.lasthandoff: 11/28/2016
 文档的其余部分涉及到设计注意事项以及上表中列出的产品、技术和服务。 在使用多种 Microsoft 产品、技术和服务来处理不同的设计注意事项时，将讨论它们之间的权衡。
 
 用于支持 BYOD 的基础结构设计将总结已在本文出现的问题的解答，以及可供你使用的技术功能和选项。 本文档讨论的设计使用基于 Microsoft 的技术。 但是，设计选项和注意事项可应用于任何用来实现 BYOD 模型的基础结构。
-

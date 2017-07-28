@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 6f9fd9b3-492b-48e1-871c-e5abefe1293a
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: a9bb76fdff02b8ded31fe3e1811678138ffd5504
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: ff338a02c6b78c42d215b7ec72768a5e8b4013cd
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="develop-your-incident-response-requirements"></a>制定你的事件响应要求
 
 >[!NOTE]
@@ -47,4 +44,3 @@ ms.lasthandoff: 11/28/2016
 - 当移动设备受到破坏，并且你需要阻止该设备将恶意应用扩散到公司网络时，MDM 解决方案是否允许你强制执行可快速包含受损设备的策略？
 - MDM 解决方案是否允许你针对潜在攻击进行规划，以便采取预防措施来解决问题？
 - MDM 解决方案是否允许你使用管理控制台标识某个文件何时受恶意软件感染？
-

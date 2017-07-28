@@ -12,15 +12,12 @@ ms.technology:
 ms.assetid: b46877f3-cf32-4919-ba63-4df55cd2af32
 ms.reviewer: vlpetros
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
-ms.openlocfilehash: 5a0eef972374efefff886ab9dbf7b6a7e4f7aab7
-ms.contentlocale: zh-cn
-ms.lasthandoff: 05/29/2017
-
-
+ms.openlocfilehash: b17952c8b7b5e0ab6d02d647740c33a5a54484ea
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="protect-company-data-without-managing-devices-with-intune"></a>使用 Intune 在不管理设备的情况下保护公司数据
 我们生活在一个移动的世界，员工需要在其移动设备上移动访问公司数据和高效率工具。 由于其普及性和重要性，许多组织通过在保留出色的最终用户体验的同时防止数据从 Office 移动应用丢失，寻求对 Office 365 数据的进一步保护。 IT 需要保护对 Office 365 的访问，并防止公司数据从组织不拥有或管理的移动设备和应用丢失。 问题在于，IT 需要保护公司数据的安全，但许多员工对 IT 取得其个人设备的控制权有隐私方面的顾虑。
 
@@ -95,4 +92,3 @@ Microsoft Intune 使组织能够在不要求员工注册到设备管理的情况
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

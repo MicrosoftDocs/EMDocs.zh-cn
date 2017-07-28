@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 1cdc3cdf-cb71-46d5-99fd-05ec96771b81
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 482c5baa2fe33c02d4466f38ef05964f64eee2cd
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 0eaf680de8a6ad90cc20edd42e8662cde1f928df
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="specify-your-access-requirements"></a>指定你的访问要求
 
 >[!NOTE]
@@ -62,4 +59,3 @@ ms.lasthandoff: 11/28/2016
     - 如果是，MDM 解决方案是否允许你管理设备证明？
 
 阅读[从任何设备上的任何位置安全访问公司资源](https://technet.microsoft.com/library/dn550982)，更好地了解如何结合使用内置的 Windows Server 2012 R2 功能与 ConfigMgr 提供对你的公司资源的访问。
-

@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: ba8cc256-2075-457f-a827-7ec9213c5235
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: da1652d5bb9a7b7176c74482bfc814aaf8902c3f
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 3c933645b8cb7018f486925a16ee8d78cd1f0b7a
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="management-considerations"></a>管理注意事项
 
 支持 BYOD 模型的基础结构中必须具有管理域。 为了完全支持 BYOD 需求，管理域必须允许 IT 监视资源、提供报告功能、管理计算和存储资源、支持设备配置和自动化，并且可以管理应用部署和设置。
@@ -196,4 +193,3 @@ System Center 2012 R2 中功能最强大的自动化选项是 Windows PowerShell
 | 将应用部署和设置到位于公司外部的设备。   | Microsoft Intune                                       |
 | 将应用部署和设置到非 Windows 设备。                   | Microsoft Intune                                       |
 | 仅部署和设置应用程序到本地设备，部署和设置应用到公司外部设备或部署和设置应用到非 Windows 设备。       | 与 Configuration Manager 集成的 Microsoft Intune
-

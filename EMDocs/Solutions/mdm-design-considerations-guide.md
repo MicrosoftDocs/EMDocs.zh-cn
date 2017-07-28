@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 7083b6b8-27a3-427b-b505-25d007d63cdd
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
-
-
+ms.openlocfilehash: 65ecf2d73107237bc586b6827dea5c1466eb3ac0
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="mobile-device-management-design-considerations-guide"></a>移动设备管理设计注意事项指南
 
 由于移动设备管理 (MDM) 解决方案有许多不同的设计和配置选项，因此有时难以确定哪个解决方案最符合组织的需求。 此设计指南将帮助你了解 MDM 设计要求，并且将详细介绍一系列你可以遵循的步骤和任务，以设计最符合组织的业务和技术需求的 MDM 解决方案。
@@ -67,9 +66,3 @@ ms.openlocfilehash: 770a72932d98c4b9d4b5ce9607bad07c7b6798cb
 
 ## <a name="looking-for-a-downloadable-version"></a>正在查找可下载的版本？
 可在 [ TechNet 库](https://gallery.technet.microsoft.com/Mobile-Device-Management-7d401582)中获取此完整指南的可下载副本。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

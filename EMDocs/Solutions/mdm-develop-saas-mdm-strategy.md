@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: b3cefcc5-b045-48f9-91f5-6d282a4428f3
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 735874e0f5c30628fbc4bdcdce18e6db3a2ec735
-
-
+ms.openlocfilehash: 9e23ce7f0b20e05c2216addcbbe4e719e64bc7f6
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="develop-saas-mobile-device-management-strategy"></a>制定 SaaS 移动设备管理策略
 
 >[!NOTE]
@@ -75,9 +74,3 @@ ms.openlocfilehash: 735874e0f5c30628fbc4bdcdce18e6db3a2ec735
 若要了解在每个平台中进行选择性擦除后删除哪些数据以及对设备上的剩余数据的影响，请务必阅读文章**[通过 Microsoft Intune 使用远程擦除、远程锁定或密码重置帮助保护数据](https://technet.microsoft.com/library/jj676679.aspx)**。 如果你有混合环境，请参考文章[如何使用 Configuration Manager 远程擦除移动设备](https://technet.microsoft.com/library/dn956981.aspx)以了解如何使用 ConfigMgr 完成此任务。
 
 有关 SaaS 解决方案功能和要求的更多详细信息，请务必查看 **[Microsoft Intune 的服务说明](https://technet.microsoft.com/library/dn600286.aspx)**主题，以了解适用于 [ ffice 365](https://technet.microsoft.com/library/faa7d8e5-645d-4d59-839c-c8d4c1869e4a(v=technet.10).aspx) 的 MDM 与[混合](https://technet.microsoft.com/library/jj884158.aspx) Intune 和 Configmgr 基础结构中的 SaaS 支持之间的差异。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

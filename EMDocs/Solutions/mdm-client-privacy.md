@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: c799a6c4-fe0a-4148-8e75-29e6ffdb7e6e
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 916404d1aaad5b4db01dff84c544e3364b7ec6ee
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: a6bec4e31a346d5b489d9a4fe40ee1b16d1742f9
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 #<a name="client-privacy"></a>客户端隐私
 
 >[!NOTE]
@@ -74,4 +71,3 @@ ms.lasthandoff: 11/28/2016
 **缺点**
 
 - 如果组织没有当前本地 ConfigMgr 基础结构，则需在集成前规划、安装和配置此平台
-

@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 991cd722-089c-4e8c-80b9-b82e405cc891
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 3df9be3ef643303f4205aa1b6daf18fdf53762d8
-
-
+ms.openlocfilehash: 93cb2c9af3aecdb409ab2ec1a8cb7f8d1d7bf8ab
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="device-provisioning-options"></a>设备设置选项
 
 >[!NOTE]
@@ -81,9 +80,3 @@ ms.openlocfilehash: 3df9be3ef643303f4205aa1b6daf18fdf53762d8
 - 需要其他配置，以将 Intune 与本地 ConfigMgr 基础结构相连接
 
 有关移动设备注册和预配选项的详细信息，请务必查看在 Intune 中如何[启用移动设备注册](/Intune/deploy-use/enroll-devices-in-microsoft-intune)，并将这些要求和步骤与在 ConfigMgr 和 MDM for Office 365 中[启用移动设备注册](https://technet.microsoft.com/library/jj884158.aspx)的要求和步骤进行比较。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

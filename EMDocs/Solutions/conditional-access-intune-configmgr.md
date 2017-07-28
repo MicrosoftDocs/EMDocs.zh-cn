@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: e65a0662-33ff-4e8c-9305-a21e80ea0f69
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: eae78f8e5a4c5a1a0e44cf17fa320175ac622ac1
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="use-conditional-access-with-intune-and-configuration-manager"></a>通过 Intune 和 Configuration Manager 使用条件访问
 本主题假设你已在公司中使用 System Center Configuration Manager 和本地 Microsoft Exchange Server、Exchange Online 或两者的混合部署来管理电子邮件访问。 该解决方案将现有的 Configuration Manager 环境与 Intune 相结合，以便安全地管理所有类型设备上的电子邮件访问，而无需考虑设备的位置。
 
@@ -87,4 +84,3 @@ Exchange 内部部署支持的条件访问：
   现在，你就可以了解如何[使用 Intune 部署本地 Exchange Server](conditional-access-intune-exchange.md)。
 
 如果你的环境包括 Exchange Online 和 Exchange 内部部署，你可以阅读[使用 Microsoft Intune 和 Configuration Manager 部署 Exchange Online 和 Exchange 内部部署](conditional-access-intune-configmgr-coexist.md)的相关信息。
-

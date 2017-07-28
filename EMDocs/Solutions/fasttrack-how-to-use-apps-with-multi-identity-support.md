@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 586ecd93-b097-42a0-9229-bcf3b781021c
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 6ab1230db73e7de791497a69b030e27e80dc8b9d
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="how-to-use-apps-with-multi-identity-support"></a>如何使用具有多身份标识支持的应用
 
 在本方案中，我们以 Microsoft Word 为例。 你可以将这些相同步骤应用到 Office 365 中的其他应用中。
@@ -50,4 +47,3 @@ ms.lasthandoff: 07/07/2017
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。
-

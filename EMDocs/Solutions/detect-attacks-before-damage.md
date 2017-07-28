@@ -13,15 +13,12 @@ ms.assetid: de0a7e70-008b-45c1-bba8-f033b1f62194
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: advanced-threat-analytics, cloud-app-security
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
 ms.openlocfilehash: 420df3bfcc0fca07bf4f7b068f4d49015ace048f
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="detect-attacks-before-they-cause-damage"></a>在攻击造成损害前检测出攻击
 要建立强大的安全保障，就需要设立高级的检测系统，这种检测系统应能够在威胁造成重大损害之前识别威胁。 组织能够无缝利用 Microsoft 安全智能来检测本地和云中的可疑活动。
 
@@ -107,4 +104,3 @@ Cloud App Security 不仅提供针对云应用程序的可见性和控制，同�
 ![一个屏幕截图，显示 Cloud App Security 所检测到的异常。](./media/detect-attacks-before-damage/detect-attacks-before-damage-fig8.png)
 
 在此页上，可以看到触发该警报的用户、IP 地址、用户的组成员身份和有关此可疑行为的详细信息。 可以查看关于此活动的更多详细信息，其中包括失败的登录尝试次数、登录始发位置以及用于执行登录尝试的应用。
-

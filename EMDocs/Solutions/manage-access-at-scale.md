@@ -14,13 +14,12 @@ ms.assetid: 0292919a-af10-4a25-8916-c704aed643f6
 ROBOTS: 
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: fdb0852611551daaa2aad7d3839a3431abd8b445
 ms.openlocfilehash: fa2795fb578c0d278d55cbff9f44c19ca2e13309
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="manage-access-at-scale"></a>大规模管理访问权限
 Microsoft 自成立以来一直在为各大组织提供支持。 Microsoft 不仅提供标识以便随时随地进行访问，还提供一组工具以便在组织内对 IT 资源进行自动化、保护和管理。 即使在云计算问世后，仍需要管理和控制 IT 任务，如呼叫支持人员以重置用户密码、管理用户组和应用程序请求。
 
@@ -125,9 +124,3 @@ Azure AD Connect Health 可帮助组织监视和深入了解本地标识基础�
 通过 AD Connect Health 性能监视，可简单地比较受监视 DC 之间的性能及各方面不同指标。
 
 ![显示所选域控制器的性能监视的屏幕截图](./media/manage-access-at-scale/manage-access-at-scale-fig8.png)
-
-
-
-<!--HONumber=Dec16_HO2-->
-
-

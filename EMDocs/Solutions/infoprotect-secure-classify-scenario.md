@@ -12,15 +12,12 @@ ms.technology: techgroup-identity
 ms.assetid: 65409d5c-4f1b-4026-86e9-e65e1c4fe2b4
 ms.reviewer: v-craic
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 34d04195000f7cdb5a9efdfa31788a12cc8d8d5b
-ms.openlocfilehash: a2fc2e045c413707ad9d53e738b1eec6457c3a95
-ms.contentlocale: zh-cn
-ms.lasthandoff: 02/22/2017
-
-
+ms.openlocfilehash: 98bedbc50843cb7cfc284f5f29d40ca8b298f11a
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="secure-data-using-classification-labeling-and-protection"></a>使用分类、标记和保护来保护数据
 
 现今，已实现从多台设备跨组织边界进行信息共享。  务必确保在此过程中不会泄露重要的公司数据，同时保证用户可以安全地共享重要内容以开展工作。 随着外包等趋势的出现，可能需要与承包商和供应商共享公司机密数据。 由于并非所有内容都需要相同保护，公司面临识别需要和不需要保护的数据的难题。
@@ -110,4 +107,3 @@ IT 管理员可以设置策略，以自动对数据应用分类和保护。 还�
 - 国际银行帐号 (IBAN)
 
 有关这种实现的更多详细信息，请阅读[有关内置条件的信息](/information-protection/deploy-use/configure-policy-classification#information-about-the-built-in-conditions)。
-

@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 26b15471-b496-4404-934d-67e621655bca
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: c21b0a8c413c4e7299e8026f55a3e43e7f825f82
-
-
+ms.openlocfilehash: 8732046974da72071690123def19d707865fc5d8
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="identify-saas-solution-infrastructure-integration-needs"></a>确定 SaaS 解决方案基础结构集成需求
 
 >[!NOTE]
@@ -77,9 +76,3 @@ ms.openlocfilehash: c21b0a8c413c4e7299e8026f55a3e43e7f825f82
 
 >[!TIP]
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

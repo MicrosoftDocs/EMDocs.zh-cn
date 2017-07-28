@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 23cfc12a-fa96-4fb3-8de1-af4569e8cb71
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: fb4062531b8b202fb22ffcb0fbba390879be89cd
-
-
+ms.openlocfilehash: 4160e2f2ad20e862b6ab2caf68e4f86add32143e
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="device-monitoring-options"></a>设备监视选项
 
 >[!NOTE]
@@ -99,9 +98,3 @@ ms.openlocfilehash: fb4062531b8b202fb22ffcb0fbba390879be89cd
 - Intune：**[如何监视移动设备](https://technet.microsoft.com/library/jj733634.aspx)**和[管理报告](/Intune/deploy-use/monitoring-and-reports-with-microsoft-intune)
 - ConfigMgr：[监视移动设备](https://technet.microsoft.com/library/gg682128.aspx)和[管理报告](https://technet.microsoft.com/library/gg699377.aspx)
 - Office 365 的 MDM：[概述和设备管理任务](https://technet.microsoft.com/en-us/library/ms.o365.cc.devicepolicy.aspx)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 6afbce4c-7500-4387-a19c-dff52c152097
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 3cea66edad4cb791342cb193495629fa4ce27d0d
-
-
+ms.openlocfilehash: 9cc654fadde9494e364d3bc1513bc5bf3c78f6a2
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="identify-saas-connectivity-requirements"></a>确定 SaaS 连接要求
 
 >[!NOTE]
@@ -72,9 +71,3 @@ ms.openlocfilehash: 3cea66edad4cb791342cb193495629fa4ce27d0d
 
 - 对于尚未配置当前 ConfigMgr 基础结构的组织，将需要在与 Intune 集成前进行规划、安装和配置
 - 对于具有 ConfigMgr 的组织，需要满足其他本地部署要求和配置更改。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

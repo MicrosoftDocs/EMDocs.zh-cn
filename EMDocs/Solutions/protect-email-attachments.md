@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: a1e630c1-7190-4ba9-b71d-ed9c2e93a6cc
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: a124d56eaa6cbca44551a7c3ea42166479523f9f
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="protect-email-and-attachments-from-data-leakage"></a>保护电子邮件和附件，防止数据泄露
 [保护企业电子邮件和文档](protect-corporate-email-documents.md)讨论了如何能确保只有合规的设备才可以访问企业电子邮件。 但是，仅仅是保护访问权限并无法保护电子邮件和邮件附件中的内容。 内容可以复制、移动、保存到其他位置，或与其他用户共享。 EMS 使用移动应用程序管理 (MAM) 策略解决了这一问题。
 
@@ -71,4 +68,3 @@ IT 管理员创建移动应用程序管理策略、将策略关联至应用，�
 
 ## <a name="where-to-go-from-here"></a>后续步骤
 你已了解了[保护企业电子邮件和文档](protect-corporate-email-documents.md)以及电子邮件附件的相关内容，现在可以详细了解如何[实现保护你的企业电子邮件的解决方案](implement-solution.md)。
-

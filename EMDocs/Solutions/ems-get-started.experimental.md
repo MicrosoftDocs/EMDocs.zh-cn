@@ -13,15 +13,12 @@ ms.assetid: 9938ab0e-19b8-49a2-91b5-61d69eb3dc01
 ms.reviewer: mhamerof
 ms.suite: ems
 ms.custom: advanced-threat-analytics,cloud-app-security,information-protection,microsoft-identity-manager,microsoft-intune,rights-management
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
 ms.openlocfilehash: 7f82e8b0644765fc8cc14024cd65ef99733f1ecb
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="start-using-enterprise-mobility--security"></a>开始使用企业移动性 + 安全性
 
 进行数字转换的组织需要保护自己免受新的威胁和挑战，同时还要求 IT 不断追求更高的效率和性价比。 此外，在当今云优先、移动优先的世界中，用户希望在任何地方通过任何设备都可以高效工作。 使用 EMS，可以获得全面的解决方案来帮助你：
@@ -145,4 +142,3 @@ Cloud App Security 可实现对用户和数据活动的高度可见性，因此�
 [了解企业移动性 + 安全性](learn-about-ems.md)
 
 [免费试用 EMS](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility-security-trial)
-

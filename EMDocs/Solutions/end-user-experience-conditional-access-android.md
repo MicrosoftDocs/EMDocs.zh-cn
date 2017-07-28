@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 0b5e4330-6fa5-445c-b73e-86ce5b9c7964
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 2342889a686db8a6496c97979cb222af8347241a
-ms.openlocfilehash: fc06debb97cdbd3be1a241a711f36f6c530d65cf
-ms.contentlocale: zh-cn
-ms.lasthandoff: 01/05/2017
-
-
+ms.openlocfilehash: 9a6d883e2c803ead2dd74094ef4ab81194dc61d7
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="android"></a>Android
 
 根据在最终用户设备上运行的操作系统版本，用户看到的注册过程和屏幕会略有不同。 本主题描述了注册 Android 设备的最终用户体验。
@@ -107,4 +104,3 @@ ms.lasthandoff: 01/05/2017
 
 ### <a name="where-to-go-from-here"></a>后续步骤
 最终用户体验在其他移动设备上会稍有不同。 你可以了解有关 [iOS](end-user-experience-conditional-access-ios.md) 和 [Windows Phone](end-user-experience-conditional-access-winphone.md) 的最终用户体验的详细信息。
-

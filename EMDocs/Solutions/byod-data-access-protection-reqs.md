@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 29eddc34-5ca5-4169-89b6-8137b03ab7f0
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 9aafb6a87f629f61d04596830ae0cc5cee944696
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: f90989708013339a0bf31157075678739e3197b5
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="data-access-and-protection-requirements"></a>数据访问和保护要求
 
 允许用户从他们自己的设备访问公司资源时的要素之一是保护公司的数据，并保证该信息的安全。 无论数据位于何处，都建议贵公司具有必须准备的用以确保数据安全的多种符合性要求。 下图显示了访问数据时用户与设备之间的交互以及此子域必须考虑哪些组件。
@@ -93,4 +90,3 @@ ms.lasthandoff: 11/28/2016
     - 如果是，这些规定如何推动当前适用于本地资源的数据访问策略？
 - 你的公司是否具有替代[移动设备管理 (MDM)](mdm-design-considerations-guide.md) 和[移动应用程序管理 (MAM)](https://blogs.technet.microsoft.com/cbernier/2016/01/05/microsoft-intune-mobile-application-management-mam-standalone/) 的策略？
 - 在发生诉讼或刑事侦查的情况下，贵公司是否具有适针对设备没收的策略？
-

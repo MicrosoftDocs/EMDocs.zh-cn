@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 423c1de5-db20-4327-8c3b-a39b830cb58b
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: ae5b9b0953988820d7c9517292c9a4a56382c6e7
-
-
+ms.openlocfilehash: 0739654b21c1957a7796293797708bb39b02f02f
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="byod-summary-and-additional-resources"></a>BYOD 摘要和其他资源
 
 在确定你环境中的要求和约束，并评估本文档中详细说明的每条设计考虑事项之后，你可以创建最符合自己独特需求的 BYOD 基础结构设计。 然后，可以在测试环境中实现 BYOD 基础架构设计、进行测试，并将其部署到生产中。
@@ -34,9 +33,3 @@ ms.openlocfilehash: ae5b9b0953988820d7c9517292c9a4a56382c6e7
 - [了解 BYOD：如何使之变为现实](https://channel9.msdn.com/Shows/TechNet+Radio/TechNet-Radio-Part-2-Understanding-BYOD-How-to-Make-it-Happen)
 - [BYOD 和设计注意事项](https://channel9.msdn.com/Shows/TechNet+Radio/TechNet-Radio-Part-3-BYOD-and-Design-Considerations)
 - [移动设备管理设计注意事项指南](http://aka.ms/mdmdcg)
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

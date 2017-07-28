@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 901b52bf-2340-4847-aaff-c94fec9ee925
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: bca54803722814769b45cd30244b68121d72a114
-
-
+ms.openlocfilehash: 24cd67176f90baaf5fd1b7d2dc0174a058fbad2f
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="understand-the-mdm-lifecycle"></a>了解 MDM 的生命周期
 
 >[!NOTE]
@@ -138,9 +137,3 @@ ms.openlocfilehash: bca54803722814769b45cd30244b68121d72a114
 
 >[!TIP]
 >请务必记录下每个答案，并了解答案背后的基本原理。 之后的任务将详细阐述可用选项以及每个选项的优点/缺点。  回答这些问题将帮助你选择最符合你的业务需求的选项。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

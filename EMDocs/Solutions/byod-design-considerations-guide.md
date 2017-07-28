@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: ed940ba8-866c-477f-a59b-beb620300a79
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 242b1a6468bfc9524acdb3c497078128dd26864b
-ms.openlocfilehash: 0744ef860fb1fd06507c9e24af9c676551c54f12
-ms.contentlocale: zh-cn
-ms.lasthandoff: 01/05/2017
-
-
+ms.openlocfilehash: ad3f594ceb00e7094cc60ff878996f36be17efd4
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="byod-design-considerations-guide"></a>BYOD 设计注意事项指南
 
 随着员工所使用设备的迅速普及，大多数企业正面临着严峻的两难境地：如何既能允许他们的用户使用自己的设备，同时又能保护留在这些设备上的公司数据？ 企业正在从传统的模型（企业拥有并为员工提供设备）转变到另一种模型（员工使用个人设备完成一些工作任务）。 此模型通常称为[自带设备办公 (BYOD)](https://technet.microsoft.com/library/dn645493.aspx)。 在此模型中，允许员工使用其个人设备执行某些工作任务，但前提是员工允许公司管理他们设备的某些方面以确保企业数据的安全。 通常，这意味着用户允许公司应用自定义策略、加强设备，或标准化根据公司政策建立的操作系统。 读过来自 Microsoft 的[关于工作方式转换的 CIO 注意事项](http://download.microsoft.com/documents/uk/enterprise/it-trends/Considerations_for_a_Workstyle_Transformation.pdf)文章的公司高管和决策者还可以确定采用一种员工有权使用其设备高效工作的模型所带来的好处。
@@ -76,4 +73,3 @@ ms.lasthandoff: 01/05/2017
 在从自行管理设备（假定 IT 可完全控制设备）切换到另一种模型（IT 必须假定它对设备具有更少的控制权，同时需要满足用户对于访问企业数据的需求）之前，具有大型基础结构的组织需要确定各种要求。 这通常称为从以设备为中心切换到以人为中心的 IT。 还必须针对现有的和新的应用或者针对将现有应用移到云环境谨慎地规划相同的注意事项和要求。 图 1 包含 BYOD 问题域以及本指南将涉及的方面的概念图。
 
 ![问题域](./media/BYOD_Figure1.png)
-

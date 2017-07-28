@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 07aeaee067dbd6c827992b9d613d7716b5d57954
 ms.openlocfilehash: 783d5747b55623ed10abf00a0413bbe6b9ed47a3
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 
 通过 Microsoft Azure Active Directory Premium 和 Microsoft Intune 的 FastTrack 中心权益，你可以通过远程方式与 Microsoft 专家一同准备环境，使其可供使用，并在组织内对推出和使用进行计划。 若要了解有关合格性的详细信息，请参阅[企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
@@ -56,4 +53,3 @@ ms.lasthandoff: 07/07/2017
 **想要了解更多信息？**
 
 [企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

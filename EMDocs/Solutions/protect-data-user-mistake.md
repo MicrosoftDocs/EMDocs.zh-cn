@@ -13,15 +13,12 @@ ms.assetid: 0af3894c-7b0e-4c0c-8874-31e041d81300
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: information-protection
-ms.translationtype: Human Translation
-ms.sourcegitcommit: bc112d81a2b0e59f9ae67efe2a914b0c64ac76ba
 ms.openlocfilehash: 4c6c81cd9d59f402c1ce458e54063e2986324c5b
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="protect-data-against-user-mistakes"></a>针对用户错误保护数据
 
 过渡到移动方式和云后，员工的工作效率显著提高，但是用户、设备、应用与本地及云中的数据之间的复杂交互也为 IT 团队制造了新的盲区。 尽管组织可能不接受这种转移，但员工已经接受了。 由于这些元素之间的交互和攻击媒介的复杂性在增加，安全性仍然是企业的最大挑战。 IT 人员致力于维持企业数据可见性和对企业数据的控制和保护。

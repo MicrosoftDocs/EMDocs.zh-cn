@@ -14,13 +14,12 @@ ms.assetid: 46654ab0-0d0a-47ad-8715-b149a1092a37
 ROBOTS: 
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: cd45c4acdcc477d235e21bd6af5d1c2e265a6435
-ms.openlocfilehash: bcdf21f80b921e2788168e7d53b5618619b79539
-
-
+ms.openlocfilehash: 0ed7704a832f3567f14c6eec5ae7da9ea5e9f22a
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="cloud-powered-protection"></a>由云支持的保护
 Microsoft 保护基于云的标识已超过十年，借助 Azure Active directory，Microsoft 向企业客户提供相同的保护系统，以确保用户和管理员能通过更高的安全性和更好的管理履行各自的职责。
 
@@ -107,9 +106,3 @@ Microsoft 仍在继续对这一领域进行投入，并计划持续改进当前�
 - 了解[如何实现 Azure AD 条件性访问](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access/)。
 - 详细了解 [MFA 和位置策略](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access-azuread-connected-apps/)。
 - 详细了解[基于设备的策略](https://azure.microsoft.com/documentation/articles/active-directory-conditional-access-policy-connected-applications/)。
-
-
-
-<!--HONumber=Nov16_HO3-->
-
-

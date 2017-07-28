@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: a6319952-e9cd-4308-b9b9-b2e6005e6506
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: e8052d7c45b1b0a579dab9c17112907ade027f8f
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 331f973fc5fb7d335eda0a2310ba5bd6b9540f87
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="user-and-device-requirements"></a>用户和设备要求
 
 允许用户从他们的设备访问公司资源之前，请先回答与环境中这些资源的使用者以及 IT 部门协作之后的部分中的问题。 下图显示了用户和设备之间进行的交互，最终目标是访问和使用数据。 请注意，该关系图没有涉及地理位置。 尽管地理位置是一个重要的注意事项（将在本指南后面进行介绍），但是此图旨在阐述用户和设备的核心组件。 必须进行设计方面的考虑以引发此通信。
@@ -69,4 +66,3 @@ ms.lasthandoff: 11/28/2016
 ### <a name="technical-support"></a>技术支持
 - 你的网络/安全团队是否已准备好调整常规设备合规性的审核？
 - 你是否已更改了管理策略和过程以支持 BYOD 实现？
-

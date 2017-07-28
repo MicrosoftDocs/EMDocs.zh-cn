@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: 10172816-b52d-4a55-8803-6a6805126fab
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
-
-
+ms.openlocfilehash: 9cd4d977bc09b710af636d791b60dae1a9e86a73
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="develop-your-mobile-device-management-adoption-strategy"></a>制定你的移动设备管理采用策略
 
 >[!NOTE]
@@ -168,9 +167,3 @@ ms.openlocfilehash: 925d3c462ff0010f3aea03dd35a5ba6f78bf9894
 
 >[!TIP]
 > 地理围栏让你可以监视移动设备的地理位置并根据该位置启用/禁用设备和网络资源。 例如，Windows 8.1 允许应用定义地理区域，并在运行应用的设备进入或退出该区域时让系统提醒应用。 有关 Windows 8.1 中此功能的详细信息，请参阅[地理围栏详细信息 (XAML)](https://msdn.microsoft.com/library/windows/apps/xaml/dn342943.aspx)。
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-

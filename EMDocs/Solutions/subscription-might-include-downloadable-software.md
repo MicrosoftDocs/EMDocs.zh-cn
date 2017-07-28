@@ -11,14 +11,12 @@ ms.prod:
 ms.service: ems
 ms.technology: 
 ms.assetid: 9d031fa7-9c07-48c5-b915-6525aea54870
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
 ms.openlocfilehash: 25da2d6e50a6e3623a7b34d29d29751e10068d4e
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="your-paid-microsoft-intune-or-enterprise-mobility-subscription-might-include-a-license-to-use-certain-downloadable-software"></a>付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证
 
 付费版 Microsoft Intune 或企业移动性订阅可能包含某些可下载软件的许可证。 你可以通过查看协议条款来确认你获得了哪些软件的许可证。
@@ -39,4 +37,3 @@ ms.lasthandoff: 07/07/2017
 如果你不确定符合哪些软件的条件，请联系你的客户经理或合作伙伴，或者联系 [Microsoft Online Services 支持](https://technet.microsoft.com/en-us/dn932057.aspx)。
 
 如果你注册了试用版，可以通过访问 [TechNet 评估中心](https://www.microsoft.com/evalcenter/try)来获取这些产品的试用版。
-

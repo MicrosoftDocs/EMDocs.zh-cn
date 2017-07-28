@@ -12,15 +12,12 @@ ms.technology:
 ms.assetid: e9e695ec-5608-43bb-bbfb-808b869b1567
 ms.reviewer: vlpetros
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: b5be7105266a7f455e1482a814929f65a130db82
-ms.openlocfilehash: 6b220f4992651b5f3c107b5b958c47900515b77f
-ms.contentlocale: zh-cn
-ms.lasthandoff: 03/08/2017
-
-
+ms.openlocfilehash: 51e8edb18d68618c147ba5011dc1f047cdb43cac
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="manage-company-owned-devices-with-intune"></a>利用 Intune 管理公司拥有的设备
 
 在现代职场中，有许多可供选择的方式可以满足员工移动性体验的期望，包括自带设备办公 (BYOD) 计划。 但是，许多组织想对能够使用哪些设备访问公司数据具有更强的控制力。 在这些情况下，公司可以实行自选设备办公 (CYOD) 策略，让 IT 为员工提供受管理的移动设备。
@@ -162,4 +159,3 @@ Intune 的应用程序保护策略使你能多方面地管理访问数据的方�
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

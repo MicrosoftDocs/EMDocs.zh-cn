@@ -12,13 +12,11 @@ ms.technology:
 ms.assetid: d78e2b94-8ad3-4703-b7f0-db070288a20b
 ms.reviewer: vlpetros
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: d4362764cad9264c513ca745c45b96590b18928f
-ms.openlocfilehash: 98efafde6981fa8cb0c49c4b22729c64c8386754
-ms.contentlocale: zh-cn
-ms.lasthandoff: 03/24/2017
-
-
+ms.openlocfilehash: 66586ce378ab3faff29286bd032ac4099647494b
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
 # <a name="enable-a-limited-use-shared-device-solution-with-intune"></a>通过 Intune 启用使用受限的共享设备解决方案
 有时员工需要共享设备来访问应用和公司数据，以完成只需要特定设置和应用的基本任务。 这在零售商店、生产车间和运输行业较常见。 其他较常见的情况是需要在会议、酒店大厅、学校或图书馆等场所使用可公开访问的设备以交互方式访问资源的客户（而非员工）。 在某些情况下，你可能只需要向浏览的用户显示自动运行的演示文稿或提供静态信息。
@@ -71,7 +69,7 @@ Intune 提供了可以在 iOS 设备上配置的大量内置常规设置，其�
 
 ![OMA-URI 设置](..\Solutions\media\limited-use-devices\settings.png)
 
-若要创建一个简单的分配的访问策略，请提供名称、说明的基本元数据，将数据类型设置为**字符串 (XML)**，然后输入*区分大小写的*OMA URI 值的 **./Vendor/MSFT/EnterpriseAssignedAccess/AssignedAccess/AssignedAccessXml**。 在以下示例 .XML 中，设备将被锁定，以便仅允许列表（本例中为 Microsoft Edge）中指定的应用程序可在设备上使用。 无法被允许列表中 [Windows 10 移动版应用产品 ID](https://msdn.microsoft.com/en-us/windows/hardware/commercialize/customize/mdm/enterpriseassignedaccess-csp#productid) 识别的应用仍会在设备上安装，但会在视图中隐藏并阻止启动。 若要输入所需的 .XML 数据，只需导入包含以下示例信息的新的 .XML 文件或复制并将其作为单行格式的 XML 粘贴到**值**文本区域：
+若要创建一个简单的分配的访问策略，请提供名称、说明的基本元数据，将数据类型设置为**字符串 (XML)**，然后输入*区分大小写的* OMA URI 值的 **./Vendor/MSFT/EnterpriseAssignedAccess/AssignedAccess/AssignedAccessXml**。 在以下示例 .XML 中，设备将被锁定，以便仅允许列表（本例中为 Microsoft Edge）中指定的应用程序可在设备上使用。 无法被允许列表中 [Windows 10 移动版应用产品 ID](https://msdn.microsoft.com/en-us/windows/hardware/commercialize/customize/mdm/enterpriseassignedaccess-csp#productid) 识别的应用仍会在设备上安装，但会在视图中隐藏并阻止启动。 若要输入所需的 .XML 数据，只需导入包含以下示例信息的新的 .XML 文件或复制并将其作为单行格式的 XML 粘贴到**值**文本区域：
 
 
 > [!IMPORTANT]
@@ -132,4 +130,3 @@ Intune 提供了可以在 iOS 设备上配置的大量内置常规设置，其�
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

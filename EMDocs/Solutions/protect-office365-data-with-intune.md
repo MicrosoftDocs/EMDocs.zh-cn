@@ -12,15 +12,12 @@ ms.technology:
 ms.assetid: cc0d2e1f-9c34-4dcb-ac1f-2f355e9ebb7e
 ms.reviewer: vlpetros
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5d9a4bd18660a573b2dd76c0263b89ecf5ae4610
-ms.openlocfilehash: d7e15962a95135dbb16cb41e2643c602b87039cf
-ms.contentlocale: zh-cn
-ms.lasthandoff: 05/29/2017
-
-
+ms.openlocfilehash: c57332d427eec2d591fdaf527a783f5e58d457d9
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="protect-office-365-company-data-with-intune"></a>使用 Intune 保护 Office 365 公司数据
 大多数员工希望通过其移动设备做的第一件事是访问公司电子邮件和文档。 他们希望设置步骤简单，不需要询问支持人员。 另一方面，IT 希望确保公司数据保持安全，无需维护大型的本地基础结构。 通过企业移动性 + 安全性 (EMS)，可使员工通过使用其最喜欢的应用和设备提高工作效率，同时保护公司数据。 敬请阅读，了解详情。
 
@@ -144,4 +141,3 @@ Intune 的 WIP 策略有助于防止托管的 Windows 10 设备发生潜在的�
 [开始使用企业移动性 + 安全性](https://docs.microsoft.com/enterprise-mobility/solutions/ems-get-started)
 
 [Microsoft 企业移动性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
-

@@ -13,16 +13,12 @@ ms.technology:
 ms.assetid: 4b871c74-fec8-45e2-8b45-6ef0e62f7cc6
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 5adb7f68efacdfa20d78c3cf5853fa374793140a
-ms.openlocfilehash: 2e00204f4be8183fdb8502e13b1ef06d1b7df084
-ms.contentlocale: zh-cn
-ms.lasthandoff: 11/28/2016
-
-
+ms.openlocfilehash: 1963fd2b0cba97cbcc5396574cdb4e90a2b36884
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
-
 # <a name="app-considerations"></a>应用注意事项
 
 关于 BYOD 的应用注意事项可能会因公司目标、约束和资源而有所不同。 公司应评估其当前应用、已用于开发应用的技术、在任何设备上运行应用的要求，以及用户必需利用哪些应用才能从任意位置进行访问。 尽管现代应用不像基于 Windows 的应用那样需要消耗大量资源进行预配和部署，但是依旧需要成本去开发和维护它们。
@@ -238,4 +234,3 @@ ms.lasthandoff: 11/28/2016
 请考虑为所有应用（它们将由利用自己设备的用户使用）使用安全开发生命周期。 必须在开发过程的所有阶段中嵌入安全性措施，并且应考虑到所有可能的威胁。 [STRIDE](https://msdn.microsoft.com/magazine/cc163519.aspx) 和其他安全策略可以通过使用 [Microsoft 安全开发生命周期 (SDL)](https://www.microsoft.com/security/sdl/process/requirements.aspx) 合并到开发生命周期。 当前基础结构将如何与 BYOD 的总体安全策略集成？这是一个重要的注意事项。 当前环境能够为应用提供安全的基础吗？ 公司是否需要获取第三方安全解决方案以减少采用新方案会带来的任何潜在漏洞？
 
 对于将由采用自己设备的用户使用的应用而言，安全注意事项非常重要。 建议你为几个具有特定访问要求的应用使用基于 Active Directory 安全组的自定义集合来限制目标用户，这可以限制哪些用户可以安装它们。 还可以利用安全性来增强用户体验，因为它允许用户使用相同的用户名和密码来访问公司资源，这可以使用 AD FS 完成。 在设计这些应用的部署时，安全性也很重要。 在启用用户注册前，你应该获取并部署证书和旁加载项。 与其他小组协作以优化应用认证过程。
-

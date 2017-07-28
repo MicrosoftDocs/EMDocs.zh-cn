@@ -13,13 +13,12 @@ ms.technology:
 ms.assetid: a25f7407-92a0-4588-b5f7-a7bad9cdd070
 ms.reviewer: 
 ms.suite: ems
-translationtype: Human Translation
-ms.sourcegitcommit: 7d9c38008b5b47ea41ff331f1de763de5c119c5e
-ms.openlocfilehash: 3e930a5a9a39b15a4ce39c5cfa1e37038917f842
-
-
+ms.openlocfilehash: 5ea6bd936a464bd6f89be622d652f011a3acdd24
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="device-management-options"></a>设备管理选项
 
 >[!NOTE]
@@ -95,9 +94,3 @@ ms.openlocfilehash: 3e930a5a9a39b15a4ce39c5cfa1e37038917f842
 - 对于尚未配置当前 ConfigMgr 基础结构的组织，需要在与 Intune 集成前进行规划、安装和配置
 - 当前不支持适用于 Android 设备的 VPN 和电子邮件配置文件
 - 当前不支持托管的浏览器支持
-
-
-
-<!--HONumber=Nov16_HO4-->
-
-
