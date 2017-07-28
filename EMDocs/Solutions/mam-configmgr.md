@@ -13,15 +13,12 @@ ms.technology:
 ms.assetid: 74288276-84d3-4d24-8307-7875491be9c9
 ms.reviewer: 
 ms.suite: ems
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 0be1ad609016303572b67676c03f544d88fb5576
 ms.openlocfilehash: d0bc5fb61b481256d816df7c898ade798379aa19
-ms.contentlocale: zh-cn
-ms.lasthandoff: 07/07/2017
-
-
+ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/25/2017
 ---
-
 # <a name="use-mobile-app-management-policies-in-configuration-manager"></a>使用 Configuration Manager 中的移动应用管理策略
 从 System Center 2012 Configuration Manager SP2 开始，应用程序管理策略可以修改部署的应用的功能，以使其符合公司的合规性策略和安全策略。 例如，您可以限制在受限制的应用内进行剪切、复制和粘贴操作，或配置应用以打开托管浏览器内的所有 Web 链接。 应用管理策略支持：
 
@@ -83,4 +80,3 @@ ms.lasthandoff: 07/07/2017
 ## <a name="where-to-go-from-here"></a>后续步骤
 
 创建并部署与 MAM 策略关联的应用后，可以了解有关 [MAM 最终用户体验](end-user-experience-mam.md)的详细信息。 这将帮助你为可能出现的任何问题做好准备。
-
