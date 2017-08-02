@@ -50,6 +50,13 @@
             - name: 故障排除
               href: /advanced-threat-analytics/troubleshoot/
               homepage: /advanced-threat-analytics/troubleshoot/ata-troubleshooting
+        - name: Microsoft 365 企业
+          href: /microsoft-365-enterprise/
+          homepage: /microsoft-365-enterprise
+          items:
+            - name: Microsoft 365 企业
+              href: /microsoft-365-enterprise/
+              homepage: /microsoft-365-enterprise
         - name: Intune
           href: /intune/
           homepage: /intune
