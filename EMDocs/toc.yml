@@ -176,13 +176,13 @@
               homepage: /sccm/core/understand/introduction
             - name: 应用程序管理
               href: /sccm/apps/
-              homepage: /sccm/apps/understand/get-started-with-application-management
+              homepage: /sccm/apps/understand/introduction-to-application-management
             - name: 设备符合性
               href: /sccm/compliance/
               homepage: /sccm/compliance/understand/ensure-device-compliance
             - name: 移动设备管理
               href: /sccm/mdm/
-              homepage: /sccm/mdm/understand/whats-new-in-hybrid-mobile-device-management
+              homepage: /sccm/mdm/understand/hybrid-mobile-device-management
             - name: 操作系统部署
               href: /sccm/osd/
               homepage: /sccm/osd/understand/introduction-to-operating-system-deployment
