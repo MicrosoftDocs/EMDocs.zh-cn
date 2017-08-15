@@ -4,4 +4,7 @@
 ## [推荐的安全电子邮件策略](secure-email-recommended-policies.md)
 ### [部署推荐的安全电子邮件策略](secure-email-deploy-recommended-policies.md)
 
+# [保护运行 Office 外接程序的文档中的企业数据](office-add-ins-wip.md)
+
 # [使用 Intune 部署 Office 365 专业增强版](deploy-office-proplus-intune.md)
+
