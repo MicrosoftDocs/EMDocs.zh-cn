@@ -34,6 +34,7 @@
     "dest": "EMDocs",
     "template": "docs.html",
     "globalMetadata": {
+      "bilingual_type": "hover over", 
       "layout": "Conceptual",
       "breadcrumb_path": "/enterprise-mobility/toc.json"
     }
