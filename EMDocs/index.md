@@ -4,18 +4,18 @@ title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: True
-ms.openlocfilehash: 6dc5bd67d9804e6d62380a0f0688adebbac5f8fc
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: f3e0be3b7d605419749657fb91faccb8bccb5e8e
+ms.sourcegitcommit: e0ad41be38cdf437da6913e3ef32bd4437d336db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 08/30/2017
 ---
 <div id="main" class="v2">
     <div class="container">
         <h1>企业移动性 + 安全性文档</h1>
         <ul class="pivots">
             <li>
-                <a href="#products">产品 + 服务</a>
+                <a href="#products">产品</a>
                 <ul id="products">
                     <li>
                         <a href="#products-all"></a>
@@ -177,7 +177,7 @@ ms.lasthandoff: 07/25/2017
                 </ul>
             </li>
             <li>
-                <a href="#solutions">解决方案</a>
+<!--                <a href="#solutions">Solutions</a>
                 <ul id="solutions">
                     <li>
                         <a href="#SolutionsPanel1"></a>
@@ -193,8 +193,8 @@ ms.lasthandoff: 07/25/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>托管移动工作效率</h3>
-                                                    <p>了解如何使用 Intune 保护 Office 365 公司数据、使用 Intune 保护本地公司数据和使用 Intune 保护公司数据（而不管理设备）。</p>
+                                                    <h3>Managed Mobile Productivity</h3>
+                                                    <p>Learn how to protect Office 365 company data with Intune, protect on-premises company data with Intune, and protect company data (without managing devices) with Intune.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -212,8 +212,8 @@ ms.lasthandoff: 07/25/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>标识和访问管理</h3>
-                                                    <p>Azure Active Directory 如何通过为访问云和本地资源的 SaaS 应用程序用户提供通用身份，提高用户工作效率。</p>
+                                                    <h3>Identity and Access Management</h3>
+                                                    <p>Learn how Azure Active Directory makes your users more productive by providing a common identity for SaaS application users accessing both cloud and on-prem resources.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -231,8 +231,8 @@ ms.lasthandoff: 07/25/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>标识驱动安全</h3>
-                                                    <p>采用更全面的创新安全方法，保护、检测和应对本地和云中的各种威胁。</p>
+                                                    <h3>Identity Driven Security</h3>
+                                                    <p>Take a more holistic and innovation approach to security to protect, detect, and respond to threats of all kinds on-premises and in the cloud.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -250,8 +250,8 @@ ms.lasthandoff: 07/25/2017
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>信息保护</h3>
-                                                    <p>了解如何使用分类、标记和保护来保持数据安全，内部和外部共享敏感数据，跟踪共享数据的使用情况，并响应数据滥用行为。</p>
+                                                    <h3>Information Protection</h3>
+                                                    <p>Learn how to secure data using classification, labeling, and protection, share sensitive data internally and externally, and track usage of shared data and respond to data abuse.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -263,6 +263,7 @@ ms.lasthandoff: 07/25/2017
                 </ul>
             </li>
             <li>
+-->
                 <a href="#more">更多资源</a>
                 <ul id="more">
                     <li>
