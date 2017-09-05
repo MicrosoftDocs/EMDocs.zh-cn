@@ -8,20 +8,45 @@
       "build_source_folder": "EMDocs",
       "build_output_subfolder": "EMDocs",
       "locale": "zh-cn",
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
-      }
+      },
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     },
     {
       "docset_name": "EMSolutions",
       "build_source_folder": "EMDocs/Solutions",
       "build_output_subfolder": "EMDocs/Solutions",
       "locale": "zh-cn",
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
-      }
+      },
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
+    },
+    {
+      "docset_name": "microsoft-365-enterprise",
+      "build_source_folder": "microsoft-365-enterprise",
+      "build_output_subfolder": "microsoft-365-enterprise",
+      "locale": "zh-cn",
+      "monikers": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "moniker_groups": [],
+      "version": 0
     }
   ],
   "notification_subscribers": [
@@ -45,8 +70,14 @@
       "branch_mapping": {}
     },
     {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
       "path_to_root": "_repo.en-us",
-      "url": "https://github.com/Microsoft/EMDocs-pr",
+      "url": "https://github.com/MicrosoftDocs/EMDocs-pr",
       "branch": "live",
       "branch_mapping": {
         "live": "live",
@@ -54,5 +85,10 @@
       }
     }
   ],
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "Targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  }
 }
