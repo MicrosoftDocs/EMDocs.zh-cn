@@ -14,10 +14,10 @@ ms.assetid: 7bfee675-ec69-479c-bda2-f807bbb55712
 ms.reviewer: 
 ms.suite: ems
 ms.openlocfilehash: 2b11d1d3118ce7a2414513b56cf6cfce1b2877ce
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.sourcegitcommit: a30ec511aede871310357f771498079e18286c8e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 09/12/2017
 ---
 # <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持 FAQ
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。 管理员可以通过 [Office 365 门户](https://portal.office.com/Default.aspx?SkipSspr=true)或与 [Office 365 支持](https://support.office.com/article/Contact-Office-365-for-business-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?CorrelationId=c1f4c670-18b3-41ec-81c9-e8d383caa6ad)联系以请求支持。
