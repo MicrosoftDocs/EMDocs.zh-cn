@@ -1,35 +1,32 @@
 ---
-title: "Microsoft 365 Enterprise 文档 | Microsoft Docs"
+title: "Microsoft 365 Enterprise 服务概述 | Microsoft Docs"
 description: "本内容概述了 Microsoft 365 Enterprise 和可供企业采纳的建议。"
 author: jeffgilb
 manager: femila
 ms.prod: microsoft-365-business
 ms.topic: article
-ms.date: 08/01/2017
+ms.date: 08/23/2017
 ms.author: jeffgilb
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: e5d8dd792837456b7e760653c6574dc87f173128
-ms.sourcegitcommit: 3bfff5fcd8746d8d6ea6e2d494ca8742f54e973f
+ms.openlocfilehash: fd15e4215ec60a510cb5d6892b53f11f94fec84d
+ms.sourcegitcommit: 5b34af60e3aac19d618f1c6297da91e2c050a374
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/02/2017
+ms.lasthandoff: 09/09/2017
 ---
-# <a name="microsoft-365-enterprise-documentation"></a>Microsoft 365 Enterprise 文档
-作为完整的智能解决方案，Microsoft 365 Enterprise 包括 Office 365、Windows 10 和企业移动性 + 安全性 (EMS)，让所有人都能够尽情挥洒创意，并安全地开展合作。 
-
-Microsoft 365 Enterprise 专为大型组织而设计，集成了 Office 365 企业版、Windows 10 企业版和 EMS。 
-
+# <a name="microsoft-365-enterprise-services-and-concepts"></a>Microsoft 365 Enterprise 服务与概念
+Microsoft 365 Enterprise 专为大型组织而设计，集成了 Office 365 企业版、Windows 10 企业版和 EMS。
 
 ## <a name="microsoft-365-services-overview"></a>Microsoft 365 服务概述
 
 本部分概述了 Microsoft 365 Enterprise 随附的 EMS 和 Office 365 服务，并介绍了一些必须掌握的核心概念，以便读者可以了解如何充分利用此解决方案来满足组织需求。 借助这些服务提供的功能，Microsoft 云企业管理员不仅可以保护公司员工的标识和设备，还可以控制对公司数据本身的访问（无论是在传输中，还是在静态状态下）。
- 
+
 |服务|描述|
 |-------|-----------|
 |[Microsoft Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-whatis)|Azure AD 提供一整套标识管理功能，包括多重身份验证、设备注册、自助式密码管理、自助式组管理、基于角色的访问控制、应用程序使用情况监视、各种审核以及安全监视和警报。|
-|[Azure AD Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-identityprotection)|借助此服务，可以检测影响组织标识的潜在漏洞，并通过条件访问策略配置对低、中、高登录风险和用户风险的自动响应。|
-|[Azure AD Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/active-directory-privileged-identity-management-configure)|借助此服务，组织可以将永久有权执行特权操作的用户数降至最低；Azure AD Privileged Identity Management 引入了符合条件的管理员这一概念。 符合条件的管理员应为偶尔（而不是每天）需要特权的用户。 在用户需要访问权限之前，此角色处于非活动状态。完成激活过程后，此管理员角色将在预先确定的一段时间内处于活动状态。|
+|[Azure AD Identity Protection](https://docs.microsoft.com/azure/active-directory/active-directory-identityprotection)|借助此服务，可以检测影响组织标识的潜在漏洞，并通过条件访问策略配置对低、中、高登录风险和用户风险的自动响应。|
+|[Azure AD Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/active-directory-privileged-identity-management-configure)|借助此服务，组织可以将永久有权执行特权操作的用户数降至最低；Azure AD Privileged Identity Management 引入了符合条件的管理员这一概念。符合条件的管理员应为偶尔（而不是每天）需要特权的用户。 在用户需要访问权限之前，此角色处于非活动状态。完成激活过程后，此管理员角色将在预先确定的一段时间内处于活动状态。|
 |[Azure 信息保护](https://docs.microsoft.com/information-protection/understand-explore/what-is-information-protection)| Azure 信息保护是基于云的解决方案，属于 EMS E5 产品/服务，可有助于组织分类、标示和保护文档和电子邮件。 这可以由定义规则和条件的管理员自动进行、由用户手动进行或是组合进行（在这种情况下会向用户提供建议）。 可使用 Azure 信息保护标签对文档和电子邮件应用分类。 执行此操作时，分类在任何时候都是可识别的，无论数据的存储位置在哪或者与谁共享数据。 <br><br>Azure 信息保护策略设置受 [Azure Rights Management](https://docs.microsoft.com/information-protection/understand-explore/what-is-azure-rms) 保护。 与标签的应用方式类似，使用 Rights Management 应用的保护会一直为文档和电子邮件提供保护，与位置无关（无论是在组织内外、网络内外、文件服务器内外，还是在应用程序内外）。|
 |[Microsoft Intune](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)|Intune 是一种基于云的企业移动管理 (EMM) 服务，可帮助员工提高工作效率，同时保护企业数据。 Intune 与 Azure AD 紧密集成以提供标识和访问控制，Intune 可用于管理设备和应用程序。 [Intune 设备管理](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)功能用于配置和保护用户设备，包括 Windows 电脑。 <br><br>Intune 设备管理功能支持[自带设备办公 (BYOD)](https://docs.microsoft.com/enterprise-mobility-security/solutions/enable-byod) 注册，以便用户能够注册个人手机、平板电脑或电脑；此外，还支持[企业自有设备 (COD)](https://docs.microsoft.com/enterprise-mobility-security/solutions/issue-corp-devices) 注册，从而支持自动注册、共享设备或预授权的注册需求配置等管理方案。 为提高安全性，甚至可以要求必须通过 MFA 才能注册设备。 注册管理功能后，Intune 可以配置设备功能和设置，以实现对公司资源的安全访问。|
 
@@ -49,12 +46,16 @@ Microsoft 365 Enterprise 专为大型组织而设计，集成了 Office 365 企�
 |Microsoft 标识中转站|Microsoft 为每个移动平台提供应用，以允许跨不同供应商的应用桥接凭据，并提供需要从一个安全位置验证凭据的特殊增强功能。 我们称之为“中转站”。 在 iOS 和 Android 上，这些中转站是通过 Microsoft Authenticator 和 Intune 公司门户应用提供。 在 Windows 10 中，此功能由操作系统中内置的帐户选择器提供，在技术上称为“Web 身份验证中转站”。|
 
 ## <a name="security-best-practices-and-recommendations"></a>安全最佳做法和建议
+并不存在适用于所有客户环境的最佳建议，[推荐的安全策略和配置](microsoft-365-policies-configurations.md)一文介绍了应了解的重要安全最佳实践概念。 本文还介绍了一些通用的 Microsoft 建议，这些建议针对如何在 Microsoft 云中应用策略和配置，以确保员工在安全的环境中高效工作。
 
 ### <a name="baseline-recommended-security-policies-and-configurations"></a>推荐的基线安全策略和配置
-尽管没有对所有客户环境都适用的最佳建议，但[推荐的安全策略和配置](microsoft-365-policies-configurations.md)最佳做法介绍了 Microsoft 一般建议，让用户了解如何在 Microsoft 云中应用 Microsoft 365 Enterprise 策略和配置设置，以确保员工安全高效地工作。 
+[通用身份识别与设备访问策略建议](identity-access-policies.md)介绍了一些通用的策略，这些策略可帮助你保护 Microsoft 365 Enterprise。 此外，还介绍了我们为了向用户提供最佳 SSO 体验而推荐的默认平台客户端配置，以及条件访问的技术先决条件。
 
-### <a name="secure-email-recommended-policies"></a>推荐的安全电子邮件策略
-本文中[推荐的安全电子邮件策略](secure-email-recommended-policies.md)提供了策略建议，有助于保护支持新式验证和条件访问的组织电子邮件和电子邮件客户端。 此外，还介绍了我们为了向用户提供最佳 SSO 体验而推荐的默认平台客户端配置，以及条件访问的技术先决条件。
+### <a name="exchange-online-access-policies"></a>Exchange Online 访问策略
+Microsoft 在[可帮助保护电子邮件的策略建议](secure-email-recommended-policies.md)中提供了建议，可帮助你保护支持新式验证和条件访问的组织电子邮件和电子邮件客户端。 这些建议是[通用身份识别与设备访问策略建议](identity-access-policies.md)的补充。
+
+### <a name="sharepoint-online-access-policies"></a>SharePoint Online 访问策略
+除[通用身份识别与设备访问策略建议](identity-access-policies.md)和[可帮助保护电子邮件的策略建议](secure-email-recommended-policies.md)外，[保护 SharePoint Online 文件访问](sharepoint-file-access-policies.md)中也提供了建议。 本文介绍了必须创建哪些新策略，以及应如何修订现有策略，以保护 Exchange Online 电子邮件和 SharePoint Online 文件访问。
 
 ## <a name="learn-more"></a>了解详细信息
-[Microsoft 365 Enterprise 产品页](https://www.microsoft.com/microsoft-365/enterprise) 
+[Microsoft 365 Enterprise 产品页](https://www.microsoft.com/microsoft-365/enterprise)
