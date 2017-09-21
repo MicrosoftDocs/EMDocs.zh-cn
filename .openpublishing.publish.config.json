@@ -7,10 +7,8 @@
       "build_output_subfolder": "EMDocs",
       "locale": "zh-cn",
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
       "template_folder": "_themes",
       "moniker_groups": [],
       "version": 0
@@ -21,10 +19,8 @@
       "build_output_subfolder": "EMDocs/Solutions",
       "locale": "zh-cn",
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
       "template_folder": "_themes",
       "moniker_groups": [],
       "version": 0
@@ -35,12 +31,8 @@
       "build_output_subfolder": "microsoft-365-enterprise",
       "locale": "zh-cn",
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "moniker_groups": [],
@@ -48,8 +40,7 @@
     }
   ],
   "notification_subscribers": [
-    "CnE_Content_Brno@moravia.com",
-    "CnE_UE_Bugfixing_ENG@moravia.com"
+    ""
   ],
   "branches_to_filter": [
     "master-oldev",
@@ -87,13 +78,22 @@
       }
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "need_generate_pdf": false,
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ],
+    "master": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
   "need_generate_intellisense": false,
   "Targets": {
     "Pdf": {
       "template_folder": "_themes.pdf"
     }
-  }
+  },
+  "need_generate_pdf": false
 }
