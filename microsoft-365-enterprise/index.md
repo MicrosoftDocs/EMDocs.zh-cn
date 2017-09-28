@@ -10,10 +10,10 @@ ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
 ms.openlocfilehash: 14f22a558e2e437f1491033eb33858b377eeca9d
-ms.sourcegitcommit: d8588b191a4f9daea73698426dd632e7997140dc
+ms.sourcegitcommit: 3ce5a7e7e86e286f2b82a970d7f0c8e6ff3028f3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2017
+ms.lasthandoff: 09/23/2017
 ---
 # <a name="microsoft-365-enterprise-overview"></a>Microsoft 365 企业版概述
 Microsoft 365 企业版专为大型组织而设计，集成了 Office 365 企业版、Windows 10 企业版和企业移动性 + 安全性 (EMS)，让所有人都能够尽情挥洒创意，并安全地开展协作。 Microsoft 365 企业版包括 Windows 10 企业版，以及 Office 365 专业增强版包含的 Office 应用程序。
