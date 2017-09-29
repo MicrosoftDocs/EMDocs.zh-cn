@@ -11,11 +11,11 @@ ms.prod: microsoft-365-enterprise
 ms.date: 09/25/2017
 title: "Microsoft 365 企业版文档和资源"
 description: "了解有关为 Microsoft 365 企业版 IT 管理员、信息工作者和合作伙伴提供的产品文档和资源。"
-ms.openlocfilehash: 98ab81ac7fa259d46c59d9d82ca35b8c152bbb02
-ms.sourcegitcommit: 713199277733ef415791a3eb5262e4704ffb3311
+ms.openlocfilehash: a2bc1313441a4834b53861abc2e2d6c11d17f701
+ms.sourcegitcommit: 7cda3016f871aa370d1d786a2112c9256e2df209
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2017
+ms.lasthandoff: 09/29/2017
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -688,7 +688,7 @@ ms.lasthandoff: 09/28/2017
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="media/hub-iw-producthelp/iw-product-help-office-help-3.svg" alt="Office Help" />
+                                                        <img src="media/hub-iw-producthelp/iw-product-help-office-help-3b.svg" alt="Office Help" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -1005,7 +1005,7 @@ ms.lasthandoff: 09/28/2017
                 <ul id="partner">
                     <li>
                         <a data-default="true" href="#partner">开始使用</a>
-                        <ul id="partner" class="cardsC">
+                        <ul id="partner" class="cardsW">
                             <li class="fullSpan">
                                 <div class="container intro">
                                     <p>正在寻找可用于 Microsoft 365 企业版合作伙伴的资源？ 从这里开始。</p>
@@ -1062,6 +1062,78 @@ ms.lasthandoff: 09/28/2017
                                                 <div class="cardText">
                                                     <h3>FastTrack 和合作伙伴</h3>
                                                     <p>获得一整套最佳做法、工具、远程协助和资源，帮助你和你的客户移动到 Microsoft 365。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#developer">开发者</a>
+                <ul id="developer">
+                    <li>
+                        <a data-default="true" href="#developer">开始使用</a>
+                        <ul id="developer" class="cardsW">
+                            <li class="fullSpan">
+                                <div class="container intro">
+                                    <p>作为应用开发者，想要了解如何开发企业应用吗？ 从这里开始。</p>
+                                </div>
+                            </li>
+                            <li>
+                                <a href="https://developer.microsoft.com/office" target="_blank">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="media/hub-developer/developer-office-dev-center.svg" alt="Office Dev Center" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Office 开发人员中心</h3>
+                                                    <p>了解如何使用 Office 产品和服务开发解决方案。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://developer.microsoft.com/graph" target="_blank">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="media/hub-developer/ms365enterprise-developer-graph.svg" alt="Microsoft Graph" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Microsoft Graph</h3>
+                                                    <p>了解如何使用 Microsoft Graph 生成更智能的效率类应用。 查找示例、文档、快速入门、样本和 SDK 等。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://docs.microsoft.com/en-us/windows/uwp/enterprise/" target="_blank">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="media/hub-developer/ms365enterprise-developer-uwp-apps.svg" alt="Develop enterprise UWP apps" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>开发企业 UWP 应用</h3>
+                                                    <p>概览适用于 Windows 10 通用 Windows 平台 (UWP) 应用的关键企业功能，包括安全性、数据绑定和企业、网络和数据序列化等。</p>
                                                 </div>
                                             </div>
                                         </div>
