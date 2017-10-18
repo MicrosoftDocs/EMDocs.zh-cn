@@ -111,7 +111,7 @@ Microsoft 已制定联机服务设计和管理方面先进的最佳做法。 该
 * Microsoft 云连接的常见元素：将网络与 Microsoft 云进行集成可提供对范围更为广泛的服务的最佳访问。
 * Microsoft 云连接的 ExpressRoute：ExpressRoute 可提供到 Microsoft 云的私有、专用、高吞吐量网络连接。
 * 设计适用于 Microsoft SaaS（Office 365、Microsoft Intune 和 Dynamics CRM Online）的网络：优化你的 Microsoft SaaS 服务网络需要仔细分析 Internet 边缘、你的客户端设备和典型的 IT 运营状况。
-* 设计适用于 Azure PaaS 的网络：优化 Azure PaaS 应用网络需要有足够的 Internet 带宽，并可以要求网络流量跨多个网站或应用分布。。
+* 设计适用于 Azure PaaS 的网络：优化 Azure PaaS 应用网络需要有足够的 Internet 带宽，并可以要求网络流量跨多个网站或应用分布。
 * 设计 Azure IaaS 的网络：逐步调试设计过程以创建最佳的 Azure 虚拟网络 (VNet)，以便托管基于服务器的 IT 负载，包括子网、地址空间、路由、DNS、负载均衡以及本地网络的连接性、其他 VNet 和 Internet。
 
 学习此体系结构海报宣传的 Microsoft Virtual Academy 新课程[让网络更适合 Microsoft 云产品/服务](https://mva.microsoft.com/training-courses/optimize-your-network-for-microsoft-cloud-offerings-17743)。
