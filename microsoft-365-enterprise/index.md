@@ -11,11 +11,11 @@ ms.prod: microsoft-365-enterprise
 ms.date: 09/25/2017
 title: "Microsoft 365 企业版文档和资源"
 description: "了解有关为 Microsoft 365 企业版 IT 管理员、信息工作者和合作伙伴提供的产品文档和资源。"
-ms.openlocfilehash: a2bc1313441a4834b53861abc2e2d6c11d17f701
-ms.sourcegitcommit: 7cda3016f871aa370d1d786a2112c9256e2df209
+ms.openlocfilehash: d8e1842574b3edf56249a4db0084ad90724320d5
+ms.sourcegitcommit: 586bfc33601ccc5f3c05ff5c4157eddb9eef4479
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/18/2017
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -328,7 +328,7 @@ ms.lasthandoff: 09/29/2017
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1">
-                                                        <img src="media/hub-itadmin-security/admin-security-configurations-1.svg" alt="Identity and device access configurations" />
+                                                        <img src="media/hub-itadmin-security/admin-security-identity-access-configs-1.svg" alt="Identity and device access configurations" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -353,6 +353,25 @@ ms.lasthandoff: 09/29/2017
                                                 <div class="cardText">
                                                     <h3>保护 SharePoint Online 网站和文件</h3>
                                                     <p>获取保护 SharePoint Online 团队网站和文件的相关建议，并逐步了解如何进行配置（包括开发/测试环境）。</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://docs.microsoft.com/windows/threat-protection" target="_blank">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1">
+                                                        <img src="media/hub-itadmin-security/admin-security-windows10-threats-5.svg" alt="Security guidance for political campaigns, nonprofits, and other agile organizations" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>企业的威胁防护和安全性</h3>
+                                                    <p>了解如何帮助组织实现 Windows 10 的威胁防护。</p>
                                                 </div>
                                             </div>
                                         </div>
