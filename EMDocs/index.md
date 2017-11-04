@@ -4,11 +4,12 @@ title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: True
-ms.openlocfilehash: f3e0be3b7d605419749657fb91faccb8bccb5e8e
-ms.sourcegitcommit: e0ad41be38cdf437da6913e3ef32bd4437d336db
+featureFlags: clicktale
+ms.openlocfilehash: a951778f2ef4ad137419551c049c5dbe92efd5e6
+ms.sourcegitcommit: a7fd3ad8a351e9cc72ea37486342a273ed29b883
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2017
+ms.lasthandoff: 11/03/2017
 ---
 <div id="main" class="v2">
     <div class="container">
