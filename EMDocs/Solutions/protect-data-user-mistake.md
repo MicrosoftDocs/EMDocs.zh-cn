@@ -13,11 +13,11 @@ ms.assetid: 0af3894c-7b0e-4c0c-8874-31e041d81300
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: information-protection
-ms.openlocfilehash: 4c6c81cd9d59f402c1ce458e54063e2986324c5b
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 5836807982072f9115e49db17c8c6560c23d2c11
+ms.sourcegitcommit: a7fd3ad8a351e9cc72ea37486342a273ed29b883
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 11/03/2017
 ---
 # <a name="protect-data-against-user-mistakes"></a>针对用户错误保护数据
 
@@ -60,15 +60,15 @@ ms.lasthandoff: 07/25/2017
 
 现今大多数企业都在使用云应用程序，云中存储的企业数据超过本地存储的企业数据的时代将很快到来。 很多时候，用户会在未经公司同意或公司不知情的情况下从其设备上使用 SaaS 应用，这会导致影子 IT 的云使用率增加。 此结论根据多项研究结果得出，研究显示 80% 的员工表示其出于工作需要在未经批准的情况下使用 SaaS 应用。 [Cloud App Security](https://technet.microsoft.com/library/mt657567.aspx) 提供组织中正在使用的所有云应用的详细总览。 它会标识访问应用程序的所有用户和 IP 地址。 还能对超过 13,000 个云应用执行风险评估，并基于 60 多项参数提供每个应用的自动风险评分。 
 
-执行步骤 1 以发现环境中的云应用，并实施策略以控制这些应用。 此解决方案的第二个阶段将实现 [Azure 信息保护](https://docs.microsoft.com/en-us/information-protection/get-started/requirements)，目的是保护数据并进行分类，这有助于减少用户出错和误用数据的情况。
+执行步骤 1 以发现环境中的云应用，并实施策略以控制这些应用。 此解决方案的第二个阶段将实现 [Azure 信息保护](https://docs.microsoft.com/information-protection/get-started/requirements)，目的是保护数据并进行分类，这有助于减少用户出错和误用数据的情况。
 
 ### <a name="step-1-discover-cloud-apps-in-use-and-control-them-with-policy"></a>步骤 1：发现使用中的云应用并使用策略进行控制
 
-使用 Cloud App Security 的第一步是[发现应用](https://technet.microsoft.com/en-us/library/mt657567.aspx)。 如果跳过此步骤，则不会有可进行分析和使用策略进行限制的应用。 如果没有启动发现流程，Cloud App Security 仪表板中的“发现”选项将显示以下消息：
+使用 Cloud App Security 的第一步是[发现应用](https://technet.microsoft.com/library/mt657567.aspx)。 如果跳过此步骤，则不会有可进行分析和使用策略进行限制的应用。 如果没有启动发现流程，Cloud App Security 仪表板中的“发现”选项将显示以下消息：
 
 ![显示消息的屏幕截图，消息指示用户尚未上传 Cloud Discovery 日志。](./media/protect-data-user-mistake/protect-data-user-mistake-fig2-1.png)
 
-发现组织中正在使用哪些应用是确保企业敏感数据受到保护的第一步。 发现过程完成后，[Cloud Discovery 仪表板](https://technet.microsoft.com/en-us/library/mt727946.aspx)下将会显示发现的应用的列表。
+发现组织中正在使用哪些应用是确保企业敏感数据受到保护的第一步。 发现过程完成后，[Cloud Discovery 仪表板](https://technet.microsoft.com/library/mt727946.aspx)下将会显示发现的应用的列表。
 
 ![屏幕截图，显示 Cloud Discovery 仪表板和发现的应用的列表。](./media/protect-data-user-mistake/protect-data-user-mistake-fig3.png)
 
@@ -88,7 +88,7 @@ ms.lasthandoff: 07/25/2017
 
 ### <a name="step-2-protect-data-on-premises-or-in-the-cloud"></a>步骤 2：保护本地或云中的数据
 
-实现此解决方案之前，请先查看 [Azure 信息保护](https://docs.microsoft.com/en-us/information-protection/get-started/infoprotect-tutorial-step1)的要求。
+实现此解决方案之前，请先查看 [Azure 信息保护](https://docs.microsoft.com/information-protection/get-started/infoprotect-tutorial-step1)的要求。
 
 Microsoft Azure 信息保护可帮助在创建数据时对数据进行分类和添加标记。 然后可将保护（加密 + 身份验证 + 使用权）应用于敏感数据。 分类标记和保护会始终伴随数据，以便数据可识别并随时受到保护，而无需考虑其存储位置和共享对象。 计划实现信息保护策略和标签时，请使用以下指南：
 
@@ -109,15 +109,15 @@ Azure 信息保护附带默认标签，但是可以自定义并创建用户可�
 ![屏幕截图，显示在“机密”标签下创建的自定义子标签。 ](./media/protect-data-user-mistake/protect-data-user-mistake-fig7.png)
 
 
-在定义使用（默认或自定义）标签的方式后，[配置标签以应用权限管理保护](https://docs.microsoft.com/en-us/rights-management/information-protection/configure-policy-protection#to-configure-a-label-to-apply-rights-management-protection)。
+在定义使用（默认或自定义）标签的方式后，[配置标签以应用权限管理保护](https://docs.microsoft.com/rights-management/information-protection/configure-policy-protection#to-configure-a-label-to-apply-rights-management-protection)。
 
 通过 Azure 信息保护，将数据分类和保护控件集成到 Office 和其他常见应用程序。 此集成提供简单的单击选项以保护用户处理的数据。 在 Azure 门户中，管理员可以将预定义的模式（如“信用卡号”或“美国社会保障号”）用作自动分类的条件。 或者，管理员可以使用文本模式和正则表达式来定义自定义字符串或模式。
 
-配置标签的条件时，可以自动将标签分配到文档/电子邮件，或者也可以提示用户选择建议的标签。 有关如何执行此配置的详细信息，请阅读[如何配置 Azure 信息保护的自动和建议分类的条件](https://docs.microsoft.com/en-us/rights-management/information-protection/configure-policy-classification)。
+配置标签的条件时，可以自动将标签分配到文档/电子邮件，或者也可以提示用户选择建议的标签。 有关如何执行此配置的详细信息，请阅读[如何配置 Azure 信息保护的自动和建议分类的条件](https://docs.microsoft.com/rights-management/information-protection/configure-policy-classification)。
 
 > [!NOTE]
-> 有关数据分类和保护的详细信息，请阅读[使用分类、标记和保护来保护数据](https://docs.microsoft.com/en-us/enterprise-mobility-security/solutions/infoprotect-secure-classify-scenario)。
+> 有关数据分类和保护的详细信息，请阅读[使用分类、标记和保护来保护数据](https://docs.microsoft.com/enterprise-mobility-security/solutions/infoprotect-secure-classify-scenario)。
 
 ## <a name="next-steps"></a>后续步骤
 
-Microsoft Cloud App Security 提供了一个全面的解决方案，可用于发现、监视、控制和保护云应用程序中的活动和数据。 Cloud App Security 可帮助 IT 管理员使用 Azure 信息保护直接在 Cloud App Security 控制台中进行加密。 通过与 Azure 信息保护进行集成，现在可以根据需要对 SharePoint Online 和 One Drive for Business 中存储的文件进行一般保护。 若要详细了解 Cloud App Security 与 Azure 信息保护的集成，请参阅 [Azure 信息保护集成](https://docs.microsoft.com/en-us/cloud-app-security/azip-integration)。
+Microsoft Cloud App Security 提供了一个全面的解决方案，可用于发现、监视、控制和保护云应用程序中的活动和数据。 Cloud App Security 可帮助 IT 管理员使用 Azure 信息保护直接在 Cloud App Security 控制台中进行加密。 通过与 Azure 信息保护进行集成，现在可以根据需要对 SharePoint Online 和 One Drive for Business 中存储的文件进行一般保护。 若要详细了解 Cloud App Security 与 Azure 信息保护的集成，请参阅 [Azure 信息保护集成](https://docs.microsoft.com/cloud-app-security/azip-integration)。

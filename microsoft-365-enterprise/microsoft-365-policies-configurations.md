@@ -9,11 +9,11 @@ ms.date: 08/30/2017
 ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: 869fd439cfd1dc1fa74bf108341fec18929d92a3
-ms.sourcegitcommit: d8588b191a4f9daea73698426dd632e7997140dc
+ms.openlocfilehash: d08bc136e3842e8384e5c562df1a2fb543786ced
+ms.sourcegitcommit: feb1e385af0bc2a2eba56e5c2d1e8b4ba8866126
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2017
+ms.lasthandoff: 10/27/2017
 ---
 # <a name="recommended-security-policies-and-configurations"></a>推荐的安全策略和配置
 
@@ -48,7 +48,6 @@ ms.lasthandoff: 09/13/2017
 在 Azure AD 中验证了凭据和/或 SSO 项目，并评估了所有适用策略后，会为资源提供程序（在上图中为 Office 365）发布一个访问令牌。 Azure AD 也会发布一个 SSO 项目作为响应的一部分，允许客户端在后续请求中实现 SSO。 客户端会存储 SSO 项目，并将访问令牌作为标识的证明提交给资源提供程序。 Office 365 在验证访问令牌并执行必要的检查后，会向客户端授予对文档的访问权限。
 
 #### <a name="single-sign-on-sso-refresh-tokens"></a>单一登录 (SSO) 刷新令牌
-
 可通过多种方式实现 SSO。 例如，可使用来自标识提供者的 Cookie 作为 SSO 项目，在浏览器内存储用户的单一登录状态。 以后即可使用相同的标识提供者，以无提示方式登录（不会出现任何要求提供凭据的提示）应用程序。
 
 用户向 Azure AD 进行身份验证时，将通过用户的浏览器和 Azure AD 建立一个 SSO 会话。 SSO 令牌以 Cookie 形式表示此会话。 Azure AD 使用两种 SSO 会话令牌：持久型和非持久型。 在登录过程中，如果选中“使我保持登录状态”复选框，则浏览器将持久会话令牌存储为持久 Cookie。 非持久会话令牌存储为会话 Cookie，在浏览器关闭时被销毁。
