@@ -1,19 +1,19 @@
 ---
 title: "标识和设备访问策略概述 - Microsoft 365 企业版 | Microsoft Docs"
 description: "介绍针对有关如何应用标识和设备访问策略以及配置的 Microsoft 建议的策略。"
-author: jeffgilb
-manager: femila
+author: barlanmsft
+manager: angrobe
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 08/30/2017
-ms.author: jeffgilb
+ms.date: 10/27/2017
+ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: 36cf308ea2e00b3c291b0e23f5fd3250136eaaf2
-ms.sourcegitcommit: 0e0a15476e3bbd2d4ac6101c2cedd02e082ee25d
+ms.openlocfilehash: 46a63151471a10b578ffaf3bddb27ddfcd5500a5
+ms.sourcegitcommit: feb1e385af0bc2a2eba56e5c2d1e8b4ba8866126
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 10/27/2017
 ---
 # <a name="general-identity-and-device-access-policy-recommendations"></a>常规标识和设备访问策略建议
 本文介绍了通用的建议策略，这些策略可帮助保护 Microsoft 365 企业版。 此外，还介绍了我们为了向用户提供最佳 SSO 体验而推荐的默认平台客户端配置，以及条件访问的技术先决条件。
@@ -54,7 +54,7 @@ ms.lasthandoff: 09/01/2017
 
 
 ### <a name="recommended-client-platforms-when-securing-documents"></a>保护文档时推荐使用的客户端平台
-应用安全文档策略时，建议使用以下客户端。 
+应用安全文档策略时，建议使用以下客户端。
 
 |平台|Word/Excel/PowerPoint|OneNote|OneDrive 应用|SharePoint 应用|OneDrive 同步客户端|
 |:-------|:-----|:------------|:-------|:-------------|:-----|
@@ -73,7 +73,7 @@ ms.lasthandoff: 09/01/2017
 > 以下建议基于电子邮件的三个不同安全和保护层，用户可以根据自身的需求粒度来应用这些层：基线、敏感数据和高度管控。 有关这些建议引用的安全层和推荐客户端操作系统的详细信息，请参阅[推荐的安全策略和配置说明](microsoft-365-policies-configurations.md)。
 
 
-## <a name="baseline"></a>Baseline 
+## <a name="baseline"></a>Baseline
 本部分介绍针对数据、标识和设备保护的基线层的建议。 这些建议可满足许多组织的默认保护需求。
 
 >[!NOTE]
@@ -82,7 +82,7 @@ ms.lasthandoff: 09/01/2017
 
 ### <a name="conditional-access-policy-settings"></a>条件访问策略设置
 
-#### <a name="identity-protection"></a>标识保护 
+#### <a name="identity-protection"></a>标识保护
 如前所述，可为用户提供单一登录 (SSO) 体验。 仅需根据[风险事件](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-risk-events)在必要时介入。  
 
 * 要求在具有中级或以上登录风险时执行 MFA
@@ -92,7 +92,7 @@ ms.lasthandoff: 09/01/2017
 >此策略建议需要[密码同步](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-synchronization)和[自助服务密码重置](https://docs.microsoft.com/azure/active-directory/active-directory-passwords)。
 >
 
-#### <a name="data-loss-prevention"></a>数据丢失防护 
+#### <a name="data-loss-prevention"></a>数据丢失防护
 设备和应用管理策略专用于在设备丢失或被盗时防止数据丢失。 要实现此目标，请确保对数据的访问权限受 PIN 保护、设备上的数据已加密，且设备未被损害。
 
 |策略建议|说明|
@@ -107,19 +107,19 @@ ms.lasthandoff: 09/01/2017
 
 对于大多数组织，必须能够设置用户需要登录 Office 365 才可访问其电子邮件的时间和状况。  
 
-用户通常可受益于单一登录 (SSO)，但下列情形除外： 
+用户通常可受益于单一登录 (SSO)，但下列情形除外：
 * 为 Exchange Online 请求身份验证令牌时：
   * 每当检测到中级或以上的登录风险，且用户尚未在当前会话中执行 MFA 时，系统可能会要求用户执行 MFA。  
-  * 用户需要使用支持 Intune 应用保护 SDK 的电子邮件应用，或从 Intune 兼容设备或已加入 AD 域的设备访问电子邮件。 
+  * 用户需要使用支持 Intune 应用保护 SDK 的电子邮件应用，或从 Intune 兼容设备或已加入 AD 域的设备访问电子邮件。
 * 如果用户登录存在风险，且已成功完成 MFA，系统会要求其更改密码。
 
 ## <a name="sensitive"></a>敏感
-本部分介绍针对数据、标识和设备保护的敏感层的建议。 这些建议适用于以下客户：其部分数据必须受到较高级别的保护，或者其所有数据都需要较高级别的保护。 
+本部分介绍针对数据、标识和设备保护的敏感层的建议。 这些建议适用于以下客户：其部分数据必须受到较高级别的保护，或者其所有数据都需要较高级别的保护。
 
-可对 Office 365 环境中的所有或特定数据集应用增强的保护。 例如，可通过应用相关策略来确保仅在受保护的应用之间共享敏感数据，防止数据丢失。 建议以与安全性相当的级别保护访问敏感数据的标识和设备。 
+可对 Office 365 环境中的所有或特定数据集应用增强的保护。 例如，可通过应用相关策略来确保仅在受保护的应用之间共享敏感数据，防止数据丢失。 建议以与安全性相当的级别保护访问敏感数据的标识和设备。
 
 ### <a name="conditional-access-policy-settings"></a>条件访问策略设置
-#### <a name="identity-protection"></a>标识保护 
+#### <a name="identity-protection"></a>标识保护
 
 如前所述，可为用户提供单一登录 (SSO) 体验。 仅需根据[风险事件](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-risk-events)在必要时介入。   
 
@@ -130,7 +130,7 @@ ms.lasthandoff: 09/01/2017
 >此策略建议需要[密码同步](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-synchronization)和[自助服务密码重置](https://docs.microsoft.com/azure/active-directory/active-directory-passwords)。
 >
 
-#### <a name="data-loss-prevention"></a>数据丢失防护 
+#### <a name="data-loss-prevention"></a>数据丢失防护
 
 这些设备和应用管理策略专用于在设备丢失或被盗时防止数据丢失。 要实现此目标，请确保对数据的访问权限受 PIN 保护、设备上的数据已加密，且设备未被损害。
 
@@ -143,19 +143,19 @@ ms.lasthandoff: 09/01/2017
 |将 Intune 应用保护策略应用于在非托管设备上运行的托管应用|要将 Intune 应用保护策略应用于在非托管个人移动设备上运行的托管应用，需要：最小长度为 6 的 PIN、设备加密以及运行正常的设备（没有越狱、没有取得 root 权限；通过运行状况证明）。|
 
 ### <a name="user-impact"></a>用户影响
-对于大多数组织，必须能够设置用户需要登录 Office 365 电子邮件的特定时间和状况。 
+对于大多数组织，必须能够设置用户需要登录 Office 365 电子邮件的特定时间和状况。
 
-用户通常可受益于单一登录 (SSO)，但下列情形除外： 
+用户通常可受益于单一登录 (SSO)，但下列情形除外：
 * 为 Exchange Online 请求身份验证令牌时：
   * 每当检测到低级或以上的登录风险，且用户尚未在当前会话中执行 MFA 时，系统会要求用户执行 MFA。  
-  * 用户需要使用支持 Intune 应用保护 SDK 的电子邮件应用，或从 Intune 兼容设备或已加入 AD 域的设备访问电子邮件。 
+  * 用户需要使用支持 Intune 应用保护 SDK 的电子邮件应用，或从 Intune 兼容设备或已加入 AD 域的设备访问电子邮件。
 * 如果用户登录存在风险，且已成功完成 MFA，系统会要求其更改密码。
 
 ## <a name="highly-regulated"></a>高度管控
-本部分介绍针对数据、标识和设备保护的高度管控层的建议。 某些建议适用于有极少量数据属于高度机密、商业机密或监管数据的客户。 Microsoft 提供多种功能，帮助组织满足相关要求，包括为标识和设备添加保护。 
+本部分介绍针对数据、标识和设备保护的高度管控层的建议。 某些建议适用于有极少量数据属于高度机密、商业机密或监管数据的客户。 Microsoft 提供多种功能，帮助组织满足相关要求，包括为标识和设备添加保护。
 
 ### <a name="conditional-access-policy-settings"></a>条件访问策略设置
-#### <a name="identity-protection"></a>标识保护 
+#### <a name="identity-protection"></a>标识保护
 
 对于高度管控层，Microsoft 建议对所有新会话强制执行 MFA。
 * 要求对所有新会话执行 MFA
@@ -170,7 +170,7 @@ ms.lasthandoff: 09/01/2017
 
 对于高度管控层，建议要求支持 Intune 应用保护策略的应用仅在 Intune 兼容设备或已加入域的设备上运行。
 
-|策略建议|说明|
+|策略建议|描述|
 |:--------------------|:----------|
 |要求用户进行电脑管理|要求用户将其 Windows 电脑加入 Active Directory 域，或使用 Intune 或 Configuration Manager 向管理系统注册其电脑，并在允许电子邮件访问前确保这些设备符合策略要求。|
 |通过组策略对象 (GPO) 或已加入域的电脑的 Configuration Manager 策略来应用安全设置|部署用于配置托管电脑的策略，以启用 BitLocker、防病毒软件和防火墙。|
@@ -178,15 +178,15 @@ ms.lasthandoff: 09/01/2017
 |在托管设备上应用 Intune 设备符合性策略|要为托管的公司移动设备和由 Intune 管理的电脑应用 Intune 设备符合性策略，需要：最小长度为 6 的 PIN、设备加密、正常运行的设备（没有越狱、没有取得 root 权限、通过运行状况证明），并且要求由 Lookout 或 SkyCure 等第三方 MTP 确定的设备风险级别为低（如果可用）。|
 
 ### <a name="user-impact"></a>用户影响
-对于大多数组织，必须能够设置用户需要登录 Office 365 文件的特定时间和状况。 
+对于大多数组织，必须能够设置用户需要登录 Office 365 文件的特定时间和状况。
 
-* 单一登录会话的最长生存期为 1 天。 会话过期后，用户需要通过 MFA 重新进行身份验证。
+* 会话过期后，配置为高度监管的用户需要通过 MFA 重新进行身份验证。
 * 如果用户登录存在风险，则在完成 MFA 后，系统会要求其更改密码。
 * 为 Exchange Online 请求身份验证令牌时：
   * 无论何时开始新会话，系统都会要求用户执行 MFA。  
   * 用户需要使用支持 Intune 应用保护 SDK 的电子邮件应用
-  * 用户需要从 Intune 兼容设备或已加入 AD 域的设备访问电子邮件。 
- 
+  * 用户需要从 Intune 兼容设备或已加入 AD 域的设备访问电子邮件。
+
 ## <a name="next-steps"></a>后续步骤
 
 [了解有关用于保护电子邮件的策略建议](secure-email-recommended-policies.md)

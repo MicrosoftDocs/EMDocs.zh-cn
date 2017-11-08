@@ -5,7 +5,7 @@ keywords:
 author: NathBarn
 ms.author: NathBarn
 manager: angrobe
-ms.date: 02/01/2017
+ms.date: 10/23/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -13,11 +13,11 @@ ms.technology:
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: 
 ms.suite: ems
-ms.openlocfilehash: 77e668d5f638ee2e4b9a9e81a1f9181252fde8b9
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: a68182e4175ca3fe69377319d34f899f3abb7d25
+ms.sourcegitcommit: 6296730f948ec5205fe81adb3585026d169e51f9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 10/24/2017
 ---
 # <a name="microsoft-responsibilities"></a>Microsoft 职责
 
@@ -109,7 +109,16 @@ ms.lasthandoff: 07/25/2017
 -   对于多林环境：
 
     -   安装 Azure AD Connect 同步，为多林方案进行设置。
+-   对于单林和多林环境：
+    -   如果需要，请配置 Azure Active Directory 传递身份验证。
+    -   如果需要，请配置 Azure Active Directory 无缝单一登录 (SSO)。 
+        > [!NOTE]
+        > 如果你的 Active Directory 林之间存在林信任，并且名称后缀路由得到正确配置，则支持多林环境的 Azure Active Directory 传递身份验证。 可在多个本地服务器上安装其他代理，为登录请求提供高可用性。 
 
+    - 有关详细信息，请参阅 [Azure Active Directory 传递身份验证：快速入门] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) 和 [Azure Active Directory 无缝单一登录：快速入门] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。
+    - 有关传递身份验证限制的详细信息，请参阅 [Azure Active Directory 传递身份验证：当前限制] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)。
+    - 有关无缝 SSO 问题的详细信息，请参阅 [解决 Azure Active Directory 无缝单一登录问题] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。
+  
         > [!NOTE]
         > 密码哈希同步和密码写回支持多林。 但是，不支持其他写回方案。
 
@@ -152,6 +161,8 @@ ms.lasthandoff: 07/25/2017
   - 标识保护。
 
   - 特权标识管理。
+  
+  - Azure Active Directory 条件访问。 
 
   - 发至管理员的使用情况和安全报告。
 
