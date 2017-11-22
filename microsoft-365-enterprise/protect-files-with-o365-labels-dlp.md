@@ -1,5 +1,5 @@
 ---
-title: "使用 Office 365 标签和数据丢失防护保护文件 | Microsoft Docs"
+title: "使用 Office 365 标签和数据丢失防护保护 SharePoint Online 文件 | Microsoft Docs"
 description: "为具有各级别信息保护的 SharePoint Online 团队网站应用 Office 365 标签和数据丢失防护 (DLP) 策略。"
 services: active-directory
 keywords: "Office 365, Windows 10, 企业移动性和安全性, Microsoft 365 企业版"
@@ -13,15 +13,15 @@ ms.workload:
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: article
-ms.date: 08/28/2017
+ms.date: 11/15/2017
 ms.author: josephd
-ms.openlocfilehash: e9138c2c563c8081f075ffa3e65ecf917456c23c
-ms.sourcegitcommit: 5b34af60e3aac19d618f1c6297da91e2c050a374
+ms.openlocfilehash: ec400ac466aeb5a20473c00f7a7df488e4b23725
+ms.sourcegitcommit: 684c942047754e93378e271f5b1a659a9752f0ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2017
+ms.lasthandoff: 11/17/2017
 ---
-# <a name="protect-files-with-office-365-labels-and-data-loss-prevention"></a>使用 Office 365 标签和数据丢失防护保护文件
+# <a name="protect-sharepoint-online-files-with-office-365-labels-and-data-loss-prevention"></a>使用 Office 365 标签和数据丢失防护保护 SharePoint Online 文件
 
 ## <a name="introduction"></a>简介
 使用本文中的步骤针对基线、敏感和高度机密的 SharePoint Online 团队网站设计并部署 Office 365 标签和数据丢失防护 (DLP) 策略。 有关三层保护的详细信息，请参阅[保护 SharePoint Online 网站和文件](secure-sharepoint-online-sites-and-files.md)。
@@ -88,7 +88,7 @@ ForEach ($element in $labelNames){ New-ComplianceTag -Name $element }
 5. 在“权限和管理”下，单击“向此库中的项应用标签”。
 6. 在“设置-应用标签”中，选择相应的标签，然后单击“保存”。
 7. 关闭 SharePoint Online 网站的选项卡。
-8. 重复上述步骤以将 Office 365 标签分配给其他 SharePoint Online 网站。
+8. 重复步骤 3-8，将 Office 365 标签分配给其他 SharePoint Online 网站。
 
 生成的配置如下。
 
@@ -111,10 +111,10 @@ ForEach ($element in $labelNames){ New-ComplianceTag -Name $element }
 12. 在“自定义要保护的敏感信息类型”窗格中，单击“下一步”。
 13. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，单击“自定义提示和电子邮件”。
 14. 在“自定义策略提示和电子邮件通知”窗格中，单击“自定义策略提示文本”。
-15. 在文本框中，键入或粘贴以下内容，然后单击“确定”。
+15. 在文本框中，键入或粘贴以下内容：
  * 要与组织外部的用户共享，请下载并打开文件。 依次单击“文件”、“保护文档”、“使用密码加密”，然后指定强密码。 通过单独的电子邮件或其他通信方式发送密码。
  * 或键入或粘贴自己的策略提示，指示用户如何在组织外共享文件。
-16. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，清除“阻止共享和限制访问共享内容”复选框，然后单击“下一步”。
+16. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，单击“确定”，清除“阻止共享并将访问限于共享内容”复选框，然后单击“下一步”。
 17. 在“是否希望立即启用策略或先进行测试?”窗格中，单击“是，立即启用”，然后单击“下一步”。
 18. 在“查看设置”窗格中，单击“创建”，然后单击“关闭”。
 
@@ -131,32 +131,28 @@ ForEach ($element in $labelNames){ New-ComplianceTag -Name $element }
 5. 在“为策略命名”窗格中，在“名称”中键入高度敏感级别 DLP 策略的名称并单击“下一步”。
 6. 在“选择位置”窗格中，单击“允许选择特定位置”，然后单击“下一步”。
 7. 在位置列表中，禁用“Exchange 电子邮件”和“OneDrive 帐户位置”，然后单击“下一步”。
-8. 在“自定义要保护的敏感信息类型”窗格中，单击“编辑”，在“选择要保护的内容类型”窗格中，单击下拉框中的“添加”，然后单击“标签”。
-9.  在“标签”窗格中，单击“+ 添加”，选择“高度机密标签”，依次单击“添加”和“完成”。
-10. 在“选择要保护的信息类型”窗格中，单击“保存”，然后在“自定义要保护的敏感信息类型”窗格中，单击“下一步”。
-11. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，单击“自定义提示和电子邮件”。
-12. 在“自定义策略提示和电子邮件通知”窗格中，单击“自定义策略提示文本”。
-13. 在文本框中，键入或粘贴以下内容，然后单击“确定”：
+8. 在“自定义要保护的敏感信息类型”窗格中，单击“编辑”
+9. 在“选择要保护的内容类型”窗格中，单击下拉框中的“添加”，然后单击“标签”。
+10. 在“标签”窗格中，单击“+ 添加”，选择“高度机密标签”，依次单击“添加”和“完成”。
+11. 在“选择要保护的内容类型”窗格中，单击“保存”。
+12. 在“自定义要保护的敏感信息类型”窗格中，单击“下一步”。
+13. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，单击“自定义提示和电子邮件”。
+14. 在“自定义策略提示和电子邮件通知”窗格中，单击“自定义策略提示文本”。
+15. 在文本框中，键入或粘贴以下内容：
  * 要与组织外部的用户共享，请下载并打开文件。 依次单击“文件”、“保护文档”、“使用密码加密”，然后指定强密码。 通过单独的电子邮件或其他通信方式发送密码。
  * 或键入或粘贴自己的策略提示，指示用户如何在组织外共享文件。
-14. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，选择“需要业务理由进行重写”，然后单击“下一步”。
-15. 在“是否希望立即启用策略或先进行测试?”窗格中，单击“是，立即启用”，然后单击“下一步”。
-16. 在“查看设置”窗格中，单击“创建”，然后单击“关闭”。
+16. 单击" **确定**"。
+17. 在“如果检测到敏感信息，希望采取什么操作?”窗格中，选择“需要业务理由进行重写”，然后单击“下一步”。
+18. 在“是否希望立即启用策略或先进行测试?”窗格中，单击“是，立即启用”，然后单击“下一步”。
+19. 在“查看设置”窗格中，单击“创建”，然后单击“关闭”。
 
 以下为高度机密的 SharePoint Online 团队网站的配置结果。
 
  ![高度机密保护](./media/protect-files-with-o365-labels-dlp/hc_w_dlp.png)
 
-有关详细信息，请参阅[使用 AIP 保护文件](protect-files-with-aip.md)。
-
 ## <a name="next-steps"></a>后续步骤
-[Microsoft 针对政治宣传活动、非营利组织和其他敏捷型组织的安全指南](https://technet.microsoft.com/library/mt493213.aspx)
 
-[保护 SharePoint Online 网站和文件](secure-sharepoint-online-sites-and-files.md)
-
-[在开发/测试环境中保护 SharePoint Online 网站](secure-sharepoint-online-sites-dev-test.md)
-
-[云应用和混合解决方案](https://technet.microsoft.com/library/dn262744.aspx)
+[使用 Azure 信息保护来保护 SharePoint Online 文件](protect-files-with-aip.md)
 
 
 

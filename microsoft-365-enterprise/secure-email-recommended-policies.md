@@ -1,34 +1,34 @@
 ---
 title: "保护电子邮件的推荐策略 - Microsoft 365 企业版 | Microsoft Docs"
 description: "介绍针对有关如何应用电子邮件策略和配置的 Microsoft 建议的策略。"
-author: jeffgilb
-manager: femila
+author: barlanmsft
+manager: angrobe
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 ms.date: 08/30/2017
-ms.author: jeffgilb
+ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: a9155d50516e2597e319beea26884fafad0b2e0f
-ms.sourcegitcommit: 0e0a15476e3bbd2d4ac6101c2cedd02e082ee25d
+ms.openlocfilehash: b2650e0c792c32cb4bc43556be9efc30ed9609e3
+ms.sourcegitcommit: 684c942047754e93378e271f5b1a659a9752f0ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/17/2017
 ---
 # <a name="policy-recommendations-for-securing-email"></a>用于保护电子邮件的策略建议
- 
+
 本文介绍的推荐策略有助于保护支持新式身份验证和条件访问的组织电子邮件和电子邮件客户端。 这些建议是[通用标识与访问策略建议](identity-access-policies.md)的补充。
 
 以下建议基于电子邮件的三个不同安全和保护层，用户可以根据自身的需求粒度来应用这些层：基线、敏感数据和高度管控。 有关这些建议引用的安全层和推荐客户端操作系统的详细信息，请参阅[推荐的安全策略和配置说明](microsoft-365-policies-configurations.md)。
 
 >[!NOTE]
->在这些建议中创建的所有安装组都必须在创建时启用 Office 功能。 在 SharePoint 中保护文档时，这一点对于部署 AIP 尤为重要。 
+>在这些建议中创建的所有安装组都必须在创建时启用 Office 功能。 在 SharePoint 中保护文档时，这一点对于部署 AIP 尤为重要。
 >
 >![为安全组启用 Office 功能](./media/security-group.png)
 >
 
-## <a name="baseline"></a>Baseline 
-要创建新的条件访问策略，请使用管理员凭据登录到 Microsoft Azure 门户。 然后导航到“Azure Active Directory”>“安全”>“条件访问”。 
+## <a name="baseline"></a>Baseline
+要创建新的条件访问策略，请使用管理员凭据登录到 Microsoft Azure 门户。 然后导航到“Azure Active Directory”>“安全”>“条件访问”。
 
 可添加新策略 (+添加)，如以下屏幕快照所示：
 
@@ -94,7 +94,7 @@ ms.lasthandoff: 09/01/2017
 
 完成试点项目后，应对组织中的所有用户应用这些策略。
 
-## <a name="sensitive"></a>敏感 
+## <a name="sensitive"></a>敏感
 
 ### <a name="low-and-above-risk-requires-mfa"></a>较低及以上风险需要进行 MFA
 下表介绍了要为较低及以上风险策略实现的条件访问策略设置。
@@ -125,7 +125,7 @@ ms.lasthandoff: 09/01/2017
 
 完成试点项目后，应对组织中需要访问机密电子邮件的用户应用这些策略。
 
-## <a name="highly-regulated"></a>高度管控 
+## <a name="highly-regulated"></a>高度管控
 ### <a name="mfa-required"></a>需要进行 MFA
 
 下表介绍了要为高度管控策略实现的条件访问策略设置。
@@ -150,7 +150,7 @@ ms.lasthandoff: 09/01/2017
 完成试点项目后，应对组织中需要访问高度管控电子邮件的用户应用这些策略。
 
 ### <a name="high-risk-users-policy"></a>高风险用户策略
-为了确保在登录时对受侵害的所有高风险用户帐户强制执行密码更改，必须应用下列策略。 
+为了确保在登录时对受侵害的所有高风险用户帐户强制执行密码更改，必须应用下列策略。
 
 使用管理员凭据登录 [Microsoft Azure 门户 (http://portal.azure.com)](http://portal.azure.com/)，然后导航到“Azure AD Identity Protection”>“用户风险策略”。
 
@@ -166,13 +166,13 @@ ms.lasthandoff: 09/01/2017
 
 
 ## <a name="additional-configurations"></a>其他配置
-除上述策略外，还必须配置本节讨论的以下移动应用程序和设备管理设置。 
+除上述策略外，还必须配置本节讨论的以下移动应用程序和设备管理设置。
 
-### <a name="intune-mobile-application-management"></a>Intune 移动应用程序管理 
+### <a name="intune-mobile-application-management"></a>Intune 移动应用程序管理
 
 为了确保使用前文所述针对各安全和数据保护层的策略建议保护电子邮件，必须从 Azure 门户中创建 Intune 应用保护策略。
 
-要创建新应用保护策略，请使用管理员凭据登录 Microsoft Azure 门户，然后导航到“Intune 应用保护”>“设置”>“应用策略”。
+要创建新的应用保护策略，请使用管理员凭据登录 Microsoft Azure 门户，然后导航到“Intune 应用保护”>“应用策略”。
 
 添加新策略 (+添加)，如以下屏幕快照所示：
 
@@ -187,7 +187,7 @@ ms.lasthandoff: 09/01/2017
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
 |**常规**|Email|Name|适用于 Android 的安全电子邮件策略|输入策略名称|
-|||说明||输入描述策略的文本|
+|||描述||输入描述策略的文本|
 |||平台|Android|iOS 和 Android 的应用保护策略选项略有不同，此策略专用于 Android|
 |**应用**|应用程序|应用|Outlook|已选择（列表）|
 |**设置**|数据重定位|阻止 Android 备份|是|在 iOS 上，这会专门调用 iTunes 和 iCloud|
@@ -216,7 +216,7 @@ ms.lasthandoff: 09/01/2017
 请使用管理员凭据登录 [Microsoft 管理门户 (http://manage.microsoft.com)](https://manage.microsoft.com/)，创建以下配置和符合性策略。
 
 #### <a name="ios-email-profile"></a>iOS 电子邮件配置文件
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS”>“电子邮件配置文件(iOS 8 及更高版本)”，然后创建以下配置策略。
+在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS 电子邮件策略”，然后创建以下配置策略。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -233,7 +233,7 @@ ms.lasthandoff: 09/01/2017
 |||同步最近使用的电子邮件地址|True|Check|
 
 #### <a name="ios-app-sharing-profile"></a>共享配置文件的 iOS 应用
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS”>“常规配置(iOS 8.0 及更高版本)”，然后创建以下配置策略。
+在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS 应用共享策略”，然后创建以下配置策略。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -251,7 +251,7 @@ ms.lasthandoff: 09/01/2017
 ||媒体内容|全部|未配置|||
 
 #### <a name="android-email-profile"></a>Android 电子邮件配置文件
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS”>“电子邮件配置文件 (Samsung KNOX Standard 4.0 和更高版本)”，然后创建以下配置策略。
+在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“Android 电子邮件策略”，然后创建以下配置策略。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -272,7 +272,7 @@ ms.lasthandoff: 09/01/2017
 |||注意|True|Check|
 
 #### <a name="android-for-work-email-profile"></a>Android for Work 电子邮件配置文件
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS”>“电子邮件配置文件 (Android for Work - Gmail)”，然后创建以下配置策略。
+在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“Android”>“电子邮件配置文件(Android for Work - Gmail)”，然后创建以下配置策略。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -285,7 +285,7 @@ ms.lasthandoff: 09/01/2017
 |||使用 SSL|True|Check|
 
 #### <a name="android-for-work-app-sharing-profile"></a>共享配置文件的 Android for Work 应用
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS”>“常规配置 (Android for Work)”，然后创建以下配置策略。
+在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“Android for Work 应用共享策略”，然后创建以下配置策略。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -329,4 +329,3 @@ ms.lasthandoff: 09/01/2017
 ## <a name="next-steps"></a>后续步骤
 
 [了解用于保护 SharePoint 网站和文件的策略建议](sharepoint-file-access-policies.md)
- 

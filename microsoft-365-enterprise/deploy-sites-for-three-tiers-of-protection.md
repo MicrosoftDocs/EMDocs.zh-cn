@@ -1,6 +1,6 @@
 ---
 title: "部署具有三层保护的网站 | Microsoft Docs"
-description: "创建和配置具有各级别信息保护的 SharePoint Online 团队网站。"
+description: "在 Office 365 中创建和配置具有各级别信息保护的 SharePoint Online 团队网站。"
 services: active-directory
 keywords: "Office 365, Windows 10, 企业移动性和安全性, Microsoft 365 企业版"
 documentationcenter: 
@@ -13,13 +13,13 @@ ms.workload:
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: article
-ms.date: 08/28/2017
+ms.date: 09/11/2017
 ms.author: josephd
-ms.openlocfilehash: 6d19a8b2fa39806e2a03ca8e3eb9ffae15605cc4
-ms.sourcegitcommit: 5b34af60e3aac19d618f1c6297da91e2c050a374
+ms.openlocfilehash: 0c4e7eaf6449b551a0a6222d475b2c42f49550f9
+ms.sourcegitcommit: 684c942047754e93378e271f5b1a659a9752f0ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2017
+ms.lasthandoff: 11/17/2017
 ---
 # <a name="deploy-sites-for-three-tiers-of-protection"></a>部署具有三层保护的网站
 
@@ -49,7 +49,7 @@ ms.lasthandoff: 09/09/2017
 ### <a name="private"></a>Private
 若要创建具有私有访问和权限的基线 SharePoint Online 团队网站，请执行以下操作：
 
-1. 使用将用于管理 SharePoint Online 团队网站的帐户（即 SharePoint Online 管理员帐户）登录 Office 365 门户。 如需帮助，请参阅[如何登录到 Office 365](https://support.office.com/Article/Where-to-sign-in-to-Office-365-e9eb7d51-5430-4929-91ab-6157c5a050b4)。
+1. 如有需要，请使用将用于管理 SharePoint Online 团队网站的帐户（即 SharePoint Online 管理员帐户）登录 Office 365 门户。 如需帮助，请参阅[如何登录到 Office 365](https://support.office.com/Article/Where-to-sign-in-to-Office-365-e9eb7d51-5430-4929-91ab-6157c5a050b4)。
 2. 在磁贴列表中，单击“SharePoint”。
 3. 在浏览器的新“SharePoint”标签页中，单击“+ 创建网站”。
 4. 在“创建网站”页中，单击“团队网站”。
@@ -76,7 +76,7 @@ ms.lasthandoff: 09/09/2017
  一组建议的访问组，团队成员、网站查看者和网站管理员各一个。
 * 是否会在访问组中使用嵌套组。
 
-例如，建议的组结构和权限级别如下所示：
+例如，建议的 SharePoint 组结构和权限级别如下所示：
 
 |**SharePoint 组**|**权限级别**|**访问组（示例）**|
 |:-----|:-----|:-----|
@@ -98,7 +98,7 @@ ms.lasthandoff: 09/09/2017
 
 接下来，使用以下步骤创建 SharePoint Online 团队网站。
 
-1. 使用将用于管理 SharePoint Online 团队网站的帐户（即 SharePoint Online 管理员帐户）登录 Office 365 门户。 如需帮助，请参阅[如何登录到 Office 365](https://support.office.com/Article/Where-to-sign-in-to-Office-365-e9eb7d51-5430-4929-91ab-6157c5a050b4)。
+1. 如有需要，请使用将用于管理 SharePoint Online 团队网站的帐户（即 SharePoint Online 管理员帐户）登录 Office 365 门户。 如需帮助，请参阅[如何登录到 Office 365](https://support.office.com/Article/Where-to-sign-in-to-Office-365-e9eb7d51-5430-4929-91ab-6157c5a050b4)。
 2. 在磁贴列表中，单击“SharePoint”。
 3. 在浏览器的新“SharePoint”标签页中，单击“+ 创建网站”。
 4. 在“创建网站”页中，单击“团队网站”。
@@ -187,16 +187,9 @@ ms.lasthandoff: 09/09/2017
 
 通过其中一个访问组的组成员身份，网站成员现可对网站资源进行安全协作。 
 
-有关详细信息，请参阅[使用 Office 365 标签和 DLP 保护文件](protect-files-with-o365-labels-dlp.md)。
-
 ## <a name="next-steps"></a>后续步骤
-[Microsoft 针对政治宣传活动、非营利组织和其他敏捷型组织的安全指南](https://technet.microsoft.com/library/mt493213.aspx)
 
-[保护 SharePoint Online 网站和文件](secure-sharepoint-online-sites-and-files.md)
-
-[在开发/测试环境中保护 SharePoint Online 网站](secure-sharepoint-online-sites-dev-test.md)
-
-[云应用和混合解决方案](https://technet.microsoft.com/library/dn262744.aspx)
+[使用 Office 365 标签和 DLP 保护文件](protect-files-with-o365-labels-dlp.md)
 
 
 
