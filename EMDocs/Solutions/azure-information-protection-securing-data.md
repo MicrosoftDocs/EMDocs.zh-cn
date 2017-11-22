@@ -12,11 +12,11 @@ ms.technology: techgroup-identity
 ms.assetid: 2f906e2e-3d99-40e6-b5cc-8d903fcda444
 ms.reviewer: v-craic
 ms.suite: ems
-ms.openlocfilehash: 267a69648014d53307d255533f64ee579f4141fa
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 03b6cbb8ab575b5cae99403f68579108ab2239a8
+ms.sourcegitcommit: 9e30dab85116767c71b911827d839a433418b9b5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 11/09/2017
 ---
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 
@@ -113,11 +113,3 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 - **Windows AppLocker**：使托管的和受控的环境中不存在恶意应用
 - **Azure AD Identity Protection**：增强用户标识中的信任度
 - **EMS 条件性访问**：增强设备和标识中的信任度
-
-## <a name="additional-resources"></a>其他资源
-
-下面的方案将进一步介绍 Azure 信息保护可以如何帮助你保护数据：
-
-- [使用分类、标记和保护来保护数据](infoprotect-secure-classify-scenario.md)
-- [在内部和外部共享敏感数据](share-sensitive-data.md)
-- [跟踪共享数据使用情况并对数据滥用做出响应](infoprotect-track-usage-scenario.md)

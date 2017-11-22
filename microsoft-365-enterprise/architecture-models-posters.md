@@ -13,13 +13,13 @@ ms.workload:
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: article
-ms.date: 08/28/2017
+ms.date: 11/14/2017
 ms.author: josephd
-ms.openlocfilehash: a8541e02b94d038fd3e97e59f052cd8158d82227
-ms.sourcegitcommit: 5b34af60e3aac19d618f1c6297da91e2c050a374
+ms.openlocfilehash: d6e1c50deb4b5c94859f6dcf420038251e10f4fa
+ms.sourcegitcommit: 684c942047754e93378e271f5b1a659a9752f0ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2017
+ms.lasthandoff: 11/17/2017
 ---
 # <a name="architecture-models-and-posters-for-microsoft-365-enterprise"></a>Microsoft 365 企业版的体系结构模型和海报
 
@@ -51,9 +51,6 @@ Microsoft 在云服务中提供多种保护功能。 为组织选择一组合适
 
 [PDF](http://download.microsoft.com/download/7/8/9/789645A5-BD10-4541-BC33-F8D1EFF5E911/MSFT_cloud_architecture_O365 file protection.pdf) | [Visio](http://download.microsoft.com/download/7/8/9/789645A5-BD10-4541-BC33-F8D1EFF5E911/MSFT_cloud_architecture_O365 file protection.vsdx)
 
-### <a name="windows-10-protection-solutions"></a>Windows 10 保护解决方案
-**即将推出**
-
 ### <a name="information-protection-for-office-365"></a>Office 365 信息保护
 
  [![信息保护](./media/architecture-models-posters/image3.png)](https://www.microsoft.com/download/details.aspx?id=54429)
@@ -63,18 +60,19 @@ Microsoft 在云服务中提供多种保护功能。 为组织选择一组合适
 ## <a name="windows-10-and-office-365-proplus-deployment-and-change-management"></a>Windows 10 和 Office 365 专业增强版部署和变更管理
 Windows 10 和 Office 365 专业增强版针对云进行了优化，并为任何竞争客户端以外的企业组织提供价值。 这些资源介绍了如何针对部署、保护和新式桌面的变更管理构建端到端解决方案。
 
+### <a name="deploy-a-modern-and-secure-desktop"></a>部署新式的安全桌面
+
+[![新式安全桌面](./media/architecture-models-posters/image13.png)](https://www.microsoft.com/download/details.aspx?id=55987)
+
+
+[PDF](http://download.microsoft.com/download/4/E/9/4E90E227-770A-41D1-99FE-925A64D81A55/MSFT_modern_secure_desktop.pdf) | [Visio](http://download.microsoft.com/download/4/E/9/4E90E227-770A-41D1-99FE-925A64D81A55/MSFT_modern_secure_desktop.vsdx) 
+
 ### <a name="change-management-for-office-365-clients"></a>Office 365 客户端的变更管理
 
  [![变更管理](./media/architecture-models-posters/image4.png)](https://www.microsoft.com/download/details.aspx?id=49141)
 
 
 [PDF](https://go.microsoft.com/fwlink/p/?LinkId=626681) | [Visio](https://go.microsoft.com/fwlink/p/?LinkId=626680) | [文章](https://technet.microsoft.com/library/mt584223.aspx) | [更多语言](https://www.microsoft.com/download/details.aspx?id=49141)
-
-### <a name="deploy-a-modern-and-secure-desktop"></a>部署新式的安全桌面
-**即将推出**
-
-### <a name="deploy-office-365-proplus"></a>部署 Office 365 专业增强版
-**即将推出**
 
 ## <a name="microsoft-cloud-for-enterprise-architects-series"></a>面向企业架构师的 Microsoft 云系列
 Microsoft 提供了最广泛一组云服务/产品，具有集成的最大潜能。 这些资源将为 IT 架构师、解决方案架构师和 IT 决策制定者演示常见方法。
@@ -99,29 +97,20 @@ Microsoft 已制定联机服务设计和管理方面先进的最佳做法。 该
 
 ### <a name="microsoft-cloud-networking-for-enterprise-architects"></a>面向企业架构师的 Microsoft 云网络
 云迁移将更改企业网络内外的通信流量及性质。 它还会影响降低安全风险的方法。 了解通过采用 Office 365、Microsoft Intune 或 Dynamics 365 以及通过在 Azure PaaS 和 IaaS 中部署业务线应用程序受到影响的网络基础结构组件。
-
-
- [![云网络](./media/architecture-models-posters/image7.png)](https://www.microsoft.com/download/details.aspx?id=54425)
+ 
+|**项目**|**描述**|
+|:-----|:-----|
+| [![云网络](./media/architecture-models-posters/image7.png)](https://www.microsoft.com/download/details.aspx?id=54425)|此模型包含： <ul><li>发展你的云连接网络</li><li>Microsoft 云连接的常见元素</li><li>Microsoft 云连接的 ExpressRoute</li><li>设计适用于 Microsoft SaaS（Office 365、Microsoft Intune 和 Dynamics CRM Online）的网络</li><li>设计适用于 Azure PaaS 的网络</li>设计适用于 Azure IaaS 的网络<li></ul></li>学习此体系结构海报宣传的 Microsoft Virtual Academy 新课程[让网络更适合 Microsoft 云产品/服务](https://mva.microsoft.com/training-courses/optimize-your-network-for-microsoft-cloud-offerings-17743)。|
 
 [PDF](https://go.microsoft.com/fwlink/p/?linkid=842073) | [Visio](https://go.microsoft.com/fwlink/p/?linkid=842074) | [文章](https://technet.microsoft.com/library/mt733214.aspx) | [更多语言](https://www.microsoft.com/download/details.aspx?id=54425)
 
-该模型包含以下页面：
-
-* 发展你的云连接网络：云迁移更改公司网络内部和外部通信量的卷及性质。 它还会影响降低安全风险的方法。
-* Microsoft 云连接的常见元素：将网络与 Microsoft 云进行集成可提供对范围更为广泛的服务的最佳访问。
-* Microsoft 云连接的 ExpressRoute：ExpressRoute 可提供到 Microsoft 云的私有、专用、高吞吐量网络连接。
-* 设计适用于 Microsoft SaaS（Office 365、Microsoft Intune 和 Dynamics CRM Online）的网络：优化你的 Microsoft SaaS 服务网络需要仔细分析 Internet 边缘、你的客户端设备和典型的 IT 运营状况。
-* 设计适用于 Azure PaaS 的网络：优化 Azure PaaS 应用网络需要有足够的 Internet 带宽，并可以要求网络流量跨多个网站或应用分布。
-* 设计 Azure IaaS 的网络：逐步调试设计过程以创建最佳的 Azure 虚拟网络 (VNet)，以便托管基于服务器的 IT 负载，包括子网、地址空间、路由、DNS、负载均衡以及本地网络的连接性、其他 VNet 和 Internet。
-
-学习此体系结构海报宣传的 Microsoft Virtual Academy 新课程[让网络更适合 Microsoft 云产品/服务](https://mva.microsoft.com/training-courses/optimize-your-network-for-microsoft-cloud-offerings-17743)。
 
 ### <a name="microsoft-hybrid-cloud-for-enterprise-architects"></a>面向企业架构师的 Microsoft 混合云
 可以使用混合云作为路径，将业务及其 IT 需求迁移到云中，或将云平台和服务与现有的本地基础结构集成来作为整体 IT 策略的一部分。 了解适用于 Office 365 工作负荷、PaaS 工作负荷和 IaaS LOB 解决方案的混合解决方案。
 
 |**项目**|**描述**|
 |:-----|:-----|
-| [![混合云](./media/architecture-models-posters/image8.png)](https://www.microsoft.com/download/details.aspx?id=54424)|此模型包含： <ul><li>用于业务的热门移动应用 </li><li>用于开发移动应用的平台、服务和资源 </li><li>通过移动设备管理对基于云的应用程序和数据的访问权限 </li><li>比较 Office 365 MDM、Azure Active Directory Premium 和 Intune 的功能和平台支持</ul></li>|
+| [![混合云](./media/architecture-models-posters/image8.png)](https://www.microsoft.com/download/details.aspx?id=54424)|此模型包含： <ul><li>混合云概述 </li><li>Microsoft 混合云方案的体系结构 </li><li>适用于 Microsoft SaaS (Office 365) 的混合云方案 </li><li>适用于 Azure PaaS 的混合云方案 </li><li>适用于 Azure IaaS 的混合云方案 </ul></li>|
 
 [PDF](https://go.microsoft.com/fwlink/p/?linkid=842082) | [Visio](https://go.microsoft.com/fwlink/p/?linkid=842083) | [文章](https://technet.microsoft.com/library/mt750500.aspx) | [更多语言](https://www.microsoft.com/download/details.aspx?id=54424)
 
@@ -139,7 +128,7 @@ Microsoft 为移动办公人员提供广泛的支持。 了解如何保护组织
 
 |**项目**|**描述**|
 |:-----|:-----|
-| [![云存储](./media/architecture-models-posters/image10.png)](https://www.microsoft.com/download/details.aspx?id=49552)|此模型包含： <ul><li>使用云存储和主要方案的原因 </li><li>“移入已准备就绪”云存储选项，与现有服务捆绑在一起，可立即使用，所需配置为最简 </li><li>“需要某程序集”存储选项，可以此为起点创建解决方案存储，需要执行其他配置或编码，以实现量身定制 </li><li>“从零开始构建”存储选项，包含存储构建基块，可用于从头开始为应用创建用户自己的存储解决方案或存储</ul></li>|
+| [![云存储](./media/architecture-models-posters/image10.png)](https://www.microsoft.com/download/details.aspx?id=49552)|此模型包含： <ul><li>使用云存储和主要方案的原因 </li><li>与现有服务捆绑在一起的云存储选项 </li><li>可用作存储解决方案起点的存储选项 </li><li>可用于创建自己的存储解决方案或为应用创建存储的存储构建基块</ul></li>|
 
 [PDF](https://go.microsoft.com/fwlink/p/?linkid=842079) | [Visio](https://go.microsoft.com/fwlink/p/?linkid=842080) | [更多语言](https://www.microsoft.com/download/details.aspx?id=49552)
 
@@ -148,7 +137,7 @@ Microsoft 为移动办公人员提供广泛的支持。 了解如何保护组织
 
 |**项目**|**描述**|
 |:-----|:-----|
-| [![云中的 Contoso](./media/architecture-models-posters/image11.png)](https://www.microsoft.com/download/details.aspx?id=54427)|此模型包含： <ul><li>使用云存储和主要方案的原因 </li><li>“移入已准备就绪”云存储选项，与现有服务捆绑在一起，可立即使用，所需配置为最简 </li><li>“需要某程序集”存储选项，可以此为起点创建解决方案存储，需要执行其他配置或编码，以实现量身定制</li><li>“从零开始构建”存储选项，包含存储构建基块，可用于从头开始为应用创建用户自己的存储解决方案或存储</ul></li>|
+| [![云中的 Contoso](./media/architecture-models-posters/image11.png)](https://www.microsoft.com/download/details.aspx?id=54427)|此模型包含： <ul><li>Contoso Corporation 概述 </li><li>Contoso 的 IT 基础结构和需求 </li><li>Contoso 的云网络</li><li>Contoso 的云标识</li><li>Contoso 的订阅、许可证和用户帐户</li><li>Contoso 的云安全性</li><li>Contoso 的企业云方案</ul></li>|
 
 [PDF](https://go.microsoft.com/fwlink/p/?linkid=842085) | [Visio](https://go.microsoft.com/fwlink/p/?linkid=842086) | [文章](https://technet.microsoft.com/library/mt775341.aspx) | [更多语言](https://www.microsoft.com/download/details.aspx?id=54427)
 

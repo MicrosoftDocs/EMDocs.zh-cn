@@ -1,4 +1,4 @@
-- name: Docs
+- name: 文档
   href: /
   homepage: /
   items:
@@ -149,21 +149,9 @@
           href: /microsoft-identity-manager/
           homepage: /microsoft-identity-manager
           items:
-            - name: 了解和探索
-              href: /microsoft-identity-manager/understand-explore/
-              homepage: /microsoft-identity-manager/understand-explore/journey-understand-evaluate
-            - name: 规划和设计
-              href: /microsoft-identity-manager/plan-design/
-              homepage: /microsoft-identity-manager/plan-design/journey-plan-design
-            - name: 部署和使用
-              href: /microsoft-identity-manager/deploy-use/
-              homepage: /microsoft-identity-manager/deploy-use/journey-deploy-use-html
             - name: 参考
               href: /microsoft-identity-manager/reference/
               homepage: /microsoft-identity-manager/reference/journey-develop-applications
-            - name: 开始使用
-              href: /microsoft-identity-manager/get-started/
-              homepage: /microsoft-identity-manager/get-started/journey-get-started
             - name: PAM
               href: /microsoft-identity-manager/pam/
               homepage: 'https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services'
