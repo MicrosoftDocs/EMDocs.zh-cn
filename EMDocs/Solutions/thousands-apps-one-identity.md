@@ -14,11 +14,11 @@ ms.assetid: dd879a14-919e-431b-89b9-c035c83a6899
 ROBOTS: 
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 27f71a706990997908a13b34477a1aa87ba698ab
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: b995c17749d1eaf6ae9561980ff87b97f7f5e1a0
+ms.sourcegitcommit: 5cde65a0e614800ebd9c8479437dc9dd846c8cd8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 11/29/2017
 ---
 # <a name="thousands-of-apps-one-identity"></a>数千个应用，一个标识
 通过为可访问云和本地资源的服务型软件 (SaaS) 应用程序的用户提供通用标识，Azure Active Directory (Azure AD) 使用户的工作效率更高。
@@ -112,6 +112,6 @@ Azure AD 应用程序库包含成千上万款可添加到组织的应用，但�
 - **Azure.com 上的应用库**
   - https://azure.microsoft.com/marketplace/active-directory/
 - **SaaS 应用程序列表**（带有集成功能）
-  - https://aadappgallery.azurewebsites.net/M
+  - https://aadappgallery.azurewebsites.net/Default.aspx?Microsoft_Integrated_Synchronization=on
 - **SaaS 应用程序教程**
   - https://azure.microsoft.com/documentation/articles/active-directory-saas-tutorial-list/
