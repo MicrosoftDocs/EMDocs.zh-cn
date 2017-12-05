@@ -13,15 +13,15 @@ ms.technology:
 ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
 ms.reviewer: 
 ms.suite: ems
-ms.openlocfilehash: 395ed9dafde409d2357bfe7f72283bb7eff24820
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 29dae4030d38fed20585715de68492d37c1b67cf
+ms.sourcegitcommit: 5cde65a0e614800ebd9c8479437dc9dd846c8cd8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 11/29/2017
 ---
 # <a name="end-user-intune-enrollment-instructions-for-it-administrators"></a>IT 管理员最终用户 Intune 注册说明
 
-该文档包含你可自定义和提供给用户的注册说明，以帮助用户在 Microsoft Intune™ 中注册 iOS 和 Android 设备（对于 Windows 设备，请参阅“通过 Intune 使用 Windows 设备”）。 我们建议复制本文档中你认为最适合于用户的部分。 例如，建议对每个设备平台生成一个单一文档或添加更多屏幕截图。
+该文档包含你可自定义和提供给用户的注册说明，以帮助用户在 Microsoft Intune™ 中注册 iOS 和 Android 设备（对于 Windows 设备，请参阅[“通过 Intune 使用 Windows 设备”](/intune-user-help/using-your-windows-device-with-intune)）。 我们建议复制本文档中你认为最适合于用户的部分。 例如，建议对每个设备平台生成一个单一文档或添加更多屏幕截图。
 
 除了这些书面说明，你还可包含指向任何 Intune 最终用户视频的超链接，见于 [https://channel9.msdn.com/Series/IntuneEnrollment](https://channel9.msdn.com/Series/IntuneEnrollment)。
 
