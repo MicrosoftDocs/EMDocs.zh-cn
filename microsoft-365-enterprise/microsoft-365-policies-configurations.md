@@ -9,11 +9,11 @@ ms.date: 08/30/2017
 ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: d08bc136e3842e8384e5c562df1a2fb543786ced
-ms.sourcegitcommit: feb1e385af0bc2a2eba56e5c2d1e8b4ba8866126
+ms.openlocfilehash: 70eb0ba8a887a703ee8c723a3a4584f3bedc1e7f
+ms.sourcegitcommit: 3cc06a29762d99a3649fb3cc80f9534dc6396d80
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2017
+ms.lasthandoff: 12/11/2017
 ---
 # <a name="recommended-security-policies-and-configurations"></a>推荐的安全策略和配置
 
@@ -91,7 +91,7 @@ Azure AD 和 AD FS 通过 MFA 声明来指示是否使用 MFA 来执行身份验
 ### <a name="windows-devices"></a>Windows 设备
 由于 Azure 旨在为本地和 Azure AD 提供尽可能流畅的 SSO 体验，因此建议使用 Windows 10（版本 1703 或更高版本）。 应将工作或学校设备配置为直接加入 Azure AD，或者当组织使用本地 AD 域加入时，这些设备应[配置为自动以无提示方式注册到 Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-automatic-device-registration-setup)。
 
-对于 BYOD Windows 设备，用户可以使用“添加工作或学校帐户”。 对于 BYOD Windows 设备，用户可以使用“添加工作或学校帐户”。 请注意，Windows 10 上的 Chrome 浏览器用户需要[安装扩展](https://chrome.google.com/webstore/detail/windows-10-accounts/ppnbnpeolgkicgegkbkbjmhlideopiji?utm_source=chrome-app-launcher-info-dialog)，以便获得与 Microsoft Edge/IE 相同的流畅登录体验。 此外，如果组织的 Windows 7 设备已加入域，可以安装非 Windows 10 计算机的 Microsoft Workplace Join 包以[向 Azure AD 注册设备](https://www.microsoft.com/download/details.aspx?id=53554)。
+对于 BYOD Windows 设备，用户可以使用“添加工作或学校帐户”。 请注意，Windows 10 上的 Chrome 浏览器用户需要[安装扩展](https://chrome.google.com/webstore/detail/windows-10-accounts/ppnbnpeolgkicgegkbkbjmhlideopiji?utm_source=chrome-app-launcher-info-dialog)，以便获得与 Microsoft Edge/IE 相同的流畅登录体验。 此外，如果组织的 Windows 7 设备已加入域，可以安装非 Windows 10 计算机的 Microsoft Workplace Join 包以[向 Azure AD 注册设备](https://www.microsoft.com/download/details.aspx?id=53554)。
 
 ### <a name="ios-devices"></a>iOS 设备
 建议在部署条件访问或 MFA 策略之前，在用户设备上安装 [Microsoft Authenticator 应用](https://docs.microsoft.com/azure/multi-factor-authentication/end-user/microsoft-authenticator-app-how-to)。 至少应在系统[要求用户向 Azure AD 注册其设备](https://docs.microsoft.com/azure/multi-factor-authentication/end-user/multi-factor-authentication-end-user-first-time)时通过添加工作或学校帐户安装该应用，或在安装 Intune 公司门户应用以便向管理系统注册设备时安装该应用。 具体取决于配置的条件访问策略。
