@@ -8,14 +8,14 @@ keywords: "Microsoft 365, Microsoft 365 企业版, Microsoft 365 文档, Office 
 ms.localizationpriority: high
 audience: microsoft-business
 ms.prod: microsoft-365-enterprise
-ms.date: 09/25/2017
+ms.date: 12/10/2017
 title: "Microsoft 365 企业版文档和资源"
 description: "了解有关为 Microsoft 365 企业版 IT 管理员、信息工作者和合作伙伴提供的产品文档和资源。"
-ms.openlocfilehash: d8e1842574b3edf56249a4db0084ad90724320d5
-ms.sourcegitcommit: 586bfc33601ccc5f3c05ff5c4157eddb9eef4479
+ms.openlocfilehash: ea8c8cc2adedec9515bc1307e80b929b503053eb
+ms.sourcegitcommit: feafa54c1fb5266d123bda8f4f15a929814f4714
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 12/10/2017
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -1141,18 +1141,18 @@ ms.lasthandoff: 10/18/2017
                                 </a>
                             </li>
                             <li>
-                                <a href="https://docs.microsoft.com/en-us/windows/uwp/enterprise/" target="_blank">
+                                <a href="https://developer.microsoft.com/windows/enterprise" target="_blank">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage bgdAccent1"> 
-                                                        <img src="media/hub-developer/ms365enterprise-developer-uwp-apps.svg" alt="Develop enterprise UWP apps" />
+                                                        <img src="media/hub-developer/ms365enterprise-developer-uwp-apps.svg" alt="Windows Dev Center" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>开发企业 UWP 应用</h3>
-                                                    <p>概览适用于 Windows 10 通用 Windows 平台 (UWP) 应用的关键企业功能，包括安全性、数据绑定和企业、网络和数据序列化等。</p>
+                                                    <h3>Windows 开发人员中心</h3>
+                                                    <p>概要了解 Windows 10 的关键企业版功能，查找用于开发通用 Windows 平台 (UWP) 应用的资源。</p>
                                                 </div>
                                             </div>
                                         </div>

@@ -8,7 +8,6 @@
 ### [第一道防线](protect-front-door.md)
 ### [针对用户错误保护数据](protect-data-user-mistake.md)
 ### [在导致损害前检测出攻击](detect-attacks-before-damage.md)
-### [攻击模拟操作手册](ata-attack-simulation-playbook.md)
 ## [信息保护](azure-information-protection-securing-data.md)
 ### [Azure 信息保护在保护数据方面的角色](azure-information-protection-securing-data.md)
 ## [企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益](enterprise-mobility-fasttrack-program.md)
