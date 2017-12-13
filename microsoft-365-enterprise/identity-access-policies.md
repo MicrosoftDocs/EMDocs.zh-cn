@@ -5,15 +5,15 @@ author: barlanmsft
 manager: angrobe
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 10/27/2017
+ms.date: 12/10/2017
 ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: 46a63151471a10b578ffaf3bddb27ddfcd5500a5
-ms.sourcegitcommit: feb1e385af0bc2a2eba56e5c2d1e8b4ba8866126
+ms.openlocfilehash: a25903de35ad349a09056ab24da5e00cd1a07695
+ms.sourcegitcommit: 3cc06a29762d99a3649fb3cc80f9534dc6396d80
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2017
+ms.lasthandoff: 12/11/2017
 ---
 # <a name="general-identity-and-device-access-policy-recommendations"></a>常规标识和设备访问策略建议
 本文介绍了通用的建议策略，这些策略可帮助保护 Microsoft 365 企业版。 此外，还介绍了我们为了向用户提供最佳 SSO 体验而推荐的默认平台客户端配置，以及条件访问的技术先决条件。
@@ -23,7 +23,7 @@ ms.lasthandoff: 10/27/2017
 要成功部署推荐的策略，需要在 Azure 门户进行操作，满足前面介绍的先决条件。 具体而言，需要：
 * 配置命名网络，确保 Azure Identity Protection 可以正确生成风险评分
 * 要求所有用户注册多重身份验证 (MFA)
-* 配置密码同步和自助服务密码重置，使用户能自己重置密码
+* 配置密码哈希同步和自助式密码重置，以便用户能够自行重置密码
 
 可以使 Azure AD 和 Intune 策略都面向特定用户组。 建议分阶段推出先前定义的策略。 这样，可增量验证策略和与策略相关的支持团队的性能。
 
@@ -31,9 +31,10 @@ ms.lasthandoff: 10/27/2017
 ## <a name="prerequisites"></a>先决条件
 
 要实现本文档剩余部分所述的策略，组织必须满足多个先决条件：
+* [配置密码哈希同步](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-synchronization)。必须启用此功能，才能检测泄漏的凭据，并对它们采取措施，从而实现基于风险的条件访问。 **注意：**必须这样做，无论组织使用的是托管身份验证（如直通身份验证 (PTA)），还是联合身份验证。
 * [配置命名网络](https://docs.microsoft.com/azure/active-directory/active-directory-known-networks-azure-portal)。 Azure AD Identity Protection 收集并分析所有可用的会话数据，以生成风险评分。 建议在 Azure AD 命名网络配置中为网络指定组织的公共 IP 范围。 来自这些范围内的流量获得的风险评分较低，而来自公司外部环境的流量获得的风险评分较高。
 * [要求所有用户注册多重身份验证 (MFA)](https://docs.microsoft.com/azure/multi-factor-authentication/multi-factor-authentication-manage-users-and-devices)。 Azure AD Identity Protection 利用 Azure MFA 来执行其他安全性验证。 建议让所有用户提前注册 Azure MFA。
-* [启用已加入域的 Windows 计算机的自动注册](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-automatic-device-registration-setup)。 条件访问可确保连接到服务的设备已加入域或是兼容设备。 要在 Windows 计算机上支持此操作，必须已向 Azure AD 注册设备。  本文介绍了如何配置自动设备注册。  请注意，AD FS 是必需的。
+* [启用已加入域的 Windows 计算机的自动注册](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-automatic-device-registration-setup)。 条件访问可确保连接到服务的设备已加入域或是兼容设备。 要在 Windows 计算机上支持此操作，必须已向 Azure AD 注册设备。  本文介绍了如何配置自动设备注册。
 * **准备支持团队**。 为无法完成 MFA 的用户制定计划。 例如，将他们添加到策略排除组，或为它们注册新 MFA 信息。 在对上述任何安全敏感问题作出更改之前，请先确保实际用户正在发出请求。 请求用户的管理人员来帮助审批是一个有效的步骤。
 * [配置密码写回到本地 AD](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)。 当检测到高风险的帐户泄漏时，密码写回允许 Azure AD 要求用户更改其本地密码。 可使用 Azure AD Connect 通过以下两种方法之一来启用此功能。 可以在 Azure AD Connect 设置向导的可选功能屏幕中启用密码写回，也可以通过 Windows PowerShell 启用。  
 * [启用新式身份验证](https://support.office.com/article/Enable-or-disable-modern-authentication-in-Exchange-Online-58018196-f918-49cd-8238-56f57f38d662)和[保护旧版终结点](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-supported-apps)。  条件访问对使用新式身份验证的移动和桌面应用程序都适用。 如果应用程序使用旧版身份验证协议，则在应用条件时，仍有可能获得访问权限。 必须知道哪些应用程序可使用条件访问规则，并了解保护其他应用程序入口点必须采取的步骤。
@@ -95,7 +96,7 @@ ms.lasthandoff: 10/27/2017
 #### <a name="data-loss-prevention"></a>数据丢失防护
 设备和应用管理策略专用于在设备丢失或被盗时防止数据丢失。 要实现此目标，请确保对数据的访问权限受 PIN 保护、设备上的数据已加密，且设备未被损害。
 
-|策略建议|说明|
+|策略建议|描述|
 |:--------------------|:----------|
 |要求用户进行电脑管理|要求用户将其 Windows 电脑加入 Active Directory 域，或使用 Microsoft Intune 或 System Center Configuration Manager 向管理系统注册其电脑。|
 |通过组策略对象 (GPO) 或已加入域的电脑的 Configuration Manager 策略来应用安全设置|部署用于配置托管电脑的策略，以启用 BitLocker、防病毒软件和防火墙。|
@@ -134,7 +135,7 @@ ms.lasthandoff: 10/27/2017
 
 这些设备和应用管理策略专用于在设备丢失或被盗时防止数据丢失。 要实现此目标，请确保对数据的访问权限受 PIN 保护、设备上的数据已加密，且设备未被损害。
 
-|策略建议|说明|
+|策略建议|描述|
 |:--------------------|:----------|
 |要求用户进行电脑管理|要求用户将其电脑加入 Active Directory 域，或使用 Intune 或 Configuration Manager 向管理系统注册其电脑，并在允许电子邮件访问前确保这些设备符合策略要求。|
 |通过组策略对象 (GPO) 或已加入域的电脑的 Configuration Manager 策略来应用安全设置|部署用于配置托管电脑的策略，以启用 BitLocker、防病毒软件和防火墙。|
