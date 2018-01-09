@@ -1,5 +1,6 @@
 # 解决方案
 ## [标识和访问管理]()
+###[Azure Active Directory Premium 政府服务说明](azure-ad-premium-govt-service-description.md)
 ### [数千个应用，一个标识](thousands-apps-one-identity.md)
 ### [实现商业无国界](enable-business-without-borders.md)
 ### [大规模管理访问权限](manage-access-at-scale.md)
