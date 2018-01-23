@@ -5,23 +5,29 @@ author: barlanmsft
 manager: angrobe
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 08/30/2017
+ms.date: 01/18/2018
 ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: ba69fe607fef9cdf6065f6a5b586770b87c771a9
-ms.sourcegitcommit: d8588b191a4f9daea73698426dd632e7997140dc
+ms.openlocfilehash: 3eabab5a19c99fe97d56ed3d802c026c0b0bc6ef
+ms.sourcegitcommit: eb3521981c5dec164ce2a14b4d4d53830b5ba461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="policy-recommendations-for-securing-sharepoint-sites-and-files"></a>用于保护 SharePoint 网站和文件的策略建议
 除[通用标识与访问策略建议](identity-access-policies.md)和[用于保护电子邮件的策略建议](secure-email-recommended-policies.md)外，还提供了以下建议。 要保护 SharePoint Online 文件，必须创建新策略，并修改现有策略，如下所述。
 
-以下建议基于三种针对 SharePoint 文件不同的安全层和保护层，可以根据需求粒度应用适当的层：基线、敏感及高度管控。 有关这些建议引用的安全层和推荐客户端操作系统的详细信息，请参阅[推荐的安全策略和配置说明](microsoft-365-policies-configurations.md)。
+以下建议基于电子邮件的三个不同安全和保护层，用户可以根据自身的需求粒度来应用这些层：
 
->[!NOTE]
->在这些建议中创建的所有安装组都必须在创建时启用 Office 功能。 在 SharePoint 中保护文档时，这一点对于部署 AIP 尤为重要。
+- **基线**：Microsoft 建议为保护数据、以及访问数据的标识和设备建立一个最低标准。 Microsoft 提供了强劲的默认防护，以满足许多组织的需求。 某些组织需要额外功能以满足其基线要求。
+- **敏感**：某些客户具有必须在较高级别进行保护的数据子集。 可对 Office 365 环境中的特定数据集应用增强的保护。 Microsoft 建议以与安全性相当的级别保护访问敏感数据的标识和设备。 
+- **高度管控**：某些组织可能有极少量数据属于高度机密、商业机密或监管数据。 Microsoft 提供多种功能，帮助组织满足相关要求，包括为标识和设备添加保护。
+
+请参阅[建议的安全策略和配置简介](microsoft-365-policies-configurations.md)主题，了解更多详细信息。
+
+> [!IMPORTANT]
+> 在这些建议中创建的所有安装组都必须在创建时启用 Office 功能。 在 SharePoint Online 中保护文档时，这一点对于部署 Azure 信息保护 (AIP) 尤为重要。
 >
 >![为安全组启用 Office 功能](./media/security-group.png)
 >
@@ -36,40 +42,54 @@ ms.lasthandoff: 09/13/2017
 |分配|云应用|包括|选择应用：<br></br>  Office 365 Exchange Online<br></br>  Office 365 SharePoint Online|选择两者|
 
 ### <a name="require-a-compliant-or-domain-joined-device"></a>需要一个兼容或已加入域的设备
-要为 SharePoint Online 创建新的 Intune 条件访问策略，请使用管理员凭据登录 [Microsoft 管理门户](http://manage.microsoft.com)，并导航至“策略”>“条件访问”>“SharePoint Online 策略” >  > 。
 
-![SharePoint Online 策略](./media/secure-docs/sharepoint-online-policy.png)
+为 Exchange Online 创建条件访问策略：
 
-必须在 Intune 管理门户中为 SharePoint Online 设置特定的条件访问策略，即设置为需要一个兼容或已加入域的设备。
-| Category|类型|属性|值|注意|
-|:-----|:-----|:-----|:-----|:-----|
-|应用程序访问|OneDrive for Business 和使用新式验证的其他应用|所有平台|True|已选择|
-|     |     |Windows 必须满足以下要求|设备必须已加入域或必须是兼容设备|已选择（列表）|
-|     |     |特定平台|False||
-|     |SharePoint 和 OneDrive for Business 的浏览器访问权限 |在与 OneDrive for Business 相同的平台上阻止不符合的设备|True|Check|
-|策略部署|目标组|选择此策略要面向的 Active Directory 组|     |     |
-|     |     |所有用户|False|     |
-|     |     |所选安全组|True|已选择|
-|     |     |修改|选择包含目标用户的特定安全组。|     |
-|     |被免除的组|选择要从此策略免除的 Active Directory 组(替代目标组列表的成员)|     |     |    
-|     |     |无免除用户|True|已选择|
-|     |     |所选安全组|False|     |
+1. 转到 [Azure 门户](https://portal.azure.com)，然后使用你的凭据登录。 成功登录后，会看到 Azure 仪表板。
 
-### <a name="mobile-application-management-conditional-access-for-sharepoint-online"></a>用于 SharePoint Online 的移动应用管理条件访问
+2. 从左侧菜单中选择“Azure Active Directory”。
 
-必须在 Intune 管理门户中为 SharePoint Online 设置特定的条件访问策略，以便管理移动应用。
+3. 在“安全”部分之下，选择“条件访问”。
 
-要管理移动应用，请使用管理员凭据登录到 Microsoft Azure 门户，然后导航到“Intune 应用保护” > “设置” > “条件访问” > “SharePoint Online”。
+4. 选择“新策略”。
 
-| Category|类型|属性|值|注意|
-|:-----|:-----|:-----|:-----|:-----|
-|应用访问|允许的应用|启用应用访问|允许支持 Intune 应用策略的应用|已选择（列表）- 生成 Intune 应用策略支持的应用/平台组合列表。|
-|用户访问|     |受限用户组|添加用户组 - 选择包含目标用户的特定安全组。|从包含试点用户的安全组开始。|
-|     |     |被免除用户组|例外安全组|     |
+5. 输入策略名称，然后选择要应用策略的“用户和组”。
 
-### <a name="apply-to"></a>应用于
+6. 选择“云应用”。
 
-完成试点项目后，应对组织中的所有用户应用这些策略。
+7. 选择“选择应用”，从“云应用”列表中选择“Office 365 SharePoint Online”，然后单击“选择”。 选择 Office 365 SharePoint Online 应用后，单击“完成”。
+
+8. 从“访问控制”部分选择“授予”。
+
+9. 选择“授予访问权限”，同时选择“要求将设备标记为符合”和“要求加入域(混合 Azure AD)”，然后选择“选择”。
+
+10. 单击“创建”，创建 Exchange Online 条件访问策略。
+
+    > [!NOTE]
+    > 从 Azure 上的 Intune 开始，必须在 Azure Active Directory 工作负荷中创建所有条件访问策略。 Intune 从其门户提供 Azure AD 条件访问策略工作负荷的链接，以便使用。
+
+    > [!IMPORTANT]
+    > 如果需要帮助，以便将过去在 Intune 经典门户中创建的条件访问策略 Intune 迁移到 Azure 门户，请参阅[将条件访问策略从 Intune 经典门户重新分配到 Azure 门户](https://docs.microsoft.com/intune/conditional-access-intune-reassign)主题。 
+
+### <a name="app-based-conditional-access-for-sharepoint-online"></a>SharePoint Online 基于应用的条件性访问
+
+可为 Azure 门户上 Intune 中的 SharePoint Online 设置基于应用的条件访问策略，添加另一个安全层。 为 SharePoint Online 应用基于应用的条件访问，即是要求用户仅使用此应用访问公司资源。
+
+添加基于应用的条件访问策略
+
+1. 转到 [Azure 门户](https://portal.azure.com)，然后使用 Intune 凭据登录。 成功登录后，会看到 Azure 仪表板。
+
+2. 从左侧菜单中选择“更多服务”，然后键入“Intune”。
+
+3. 选择“Intune 应用保护”。
+
+4. 在“Intune 移动应用程序管理”边栏选项卡中，选择“全部设置”。
+
+5. 在“条件访问”部分之下，选择“Exchange Online”。
+
+6. 选择“允许使用支持 Intune 应用策略的应用”，然后选择应用（例如 Microsoft Outlook）。
+
+7. 选择“受限制的用户组”，单击“选择组”，选择要应用策略的用户或组，然后单击“选择”。
 
 ## <a name="sensitive"></a>敏感
 
@@ -85,7 +105,7 @@ ms.lasthandoff: 09/13/2017
 
 （请参阅基线说明）
 
-### <a name="mobile-application-management-conditional-access-for-sharepoint-online"></a>用于 SharePoint Online 的移动应用管理条件访问
+### <a name="app-based-conditional-access-for-sharepoint-online"></a>SharePoint Online 基于应用的条件性访问
 
 （请参阅基线说明）
 
@@ -102,7 +122,7 @@ ms.lasthandoff: 09/13/2017
 ### <a name="require-a-compliant-or-domain-joined-device"></a>需要一个兼容或已加入域的设备
 （请参阅基线说明）
 
-### <a name="mobile-application-management-conditional-access-for-sharepoint-online"></a>用于 SharePoint Online 的移动应用管理条件访问
+### <a name="app-based-conditional-access-for-sharepoint-online"></a>SharePoint Online 基于应用的条件性访问
 （请参阅基线说明）
 
 ## <a name="additional-configurations"></a>其他配置
