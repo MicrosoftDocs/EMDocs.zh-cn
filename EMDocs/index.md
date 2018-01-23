@@ -5,11 +5,11 @@ description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: True
 featureFlags: clicktale
-ms.openlocfilehash: a951778f2ef4ad137419551c049c5dbe92efd5e6
-ms.sourcegitcommit: a7fd3ad8a351e9cc72ea37486342a273ed29b883
+ms.openlocfilehash: c379f253edb8a16eb9c7f253ac6ae26501100586
+ms.sourcegitcommit: 33c545b7ec57a8ce52bf5d7ab002b23ab2a917e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 01/23/2018
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -296,7 +296,7 @@ ms.lasthandoff: 11/03/2017
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3><a href="http://fasttrack.microsoft.com/ems">150 多个许可证？利用 FastTrack 权益</a></h3>
+                                                <h3><a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program">150 多个许可证？利用 FastTrack 权益</a></h3>
                                             </div>
                                         </div>
                                     </div>
