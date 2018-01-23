@@ -5,34 +5,46 @@ author: barlanmsft
 manager: angrobe
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 08/30/2017
+ms.date: 01/18/2018
 ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: b2650e0c792c32cb4bc43556be9efc30ed9609e3
-ms.sourcegitcommit: 684c942047754e93378e271f5b1a659a9752f0ba
+ms.openlocfilehash: c86f8f86d134d77e45ab7a59564b9f0d4821ed38
+ms.sourcegitcommit: eb3521981c5dec164ce2a14b4d4d53830b5ba461
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="policy-recommendations-for-securing-email"></a>用于保护电子邮件的策略建议
 
 本文介绍的推荐策略有助于保护支持新式身份验证和条件访问的组织电子邮件和电子邮件客户端。 这些建议是[通用标识与访问策略建议](identity-access-policies.md)的补充。
 
-以下建议基于电子邮件的三个不同安全和保护层，用户可以根据自身的需求粒度来应用这些层：基线、敏感数据和高度管控。 有关这些建议引用的安全层和推荐客户端操作系统的详细信息，请参阅[推荐的安全策略和配置说明](microsoft-365-policies-configurations.md)。
+以下建议基于电子邮件的三个不同安全和保护层，用户可以根据自身的需求粒度来应用这些层：
 
->[!NOTE]
->在这些建议中创建的所有安装组都必须在创建时启用 Office 功能。 在 SharePoint 中保护文档时，这一点对于部署 AIP 尤为重要。
+- **基线**：Microsoft 建议为保护数据、以及访问数据的标识和设备建立一个最低标准。 Microsoft 提供了强劲的默认防护，以满足许多组织的需求。 某些组织需要额外功能以满足其基线要求。
+- **敏感**：某些客户具有必须在较高级别进行保护的数据子集。 可对 Office 365 环境中的特定数据集应用增强的保护。 Microsoft 建议以与安全性相当的级别保护访问敏感数据的标识和设备。 
+- **高度管控**：某些组织可能有极少量数据属于高度机密、商业机密或监管数据。 Microsoft 提供多种功能，帮助组织满足相关要求，包括为标识和设备添加保护。
+
+请参阅[建议的安全策略和配置简介](microsoft-365-policies-configurations.md)主题，了解更多详细信息。
+
+> [!IMPORTANT]
+> 在这些建议中创建的所有安装组都必须在创建时启用 Office 功能。 在 SharePoint Online 中保护文档时，这一点对于部署 Azure 信息保护 (AIP) 尤为重要。
 >
 >![为安全组启用 Office 功能](./media/security-group.png)
 >
 
 ## <a name="baseline"></a>Baseline
-要创建新的条件访问策略，请使用管理员凭据登录到 Microsoft Azure 门户。 然后导航到“Azure Active Directory”>“安全”>“条件访问”。
+创建新的条件访问策略： 
 
-可添加新策略 (+添加)，如以下屏幕快照所示：
+1. 转到 [Azure 门户](https://portal.azure.com)，然后使用你的凭据登录。 成功登录后，会看到 Azure 仪表板。
 
-![基线 CA 策略](./media/secure-email/baseline-ca-policy.png)
+2. 从左侧菜单中选择“Azure Active Directory”。
+
+3. 在“安全”部分之下，选择“条件访问”。
+
+4. 选择“新建策略”如下方屏幕截图所示：
+
+![基线 CA 策略](./media/secure-email/CA-EXO-policy-1.png)
 
 下表介绍了为每个保护层表达策略所需的正确设置。
 
@@ -56,43 +68,53 @@ ms.lasthandoff: 11/17/2017
 
 ### <a name="require-a-compliant-or-domain-joined-device"></a>需要一个兼容或已加入域的设备
 
-要为 Exchange Online 创建新的 Intune 条件访问策略，请使用管理员凭据登录 [Microsoft 管理门户 (http://manage.microsoft.com)](http://manage.microsoft.com/)，并导航到“策略”>“条件访问”>“Exchange Online 策略”。
+为 Exchange Online 创建条件访问策略：
 
-![Exchange Online 策略](./media/secure-email/exchange-online-policy.png)
+1. 转到 [Azure 门户](https://portal.azure.com)，然后使用你的凭据登录。 成功登录后，会看到 Azure 仪表板。
 
-必须在 Intune 管理门户中为 Exchange Online 设置特定的条件访问策略，才可要求使用兼容设备或已加入域的设备。
+2. 从左侧菜单中选择“Azure Active Directory”。
 
-|Categories|类型|属性|值|注意|
-|:---------|:---|:---------|:-----|:----|
-|应用程序访问|Outlook 和使用新式身份验证的其他应用|所有平台|True|已选择|
-|||Windows 必须满足以下要求|设备必须已加入域或必须是兼容设备|已选择（列表）|
-|||已选择的平台|False||
-||Outlook Web Access (OWA)|在与 Outlook 相同的平台上阻止不兼容的设备|True|Check|
-||使用基本身份验证的 Exchange ActiveSync 应用。|阻止受 Microsoft Intune 支持的平台上的非合规设备|True|Check|
-|||阻止不受 Microsoft Intune 支持的平台上的所有其他设备|True|Check|
-|策略部署|目标组|选择此策略要面向的 Active Directory 组|||
-|||所有用户|False||
-|||所选安全组|True|已选择|
-|||修改|选择包含目标用户的特定安全组||
-||被免除的组|选择要从此策略免除的 Active Directory 组(替代目标组列表的成员)|||
-|||无免除用户|True|已选择|
-|||所选安全组|False|||
+3. 在“安全”部分之下，选择“条件访问”。
 
-### <a name="mobile-application-management-conditional-access-for-exchange-online"></a>用于 Exchange Online 的移动应用管理条件访问
+4. 选择“新策略”。
 
-必须在 Intune 管理门户中为 Exchange Online 设置特定的条件访问策略，以便管理移动应用。
+5. 输入策略名称，然后选择要应用策略的“用户和组”。
 
-要管理移动应用，请使用管理员凭据登录 Microsoft Azure 门户，然后导航到“Intune 应用保护”>“设置”>“条件访问”>“Exchange Online”。
+6. 选择“云应用”。
 
-|Categories|类型|属性|值|注意|
-|:---------|:---|:---------|:-----|:----|
-|应用访问|允许的应用|启用应用访问|允许支持 Intune 应用策略的应用|已选择（列表）- 生成 Intune 应用策略支持的应用/平台组合列表|
-|用户访问|允许的应用|受限用户组|添加用户组 - 选择包含目标用户的特定安全组|从包含试点用户的安全组开始|
-|||被免除用户组|例外安全组|||
+7. 选择“选择应用”，从“云应用”列表中选择“Office 365 Exchange Online”，然后单击“选择”。 选择 Office 365 Exchange Online 应用后，单击“完成”。
 
-#### <a name="apply-to"></a>应用于
+8. 从“访问控制”部分选择“授予”。
 
-完成试点项目后，应对组织中的所有用户应用这些策略。
+9. 选择“授予访问权限”，同时选择“要求将设备标记为符合”和“要求加入域(混合 Azure AD)”，然后选择“选择”。
+
+10. 单击“创建”，创建 Exchange Online 条件访问策略。
+
+    > [!NOTE]
+    > 从 Azure 上的 Intune 开始，必须在 Azure Active Directory 工作负荷中创建所有条件访问策略。 Intune 从其门户提供 Azure AD 条件访问策略工作负荷的链接，以便使用。
+
+    > [!IMPORTANT]
+    > 如果需要帮助，以便将过去在 Intune 经典门户中创建的条件访问策略 Intune 迁移到 Azure 门户，请参阅[将条件访问策略从 Intune 经典门户重新分配到 Azure 门户](https://docs.microsoft.com/intune/conditional-access-intune-reassign)主题。 
+
+### <a name="app-based-conditional-access-for-exchange-online"></a>Exchange Online 基于应用的条件性访问
+
+可为 Azure 门户上 Intune 中的 Exchange Online 设置基于应用的条件访问策略，添加另一个安全层。 为 Exchange Online 应用基于应用的条件访问，即是要求用户使用特定应用（例如 Microsoft Outlook 应用）访问公司电子邮件。
+
+添加基于应用的条件访问策略
+
+1. 转到 [Azure 门户](https://portal.azure.com)，然后使用 Intune 凭据登录。 成功登录后，会看到 Azure 仪表板。
+
+2. 从左侧菜单中选择“更多服务”，然后键入“Intune”。
+
+3. 选择“Intune 应用保护”。
+
+4. 在“Intune 移动应用程序管理”边栏选项卡中，选择“全部设置”。
+
+5. 在“条件访问”部分之下，选择“Exchange Online”。
+
+6. 选择“允许使用支持 Intune 应用策略的应用”，然后选择应用（例如 Microsoft Outlook）。
+
+7. 选择“受限制的用户组”，单击“选择组”，选择要应用策略的用户或组，然后单击“选择”。
 
 ## <a name="sensitive"></a>敏感
 
@@ -117,7 +139,7 @@ ms.lasthandoff: 11/17/2017
 ### <a name="require-a-compliant-or-domain-joined-device"></a>需要一个兼容或已加入域的设备
 （请参阅基线说明）
 
-### <a name="mobile-application-management-conditional-access-for-exchange-online"></a>用于 Exchange Online 的移动应用管理条件访问
+### <a name="app-based-conditional-access-for-exchange-online"></a>Exchange Online 基于应用的条件性访问
 
 （请参阅基线说明）
 
@@ -144,7 +166,7 @@ ms.lasthandoff: 11/17/2017
 
 ### <a name="require-a-compliant-or-domain-joined-device"></a>需要一个兼容或已加入域的设备
 （请参阅基线说明）
-### <a name="mobile-application-management-conditional-access-for-exchange-online"></a>用于 Exchange Online 的移动应用管理条件访问
+### <a name="app-based-conditional-access-for-exchange-online"></a>Exchange Online 基于应用的条件性访问
 （请参阅基线说明）
 #### <a name="apply-to"></a>应用于
 完成试点项目后，应对组织中需要访问高度管控电子邮件的用户应用这些策略。
@@ -176,7 +198,7 @@ ms.lasthandoff: 11/17/2017
 
 添加新策略 (+添加)，如以下屏幕快照所示：
 
-![Intune 移动应用程序管理](./media/secure-email/intune-mobile-app-mgmt.png)
+![Intune 移动应用程序管理](./media/secure-email/CA-EXO-policy-2.png)
 
 >[!NOTE]
 >iOS 和 Android 的应用保护策略选项略有不同。 以下策略专用于 Android。
@@ -186,7 +208,7 @@ ms.lasthandoff: 11/17/2017
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
-|**常规**|Email|Name|适用于 Android 的安全电子邮件策略|输入策略名称|
+|**常规**|Email|名称|适用于 Android 的安全电子邮件策略|输入策略名称|
 |||描述||输入描述策略的文本|
 |||平台|Android|iOS 和 Android 的应用保护策略选项略有不同，此策略专用于 Android|
 |**应用**|应用程序|应用|Outlook|已选择（列表）|
@@ -212,11 +234,13 @@ ms.lasthandoff: 11/17/2017
 
 完成后，请记住单击“创建”。 重复上述步骤，并将所选平台（下拉列表）替换为 iOS。 这可创建两个应用策略，因此请在创建策略后将组分配到策略，并进行部署。
 
+- 请参阅[如何创建和分配应用保护策略](https://docs.microsoft.com/intune/app-protection-policies)，了解有关详细信息。
+
 ### <a name="intune-mobile-device-management"></a>Intune 移动设备管理
-请使用管理员凭据登录 [Microsoft 管理门户 (http://manage.microsoft.com)](https://manage.microsoft.com/)，创建以下配置和符合性策略。
+使用 Intune 凭据登录到 [Azure 门户上的 Intune](https://portal.azure.com)创建以下设备配置文件和设备合规策略。
 
 #### <a name="ios-email-profile"></a>iOS 电子邮件配置文件
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS 电子邮件策略”，然后创建以下配置策略。
+在 [Azure 门户上的 Intune](https://portal.azure.com) 中，可在“设备配置”>“配置文件”>“创建配置文件”>“平台(iOS)”>“配置文件类型(电子邮件)”创建以下设备配置文件。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -232,26 +256,8 @@ ms.lasthandoff: 11/17/2017
 |||允许从第三方应用程序发送电子邮件|True||
 |||同步最近使用的电子邮件地址|True|Check|
 
-#### <a name="ios-app-sharing-profile"></a>共享配置文件的 iOS 应用
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“iOS 应用共享策略”，然后创建以下配置策略。
-
-|Categories|类型|属性|值|注意|
-|:---------|:---|:---------|:-----|:----|
-|**安全**|全部|全部|未配置||
-|云|全部|全部|未配置||
-|应用程序|浏览器|全部|未配置||
-||应用|允许安装应用|未配置||
-|||需要提供密码来访问应用程序商店|未配置||
-|||所有应用内购买|未配置||
-|||允许其他托管应用中的托管文档(iOS 8.0 及更高版本)|否|已选择 - 下拉列表|
-|||允许在其他托管应用中使用非托管文档|未配置||
-|||允许视频会议|未配置||
-|||允许用户信任新的企业应用作者|未配置||
-||游戏|全部|未配置||
-||媒体内容|全部|未配置|||
-
 #### <a name="android-email-profile"></a>Android 电子邮件配置文件
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“Android 电子邮件策略”，然后创建以下配置策略。
+在 [Azure 门户上的 Intune](https://portal.azure.com) 中，可在“设备配置”>“配置文件”>“创建配置文件”>“平台(Android)”>“配置文件类型(电子邮件)”创建以下设备配置文件。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -272,7 +278,7 @@ ms.lasthandoff: 11/17/2017
 |||注意|True|Check|
 
 #### <a name="android-for-work-email-profile"></a>Android for Work 电子邮件配置文件
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“Android”>“电子邮件配置文件(Android for Work - Gmail)”，然后创建以下配置策略。
+在 [Azure 门户上的 Intune](https://portal.azure.com) 中，可在“设备配置”>“配置文件”>“创建配置文件”>“平台(Android for Work)”>“配置文件类型(电子邮件)”创建以下设备配置文件。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
@@ -284,29 +290,12 @@ ms.lasthandoff: 11/17/2017
 ||同步设置|要同步的电子邮件的天数|两周|已选择 - 下拉列表|
 |||使用 SSL|True|Check|
 
-#### <a name="android-for-work-app-sharing-profile"></a>共享配置文件的 Android for Work 应用
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“配置策略”>“添加”>“Android for Work 应用共享策略”，然后创建以下配置策略。
-
-|Categories|类型|属性|值|注意|
-|:---------|:---|:---------|:-----|:----|
-|**安全**|Password|最短密码长度|未配置||
-|||删除工作配置文件之前的重复登录失败次数|未配置||
-|||设备锁定之前须经历的不活动分钟数|未配置||
-|||密码过期(天)|未配置||
-|||记住密码历史记录|未配置||
-|||需要密码才可解锁移动设备|未配置||
-|||允许指纹解锁(Android 6.0+)|未配置||
-|||允许 Smart Lock 和其他信任代理(Android 6.0+)|未配置||
-||工作配置文件设置|允许在工作和个人配置文件之间共享数据|工作配置文件中的应用可处理来自个人配置文件的共享请求|已选择 - 下拉列表|
-|||设备锁定时隐藏工作配置文件通知(Android 6.0+)|未配置||
-|||设置默认应用权限策略(Android 6.0 +)|未配置|||
-
 #### <a name="device-compliance-policy"></a>设备符合性策略
-在 [Intune 管理门户 (https://manage.microsoft.com)](https://manage.microsoft.com/) 中，转到“策略”>“符合性策略”>“添加”，然后创建以下配置策略。
+在[Azure 门户上的 Intune](https://portal.azure.com) 中，可在“设备合规性”>“策略”>“创建策略”>“平台(iOS、Android 或其他)”>“设置”创建以下设备合规策略。
 
 |Categories|类型|属性|值|注意|
 |:---------|:---|:---------|:-----|:----|
-|系统安全|Password|需要密码才可解锁移动设备(...)|是|已选择 - 下拉列表|
+|系统安全|密码|需要密码才可解锁移动设备(...)|是|已选择 - 下拉列表|
 |||允许简单密码(...)|否|已选择 - 下拉列表|
 |||最短密码长度(...)|6|已选择 - 列表|
 ||高级密码设置|全部|未配置||
