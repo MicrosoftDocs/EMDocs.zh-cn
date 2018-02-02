@@ -1,19 +1,19 @@
 ---
 title: "推荐的安全策略和配置 - Microsoft 365 企业版 | Microsoft docs"
 description: "介绍部署安全电子邮件、文档、应用策略及配置的相关 Microsoft 建议和核心概念。"
-author: barlanmsft
-manager: angrobe
+author: dougeby
+manager: dougeby
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 ms.date: 08/30/2017
 ms.author: barlan
 ms.reviewer: jsnow
 ms.custom: it-pro
-ms.openlocfilehash: 70eb0ba8a887a703ee8c723a3a4584f3bedc1e7f
-ms.sourcegitcommit: 3cc06a29762d99a3649fb3cc80f9534dc6396d80
+ms.openlocfilehash: a7f6ab6765be5462c652feb006839f0839b1136e
+ms.sourcegitcommit: 8d42bd1ec3d7bf5f873a7b681b0fea73a748b413
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2017
+ms.lasthandoff: 01/29/2018
 ---
 # <a name="recommended-security-policies-and-configurations"></a>推荐的安全策略和配置
 
@@ -110,7 +110,7 @@ Azure AD 和 AD FS 通过 MFA 声明来指示是否使用 MFA 来执行身份验
 
 ![安全性和生产力权衡](./media/policies-configurations/security-triad.png)
 
-提供的建议基于下列 SFU 安全性三联原则：
+提供的建议基于下面的 SFU 安全性三联原则：
 
 * 了解受众 - 通过作业职能/安全栏实现灵活性
 * 实时应用安全策略，确保其有意义
