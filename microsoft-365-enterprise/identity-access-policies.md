@@ -7,13 +7,13 @@ ms.prod: microsoft-365-enterprise
 ms.topic: article
 ms.date: 12/10/2017
 ms.author: barlan
-ms.reviewer: jsnow
+ms.reviewer: martincoetzer
 ms.custom: it-pro
-ms.openlocfilehash: a25903de35ad349a09056ab24da5e00cd1a07695
-ms.sourcegitcommit: 3cc06a29762d99a3649fb3cc80f9534dc6396d80
+ms.openlocfilehash: 54b3308b334f60e47e78bdf4bc194495fe348814
+ms.sourcegitcommit: 8d42bd1ec3d7bf5f873a7b681b0fea73a748b413
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2017
+ms.lasthandoff: 01/29/2018
 ---
 # <a name="general-identity-and-device-access-policy-recommendations"></a>常规标识和设备访问策略建议
 本文介绍了通用的建议策略，这些策略可帮助保护 Microsoft 365 企业版。 此外，还介绍了我们为了向用户提供最佳 SSO 体验而推荐的默认平台客户端配置，以及条件访问的技术先决条件。
@@ -28,7 +28,7 @@ ms.lasthandoff: 12/11/2017
 可以使 Azure AD 和 Intune 策略都面向特定用户组。 建议分阶段推出先前定义的策略。 这样，可增量验证策略和与策略相关的支持团队的性能。
 
 
-## <a name="prerequisites"></a>先决条件
+## <a name="prerequisites"></a>必备条件
 
 要实现本文档剩余部分所述的策略，组织必须满足多个先决条件：
 * [配置密码哈希同步](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-synchronization)。必须启用此功能，才能检测泄漏的凭据，并对它们采取措施，从而实现基于风险的条件访问。 **注意：**必须这样做，无论组织使用的是托管身份验证（如直通身份验证 (PTA)），还是联合身份验证。
@@ -43,12 +43,12 @@ ms.lasthandoff: 12/11/2017
 ### <a name="recommended-email-clients"></a>推荐的电子邮件客户端
 下列电子邮件客户端支持新式身份验证和条件访问。 Azure 信息保护尚不对所有客户端都适用。
 
-|平台|客户端|版本/说明|Azure 信息保护|
+|平台|客户端|版本/说明|Azure Information Protection|
 |:-------|:-----|:------------|:--------------------|
-|**Windows**|Outlook|2016、2013 [启用新式身份验证](https://support.office.com/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910)|是|
+|**Windows**|Outlook|2016、2013 [启用新式身份验证](https://support.office.com/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910)，[所需更新](https://support.office.com/en-us/article/Outlook-Updates-472c2322-23a4-4014-8f02-bbc09ad62213)|是|
 |**iOS**|Outlook|[最新版本](https://itunes.apple.com/us/app/microsoft-outlook-email-and-calendar/id951937596?mt=8)|否|
-|**Android**|Outlook|[最新版本](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en)|否|
-|**macOS**|公共预览版||否|
+|**Outlook Web Access (OWA)**|Outlook|[最新版本](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en)|否|
+|**macOS**|Outlook|2016|否|
 |**Linux**|不支持||否|
 
 要访问通过 Azure 信息保护进行保护的文档，可能还需要其他软件。 请确保使用[支持的软件和文档格式](https://docs.microsoft.com/information-protection/get-started/requirements-applications)创建和查看使用 Azure 信息保护的受保护文档。
@@ -100,7 +100,7 @@ ms.lasthandoff: 12/11/2017
 |:--------------------|:----------|
 |要求用户进行电脑管理|要求用户将其 Windows 电脑加入 Active Directory 域，或使用 Microsoft Intune 或 System Center Configuration Manager 向管理系统注册其电脑。|
 |通过组策略对象 (GPO) 或已加入域的电脑的 Configuration Manager 策略来应用安全设置|部署用于配置托管电脑的策略，以启用 BitLocker、防病毒软件和防火墙。|
-|要求用户进行移动设备管理|用于访问电子邮件的用户设备必须由 Intune 管理，或仅允许通过受 Intune 应用保护策略保护的移动电子邮件应用（例如 Outlook Mobile）访问公司电子邮件。|
+|要求用户进行移动设备管理|用于访问电子邮件的用户设备必须由 Intune 管理，或仅允许通过受 Intune 应用保护策略保护的移动电子邮件应用（例如 Outlook for iOS 或 Outlook for Android）访问公司电子邮件。|
 |在托管设备上应用 Intune 设备符合性策略|要为托管的公司移动设备和由 Intune 管理的电脑应用 Intune 设备符合性策略，需要：最小长度为 6 的 PIN、设备加密、正常运行的设备（没有越狱、没有取得 root 权限、通过运行状况证明），并且要求由 Lookout 或 SkyCure 等第三方 MTP 确定的设备风险级别为低（如果可用）。|
 |将 Intune 应用保护策略应用于在非托管设备上运行的托管应用|要将 Intune 应用保护策略应用于在非托管个人移动设备上运行的托管应用，需要：最小长度为 6 的 PIN、设备加密以及运行正常的设备（没有越狱、没有取得 root 权限；通过运行状况证明）。|
 
@@ -139,7 +139,7 @@ ms.lasthandoff: 12/11/2017
 |:--------------------|:----------|
 |要求用户进行电脑管理|要求用户将其电脑加入 Active Directory 域，或使用 Intune 或 Configuration Manager 向管理系统注册其电脑，并在允许电子邮件访问前确保这些设备符合策略要求。|
 |通过组策略对象 (GPO) 或已加入域的电脑的 Configuration Manager 策略来应用安全设置|部署用于配置托管电脑的策略，以启用 BitLocker、防病毒软件和防火墙。|
-|要求用户进行移动设备管理|用于访问电子邮件的用户设备必须由 Intune 管理，或仅允许通过受 Intune 应用保护策略保护的移动电子邮件应用（例如 Outlook Mobile）访问公司电子邮件。|
+|要求用户进行移动设备管理|用于访问电子邮件的用户设备必须由 Intune 管理，或仅允许通过受 Intune 应用保护策略保护的移动电子邮件应用（例如 Outlook for iOS 或 Outlook for Android）访问公司电子邮件。|
 |在托管设备上应用 Intune 设备符合性策略|要为托管的公司移动设备和由 Intune 管理的电脑应用 Intune 设备符合性策略，需要：最小长度为 6 的 PIN、设备加密、正常运行的设备（没有越狱、没有取得 root 权限、通过运行状况证明），并且要求由 Lookout 或 SkyCure 等第三方 MTP 确定的设备风险级别为低（如果可用）。|
 |将 Intune 应用保护策略应用于在非托管设备上运行的托管应用|要将 Intune 应用保护策略应用于在非托管个人移动设备上运行的托管应用，需要：最小长度为 6 的 PIN、设备加密以及运行正常的设备（没有越狱、没有取得 root 权限；通过运行状况证明）。|
 
@@ -175,7 +175,7 @@ ms.lasthandoff: 12/11/2017
 |:--------------------|:----------|
 |要求用户进行电脑管理|要求用户将其 Windows 电脑加入 Active Directory 域，或使用 Intune 或 Configuration Manager 向管理系统注册其电脑，并在允许电子邮件访问前确保这些设备符合策略要求。|
 |通过组策略对象 (GPO) 或已加入域的电脑的 Configuration Manager 策略来应用安全设置|部署用于配置托管电脑的策略，以启用 BitLocker、防病毒软件和防火墙。|
-|要求用户进行移动设备管理|用于访问 Office 365 电子邮件和文件的设备必须由 Intune 管理，或仅允许通过受 Intune 应用保护策略保护的移动电子邮件应用（例如 Outlook Mobile）访问公司电子邮件。|
+|要求用户进行移动设备管理|用于访问 Office 365 电子邮件和文件的设备必须由 Intune 管理，或仅允许通过受 Intune 应用保护策略保护的移动电子邮件应用（例如 Outlook for iOS 或 Outlook for Android）访问公司电子邮件。|
 |在托管设备上应用 Intune 设备符合性策略|要为托管的公司移动设备和由 Intune 管理的电脑应用 Intune 设备符合性策略，需要：最小长度为 6 的 PIN、设备加密、正常运行的设备（没有越狱、没有取得 root 权限、通过运行状况证明），并且要求由 Lookout 或 SkyCure 等第三方 MTP 确定的设备风险级别为低（如果可用）。|
 
 ### <a name="user-impact"></a>用户影响
