@@ -38,16 +38,16 @@ ms.lasthandoff: 07/25/2017
 |--------|-------------------------------------|
 |企业移动性 + 安全性 |是\*|
 |企业移动性 + 安全性（作为 Secure Productive Enterprise 的一部分）|是*|
-|Microsoft Azure Active Directory Premium（E3 和 E5）**|是|
-|Microsoft Intune**|是|
-|Microsoft Intune for Education** |是 |
-|Microsoft Azure 信息保护（E3 和 E5）**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
-|Microsoft 高级威胁分析**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
-|Microsoft Cloud App Security**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft Azure Active Directory Premium（E3 和 E5）** |是|
+|Microsoft Intune** |是|
+|Microsoft Intune for Education**  |是 |
+|Microsoft Azure 信息保护（E3 和 E5）** |受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft 高级威胁分析** |受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft Cloud App Security** |受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
 
 &ast;适用于符合权益条件的云服务。 请参阅下表。
 
-**作为独立计划购买。
+** 作为独立计划购买。
 
 &nbsp;
 
