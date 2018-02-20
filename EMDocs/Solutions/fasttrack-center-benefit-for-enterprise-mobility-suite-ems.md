@@ -36,7 +36,7 @@ ms.lasthandoff: 07/25/2017
 
 |计划|符合服务权益的条件？|
 |--------|-------------------------------------|
-|企业移动性 + 安全性 |是*|
+|企业移动性 + 安全性 |是\*|
 |企业移动性 + 安全性（作为 Secure Productive Enterprise 的一部分）|是*|
 |Microsoft Azure Active Directory Premium（E3 和 E5）**|是|
 |Microsoft Intune**|是|
