@@ -3,13 +3,14 @@ layout: HubPage
 title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
-hide_bc: True
-featureFlags: clicktale
-ms.openlocfilehash: c379f253edb8a16eb9c7f253ac6ae26501100586
-ms.sourcegitcommit: 33c545b7ec57a8ce52bf5d7ab002b23ab2a917e9
+hide_bc: 
+featureFlags:
+- clicktale
+ms.openlocfilehash: a648aea0df0d89ee79fc2caa4497a2f537f48b34
+ms.sourcegitcommit: ab1168215b5df3138d1476e0669d6ec03a73bd20
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2018
+ms.lasthandoff: 02/21/2018
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -155,6 +156,24 @@ ms.lasthandoff: 01/23/2018
                                 </a>
                             </li>
                             <li>
+                                <a href="/azure-advanced-threat-protection/">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage bgdAccent1"> 
+                                                        <img src="/enterprise-mobility-security/images/ems_solutions-3.svg" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Azure 高级威胁防护</h3>
+                                                    <p>保护你的企业混合环境，使其免受多种高级定向网络攻击和内部威胁侵害</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>                            <li>
                                 <a href="/microsoft-identity-manager/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
@@ -178,93 +197,7 @@ ms.lasthandoff: 01/23/2018
                 </ul>
             </li>
             <li>
-<!--                <a href="#solutions">Solutions</a>
-                <ul id="solutions">
-                    <li>
-                        <a href="#SolutionsPanel1"></a>
-                        <ul id="SolutionsPanel1" class="cardsC">
-                            <li>
-                                <a href="/enterprise-mobility-security/solutions/protect-office365-data-with-intune">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_solutions-1.svg" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Managed Mobile Productivity</h3>
-                                                    <p>Learn how to protect Office 365 company data with Intune, protect on-premises company data with Intune, and protect company data (without managing devices) with Intune.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/enterprise-mobility-security/solutions/thousands-apps-one-identity">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_solutions-2.svg" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Identity and Access Management</h3>
-                                                    <p>Learn how Azure Active Directory makes your users more productive by providing a common identity for SaaS application users accessing both cloud and on-prem resources.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/enterprise-mobility-security/solutions/protect-front-door">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_solutions-3.svg" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Identity Driven Security</h3>
-                                                    <p>Take a more holistic and innovation approach to security to protect, detect, and respond to threats of all kinds on-premises and in the cloud.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/enterprise-mobility-security/solutions/infoprotect-secure-classify-scenario">
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1"> 
-                                                        <img src="/media/hubs/ems/ems_solutions-4.svg" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Information Protection</h3>
-                                                    <p>Learn how to secure data using classification, labeling, and protection, share sensitive data internally and externally, and track usage of shared data and respond to data abuse.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li>
--->
+
                 <a href="#more">更多资源</a>
                 <ul id="more">
                     <li>

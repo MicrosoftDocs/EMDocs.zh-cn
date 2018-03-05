@@ -1,4 +1,4 @@
-- name: 文档
+- name: Docs
   href: /
   homepage: /
   items:
@@ -38,7 +38,7 @@
           href: /advanced-threat-analytics/
           homepage: /advanced-threat-analytics
           items:
-            - name: 了解和探索
+            - name: 了解和浏览
               href: /advanced-threat-analytics/understand-explore/
               homepage: /advanced-threat-analytics/understand/ata-understand-and-explore
             - name: 规划和设计
@@ -50,6 +50,9 @@
             - name: 故障排除
               href: /advanced-threat-analytics/troubleshoot/
               homepage: /advanced-threat-analytics/troubleshoot/ata-troubleshooting
+        - name: Azure 威胁防护
+          href: /azure-threat-protection/
+          homepage: /azure-advanced-threat-protection
         - name: Microsoft 365 企业
           href: /microsoft-365-enterprise/
           homepage: /microsoft-365-enterprise
@@ -68,7 +71,7 @@
           href: /intune-classic/
           homepage: /intune-classic
           items:
-            - name: 了解和探索
+            - name: 了解和浏览
               href: /intune-classic/understand-explore/
               homepage: /intune-classic/understand-explore/introduction-to-microsoft-intune
             - name: 规划和设计
@@ -89,11 +92,11 @@
             - name: 新功能
               href: /intune-classic/whats-new/
               homepage: /intune-classic/whats-new/whats-new-in-microsoft-intune
-        - name: Azure 信息保护
+        - name: Azure Information Protection
           href: /information-protection/
           homepage: /information-protection
           items:
-            - name: 了解和探索
+            - name: 了解和浏览
               href: /information-protection/understand-explore/
               homepage: /information-protection/understand-explore/what-is-azure-rights-management
             - name: 开始使用
@@ -145,7 +148,7 @@
                         - name: 结构
                           href: /information-protection/sdk/2.1/api/win/structures/
                           homepage: /information-protection/sdk/2.1/api/win/structures
-        - name: Microsoft 标识管理器
+        - name: Microsoft Identity Manager
           href: /microsoft-identity-manager/
           homepage: /microsoft-identity-manager
           items:
