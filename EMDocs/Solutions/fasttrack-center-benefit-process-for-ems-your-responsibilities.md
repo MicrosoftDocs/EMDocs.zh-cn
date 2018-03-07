@@ -13,11 +13,11 @@ ms.technology:
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: 
 ms.suite: ems
-ms.openlocfilehash: ecd83c311deca5050599a4eb55d45d0094d656f1
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 02bbc73649604736bca8c6da167653d904218fad
+ms.sourcegitcommit: f77ccfb11b8ae3105de2bc18a5664ee6c11a553c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="your-responsibilities"></a>您的职责
 
@@ -69,7 +69,7 @@ ms.lasthandoff: 07/25/2017
 
 ## <a name="initiate-phase"></a>启动阶段
 
--   和 Microsoft 团队合作，开始载入符合条件的服务。
+-   和 FastTrack 团队合作，开始载入符合条件的服务。
 
 -   参加接洽启动会议、管理和领导您组织中的参与者并确认修正时间表。
 
@@ -77,7 +77,7 @@ ms.lasthandoff: 07/25/2017
 
 -   标识相应的利益干系人（包括项目经理）以完成必要的评估活动。
 
--   针对你的环境、EMS 或其单独的云服务订阅运行评估工具时，如果需要指南，可选择与 Microsoft 共享你的屏幕。
+-   针对你的环境、EMS 或其单独的云服务订阅运行评估工具时，如果需要指南，可选择与 FastTrack 团队共享你的屏幕。
 
 -   参加会议以创建修正清单并促成整体计划，包括基础结构、网络、管理、目录同步准备、网络安全和联合标识主题。
 
@@ -95,19 +95,21 @@ ms.lasthandoff: 07/25/2017
 
 ## <a name="enable-phase"></a>启用阶段
 
--   针对你的环境、EMS 或其单独的云服务订阅运行评估工具时，如果需要指南，可选择与 Microsoft 共享你的屏幕。 根据需要管理资源。
+-   针对你的环境、EMS 或其单独的云服务订阅运行评估工具时，如果需要指南，可选择与 FastTrack 团队共享你的屏幕。 根据需要管理资源。
 
--   依照 Microsoft 的指导，配置网络相关项。
+-   依照 FastTrack 团队的指导，配置网络相关项。
 
--   依照 Microsoft 的指导，执行目录准备工作并配置目录同步。
+-   依照 FastTrack 团队的指导，执行目录准备工作并配置目录同步。
 
--   依照 Microsoft 的指导，配置安全相关的基础结构（如防火墙端口）。
+-   配置身份验证方法，如托管或联合。 
+
+-   依照 FastTrack 团队的指导，配置安全相关的基础结构（如防火墙端口）。
 
 -   实现相应的客户端基础结构。
 
--   依照 Microsoft 的指导，实现用户设置方法。
+-   依照 FastTrack 团队的指导，实现用户预配方法。
 
--   依照 Microsoft 的指导，启用各种服务。
+-   依照 FastTrack 团队的指导，启用各种服务。
 
 **想要了解更多信息？**
 

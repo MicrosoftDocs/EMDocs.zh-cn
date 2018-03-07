@@ -13,11 +13,11 @@ ms.technology:
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: 
 ms.suite: ems
-ms.openlocfilehash: a68182e4175ca3fe69377319d34f899f3abb7d25
-ms.sourcegitcommit: 6296730f948ec5205fe81adb3585026d169e51f9
+ms.openlocfilehash: 102ff22c60aa58cddbc07ddd485a57e9e7340a92
+ms.sourcegitcommit: 024fad70d2c4976f039e3e572c7334927375b17e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/24/2017
+ms.lasthandoff: 02/27/2018
 ---
 # <a name="microsoft-responsibilities"></a>Microsoft 职责
 
@@ -104,7 +104,7 @@ ms.lasthandoff: 10/24/2017
 
     -   根据需要，在你的 Active Directory 域服务 (AD DS) 和 Azure AD Connect 之间安装目录同步。
 
-    -   使用 Azure AD Connect 工具配置密码同步。
+    -   使用 Azure AD Connect 工具配置身份验证方法（密码哈希同步或传递身份验证）。
 
 -   对于多林环境：
 
@@ -148,7 +148,7 @@ ms.lasthandoff: 10/24/2017
 
   - Azure 多重身份验证。
 
-  - 一个服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)的 SSO 的集成。
+  - 多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) 的 SSO 集成。
 
   - 自定义的登录屏幕（包括徽标、文本和图像）。
 

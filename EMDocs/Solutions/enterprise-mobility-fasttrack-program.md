@@ -13,14 +13,17 @@ ms.technology:
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: 
 ms.suite: ems
-ms.openlocfilehash: 58cfa7fb0c694f9ae88d31b1c8ebb85da02c40c8
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: a5f428b822e8b956003920d5996a98c11c403aee
+ms.sourcegitcommit: f77ccfb11b8ae3105de2bc18a5664ee6c11a553c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益
-在符合条件的计划中，如果针对 EMS 或其任何单独的云服务购买至少 150 个许可证，就可以使用企业移动性 + 安全性 (EMS) FastTrack 中心权益。 然后就可与 Microsoft 专家一同访问、更正、启用、推进这些服务。 这些专家还提供迁移指导。
+在符合条件的计划中，如果针对 EMS 或其任何单独的云服务购买至少 150 个许可证，就可以使用企业移动性 + 安全性 (EMS) FastTrack 中心权益。 然后就可与 FastTrack 专家一同访问、更正、启用、推进这些服务。 这些专家还提供迁移指导。
+
+> [!NOTE]
+> 出于本文档的目的，FastTrack 专家可能包括 Microsoft 员工、Microsoft 批准的供应商和 Microsoft 批准的合作伙伴。 
 
 若要了解有关符合条件的服务和计划的详细信息，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
 
