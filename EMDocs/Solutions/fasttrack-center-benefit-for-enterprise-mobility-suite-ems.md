@@ -13,14 +13,14 @@ ms.technology:
 ms.assetid: 484156c7-c3c4-469d-b718-9fa33d9d0ec2
 ms.reviewer: 
 ms.suite: ems
-ms.openlocfilehash: 5da41f3d440d7a6463f2a6e23dcd0613f522efe2
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 097dfcd7b862735a53d629d7e099a68044d590c7
+ms.sourcegitcommit: f77ccfb11b8ae3105de2bc18a5664ee6c11a553c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="fasttrack-center-benefit-eligible-services-and-plans"></a>符合 FastTrack 中心权益条件的服务和计划
-在符合条件的计划中，如果针对企业移动性 + 安全性 (EMS) 或其任何单独的云服务购买至少 150 个许可证，就可以使用该服务权益。 通过服务权益，可与 Microsoft 专家共同进行评估、修正并启用符合条件的服务。
+在符合条件的计划中，如果针对企业移动性 + 安全性 (EMS) 或其任何单独的云服务购买至少 150 个许可证，就可以使用该服务权益。 通过服务权益，可与 FastTrack 专家共同进行评估、修正并启用符合条件的服务。
 
 有关 FastTrack 中心流程以及由谁来负责何部分，请参阅[企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
 
@@ -36,18 +36,18 @@ ms.lasthandoff: 07/25/2017
 
 |计划|符合服务权益的条件？|
 |--------|-------------------------------------|
-|企业移动性 + 安全性 |是\*|
+|企业移动性 + 安全性 |是*|
 |企业移动性 + 安全性（作为 Secure Productive Enterprise 的一部分）|是*|
-|Microsoft Azure Active Directory Premium（E3 和 E5）** |是|
-|Microsoft Intune** |是|
-|Microsoft Intune for Education**  |是 |
-|Microsoft Azure 信息保护（E3 和 E5）** |受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
-|Microsoft 高级威胁分析** |受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
-|Microsoft Cloud App Security** |受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft Azure Active Directory Premium（E3 和 E5）**|是|
+|Microsoft Intune**|是|
+|Microsoft Intune for Education** |是 |
+|Microsoft Azure 信息保护（E3 和 E5）**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft 高级威胁分析**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft Cloud App Security**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
 
 &ast;适用于符合权益条件的云服务。 请参阅下表。
 
-** 作为独立计划购买。
+**作为独立计划购买。
 
 &nbsp;
 
