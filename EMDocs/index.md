@@ -2,15 +2,16 @@
 layout: HubPage
 title: "企业移动性 + 安全性文档 |Microsoft 文档"
 description: "Microsoft 企业移动性 + 安全性的技术文档"
+ms.topic: hub-page
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: 
 featureFlags:
 - clicktale
-ms.openlocfilehash: a648aea0df0d89ee79fc2caa4497a2f537f48b34
-ms.sourcegitcommit: ab1168215b5df3138d1476e0669d6ec03a73bd20
+ms.openlocfilehash: 8b73611d00f6d55e0237ec6f85c6b247e9ca261c
+ms.sourcegitcommit: bf19a18b42350de6ce275943fea69d1628ec3e5d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/15/2018
 ---
 <div id="main" class="v2">
     <div class="container">
