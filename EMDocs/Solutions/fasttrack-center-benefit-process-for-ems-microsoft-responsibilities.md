@@ -1,23 +1,23 @@
 ---
-title: "Microsoft 职责"
-description: "客户使用 FastTrack Center Benefit 时 Microsoft 的职责"
-keywords: 
-author: NathBarn
-ms.author: NathBarn
-manager: angrobe
-ms.date: 10/23/2017
+title: Microsoft 职责
+description: 客户使用 EMS 的 FastTrack 中心权益时 Microsoft 的职责
+keywords: ''
+author: andredm7
+ms.author: andredm
+manager: ''
+ms.date: 03/21/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
-ms.reviewer: 
+ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 102ff22c60aa58cddbc07ddd485a57e9e7340a92
-ms.sourcegitcommit: 024fad70d2c4976f039e3e572c7334927375b17e
+ms.openlocfilehash: c3d2d2cdcd0ac152639c573e776c9d8499b3c659
+ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2018
+ms.lasthandoff: 03/22/2018
 ---
 # <a name="microsoft-responsibilities"></a>Microsoft 职责
 
@@ -27,11 +27,9 @@ ms.lasthandoff: 02/27/2018
 
 -   对于所需的配置活动，为你提供远程支持协助（请参阅具体阶段中所列内容）。
 
--   提供可用的文档和软件工具、管理控制台和脚本，帮助您减少或消除配置任务。
+-   提供可用的文档、软件工具和管理控制台，帮助你减少或消除配置任务。
 
 ## <a name="initiate-phase"></a>启动阶段
-
--   对于新租户，在购买符合条件的许可证的 30 天内与您联系。
 
 -   和你一起开始载入。
 
@@ -53,18 +51,16 @@ ms.lasthandoff: 02/27/2018
 
 -   为修正活动设置时间表。
 
--   提供修正清单。
+-   为 Intune 和 Azure AD Premium 提供修正清单。
 
 ## <a name="remediate-phase"></a>修正阶段
 
--   根据商定的日程安排与你开始电话会议，以审核修正活动的进度。
-
--   运行工具以识别并解决问题，并对结果进行说明，从而提供协助。
+-   根据商定的日程与你进行电话会议，审阅修正活动的进度，例如在载入 Microsoft 云服务之前指导你满足安装先决条件。
 
 ## <a name="enable-phase"></a>启用阶段
 提供以下方面的指导：
 
--   激活您的 Microsoft Online Service 租户。
+-   激活你的 Microsoft 联机服务租户或订阅。
 
 -   配置 TCP/IP 协议和防火墙端口。
 
@@ -74,9 +70,9 @@ ms.lasthandoff: 02/27/2018
 
 -   对于单林环境：
 
-    -   根据需要，在 Active Directory 域服务 (AD DS) 和符合条件的 Microsoft Online Service 之间安装目录同步服务器。
+    -   在 Active Directory 域服务 (AD DS) 和符合条件的 Microsoft 联机服务之间安装目录同步服务器（仅指导，如果需要的话）。
 
-    -   使用 Azure Active Directory Connect 工具配置密码同步（密码哈希）到 Microsoft Intune (Azure Active Directory)。
+    -   使用 Azure Active Directory Connect 工具配置密码同步（密码哈希）到 Microsoft Intune (Azure Active Directory)。 （仅指导，如果需要的话）。
 
         > [!NOTE]
         > 自定义规则扩展的开发和实现不在讨论范围内。
@@ -117,7 +113,7 @@ ms.lasthandoff: 02/27/2018
 
     - 有关详细信息，请参阅 [Azure Active Directory 传递身份验证：快速入门] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) 和 [Azure Active Directory 无缝单一登录：快速入门] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。
     - 有关传递身份验证限制的详细信息，请参阅 [Azure Active Directory 传递身份验证：当前限制] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)。
-    - 有关无缝 SSO 问题的详细信息，请参阅 [解决 Azure Active Directory 无缝单一登录问题] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。
+    - 有关无缝 SSO 问题的详细信息，请参阅 [解决 Azure Active Directory 无缝单一登录的问题] (https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。
   
         > [!NOTE]
         > 密码哈希同步和密码写回支持多林。 但是，不支持其他写回方案。
@@ -169,17 +165,21 @@ ms.lasthandoff: 02/27/2018
   - 管理性通知和警报。
 
 ### <a name="enable-phase---intune"></a>启用阶段 - Intune
+
+> [!IMPORTANT]
+> FastTrack 不支持使用 Intune 进行 Windows 10 经典电脑管理。 FastTrack 仅支持通过 Intune 移动设备管理 (MDM) 进行 Windows 10 管理。
+
 提供以下方面的指导：
 
--   授权你的最终用户。
+-   通过利用本地 Active Directory 或利用云标识，配置将由 Intune 使用的标识 (Azure Active Directory)。
 
--   通过利用本地 Active Directory 或利用云标识，配置将由 Intune 使用的标识。
+-   授权你的最终用户。
 
 -   向 Intune 订阅添加用户时，定义 IT 管理员角色并创建用户组和设备组。
 
 -   根据管理需要配置移动设备管理 (MDM) 机构，包括：
 
-    -   当 Intune 是你唯一的 MDM 解决方案或其与 Office 365 的移动设备管理结合时，请将 Intune 设置为你的 MDM 机构。
+    -   Intune 是你唯一的 MDM 解决方案时将 Intune 设为 MDM 机构。
 
     -   如果已具有 Configuration Manager 的现有实施，并想使用 Intune 扩展其管理功能，请将 System Center Configuration Manager 设置为 MDM 机构。
 
@@ -187,33 +187,44 @@ ms.lasthandoff: 02/27/2018
         > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用 MDM，则不需要设置 MDM 机构。
 
     -   配置用于验证 MDM 管理策略的测试组。
+    
+    -   浏览 Intune 管理门户来查找有关用户和设备的信息。
+    
+    -   设置 Intune 角色（支持人员、管理员等）
 
     -   配置 MDM 管理策略和服务，如：
 
-        -   通过 Web 链接或深层链接为每个受支持平台进行的应用程序部署。
-
-        -   条件性访问策略。
+        -   通过 Web 链接、MSI 和/或深层链接为每个受支持平台进行的应用部署。
+    
+        -   将 Office 专业增强版部署到 Windows 10 设备。
+    
+        -   用于应用部署的批量购买计划，包括 Apple VPP、Windows Store for Business 和 Google Play for Work Store。
 
         -   电子邮件、无线网络和 VPN 配置文件的部署（如果组织中有现有的证书颁发机构、Wi-Fi 或 VPN 基础结构）。
 
         -   设置 Microsoft Intune Exchange Connector（如果适用）。
+    
+        -   受支持设备平台的设备配置文件。
 
+    -   设置条件访问策略。
+    
+    -   为每个支持平台配置和部署 Intune 应用保护策略。
+    
+    -   通过可用选项的相关指南，为 Intune 应用保护策略准备业务线 (LOB) 应用。 
+    
     -   将每个受支持平台的设备注册到 Intune 或具有 Microsoft Intune 服务的 Configuration Manager。
+    
+    -   连接到 Intune 数据仓库。
+    
+    -   将 Intune 与团队查看器集成，获取远程协助，以及移动威胁防护合作伙伴和电信费用合作伙伴相关信息（Intune 订阅中未包含第三方产品授权）。
+    
+    -   为适用的受支持平台配置软件更新。
+    
+    -   用户采用规划的相关资源。
 
-    -   使用硬件和软件清单报告。
+> [!NOTE] 
+> **想要了解更多？**请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
-    -   为每个支持平台配置 MAM 策略。
+## <a name="next-steps"></a>后续步骤
 
-    -   为托管应用配置条件性访问策略。
-
-    -   使用上述 MAM 策略定位适当的用户组。
-
-    -   使用托管应用程序使用情况报告。
-
-    -   安装 Intune 客户端软件（如果需要）。
-
-    -   使用 Intune 中可用的软件和硬件报告。
-
-**想要了解更多信息？**
-
-[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+[EMS 的 FastTrack 权益 - 你的职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)

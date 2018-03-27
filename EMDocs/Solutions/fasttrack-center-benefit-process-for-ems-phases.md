@@ -1,25 +1,26 @@
 ---
-title: "载入和迁移阶段"
-description: "FastTrack Center Benefit 的阶段"
-keywords: 
-author: NathBarn
-ms.author: NathBarn
-manager: angrobe
-ms.date: 02/01/2017
+title: 载入和迁移阶段
+description: FastTrack Center Benefit 的阶段
+keywords: ''
+author: andredm7
+ms.author: andredm
+manager: ''
+ms.date: 03/21/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: 
+ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 38cb0503eb6444ed577703e2c7ab6c981369ff07
-ms.sourcegitcommit: f77ccfb11b8ae3105de2bc18a5664ee6c11a553c
+ms.openlocfilehash: 7d73513b80778ec91c9b3bee284175aa43751afc
+ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 03/22/2018
 ---
-# <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
+# <a name="onboarding-phases"></a>载入阶段
+
 使用[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)以使 Microsoft Azure Active Directory Premium 和 Microsoft Intune 可供使用时，流程中涉及几个阶段。 以下各部分描述了载入流程的每个阶段。
 
 载入包含四个主要阶段：
@@ -28,11 +29,21 @@ ms.lasthandoff: 02/28/2018
 
 
 ## <a name="initiate-phase"></a>启动阶段
-购买适当数量的许可证后，请按照购买确认电子邮件中的指南将许可证与现有的租户或新租户相关联。 Microsoft 会验证你的 FastTrack 中心权益资格，并尝试与你联系来提供载入协助。 如果已准备好在组织中部署这些服务，还可以从 [FastTrack 中心](http://fasttrack.microsoft.com/)请求协助。
 
-若要请求协助，请使用工作或学校帐户登录到 [FastTrack 中心](http://fasttrack.microsoft.com/)，转到仪表板，展开屏幕左侧的“需要帮助?”，然后按照提示完成请求。 启动载入支持之后，我们将为联机会议设置一个日程安排。
+购买适当数量的许可证后，请按照购买确认电子邮件中的指南将许可证与现有的租户或新租户相关联。 Microsoft 会验证你的 FastTrack 中心权益资格，并尝试与你联系来提供载入协助。
 
-在此阶段，我们将讨论载入流程，验证数据并设置启动会议。
+> [!NOTE] 
+> 如果已准备好在组织中部署这些服务，还可以从 [FastTrack 中心](http://fasttrack.microsoft.com/)请求协助。
+
+### <a name="to-request-assistance"></a>请求协助
+
+1. 转到 [FastTrack 中心](http://fasttrack.microsoft.com/)，使用你的工作或学校帐户登录。
+
+2. 在客户仪表板中，选择页面右下侧的“转到 FastTrack”。
+
+3. 在 FastTrack 仪表板上，在页面右下侧展开“需要帮助?”，然后按照提示完成请求。
+
+载入支持启动后，FastTrack 会设置你的联机会议日程，讨论载入流程、验证数据，并设置启动会议。
 
 ![载入启动阶段](./media/ft-initiate-phase.png)
 
@@ -119,9 +130,6 @@ Azure AD Premium 设置包括启用以下功能：
 
     -   如果已具有 Configuration Manager 的现有实施，并想使用 Intune 扩展其管理功能，请将 System Center Configuration Manager 设置为 MDM 机构。
 
-        > [!NOTE]
-        > 如果只希望对最终用户拥有的设备、共享设备或展台类型的设备使用 MDM，则不需要设置 MDM 机构。
-
 -   提供相关 MDM 指导：
 
     -   配置用于验证 MDM 管理策略的测试组。
@@ -138,9 +146,9 @@ Azure AD Premium 设置包括启用以下功能：
 
     -   将每个[受支持平台](https://technet.microsoft.com/library/dn600287.aspx)的设备注册到你的 Intune 或具有 Intune 服务的 Configuration Manager。
 
--   提供相关移动应用程序管理 (MAM) 指导：
+-   提供有关以下内容的 Intune 应用保护（应用管理）指导：
 
-    -   为每个支持平台配置 MAM 策略。
+    -   为每个支持平台配置应用保护策略。
 
     -   为托管应用配置条件性访问策略。
 
@@ -154,6 +162,9 @@ Azure AD Premium 设置包括启用以下功能：
 
     -   使用 Intune 中可用的软件和硬件报告。
 
+    > [!IMPORTANT]
+    > FastTrack 不支持使用 Intune 进行 Windows 10 经典电脑管理。 FastTrack 仅支持通过 Intune 移动设备管理 (MDM) 进行 Windows 10 设备管理。
+
 Microsoft 还会与你联系，提供有关如何推动成功采用符合条件的服务的指导。
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mam.png)
@@ -162,6 +173,9 @@ Microsoft 还会与你联系，提供有关如何推动成功采用符合条件�
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase-intune-mdm-mam-sccm.png)
 
-**想要了解更多信息？**
+> [!NOTE]
+> **想要了解更多？**请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。
 
-[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+## <a name="next-steps"></a>后续步骤
+
+[EMS 的 FastTrack 权益 - Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
