@@ -1,26 +1,26 @@
 ---
-title: "FastTrack 流程"
-description: "FastTrack Center Benefit 载入流程的概述"
-keywords: 
-author: NathBarn
-ms.author: NathBarn
-manager: angrobe
-ms.date: 02/01/2017
+title: FastTrack 流程
+description: FastTrack Center Benefit 载入流程的概述
+keywords: ''
+author: andredm7
+ms.author: andredm
+manager: ''
+ms.date: 03/21/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: 
+ms.technology: ''
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
-ms.reviewer: 
+ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: f22c4fc117368bc92bed6f9d3e707ef83327abb3
-ms.sourcegitcommit: 024fad70d2c4976f039e3e572c7334927375b17e
+ms.openlocfilehash: 53f96bd0ea1579ef7597d74690a2bac005c132c0
+ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2018
+ms.lasthandoff: 03/22/2018
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程
-如果组织符合 EMS 的 FastTrack 中心权益的条件，则可以与 Microsoft 专家一同远程准备 Microsoft Azure Active Directory Premium 和 Microsoft Intune，使其可供使用。 还可以通过 [FastTrack 站点](http://fasttrack.microsoft.com/ems)为 Azure 信息保护、Microsoft Cloud App Security 和 Microsoft 高级威胁分析请求帮助。 若要确定你的组织是否符合条件，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
+如果组织符合 EMS 的 FastTrack 中心权益的条件，则可以与 FastTrack 专家一同远程准备 Microsoft Azure Active Directory Premium 和 Microsoft Intune，使其可供使用。 还可以通过 [FastTrack 站点](http://fasttrack.microsoft.com/ems)为 Azure 信息保护、Microsoft Cloud App Security 和 Microsoft 高级威胁分析请求帮助。 若要确定你的组织是否符合条件，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
 
 
 下面是有关载入流程的说明：
@@ -43,7 +43,7 @@ ms.lasthandoff: 02/27/2018
 
     -   云标识（唯一 EMS 帐户）。
 
-    -   同步标识：使用 Azure Active Directory Connect 工具从本地 Active Directory 中同步的 EMS 帐户。 此选项适用于具有单个林或多个 Active Directory 林的客户。
+    -   同步标识：使用 Azure Active Directory Connect 工具从本地 Active Directory 中同步的 EMS 帐户（密码哈希同步或传递身份验证）。 此选项适用于具有单个林或多个 Active Directory 林的客户。
 
     -   联合身份，即满足以下条件的 Microsoft EMS 帐户：
 
