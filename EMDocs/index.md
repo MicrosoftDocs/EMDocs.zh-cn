@@ -1,10 +1,10 @@
 ---
 layout: HubPage
-title: "企业移动性 + 安全性文档 |Microsoft 文档"
-description: "Microsoft 企业移动性 + 安全性的技术文档"
+title: 企业移动性 + 安全性文档 |Microsoft 文档
+description: Microsoft 企业移动性 + 安全性的技术文档
 ms.topic: hub-page
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
-hide_bc: 
+hide_bc: true
 featureFlags:
 - clicktale
 ms.openlocfilehash: 8b73611d00f6d55e0237ec6f85c6b247e9ca261c
