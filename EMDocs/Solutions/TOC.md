@@ -1,7 +1,7 @@
 # 解决方案
 ## 服务描述
 ### [针对美国政府的企业移动性 + 安全性服务描述](ems-govt-service-description.md)
-###[Azure Active Directory Premium 政府服务说明](azure-ad-premium-govt-service-description.md)
+### [Azure Active Directory Premium 政府服务说明](azure-ad-premium-govt-service-description.md)
 ## [标识和访问管理]()
 ### [数千个应用，一个标识](thousands-apps-one-identity.md)
 ### [实现商业无国界](enable-business-without-borders.md)
@@ -19,5 +19,5 @@
 #### [概述](fasttrack-center-benefit-process-for-ems-overview.md)
 #### [源环境预期](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
 #### [载入和迁移阶段](fasttrack-center-benefit-process-for-ems-phases.md)
-#### [Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
+#### [FastTrack 职责](fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities.md)
 #### [你的职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
