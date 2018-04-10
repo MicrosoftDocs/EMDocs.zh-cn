@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 53f96bd0ea1579ef7597d74690a2bac005c132c0
-ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
+ms.openlocfilehash: e26aa24ea38c9ec2fa0dabe9044256fa5bfd9b4a
+ms.sourcegitcommit: f045537a12763cd6164c4ae42f7b4a45c4ca040b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/05/2018
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程
 如果组织符合 EMS 的 FastTrack 中心权益的条件，则可以与 FastTrack 专家一同远程准备 Microsoft Azure Active Directory Premium 和 Microsoft Intune，使其可供使用。 还可以通过 [FastTrack 站点](http://fasttrack.microsoft.com/ems)为 Azure 信息保护、Microsoft Cloud App Security 和 Microsoft 高级威胁分析请求帮助。 若要确定你的组织是否符合条件，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。
@@ -31,7 +31,7 @@ ms.lasthandoff: 03/22/2018
 
 -   [载入流程阶段](fasttrack-center-benefit-process-for-ems-phases.md)
 
--   [Microsoft 在每个阶段的职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
+-   每个阶段的 [FastTrack 职责](fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities.md)
 
 -   每个阶段的[客户职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
 
