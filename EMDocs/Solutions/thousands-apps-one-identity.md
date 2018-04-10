@@ -1,24 +1,24 @@
 ---
-title: "数千个应用，一个标识"
-description: "本文介绍如何使用企业移动性 + 安全性，利用 Azure Active Directory 内的工具提供适用于行业内任何基于 Web 的应用的单一标识。"
-keywords: 
+title: 数千个应用，一个标识
+description: 本文介绍如何使用企业移动性 + 安全性，利用 Azure Active Directory 内的工具提供适用于行业内任何基于 Web 的应用的单一标识。
+keywords: ''
 author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 12/07/2016
 ms.topic: solution
-ms.prod: 
+ms.prod: ''
 ms.service: active-directory
-ms.technology: 
+ms.technology: ''
 ms.assetid: dd879a14-919e-431b-89b9-c035c83a6899
-ROBOTS: 
+ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: b995c17749d1eaf6ae9561980ff87b97f7f5e1a0
-ms.sourcegitcommit: 5cde65a0e614800ebd9c8479437dc9dd846c8cd8
+ms.openlocfilehash: 7710b1465256e99b9a0f7fa05af780af079731ae
+ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/29/2017
+ms.lasthandoff: 04/06/2018
 ---
 # <a name="thousands-of-apps-one-identity"></a>数千个应用，一个标识
 通过为可访问云和本地资源的服务型软件 (SaaS) 应用程序的用户提供通用标识，Azure Active Directory (Azure AD) 使用户的工作效率更高。
@@ -102,11 +102,11 @@ Azure AD 应用程序库包含成千上万款可添加到组织的应用，但�
 ## <a name="how-to-implement-this-solution"></a>实现本解决方案的方式
 以下步骤介绍之前讨论的实现每个 Azure AD 功能的方法。 每个链接表示一组不同的文章，其中包含要在组织中实现的一组不同的说明/步骤：
 1. [使用应用程序代理启用单一登录。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-sso-using-kcd/)
-- [提供对本地应用程序的安全远程访问。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-get-started/)
-  - [使用 Azure AD 应用程序代理中的自定义域。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-custom-domains/)
-  - [使用应用程序代理中的声明感知应用。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-claims-aware-apps/)
-  - [为使用应用程序代理发布的应用处理条件性访问。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-conditional-access/)
-- [将自己的应用引入 Azure AD。](https://blogs.technet.microsoft.com/enterprisemobility/2015/06/17/bring-your-own-app-with-azure-ad-self-service-saml-configuration-now-in-preview/)
+2. [提供对本地应用程序的安全远程访问。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-get-started/)
+   - [使用 Azure AD 应用程序代理中的自定义域。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-custom-domains/)
+   - [使用应用程序代理中的声明感知应用。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-claims-aware-apps/)
+   - [为使用应用程序代理发布的应用处理条件性访问。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-conditional-access/)
+3. [将自己的应用引入 Azure AD。](https://blogs.technet.microsoft.com/enterprisemobility/2015/06/17/bring-your-own-app-with-azure-ad-self-service-saml-configuration-now-in-preview/)
 
 ## <a name="additional-resources"></a>其他资源
 - **Azure.com 上的应用库**
