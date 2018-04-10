@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7d73513b80778ec91c9b3bee284175aa43751afc
-ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
+ms.openlocfilehash: c12542c9eed9daaa5a76241ce5045751b8473551
+ms.sourcegitcommit: f045537a12763cd6164c4ae42f7b4a45c4ca040b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/05/2018
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 03/22/2018
 
 购买适当数量的许可证后，请按照购买确认电子邮件中的指南将许可证与现有的租户或新租户相关联。 Microsoft 会验证你的 FastTrack 中心权益资格，并尝试与你联系来提供载入协助。
 
-> [!NOTE] 
+> [!NOTE]
 > 如果已准备好在组织中部署这些服务，还可以从 [FastTrack 中心](http://fasttrack.microsoft.com/)请求协助。
 
 ### <a name="to-request-assistance"></a>请求协助
@@ -78,7 +78,7 @@ FastTrack 中心还会与你联系，提供有关如何推动成功采用符合�
 > 托管身份验证方法包括但不限于密码哈希同步。
 
 > [!NOTE]
-> 标识集成是一次性活动，不包括对现有身份验证方法（如托管或联合）的迁移或解除授权。 
+> 标识集成是一次性活动，不包括对现有身份验证方法（如托管或联合）的迁移或解除授权。
 
 ### <a name="enable-phase---azure-ad-premium"></a>启用阶段 - Azure AD Premium
 
@@ -107,10 +107,6 @@ Azure AD Premium 设置包括启用以下功能：
 -   特权标识管理。
 
 -   Azure Active Directory 条件访问。
-
--   发至管理员的使用情况和安全报告。
-
--   管理性通知和警报。
 
 ![载入启用阶段 - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
@@ -178,4 +174,4 @@ Microsoft 还会与你联系，提供有关如何推动成功采用符合条件�
 
 ## <a name="next-steps"></a>后续步骤
 
-[EMS 的 FastTrack 权益 - Microsoft 职责](fasttrack-center-benefit-process-for-ems-microsoft-responsibilities.md)
+[EMS 的 FastTrack 权益 - Microsoft 职责](fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities.md)
