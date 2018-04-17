@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0d4d4c9419fb027b87ceb92fcabb8af17f983f63
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 0146fc11fb08c1c7d4442cc78a7af8aa8d2dcdab
+ms.sourcegitcommit: 5ce9b7a0ebac0c5f626b0273fa93fd02589a7452
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
+ms.lasthandoff: 04/16/2018
 ---
 # <a name="how-to-manage-your-own-password"></a>如何管理密码
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 04/06/2018
 ![显示 blahblah 的屏幕截图](./media/ft-mngPW-1-setup.png)
 4.  从下拉列表中选择国家/地区代码并输入包含区号的完整电话号码。
 ![显示如何选择国家/地区代码的屏幕截图。 ](./media/ft-mngPW-2-enterNumber.png)![显示手机号码输入位置的屏幕截图。](./media/ft-mngPW-3-enterNumber2.png)
-5.  选择“发短信给我”或“打电话给我”选项其中之一。 在本示例中，我选择“发短信给我”，此操作会向我的电话发送一个 6 位代码。 等待代码发送到手机。
+5.  选择“发短信给我”或“打电话给我”选项其中之一。 在本示例中，我选择“发短信给我”，此操作会向我的电话发送一个 6 位代码。 等待代码发送到手机。  
 ![显示已发送到手机的 6 位代码的屏幕截图。](./media/ft-mngPW-4-textCode.png)
 6.  收到代码后，将其输入到输入框，然后单击“验证”。
 7.  看到“谢谢”即表示验证完成！ 现在可以使用已注册的内容，随时转到 [https://passwordreset.microsoftonline.com](https://passwordreset.microsoftonline.com) 来重置密码。![显示完成注册时接收到的感谢消息的屏幕截图。](./media/ft-mngPW-5-thanks.png)
@@ -52,7 +52,7 @@ ms.lasthandoff: 04/06/2018
    ![显示无法识别用户 ID 或密码时用户接收到的第一条消息的屏幕截图。](./media/ft-mngPW-6-resetPWbegin.png)
 2. 在“你是谁？” 页面上，输入工作或学校帐户 ID，并通过验证码证明并非机器人。
    ![提示用户输入用户 ID 和所示图片验证码的屏幕截图。](./media/ft-mngPW-7-enterID.png)
-3. 单击“下一步” 。
+3. 单击 **下一步**。
 4. 选择一个选项以重置密码。 根据管理员配置系统的方式，你可能会看到以下一个或多个选择：
    - **向我的备用电子邮件发送电子邮件** - 向你的备用电子邮件或身份验证电子邮件（可选择）发送一封包含 6 位代码的电子邮件。
    - **向我的移动电话发送短信** - 向你的移动电话或身份验证电子邮件（可选择）发送一条包含 6 位代码的短信。
@@ -62,7 +62,7 @@ ms.lasthandoff: 04/06/2018
    ![提示用户选择验证时所用联系方法的屏幕截图。](./media/ft-mngPW-8-answerQuestions.png)
 5. 我们将使用“向我的移动电话发送短信”选项作为示例。 如果使用基于电话的选项，你需要先验证你的电话号码，然后我们才会发送短信。 输入完整的电话号码，然后单击“下一步”来验证电话号码是否正确并发送短信。
    ![显示用户需输入手机号码以接收验证短信的屏幕截图。](./media/ft-mngPW-9-textNumber.png)
-6. 收到短信时，请确保使用消息正文中的验证代码，而不是发送该代码的号码。 获取短信可能会需要几分钟，请耐心等待！
+6. 收到短信时，请确保使用消息正文中的验证代码，而不是发送该代码的号码。 获取短信可能会需要几分钟，请耐心等待！  
    ![显示已接收到的验证码的屏幕截图。](./media/ft-mngPW-10-verificationCode.png)
 7. 现在，在页面上的输入框中输入手机接收到的代码。
    ![显示用户必须输入刚刚接收到的验证码的屏幕截图。](./media/ft-mngPW-11-enterCode.png)
