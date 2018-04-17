@@ -18,6 +18,6 @@
 ### [FastTrack 流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)
 #### [概述](fasttrack-center-benefit-process-for-ems-overview.md)
 #### [源环境预期](fasttrack-center-benefit-process-for-ems-environment-expectations.md)
-#### [载入和迁移阶段](fasttrack-center-benefit-process-for-ems-phases.md)
+#### [载入阶段](fasttrack-center-benefit-process-for-ems-phases.md)
 #### [FastTrack 职责](fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities.md)
 #### [你的职责](fasttrack-center-benefit-process-for-ems-your-responsibilities.md)
