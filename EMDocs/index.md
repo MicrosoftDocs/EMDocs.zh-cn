@@ -7,11 +7,11 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: true
 featureFlags:
 - clicktale
-ms.openlocfilehash: 8b73611d00f6d55e0237ec6f85c6b247e9ca261c
-ms.sourcegitcommit: bf19a18b42350de6ce275943fea69d1628ec3e5d
+ms.openlocfilehash: e28730f6aa4fe306b0d846916a775437de132b9f
+ms.sourcegitcommit: 208a99629200b9ac1143b34b3609b4faa72d6f23
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 05/03/2018
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -91,7 +91,7 @@ ms.lasthandoff: 03/15/2018
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Cloud App Security</h3>
+                                                    <h3>Microsoft Cloud App Security</h3>
                                                     <p>能够深入了解、全面掌控并增强 SaaS 的安全性</p>
                                                 </div>
                                             </div>
