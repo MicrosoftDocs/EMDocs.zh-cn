@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/26/2018
+ms.date: 04/27/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a5fce16f550e3b0e620e2cc6eb1f3d9e9cf7dc32
-ms.sourcegitcommit: 5ce9b7a0ebac0c5f626b0273fa93fd02589a7452
+ms.openlocfilehash: b9fb99c2c5bd640a033684096bd8f189a09b1698
+ms.sourcegitcommit: 0863dce817862f00068614f2c62698784eb76d84
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2018
+ms.lasthandoff: 04/28/2018
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 职责
 
@@ -159,8 +159,6 @@ FastTrack 在加入期间的职责如下。
   - 特权标识管理。
 
   - Azure Active Directory 条件访问。
-  
-  - 混合 Azure AD 联接
 
 ### <a name="enable-phase---intune"></a>启用阶段 - Intune
 
@@ -211,7 +209,14 @@ FastTrack 在加入期间的职责如下。
 
     -   连接到 Intune 数据仓库。
 
-    -   将 Intune 与团队查看器集成，获取远程协助，以及移动威胁防护合作伙伴和电信费用合作伙伴相关信息（Intune 订阅中未包含第三方产品授权）。
+    -   将 Intune 与以下产品集成：
+        -   Team Viewer，获取远程协助（Team Viewer 订阅是必需的）。
+
+        -   移动威胁防御合作伙伴解决方案（移动威胁防御合作伙伴解决方案订阅是必需的）。
+
+        -   电信费用管理解决方案（电信费用管理解决方案订阅是必需的）。
+
+        -   Windows Defender 高级威胁防护（Windows E5 或 Microsoft 365 E5 许可证是必需的）。
 
     -   为适用的受支持平台配置软件更新。
 

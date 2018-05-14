@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/21/2018
+ms.date: 04/27/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c12542c9eed9daaa5a76241ce5045751b8473551
-ms.sourcegitcommit: f045537a12763cd6164c4ae42f7b4a45c4ca040b
+ms.openlocfilehash: e63644b2e8db81f6293dbad4ca4de14dbe40ecac
+ms.sourcegitcommit: 0863dce817862f00068614f2c62698784eb76d84
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2018
+ms.lasthandoff: 04/28/2018
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -75,10 +75,10 @@ FastTrack 中心还会与你联系，提供有关如何推动成功采用符合�
 
 ![载入启用阶段 - 核心功能](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> 托管身份验证方法包括但不限于密码哈希同步。
+> Web 代表 Web 应用程序代理。 SSL 代表安全套接字层。 SDS 代表学校数据同步。有关 SDS 的详细信息，请参阅[欢迎使用 Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480)。
 
 > [!NOTE]
-> 标识集成是一次性活动，不包括对现有身份验证方法（如托管或联合）的迁移或解除授权。
+> 托管身份验证方法包括但不限于密码哈希同步。 标识集成是一次性活动，不包括对现有身份验证方法（如托管或联合）的迁移或解除授权。
 
 ### <a name="enable-phase---azure-ad-premium"></a>启用阶段 - Azure AD Premium
 
@@ -139,6 +139,17 @@ Azure AD Premium 设置包括启用以下功能：
         -   电子邮件、无线网络和虚拟专用网络 (VPN) 配置文件的部署（如果组织中有现有的证书颁发机构、Wi-Fi 或 VPN 基础结构）。
 
         -   设置 Microsoft Intune Exchange Connector（如果适用）。
+
+        -   连接到 Intune 数据仓库
+
+        -   将 Intune 与以下产品集成：
+            -   Team Viewer，获取远程协助（Team Viewer 订阅是必需的）。
+
+            -   移动威胁防御 (MTD) 合作伙伴解决方案（移动威胁防御订阅是必需的）。
+
+            -   电信费用管理解决方案（电信费用管理解决方案订阅是必需的）。
+
+            -   Windows Defender 高级威胁防护（Windows E5 或 Microsoft 365 E5 许可证是必需的）。
 
     -   将每个[受支持平台](https://technet.microsoft.com/library/dn600287.aspx)的设备注册到你的 Intune 或具有 Intune 服务的 Configuration Manager。
 

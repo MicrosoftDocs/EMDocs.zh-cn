@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/21/2018
+ms.date: 04/27/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: fe9ee9f1eeb36e4f1df8d1bd2da63ab08e515098
-ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
+ms.openlocfilehash: bba697474155bbd85927da8af86d72dcc5aad531
+ms.sourcegitcommit: 0863dce817862f00068614f2c62698784eb76d84
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2018
+ms.lasthandoff: 04/28/2018
 ---
 # <a name="your-responsibilities"></a>您的职责
 
@@ -66,6 +66,10 @@ ms.lasthandoff: 03/22/2018
 -   如果使用 Intune 部署 Wi-Fi 和 VPN 配置文件时有相关需要，则根据需要提供并配置证书颁发机构、Wi-Fi 和 VPN 基础结构。
 
 -   撰写组织的使用条款 (TOU) 声明，使其在最终用户可访问的 Microsoft Intune 公司门户上处于可配置和可显示状态。
+
+-   注册 Team Viewer、Mobile Threat Defense 和电信费用管理解决方案订阅。
+
+-   注册 Windows Defender 高级威胁防护许可证。 （Windows E5 或 Microsoft E5 许可证）。
 
 ## <a name="initiate-phase"></a>启动阶段
 
