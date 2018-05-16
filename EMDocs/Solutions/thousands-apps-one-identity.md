@@ -50,9 +50,9 @@ Azure AD 是云标识和访问管理解决方案，它可与传统工具上的�
 
 Azure AD 支持三种单一登录身份验证：
 
-- **Microsoft Azure AD 单一登录：**此选项使用联合登录，允许用户使用 Azure AD 的用户帐户信息自动登录到第三方应用程序，例如 Salesforce。
-- **密码单一登录：**此选项使用户能够使用第三方用户帐户信息通过 Azure AD 自动登录到第三方 SaaS 应用程序。
-- **现有单一登录：**此选项支持使用 Active Directory 联合身份验证服务 (ADFS) 或其他第三方单一登录提供程序单一登录到第三方 SaaS 公司。
+- **Microsoft Azure AD 单一登录：** 此选项使用联合登录，允许用户使用 Azure AD 的用户帐户信息自动登录到第三方应用程序，例如 Salesforce。
+- **密码单一登录：** 此选项使用户能够使用第三方用户帐户信息通过 Azure AD 自动登录到第三方 SaaS 应用程序。
+- **现有单一登录：** 此选项支持使用 Active Directory 联合身份验证服务 (ADFS) 或其他第三方单一登录提供程序单一登录到第三方 SaaS 公司。
 
 ### <a name="how-single-sign-on-works"></a>单一登录的工作原理
 Azure AD 支持使用支持任何以下标准协议的应用进行单一登录：
