@@ -223,7 +223,7 @@ FastTrack 在加入期间的职责如下。
     -   用户采用规划的相关资源。
 
 > [!NOTE]
-> **想要了解更多？**请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
+> **想要了解更多?** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -181,7 +181,7 @@ Microsoft 还会与你联系，提供有关如何推动成功采用符合条件�
 ![载入启用阶段 - Intune](./media/ft-enable-phase-intune-mdm-mam-sccm.png)
 
 > [!NOTE]
-> **想要了解更多？**请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。
+> **想要了解更多?** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>后续步骤
 
