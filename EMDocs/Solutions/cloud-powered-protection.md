@@ -1,24 +1,24 @@
 ---
-title: "由云支持的保护"
-description: "本文介绍如何通过利用 Azure Active Directory 中的工具，使用企业移动性 + 安全性提供一组全面的安全工具，帮助在组织中主动识别安全威胁并作出响应。"
-keywords: 
+title: 由云支持的保护
+description: 本文介绍如何通过利用 Azure Active Directory 中的工具，使用企业移动性 + 安全性提供一组全面的安全工具，帮助在组织中主动识别安全威胁并作出响应。
+keywords: ''
 author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/24/2016
 ms.topic: solution
-ms.prod: 
+ms.prod: ''
 ms.service: active-directory
-ms.technology: 
+ms.technology: ''
 ms.assetid: 46654ab0-0d0a-47ad-8715-b149a1092a37
-ROBOTS: 
+ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 0ed7704a832f3567f14c6eec5ae7da9ea5e9f22a
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 28fc9de2c33972231a3e62c464153de0e202e06b
+ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 05/24/2018
 ---
 # <a name="cloud-powered-protection"></a>由云支持的保护
 Microsoft 保护基于云的标识已超过十年，借助 Azure Active directory，Microsoft 向企业客户提供相同的保护系统，以确保用户和管理员能通过更高的安全性和更好的管理履行各自的职责。
@@ -76,7 +76,7 @@ Azure AD 高级版 2 产品中提供 Azure AD Identity Protection，可与 Azure
 
 Microsoft 仍在继续对这一领域进行投入，并计划持续改进当前风险事件的检测准确性，并在现有基础上增加新的风险事件类型。 例如，使用户能调查“无法实现的行程”风险事件。
 
-有关详细信息，请参阅 [Azure AD Identity 操作手册](https://azure.microsoft.com/en-us/documentation/articles/active-directory-identityprotection-playbook/)。
+有关详细信息，请参阅 [Azure AD Identity 操作手册](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-playbook/)。
 
 下面是 Identity Protection 仪表板上几个风险事件的示例：
 
@@ -87,7 +87,7 @@ Microsoft 仍在继续对这一领域进行投入，并计划持续改进当前�
 
 ![屏幕截图：Azure AD Identity Protection 仪表板显示“无法实现的行程”风险事件的位置。](./media/cloud-powered-protection/cloud-powered-protection-fig2.png)
 
-有关详细信息，请参阅 [Azure Active Directory Identity Protection 检测到的风险事件类型](https://azure.microsoft.com/en-us/documentation/articles/active-directory-identityprotection-risk-events-types/)。
+有关详细信息，请参阅 [Azure Active Directory Identity Protection 检测到的风险事件类型](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-risk-events-types/)。
 
 #### <a name="remediation"></a>补救
 除了基于单个事件的寻址事件外，Azure AD Identity Protection 支持通过配置用户风险修正策略这一主动方法来解决潜在的问题。 在策略设置中，可以将单个用户、群组或所有用户作为目标。 还可以设置触发此策略的特定条件。
@@ -99,7 +99,7 @@ Microsoft 仍在继续对这一领域进行投入，并计划持续改进当前�
 - Azure MFA 注册
 - 更改密码
 
-有关详细信息，请参阅 [Azure AD Identity Protection](https://azure.microsoft.com/en-us/documentation/articles/active-directory-identityprotection/) 和此[企业移动性和安全性博客文章](https://blogs.technet.microsoft.com/enterprisemobility/2016/09/07/azuread-identity-protection-azure-ad-privileged-identity-management-and-azure-ad-premium-p2-will-be-generally-available-sept-15th/)。
+有关详细信息，请参阅 [Azure AD Identity Protection](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/) 和此[企业移动性和安全性博客文章](https://blogs.technet.microsoft.com/enterprisemobility/2016/09/07/azuread-identity-protection-azure-ad-privileged-identity-management-and-azure-ad-premium-p2-will-be-generally-available-sept-15th/)。
 
 ### <a name="azure-ad-conditional-access"></a>Azure AD 条件性访问
 下面的链接提供基于多重身份验证 (MFA)、位置和设备策略使用 Azure AD 条件性访问的信息。

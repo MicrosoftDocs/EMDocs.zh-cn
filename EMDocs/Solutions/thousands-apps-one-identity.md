@@ -14,11 +14,11 @@ ms.assetid: dd879a14-919e-431b-89b9-c035c83a6899
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 7710b1465256e99b9a0f7fa05af780af079731ae
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 6aca218a4607579ce97f057ca6f67b344eae7894
+ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
+ms.lasthandoff: 05/24/2018
 ---
 # <a name="thousands-of-apps-one-identity"></a>数千个应用，一个标识
 通过为可访问云和本地资源的服务型软件 (SaaS) 应用程序的用户提供通用标识，Azure Active Directory (Azure AD) 使用户的工作效率更高。
@@ -95,17 +95,17 @@ Azure AD 应用程序库包含成千上万款可添加到组织的应用，但�
 ![屏幕截图，显示如何使用 Azure AD 应用程序库为组织添加应用程序。](./media/thousands-apps-one-identity/thousands-apps-one-identity-fig4.png)
 
 ### <a name="secure-remote-access-to-on-premises-apps"></a>对本地应用进行安全的远程访问
-[Azure AD 应用程序代理](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-enable/)提供用于本地托管的 Web 应用程序的单一登录 (SSO) 和安全远程访问。 其中包括 SharePoint 站点、Outlook Web Access 或任何其他 LOB Web 应用程序。 这些本地 Web 应用程序与 O365 所使用的标识和控制平台 Azure AD 集成。
+[Azure AD 应用程序代理](https://azure.microsoft.com/documentation/articles/active-directory-application-proxy-enable/)提供用于本地托管的 Web 应用程序的单一登录 (SSO) 和安全远程访问。 其中包括 SharePoint 站点、Outlook Web Access 或任何其他 LOB Web 应用程序。 这些本地 Web 应用程序与 O365 所使用的标识和控制平台 Azure AD 集成。
 
 然后最终用户便可以访问本地应用程序（与访问 O365 和其他与 Azure AD 集成的 SaaS 应用程序的方式相同），而无需使用 VPN 或更改网络基础结构。
 
 ## <a name="how-to-implement-this-solution"></a>实现本解决方案的方式
 以下步骤介绍之前讨论的实现每个 Azure AD 功能的方法。 每个链接表示一组不同的文章，其中包含要在组织中实现的一组不同的说明/步骤：
-1. [使用应用程序代理启用单一登录。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-sso-using-kcd/)
-2. [提供对本地应用程序的安全远程访问。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-get-started/)
-   - [使用 Azure AD 应用程序代理中的自定义域。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-custom-domains/)
-   - [使用应用程序代理中的声明感知应用。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-claims-aware-apps/)
-   - [为使用应用程序代理发布的应用处理条件性访问。](https://azure.microsoft.com/en-us/documentation/articles/active-directory-application-proxy-conditional-access/)
+1. [使用应用程序代理启用单一登录。](https://azure.microsoft.com/documentation/articles/active-directory-application-proxy-sso-using-kcd/)
+2. [提供对本地应用程序的安全远程访问。](https://azure.microsoft.com/documentation/articles/active-directory-application-proxy-get-started/)
+   - [使用 Azure AD 应用程序代理中的自定义域。](https://azure.microsoft.com/documentation/articles/active-directory-application-proxy-custom-domains/)
+   - [使用应用程序代理中的声明感知应用。](https://azure.microsoft.com/documentation/articles/active-directory-application-proxy-claims-aware-apps/)
+   - [为使用应用程序代理发布的应用处理条件性访问。](https://azure.microsoft.com/documentation/articles/active-directory-application-proxy-conditional-access/)
 3. [将自己的应用引入 Azure AD。](https://blogs.technet.microsoft.com/enterprisemobility/2015/06/17/bring-your-own-app-with-azure-ad-self-service-saml-configuration-now-in-preview/)
 
 ## <a name="additional-resources"></a>其他资源

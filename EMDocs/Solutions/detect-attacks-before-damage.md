@@ -1,23 +1,23 @@
 ---
-title: "在导致损害前检测出攻击 | Microsoft Docs"
-description: "一个方案，描述如何使用企业移动性 + 安全性，通过利用高级威胁分析、Cloud App Security 和 Azure Active Directory Premium，保护公司数据，使其免受攻击。"
+title: 在导致损害前检测出攻击 | Microsoft Docs
+description: 一个方案，描述如何使用企业移动性 + 安全性，通过利用高级威胁分析、Cloud App Security 和 Azure Active Directory Premium，保护公司数据，使其免受攻击。
 author: yuridio
 ms.author: yurid
 manager: swadhwa
 ms.date: 01/23/2017
 ms.topic: solution
-ms.prod: 
+ms.prod: ''
 ms.service: active-directory
-ms.technology: 
+ms.technology: ''
 ms.assetid: de0a7e70-008b-45c1-bba8-f033b1f62194
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: advanced-threat-analytics, cloud-app-security
-ms.openlocfilehash: 420df3bfcc0fca07bf4f7b068f4d49015ace048f
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: c8d94bb0ff5fdbb45670d93c31a3da0f5b1a859d
+ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 05/24/2018
 ---
 # <a name="detect-attacks-before-they-cause-damage"></a>在攻击造成损害前检测出攻击
 要建立强大的安全保障，就需要设立高级的检测系统，这种检测系统应能够在威胁造成重大损害之前识别威胁。 组织能够无缝利用 Microsoft 安全智能来检测本地和云中的可疑活动。
@@ -29,7 +29,7 @@ ms.lasthandoff: 07/25/2017
 Microsoft 企业移动性 + 安全性让 IT 人员能够使用革新性的行为分析和异常检测技术，确定组织中本地和云中的攻击者。  这将帮助 IT 人员检测出系统中的已知恶意攻击和已知安全漏洞。
 
 ## <a name="recommended-solution"></a>建议的解决方案
-为满足此方案的要求，EMS 使用[高级威胁分析](https://docs.microsoft.com/en-us/advanced-threat-analytics/)、[Cloud App Security](https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security) 和 [Azure Active Directory Premium](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-get-started-premium)。 通过实施这些技术，组织将能够：
+为满足此方案的要求，EMS 使用[高级威胁分析](https://docs.microsoft.com/advanced-threat-analytics/)、[Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) 和 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/active-directory-get-started-premium)。 通过实施这些技术，组织将能够：
 
 - 使用革新性的行为分析和异常检测技术（利用机器学习）检测或识别异常行为
 - 检测已知恶意攻击（即传递哈希、传递票证）和已知安全漏洞
@@ -51,12 +51,12 @@ IT 人员必须要考虑如何正确保护本地或云中的标识、数据、�
 
 在此全新的网络安全攻击背景下，要想减少威胁，IT 人员需要革新性的威胁检测解决方案，利用行为分析和机器学习技术，快速识别全新的威胁。  通过利用 ATA 和 Cloud App Security 来检测本地和云中的攻击，IT 人员能够在事件对环境造成重大损害之前快速应对事件。
 
-在本地实施 ATA 之前，请阅读 [ATA 容量规划](https://docs.microsoft.com/en-us/advanced-threat-analytics/plan-design/ata-capacity-planning)，另请阅读 [ATA 先决条件](https://docs.microsoft.com/en-us/advanced-threat-analytics/plan-design/ata-prerequisites)，了解安装 ATA 之前的一般注意事项。 使用[预安装清单](https://docs.microsoft.com/en-us/advanced-threat-analytics/deploy-use/preinstall-ata)验证基础结构是否已准备好接收 ATA。 完成此规划和验证阶段后，便随时可[部署 ATA](https://docs.microsoft.com/en-us/advanced-threat-analytics/deploy-use/install-ata-step1)。 将 ATA 部署到环境后，只需采用最小配置，它会立即开始了解环境，并在找到已知恶意攻击时触发警报。 按照步骤 1，使用 [ATA](https://docs.microsoft.com/en-us/advanced-threat-analytics/understand-explore/what-is-ata) 识别本地可疑活动。
+在本地实施 ATA 之前，请阅读 [ATA 容量规划](https://docs.microsoft.com/advanced-threat-analytics/plan-design/ata-capacity-planning)，另请阅读 [ATA 先决条件](https://docs.microsoft.com/advanced-threat-analytics/plan-design/ata-prerequisites)，了解安装 ATA 之前的一般注意事项。 使用[预安装清单](https://docs.microsoft.com/advanced-threat-analytics/deploy-use/preinstall-ata)验证基础结构是否已准备好接收 ATA。 完成此规划和验证阶段后，便随时可[部署 ATA](https://docs.microsoft.com/advanced-threat-analytics/deploy-use/install-ata-step1)。 将 ATA 部署到环境后，只需采用最小配置，它会立即开始了解环境，并在找到已知恶意攻击时触发警报。 按照步骤 1，使用 [ATA](https://docs.microsoft.com/advanced-threat-analytics/understand-explore/what-is-ata) 识别本地可疑活动。
 
-为检测云应用威胁，此方案使用 [Cloud App Security](https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security)。 确保按照[常规设置说明](https://docs.microsoft.com/en-us/cloud-app-security/general-setup)设置 Cloud App Security，并使用[云发现](https://docs.microsoft.com/en-us/cloud-app-security/set-up-cloud-discovery)选项，对照 Cloud App Security 的云应用目录分析流量日志。 按照步骤 2，使用 Cloud App Security 检测威胁和违规行为及情况。
+为检测云应用威胁，此方案使用 [Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)。 确保按照[常规设置说明](https://docs.microsoft.com/cloud-app-security/general-setup)设置 Cloud App Security，并使用[云发现](https://docs.microsoft.com/cloud-app-security/set-up-cloud-discovery)选项，对照 Cloud App Security 的云应用目录分析流量日志。 按照步骤 2，使用 Cloud App Security 检测威胁和违规行为及情况。
 
 ## <a name="how-to-implement-this-solution"></a>实现本解决方案的方式
-按下列步骤，实施[高级威胁分析](https://docs.microsoft.com/en-us/advanced-threat-analytics/)和 [Cloud App Security](https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security)：
+按下列步骤，实施[高级威胁分析](https://docs.microsoft.com/advanced-threat-analytics/)和 [Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)：
 
 - 步骤 1：使用高级威胁分析 (ATA) 检测本地可疑活动
 - 步骤 2：使用 Cloud App Security 针对云应用检测威胁和违规行为及情况  
@@ -64,11 +64,11 @@ IT 人员必须要考虑如何正确保护本地或云中的标识、数据、�
 ### <a name="step-1-using-ata-to-detect-suspicious-activity"></a>步骤 1：使用 ATA 检测可疑活动
 没完没了的传统安全工具报告和筛选报告以确定重要的相关警报会极大降低成效。 ATA 提供易于使用、可轻松向下钻取、类似于社交媒体源的报表，可帮助 IT 人员快速定位重要内容。 将这些数量巨大的数据以时间线的形式呈现，为你提供强大的客观判断力和洞见：谁访问了什么内容、访问的时间以及访问数据的方式。
 
-在 ATA 中打开[攻击时间线](https://docs.microsoft.com/en-us/advanced-threat-analytics/deploy-use/working-with-suspicious-activities)后，会看到一个含有可疑活动的综合报表，其中显示涉及活动的[实体](https://docs.microsoft.com/en-us/advanced-threat-analytics/plan-design/ata-architecture)及相关建议：
+在 ATA 中打开[攻击时间线](https://docs.microsoft.com/advanced-threat-analytics/deploy-use/working-with-suspicious-activities)后，会看到一个含有可疑活动的综合报表，其中显示涉及活动的[实体](https://docs.microsoft.com/advanced-threat-analytics/plan-design/ata-architecture)及相关建议：
 
 ![攻击时间线和可疑活动报表的屏幕截图。](./media/detect-attacks-before-damage/detect-attacks-before-damage-fig3.png)
 
-在此示例中，有一个事件，指示使用传递票证攻击实施身份盗用的可疑活动。 还会获得一个可用于初步补救步骤的建议列表。 在此示例中，当管理员的 Kerberos 票证从服务器 SHAREDADMIN-SRV 被窃取到服务器 EXTVENDOR-TS 中以用于访问 DC01 时，ATA 发出了警报。 可通过单击此事件中的任何对象，进行进一步调查。 例如，通过单击外部供应商终端服务器 (EXTVENDOR-TS)，可访问涉及此服务器的所有[可疑活动](https://docs.microsoft.com/en-us/advanced-threat-analytics/deploy-use/working-with-suspicious-activities)。
+在此示例中，有一个事件，指示使用传递票证攻击实施身份盗用的可疑活动。 还会获得一个可用于初步补救步骤的建议列表。 在此示例中，当管理员的 Kerberos 票证从服务器 SHAREDADMIN-SRV 被窃取到服务器 EXTVENDOR-TS 中以用于访问 DC01 时，ATA 发出了警报。 可通过单击此事件中的任何对象，进行进一步调查。 例如，通过单击外部供应商终端服务器 (EXTVENDOR-TS)，可访问涉及此服务器的所有[可疑活动](https://docs.microsoft.com/advanced-threat-analytics/deploy-use/working-with-suspicious-activities)。
 
 ATA 同时在其用于确定和用于检测的引擎中使用机器学习，以了解用户和实体的常规行为模式，正是这种独特的功能让我们能够跨各种不同的攻击媒介提供及时准确的警报。
 
@@ -89,17 +89,17 @@ Cloud App Security 不仅提供针对云应用程序的可见性和控制，同�
 
 ![一个屏幕截图，显示含有打开的警报的 Cloud App Security 仪表盘。](./media/detect-attacks-before-damage/detect-attacks-before-damage-fig6.png)
 
-可单击“警报”菜单以访问[警报中心](https://docs.microsoft.com/en-us/cloud-app-security/monitor-alerts)。 通知中心收集各种类别的警报，包括威胁检测、特权帐户和违规行为。
+可单击“警报”菜单以访问[警报中心](https://docs.microsoft.com/cloud-app-security/monitor-alerts)。 通知中心收集各种类别的警报，包括威胁检测、特权帐户和违规行为。
 
 ![警报中心的屏幕截图，其中显示了所有警报的列表。](./media/detect-attacks-before-damage/detect-attacks-before-damage-fig5.png)
 
 通知中心收集由 Cloud App Security 标识的所有红色标志，包括异常和威胁检测违规行为及特权帐户。 Cloud App Security 高级机器学习启发会通过行为分析了解和学习每个用户与每个云应用的交互方式，评估每项事务中的风险。
 
-当调查警报时，可单击警报名称，以获取有关警报的详细信息。 下面示例中的警报引用[文件策略](https://docs.microsoft.com/en-us/cloud-app-security/data-protection-policies) *公用共享机密文件*中的一个匹配项，该项被视为具有高优先级，因为它可能会导致数据泄露。   
+当调查警报时，可单击警报名称，以获取有关警报的详细信息。 下面示例中的警报引用[文件策略](https://docs.microsoft.com/cloud-app-security/data-protection-policies) *公用共享机密文件*中的一个匹配项，该项被视为具有高优先级，因为它可能会导致数据泄露。   
 
 ![其中一个警报的特定详细信息的屏幕截图。](./media/detect-attacks-before-damage/detect-attacks-before-damage-fig7.png)
 
-上一个示例基于违反策略的情况，而 Cloud App Security 还可以[检测异常](https://docs.microsoft.com/en-us/cloud-app-security/anomaly-detection-policy#anomaly-detection-policy-reference)。 Cloud App Security 试运行期为 7 天，在此期间不会将任何新用户、活动、设备标记为异常。 之后，系统会将每个会话与活动 - 过去一个月检测到的用户处于活动状态时的时间、IP 地址、设备等信息 - 进行比较，并会向这些活动提供一个风险评分。 对这种类型的警报的描述称为常规异常检测，单击它便会看到一个类似于以下的屏幕：
+上一个示例基于违反策略的情况，而 Cloud App Security 还可以[检测异常](https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy#anomaly-detection-policy-reference)。 Cloud App Security 试运行期为 7 天，在此期间不会将任何新用户、活动、设备标记为异常。 之后，系统会将每个会话与活动 - 过去一个月检测到的用户处于活动状态时的时间、IP 地址、设备等信息 - 进行比较，并会向这些活动提供一个风险评分。 对这种类型的警报的描述称为常规异常检测，单击它便会看到一个类似于以下的屏幕：
 
 ![一个屏幕截图，显示 Cloud App Security 所检测到的异常。](./media/detect-attacks-before-damage/detect-attacks-before-damage-fig8.png)
 

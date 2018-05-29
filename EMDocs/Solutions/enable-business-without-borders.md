@@ -1,24 +1,24 @@
 ---
-title: "促成商业无国界"
-description: "本文介绍如何使用企业移动性 + 安全性提供跨云和本地资产的单一标识，并利用 Azure Active Directory 中的工具让用户保持最高效率。"
-keywords: 
+title: 促成商业无国界
+description: 本文介绍如何使用企业移动性 + 安全性提供跨云和本地资产的单一标识，并利用 Azure Active Directory 中的工具让用户保持最高效率。
+keywords: ''
 author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 12/07/2016
 ms.topic: solution
-ms.prod: 
+ms.prod: ''
 ms.service: active-directory
-ms.technology: 
+ms.technology: ''
 ms.assetid: 38e9802b-d8c0-4f5c-b89d-8ce1e04f7387
-ROBOTS: 
+ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 8f79e391813c7a15e522f07ff27a2f6abd8536cc
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: 756df8b2432788ba1152c5ef5a195d84cd6cf82b
+ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 05/24/2018
 ---
 # <a name="enable-business-without-borders"></a>实现商业无国界
 标识并非可有可无 - 它是员工实现高效工作的核心。 组织需使其员工能通过任何设备随时随地访问所有数据和应用程序。 用户需要相互合作，与合作伙伴合作，并与客户沟通。 他们使用的工具不再驻留于受保护和受控制的环境中，而是可在任何公共云中找到。
@@ -58,4 +58,4 @@ Azure AD B2B 协作基于邀请和兑换模型，该模型使用你想与其合�
 ## <a name="how-to-implement-this-solution"></a>实现本解决方案的方式
 以下步骤介绍之前讨论的实现每个 Azure AD B2B 协作的方法。 每个链接表示一组不同的文章，其中包含要在组织中实现的一组不同的说明/步骤：
 - 了解[如何使用 Azure AD B2B 协作](https://azure.microsoft.com/documentation/articles/active-directory-b2b-detailed-walkthrough/)。
-- 了解[如何使用 CSV 文件指定合作伙伴用户信息](https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2b-references-csv-file-format/)。
+- 了解[如何使用 CSV 文件指定合作伙伴用户信息](https://azure.microsoft.com/documentation/articles/active-directory-b2b-references-csv-file-format/)。

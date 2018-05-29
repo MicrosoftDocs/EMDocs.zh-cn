@@ -13,11 +13,11 @@ ms.technology: ''
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0146fc11fb08c1c7d4442cc78a7af8aa8d2dcdab
-ms.sourcegitcommit: 5ce9b7a0ebac0c5f626b0273fa93fd02589a7452
+ms.openlocfilehash: bc2ea11b240fabc94241c9569c8f8df15dd598d4
+ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2018
+ms.lasthandoff: 05/24/2018
 ---
 # <a name="how-to-manage-your-own-password"></a>如何管理密码
 
@@ -52,7 +52,7 @@ ms.lasthandoff: 04/16/2018
    ![显示无法识别用户 ID 或密码时用户接收到的第一条消息的屏幕截图。](./media/ft-mngPW-6-resetPWbegin.png)
 2. 在“你是谁？” 页面上，输入工作或学校帐户 ID，并通过验证码证明并非机器人。
    ![提示用户输入用户 ID 和所示图片验证码的屏幕截图。](./media/ft-mngPW-7-enterID.png)
-3. 单击 **下一步**。
+3. 单击“下一步” 。
 4. 选择一个选项以重置密码。 根据管理员配置系统的方式，你可能会看到以下一个或多个选择：
    - **向我的备用电子邮件发送电子邮件** - 向你的备用电子邮件或身份验证电子邮件（可选择）发送一封包含 6 位代码的电子邮件。
    - **向我的移动电话发送短信** - 向你的移动电话或身份验证电子邮件（可选择）发送一条包含 6 位代码的短信。
@@ -71,7 +71,7 @@ ms.lasthandoff: 04/16/2018
    ![显示用户必须输入，然后确认新密码的屏幕截图。](./media/ft-mngPW-12-clickFinish.png)
 10. 显示成功页面即表明密码已重置成功！ 现在可使用新密码进行登录。
     ![显示已完成密码重置过程的屏幕截图。](./media/ft-mngPW-13-success.png)
-    重置密码时遇到问题？ 请阅读 [common problems and their solutions](https://azure.microsoft.com/en-us/documentation/articles/active-directory-passwords-update-your-own-password/#common-problems-and-their-solutions)（常见问题和解决方案）。
+    重置密码时遇到问题？ 请阅读 [common problems and their solutions](https://azure.microsoft.com/documentation/articles/active-directory-passwords-update-your-own-password/#common-problems-and-their-solutions)（常见问题和解决方案）。
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。

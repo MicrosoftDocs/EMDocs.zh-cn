@@ -1,24 +1,24 @@
 ---
-title: "大规模管理访问权限"
-description: "本文介绍如何使用企业移动性 + 安全性，通过利用 Azure Active Directory 中的工具使组织能够进行标识访问管理。"
-keywords: 
+title: 大规模管理访问权限
+description: 本文介绍如何使用企业移动性 + 安全性，通过利用 Azure Active Directory 中的工具使组织能够进行标识访问管理。
+keywords: ''
 author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 12/07/2016
 ms.topic: solution
-ms.prod: 
+ms.prod: ''
 ms.service: active-directory
-ms.technology: 
+ms.technology: ''
 ms.assetid: 0292919a-af10-4a25-8916-c704aed643f6
-ROBOTS: 
+ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: fa2795fb578c0d278d55cbff9f44c19ca2e13309
-ms.sourcegitcommit: 0541e4aa400a818551469fe9df8929c25c2dd918
+ms.openlocfilehash: aba57397c4e66d03f89a7e9c9d872903520f5c0c
+ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2017
+ms.lasthandoff: 05/24/2018
 ---
 # <a name="manage-access-at-scale"></a>大规模管理访问权限
 Microsoft 自成立以来一直在为各大组织提供支持。 Microsoft 不仅提供标识以便随时随地进行访问，还提供一组工具以便在组织内对 IT 资源进行自动化、保护和管理。 即使在云计算问世后，仍需要管理和控制 IT 任务，如呼叫支持人员以重置用户密码、管理用户组和应用程序请求。
@@ -43,7 +43,7 @@ Azure AD 利用动态组成员身份规则和应用程序管理功能，提供�
 ![显示 Azure AD Connect 如何同步 Windows Server Active Directory 与 Azure Active Directory 之间的用户和组的图形](./media/manage-access-at-scale/manage-access-at-scale-fig1.png)
 
 ### <a name="application-management"></a>应用程序管理
-有多少用户愿意记住日常使用的每个应用程序的密码？ [单一登录](https://azure.microsoft.com/en-us/documentation/articles/active-directory-appssoaccess-whatis/)可解决这一常见问题。 你可以使用单一用户帐户和密码登录到多个 SaaS 应用程序。 可为组织内的所有应用程序自动预配单一登录。 此功能可用于 Office 365 等 Microsoft 云应用程序和 Salesforce、ServiceNow 和 Workday 等第三方应用程序。
+有多少用户愿意记住日常使用的每个应用程序的密码？ [单一登录](https://azure.microsoft.com/documentation/articles/active-directory-appssoaccess-whatis/)可解决这一常见问题。 你可以使用单一用户帐户和密码登录到多个 SaaS 应用程序。 可为组织内的所有应用程序自动预配单一登录。 此功能可用于 Office 365 等 Microsoft 云应用程序和 Salesforce、ServiceNow 和 Workday 等第三方应用程序。
 
 下面是有关单一登录的详细信息：
 
@@ -98,7 +98,7 @@ Azure AD Connect Health 可帮助组织监视和深入了解本地标识基础�
 
 使用 Azure AD Premium 时，可以通过为用户提供密码重置自助服务门户功能超越 IT 管理员职责。 你可以快速启用用户密码重置策略，以便将相同的管理功能扩展到目录中的每位用户。
 
-详细了解在 Azure AD 租户上[使用密码自助服务门户的先决条件、启用及设置方式](https://azure.microsoft.com/en-us/documentation/articles/active-directory-accessmanagement-manage-groups/)。
+详细了解在 Azure AD 租户上[使用密码自助服务门户的先决条件、启用及设置方式](https://azure.microsoft.com/documentation/articles/active-directory-accessmanagement-manage-groups/)。
 
 ## <a name="how-to-use-azure-ad-connect-health"></a>如何使用 Azure AD Connect Health
 可以查看 [Azure AD Connect Health 文档](https://azure.microsoft.com/en-in/documentation/articles/active-directory-aadconnect-health/)以收集有关该工具、其功能及可执行以开始在组织中使用它的步骤的详细信息。
