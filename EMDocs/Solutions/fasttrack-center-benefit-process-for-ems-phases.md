@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/27/2018
+ms.date: 06/01/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,11 +13,12 @@ ms.technology: ''
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e63644b2e8db81f6293dbad4ca4de14dbe40ecac
-ms.sourcegitcommit: 0863dce817862f00068614f2c62698784eb76d84
+ms.openlocfilehash: d3d66f6a790140a9b461d5a63398a81a3485f9fc
+ms.sourcegitcommit: 3a51276eebdd8f1f18994a7efdcaa22e394180df
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2018
+ms.lasthandoff: 06/04/2018
+ms.locfileid: "34569555"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -172,11 +173,41 @@ Azure AD Premium 设置包括启用以下功能：
     > [!IMPORTANT]
     > FastTrack 不支持使用 Intune 进行 Windows 10 经典电脑管理。 FastTrack 仅支持通过 Intune 移动设备管理 (MDM) 进行 Windows 10 设备管理。
 
-Microsoft 还会与你联系，提供有关如何推动成功采用符合条件的服务的指导。
+#### <a name="co-management"></a>共同管理
+
+FastTrack 可指导你做好准备来使用 Configuration Manager 和 Intune 同时管理 Windows 10 设备。 具体步骤将根据源环境而定，步骤可能包括：
+
+- 介绍共同管理的好处。
+
+- 授权许可你的最终用户。 根据需要，FastTrack 还会提供有关如何为 Microsoft 云服务租户激活批量许可证的协助。
+
+- 通过利用本地 Active Directory 和/或云标识，配置将由 Intune 使用的标识。
+
+- 向 Intune 订阅添加用户时，定义 IT 管理员角色并创建用户组和设备组。
+
+- 提供有关如何从与 System Center Configuration Manager（混合）集成的 Intune 移动到 Intune Standalone 的指南。
+
+- 提供有关如何设置 Azure Active Directory 进行 MDM 自动注册的指南。
+
+- 提供有关如何设置混合 Azure Active Directory 加入的指南。
+
+- 提供有关如何设置云管理网关的指南。
+
+- 在 Configuration Manager 控制台中启用共同管理。
+
+- 配置想要切换到 Intune 的受支持的工作负载。
+
+- 将 Configuration Manager 客户端安装到在 Intune 中注册的设备。
+
+- 提供有关如何监视环境中共同管理活动的指导。
+
+此外，FastTrack 还提供有关如何推动成功采用符合条件的服务的指导。
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
+
+![载入启用阶段 - 共同管理](./media/ft-9-enable-phase-comanagement.png)
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase-intune-mdm-mam-sccm.png)
 

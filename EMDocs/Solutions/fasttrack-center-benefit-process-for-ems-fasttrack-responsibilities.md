@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/27/2018
+ms.date: 06/01/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,12 +13,12 @@ ms.technology: ''
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b9fb99c2c5bd640a033684096bd8f189a09b1698
-ms.sourcegitcommit: 0863dce817862f00068614f2c62698784eb76d84
+ms.openlocfilehash: 212acc335e4c0a21c2a6f72c3df1226ebc21e156
+ms.sourcegitcommit: 3a51276eebdd8f1f18994a7efdcaa22e394180df
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2018
-ms.locfileid: "32045245"
+ms.lasthandoff: 06/04/2018
+ms.locfileid: "34569538"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 职责
 
@@ -32,7 +32,7 @@ FastTrack 在加入期间的职责如下。
 
 ## <a name="initiate-phase"></a>启动阶段
 
--   和你一起合作，开始载入服务。
+-   和你一起开始载入。
 
 -   定义您要载入的符合条件的服务。
 
@@ -176,7 +176,7 @@ FastTrack 在加入期间的职责如下。
 
 -   根据管理需要配置移动设备管理 (MDM) 机构，包括：
 
-    -   Intune 是你唯一的 MDM 解决方案时将 Intune 设为 MDM 机构。
+    -   将 Intune 设为 MDM 机构。
 
     -   如果已具有 Configuration Manager 的现有实施，并想使用 Intune 扩展其管理功能，请将 System Center Configuration Manager 设置为 MDM 机构。
 
@@ -222,6 +222,44 @@ FastTrack 在加入期间的职责如下。
     -   为适用的受支持平台配置软件更新。
 
     -   用户采用规划的相关资源。
+
+### <a name="enable-phase---co-management"></a>启用阶段 - 共同管理
+
+提供以下方面的指导：
+
+-   授权你的最终用户。
+
+-   向 Intune 订阅添加用户时，定义 IT 管理员角色并创建用户组和设备组（如果未安装 Intune）。
+
+-   设置 Azure Active Directory 进行 MDM 自动注册。
+
+-   设置混合 Azure Active Directory 加入。
+
+-   设置云管理网关。
+
+-   向 Intune 订阅添加用户时，定义 IT 管理员角色并创建用户组和设备组。
+
+-   请准备 Intune（如果未安装 Intune）：
+
+    -   根据管理需要配置移动设备管理 (MDM) 机构，包括：
+
+    -   将 Intune 设为 MDM 机构。
+
+    -   配置用于验证 MDM 管理策略的测试组。
+
+    -   浏览 Intune 管理门户来查找有关用户和设备的信息。
+
+    -   设置 Intune 角色（支持人员、管理员等）
+
+    -   为每个支持平台配置和部署 Intune 应用保护策略。
+
+    -   将 Windows 10 设备注册到 Intune。
+
+- 在 Configuration Manager 控制台中启用共同管理。
+
+- 将工作负载切换到 Intune。
+
+- 监视环境中的共同管理活动。
 
 > [!NOTE]
 > **想要了解更多?** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。

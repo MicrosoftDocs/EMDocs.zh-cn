@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/27/2018
+ms.date: 06/01/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -13,11 +13,12 @@ ms.technology: ''
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: bba697474155bbd85927da8af86d72dcc5aad531
-ms.sourcegitcommit: 0863dce817862f00068614f2c62698784eb76d84
+ms.openlocfilehash: ef6e0021018087b6550ecff4c01d4aab68b32b15
+ms.sourcegitcommit: 3a51276eebdd8f1f18994a7efdcaa22e394180df
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2018
+ms.lasthandoff: 06/04/2018
+ms.locfileid: "34569521"
 ---
 # <a name="your-responsibilities"></a>您的职责
 
@@ -57,7 +58,7 @@ ms.lasthandoff: 04/28/2018
 
 -   构建和维护测试环境。
 
--   在基础结构服务器上安装服务包和其他所需的更新。
+-   在基础结构服务器上安装服务包/累积更新 (CU) 和其他所需的更新。
 
 -   提供和配置所有公共安全套接字层 (SSL) 证书。
 
@@ -66,6 +67,10 @@ ms.lasthandoff: 04/28/2018
 -   如果使用 Intune 部署 Wi-Fi 和 VPN 配置文件时有相关需要，则根据需要提供并配置证书颁发机构、Wi-Fi 和 VPN 基础结构。
 
 -   撰写组织的使用条款 (TOU) 声明，使其在最终用户可访问的 Microsoft Intune 公司门户上处于可配置和可显示状态。
+
+-   根据需要将 Configuration Manager 站点服务器和 Configuration Manager 客户端升级到最新的内部版本。
+
+-   在需要与 Microsoft Intune 集成时，注册第三方订阅，如 Mobile Threat Defense、电信费用等。
 
 -   注册 Team Viewer、Mobile Threat Defense 和电信费用管理解决方案订阅。
 
