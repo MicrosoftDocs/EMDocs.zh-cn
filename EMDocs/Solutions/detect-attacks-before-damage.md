@@ -18,6 +18,7 @@ ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/24/2018
+ms.locfileid: "34474082"
 ---
 # <a name="detect-attacks-before-they-cause-damage"></a>在攻击造成损害前检测出攻击
 要建立强大的安全保障，就需要设立高级的检测系统，这种检测系统应能够在威胁造成重大损害之前识别威胁。 组织能够无缝利用 Microsoft 安全智能来检测本地和云中的可疑活动。

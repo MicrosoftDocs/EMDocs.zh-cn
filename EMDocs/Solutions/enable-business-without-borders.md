@@ -19,6 +19,7 @@ ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/24/2018
+ms.locfileid: "34473997"
 ---
 # <a name="enable-business-without-borders"></a>实现商业无国界
 标识并非可有可无 - 它是员工实现高效工作的核心。 组织需使其员工能通过任何设备随时随地访问所有数据和应用程序。 用户需要相互合作，与合作伙伴合作，并与客户沟通。 他们使用的工具不再驻留于受保护和受控制的环境中，而是可在任何公共云中找到。

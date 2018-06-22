@@ -18,6 +18,7 @@ ms.sourcegitcommit: 1fd9d6f672b25c50e7165793b518fe02912338d5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/16/2018
+ms.locfileid: "29925532"
 ---
 # <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持 FAQ
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。  请查看下面的详细信息。

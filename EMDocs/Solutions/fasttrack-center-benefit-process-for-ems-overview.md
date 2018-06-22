@@ -18,6 +18,7 @@ ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/22/2018
+ms.locfileid: "30008784"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 
@@ -50,7 +51,7 @@ ms.lasthandoff: 03/22/2018
 -   FastTrack 团队可直接与你或你的代表进行合作。
 
 > [!NOTE]
-> **想要了解更多？**请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
+> **想要了解更多？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>后续步骤
 

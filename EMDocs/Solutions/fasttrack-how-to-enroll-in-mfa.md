@@ -18,6 +18,7 @@ ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/06/2018
+ms.locfileid: "30848081"
 ---
 # <a name="how-to-set-up-your-preferred-method-for-additional-security-verification"></a>如何设置其他安全性验证的首选方式
 

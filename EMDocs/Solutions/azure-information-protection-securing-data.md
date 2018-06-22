@@ -1,12 +1,12 @@
 ---
-title: "Azure 信息保护在保护数据方面的角色 | Microsoft Docs"
-description: "本文介绍 Azure 信息保护在保持组织数据安全中的角色。"
+title: Azure 信息保护在保护数据方面的角色 | Microsoft Docs
+description: 本文介绍 Azure 信息保护在保持组织数据安全中的角色。
 author: yuridio
 ms.author: yurid
 manager: mbaldwin
 ms.date: 05/18/2017
 ms.topic: solution
-ms.prod: 
+ms.prod: ''
 ms.service: rights-management
 ms.technology: techgroup-identity
 ms.assetid: 2f906e2e-3d99-40e6-b5cc-8d903fcda444
@@ -17,6 +17,7 @@ ms.sourcegitcommit: 9e30dab85116767c71b911827d839a433418b9b5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/09/2017
+ms.locfileid: "24101404"
 ---
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 

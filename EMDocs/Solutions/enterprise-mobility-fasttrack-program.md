@@ -18,6 +18,7 @@ ms.sourcegitcommit: 66feadbdfd08565f69bc8ace81dcba9d012fdd0b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/20/2018
+ms.locfileid: "30003033"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益
 

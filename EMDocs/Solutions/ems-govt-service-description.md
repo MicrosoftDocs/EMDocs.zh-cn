@@ -1,23 +1,24 @@
 ---
-title: "适用于美国政府的企业移动性 + 安全性服务说明"
-description: "EMS GCC 高级版计划需要每月订阅，并向每个用户授予许可证。"
-keywords: 
+title: 适用于美国政府的企业移动性 + 安全性服务说明
+description: EMS GCC 高级版计划需要每月订阅，并向每个用户授予许可证。
+keywords: ''
 author: dougeby
 ms.author: dougeby
 manager: dougeby
 ms.date: 3/1/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: ems
-ms.technology: 
+ms.technology: ''
 ms.assetid: de61a788-f45d-47bb-a047-e92b64b1ee03
-ms.reviewer: 
+ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: da6b79835b9891b15fcb97d90f6d6263f231b356
 ms.sourcegitcommit: 6399d25da998e54605082faff5f8b2304a851e4e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/02/2018
+ms.locfileid: "29721441"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明 
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府客户创建了企业移动性 + 安全性计划。 本文档概述了特定于 EMS 计划的功能。  
