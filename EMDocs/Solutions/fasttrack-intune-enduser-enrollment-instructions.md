@@ -13,12 +13,12 @@ ms.technology: ''
 ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b7adfe06ba063c9df152eb21d913cb9c43127c6b
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 268ab59474a117b2809baec0906ed3738d509914
+ms.sourcegitcommit: b93dc7df0f9978ac7bb8fe8e3d3cc15635ceb0e2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
-ms.locfileid: "30848098"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "38147590"
 ---
 # <a name="end-user-intune-enrollment-instructions-for-it-administrators"></a>IT 管理员最终用户 Intune 注册说明
 
@@ -38,7 +38,7 @@ ms.locfileid: "30848098"
 
 这些注册步骤适用于 Samsung Knox Android 设备和“本机”（非 Samsung Knox）Android 设备。 若要确定你的设备是否为 Samsung Knox 设备，请转到“设置”>“关于手机”。 如果未在此处看到列出了“Knox”一词，则你具有本机 Android 设备。 设备上显示的屏幕可能与本部分中的屏幕略有不同。
 
-如果尝试在 Intune 中注册设备时遇到错误，请参阅[将注册错误发送给 IT 管理员](https://technet.microsoft.com/en-US/library/mt502762(TechNet.10).aspx#BKMK_andr_send_enroll_errors)。
+如果尝试在 Intune 中注册设备时遇到错误，请参阅[将注册错误发送给 IT 管理员](https://technet.microsoft.com/library/mt502762(TechNet.10).aspx#BKMK_andr_send_enroll_errors)。
 
 注册前/后，系统可能会要求你选择最恰当地描述了你使用设备的方式的类别。 IT 管理员将使用此类别来帮助确定你有权访问哪些应用。
 1. 请从 [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal) 中将免费的 Microsoft Intune 公司门户应用安装到设备上。
