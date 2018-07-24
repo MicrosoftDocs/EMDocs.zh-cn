@@ -13,12 +13,12 @@ ms.technology: ''
 ms.assetid: 174348f0-dbc6-4204-8626-3c6f38b7bbde
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b9009b0321de26d3c78bf8876b3456eec350c6
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 99329f3dccd12621a36580ba6538a7e31ad43efc
+ms.sourcegitcommit: 4cea4bc674e4c7946394aa14aab9939e31ed88fe
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
-ms.locfileid: "30848149"
+ms.lasthandoff: 07/19/2018
+ms.locfileid: "39149962"
 ---
 # <a name="how-to-use-mobile-apps-managed-by-your-organization"></a>如何使用组织管理的移动应用
 
@@ -68,7 +68,9 @@ ms.locfileid: "30848149"
    ![系统提示 Android 用户转到 Google Play 应用商店获取 Intune 公司门户的屏幕截图。](./media/ft-useMngdApps-7-installPortal.png)
 
    公司门户应用有助于保护数据安全。
+   
    ![系统提示 Android 用户安装 Intune 公司门户的屏幕截图。](./media/ft-useMngdApps-8-intunePortal.png)
+   
 5. 完成安装后，选择“接受”以接受条款。
 6. **OneDrive for Business** 应用将自动启动。
 7. 如果将策略设置设为需要使用 PIN 才能访问 **OneDrive for Business** 应用，则下次打开 OneDrive for Business 时，将提示你设置“PIN”。
