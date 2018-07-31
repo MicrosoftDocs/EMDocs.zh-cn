@@ -13,19 +13,19 @@ ms.technology: ''
 ms.assetid: 484156c7-c3c4-469d-b718-9fa33d9d0ec2
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb31a82d7b2bc7b2e92a3a7b0b1f41bf07c4e182
-ms.sourcegitcommit: f045537a12763cd6164c4ae42f7b4a45c4ca040b
+ms.openlocfilehash: 5f1e470e32262e65ac9ef7d2d0cb6dce3de9c139
+ms.sourcegitcommit: 8209dd3332db21aa1b38f8a6311d8853938e7ad8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2018
-ms.locfileid: "30817672"
+ms.lasthandoff: 07/27/2018
+ms.locfileid: "39320891"
 ---
 # <a name="fasttrack-center-benefit-eligible-services-and-plans"></a>符合 FastTrack 中心权益条件的服务和计划
 在符合条件的计划中，如果针对企业移动性 + 安全性 (EMS) 或其任何单独的云服务购买至少 150 个许可证，就可以使用该服务权益。 通过服务权益，可与 FastTrack 专家共同进行评估、修正并启用符合条件的服务。
 
 - 有关 FastTrack 中心流程以及由谁来负责何部分，请参阅[企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程](fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems.md)。
 
-- 是否在查找 FastTrack for Office 365 的相关信息？ 请参阅 [Office 365 的 FastTrack 中心权益](https://technet.microsoft.com/library/office-365-onboarding-benefit.aspx)。
+- 是否在查找 FastTrack for Office 365 的相关信息？ 请参阅 [Office 365 的 FastTrack 中心权益](https://docs.microsoft.com/fasttrack/fasttrack-benefit-for-office-365)。
 
 ## <a name="eligible-services"></a>符合条件的服务
 
