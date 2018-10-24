@@ -5,19 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/09/2018
+ms.date: 08/13/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: 484156c7-c3c4-469d-b718-9fa33d9d0ec2
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5f1e470e32262e65ac9ef7d2d0cb6dce3de9c139
-ms.sourcegitcommit: 8209dd3332db21aa1b38f8a6311d8853938e7ad8
+ms.openlocfilehash: 45c0d051dc3ade44e54b4c724217870a7204ceca
+ms.sourcegitcommit: cfa80b7829abb2fca321ebb9cfcd96dbd8c06990
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 10/15/2018
 ms.locfileid: "39320891"
 ---
 # <a name="fasttrack-center-benefit-eligible-services-and-plans"></a>符合 FastTrack 中心权益条件的服务和计划
@@ -47,14 +46,14 @@ ms.locfileid: "39320891"
 
 |计划|符合服务权益的条件？|
 |--------|-------------------------------------|
-|企业移动性 + 安全性 |是*|
-|企业移动性 + 安全性（作为 Secure Productive Enterprise 的一部分）|是*|
-|Microsoft Azure Active Directory Premium（E3 和 E5）**|是|
-|Microsoft Intune**|是|
-|Microsoft Intune for Education** |是 |
-|Microsoft Azure 信息保护（E3 和 E5）**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
-|Microsoft 高级威胁分析**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
-|Microsoft Cloud App Security**|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|企业移动性 + 安全性 |是\*|
+|企业移动性 + 安全性（作为 Secure Productive Enterprise 的一部分）|是\*|
+|Microsoft Azure Active Directory Premium（E3 和 E5）\*\*|是|
+|Microsoft Intune\*\*|是|
+|Microsoft Intune for Education\*\* |是 |
+|Microsoft Azure 信息保护（E3 和 E5）\*\*|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft Advanced Threat Analytics\*\*|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
+|Microsoft Cloud App Security\*\*|受限</br>仅限成功计划，并且通过[快速跟踪中心](https://fasttrack.microsoft.com/)的“需要帮助”请求帮助|
 
 &ast;适用于符合权益条件的云服务。 请参阅下表。
 
