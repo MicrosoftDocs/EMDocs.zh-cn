@@ -7,12 +7,12 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: true
 featureFlags:
 - clicktale
-ms.openlocfilehash: e28730f6aa4fe306b0d846916a775437de132b9f
-ms.sourcegitcommit: 208a99629200b9ac1143b34b3609b4faa72d6f23
+ms.openlocfilehash: fed77d822a67010f94e360050d6047a75f241901
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/03/2018
-ms.locfileid: "32814441"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196621"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -101,7 +101,7 @@ ms.locfileid: "32814441"
                                 </a>
                             </li>
                             <li>
-                                <a href="/information-protection/">
+                                <a href="/azure/information-protection/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
