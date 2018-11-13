@@ -9,17 +9,16 @@ ms.date: 10/24/2016
 ms.topic: solution
 ms.prod: ''
 ms.service: active-directory
-ms.technology: ''
 ms.assetid: 46654ab0-0d0a-47ad-8715-b149a1092a37
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 28fc9de2c33972231a3e62c464153de0e202e06b
-ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
+ms.openlocfilehash: 463a1dfd075e2ec40295d318b34a56824b7ea643
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2018
-ms.locfileid: "34473980"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196519"
 ---
 # <a name="cloud-powered-protection"></a>由云支持的保护
 Microsoft 保护基于云的标识已超过十年，借助 Azure Active directory，Microsoft 向企业客户提供相同的保护系统，以确保用户和管理员能通过更高的安全性和更好的管理履行各自的职责。
@@ -70,7 +69,7 @@ Azure AD 条件性访问规则按应用程序进行应用，并且可供客户�
 ### <a name="azure-ad-identity-protection"></a>Azure AD Identity Protection
 Azure AD 高级版 2 产品中提供 Azure AD Identity Protection，可与 Azure AD Privileged Identity Management 结合使用，以提供无缝条件性访问策略功能。
 
-可通过转到 Azure 应用商店，并搜索“Identity Protection”，来启用 Azure AD Identity Protection，然后可单击“Azure AD Identity Protection”磁贴，随即将会打开仪表板，显示租户风险数据的综合视图。 接下来重点了解几个关于 Identity Protection 如何帮助组织应对帐户安全威胁的示例。
+可通过转到 Azure 市场，并搜索“Identity Protection”，来启用 Azure AD Identity Protection，然后可单击“Azure AD Identity Protection”磁贴，随即将会打开仪表板，显示租户风险数据的综合视图。 接下来重点了解几个关于 Identity Protection 如何帮助组织应对帐户安全威胁的示例。
 
 #### <a name="risk-events"></a>风险事件
 风险事件是指由 Identity Protection 标记为可疑的事件，表示标识可能已泄露。

@@ -9,17 +9,16 @@ ms.date: 12/07/2016
 ms.topic: solution
 ms.prod: ''
 ms.service: active-directory
-ms.technology: ''
 ms.assetid: 0292919a-af10-4a25-8916-c704aed643f6
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: aba57397c4e66d03f89a7e9c9d872903520f5c0c
-ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
+ms.openlocfilehash: 01bf229d48e3c9b1ba13a6dd69e028f765529cf5
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2018
-ms.locfileid: "34474099"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196604"
 ---
 # <a name="manage-access-at-scale"></a>大规模管理访问权限
 Microsoft 自成立以来一直在为各大组织提供支持。 Microsoft 不仅提供标识以便随时随地进行访问，还提供一组工具以便在组织内对 IT 资源进行自动化、保护和管理。 即使在云计算问世后，仍需要管理和控制 IT 任务，如呼叫支持人员以重置用户密码、管理用户组和应用程序请求。

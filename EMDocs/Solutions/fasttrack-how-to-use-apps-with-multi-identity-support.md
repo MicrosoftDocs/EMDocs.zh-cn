@@ -2,27 +2,27 @@
 title: 如何使用具有多身份标识支持的应用程序
 description: 如何使用具有多身份标识支持的应用
 keywords: ''
-author: NathBarn
-ms.author: NathBarn
+author: dougeby
+ms.author: dougeby
 manager: angrobe
 ms.date: 02/01/2017
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: 586ecd93-b097-42a0-9229-bcf3b781021c
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ddde711116ad95e878612ad9115ea4b96d66dc55
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 93c2572546cab512623cb96412ee064da8a3c233
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
-ms.locfileid: "30848013"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196434"
 ---
 # <a name="how-to-use-apps-with-multi-identity-support"></a>如何使用具有多身份标识支持的应用
 
 在本方案中，我们以 Microsoft Word 为例。 你可以将这些相同步骤应用到 Office 365 中的其他应用中。
+
 1. 在你的设备上打开“Word”  应用。 此示例使用的是 iOS 设备。
 2. 点击“新建”创建新的 Word 文档。
 
@@ -46,5 +46,6 @@ ms.locfileid: "30848013"
 
    ![显示用户将文本成功粘贴到 Facebook 中的屏幕截图。](./media/ft-multiID-6-copyText.png)
 
-### <a name="want-to-learn-more"></a>了解更多信息？
+## <a name="want-to-learn-more"></a>了解更多信息？
+
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。

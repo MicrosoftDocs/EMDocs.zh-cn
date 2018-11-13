@@ -2,23 +2,22 @@
 title: 如何使用组织管理的移动应用程序
 description: 如何使用组织管理的移动应用
 keywords: ''
-author: nathbarn
-ms.author: nathbarn
+author: dougeby
+ms.author: dougeby
 manager: angrobe
 ms.date: 02/01/2017
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: 174348f0-dbc6-4204-8626-3c6f38b7bbde
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 99329f3dccd12621a36580ba6538a7e31ad43efc
-ms.sourcegitcommit: 4cea4bc674e4c7946394aa14aab9939e31ed88fe
+ms.openlocfilehash: 29aaab0743bbc42ec3a6297e5c8174dbdc977fe7
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/19/2018
-ms.locfileid: "39149962"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196502"
 ---
 # <a name="how-to-use-mobile-apps-managed-by-your-organization"></a>如何使用组织管理的移动应用
 
@@ -51,6 +50,7 @@ ms.locfileid: "39149962"
    > 更改已部署策略时，将在下次打开该应用时应用更改。
 
 ## <a name="accessing-onedrive-on-an-android-device"></a>在 Android 设备上访问 OneDrive
+
 本部分使用 OneDrive for Business 作为示例来演示 Intune 管理的应用程序上的用户体验如何稍有不同。
 1. 启动 **OneDrive for Business** 应用以打开登录页。
    > [!NOTE]
@@ -68,9 +68,9 @@ ms.locfileid: "39149962"
    ![系统提示 Android 用户转到 Google Play 应用商店获取 Intune 公司门户的屏幕截图。](./media/ft-useMngdApps-7-installPortal.png)
 
    公司门户应用有助于保护数据安全。
-   
+
    ![系统提示 Android 用户安装 Intune 公司门户的屏幕截图。](./media/ft-useMngdApps-8-intunePortal.png)
-   
+
 5. 完成安装后，选择“接受”以接受条款。
 6. **OneDrive for Business** 应用将自动启动。
 7. 如果将策略设置设为需要使用 PIN 才能访问 **OneDrive for Business** 应用，则下次打开 OneDrive for Business 时，将提示你设置“PIN”。
@@ -79,4 +79,5 @@ ms.locfileid: "39149962"
 8. 设置并确认 PIN 后，即可继续使用 **OneDrive for Business**，它现由应用策略管理。
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
+
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。

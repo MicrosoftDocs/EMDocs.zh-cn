@@ -5,20 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/01/2018
+ms.date: 08/13/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 35686bdd73e10fabfbb84ca84152c593473c8a99
-ms.sourcegitcommit: 8209dd3332db21aa1b38f8a6311d8853938e7ad8
+ms.openlocfilehash: 708e723f6faeb3902650425188e01c5e88c0debc
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/27/2018
-ms.locfileid: "39320857"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196468"
 ---
 # <a name="your-responsibilities"></a>您的职责
 

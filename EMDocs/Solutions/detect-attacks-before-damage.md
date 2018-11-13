@@ -8,17 +8,16 @@ ms.date: 01/23/2017
 ms.topic: solution
 ms.prod: ''
 ms.service: active-directory
-ms.technology: ''
 ms.assetid: de0a7e70-008b-45c1-bba8-f033b1f62194
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: advanced-threat-analytics, cloud-app-security
-ms.openlocfilehash: c8d94bb0ff5fdbb45670d93c31a3da0f5b1a859d
-ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
+ms.openlocfilehash: 26276999420e809a041f36214890539e49b59079
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2018
-ms.locfileid: "34474082"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196740"
 ---
 # <a name="detect-attacks-before-they-cause-damage"></a>在攻击造成损害前检测出攻击
 要建立强大的安全保障，就需要设立高级的检测系统，这种检测系统应能够在威胁造成重大损害之前识别威胁。 组织能够无缝利用 Microsoft 安全智能来检测本地和云中的可疑活动。

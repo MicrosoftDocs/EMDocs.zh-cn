@@ -2,46 +2,48 @@
 title: 如何管理密码
 description: 如何管理密码
 keywords: ''
-author: NathBarn
-ms.author: NathBarn
+author: dougeby
+ms.author: dougeby
 manager: angrobe
 ms.date: 02/01/2017
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: bc2ea11b240fabc94241c9569c8f8df15dd598d4
-ms.sourcegitcommit: 573bba4fa70ce651971ec5bafd9967ebdd6bd6c5
+ms.openlocfilehash: a7089bb5e9c2e1c00ad287f45822d30cc4e77651
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2018
-ms.locfileid: "34474031"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196723"
 ---
 # <a name="how-to-manage-your-own-password"></a>如何管理密码
 
 如果你是使用 Office 365 或 Microsoft 帐户来访问工作资源的组织中的用户（非管理员），请阅读以下部分，了解如何修复有关密码的常见问题。
 
 ## <a name="how-to-register-for-password-reset"></a>如何注册以进行密码重置
+
 注册申请密码重置的最快速方法是转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
 
-1.  转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
-2.  请输入您的用户名和密码。
-3.  通过单击“立即设置”，选择一个注册选项。 在本示例中，我将演示注册**身份验证电话**。
+1. 转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
+2. 请输入您的用户名和密码。
+3. 通过单击“立即设置”，选择一个注册选项。 在本示例中，我将演示注册**身份验证电话**。
 ![显示 blahblah 的屏幕截图](./media/ft-mngPW-1-setup.png)
-4.  从下拉列表中选择国家/地区代码并输入包含区号的完整电话号码。
+4. 从下拉列表中选择国家/地区代码并输入包含区号的完整电话号码。
 ![显示如何选择国家/地区代码的屏幕截图。 ](./media/ft-mngPW-2-enterNumber.png)![显示手机号码输入位置的屏幕截图。](./media/ft-mngPW-3-enterNumber2.png)
-5.  选择“发短信给我”或“打电话给我”选项其中之一。 在本示例中，我选择“发短信给我”，此操作会向我的电话发送一个 6 位代码。 等待代码发送到手机。  
+5. 选择“发短信给我”或“打电话给我”选项其中之一。 在本示例中，我选择“发短信给我”，此操作会向我的电话发送一个 6 位代码。 等待代码发送到手机。  
 ![显示已发送到手机的 6 位代码的屏幕截图。](./media/ft-mngPW-4-textCode.png)
-6.  收到代码后，将其输入到输入框，然后单击“验证”。
-7.  看到“谢谢”即表示验证完成！ 现在可以使用已注册的内容，随时转到 [https://passwordreset.microsoftonline.com](https://passwordreset.microsoftonline.com) 来重置密码。![显示完成注册时接收到的感谢消息的屏幕截图。](./media/ft-mngPW-5-thanks.png)
+6. 收到代码后，将其输入到输入框，然后单击“验证”。
+7. 看到“谢谢”即表示验证完成！ 现在可以使用已注册的内容，随时转到 [https://passwordreset.microsoftonline.com](https://passwordreset.microsoftonline.com) 来重置密码。
+![显示完成注册时接收到的感谢消息的屏幕截图。](./media/ft-mngPW-5-thanks.png)
 
 > [!IMPORTANT]
 > 如果管理员允许你注册多个选项，强烈建议注册一个备份选项，以防手机丢失或无法访问电子邮件。
 
 ## <a name="how-to-reset-your-password"></a>如何重置密码
+
 请按照以下步骤在任何工作或学校帐户的登录屏幕上重置工作或学校帐户的密码。
 
 > [!IMPORTANT]
@@ -75,4 +77,5 @@ ms.locfileid: "34474031"
     重置密码时遇到问题？ 请阅读 [common problems and their solutions](https://azure.microsoft.com/documentation/articles/active-directory-passwords-update-your-own-password/#common-problems-and-their-solutions)（常见问题和解决方案）。
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
+
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。

@@ -9,17 +9,16 @@ ms.date: 12/21/2017
 ms.topic: get-started-article
 ms.prod: ''
 ms.service: active-directory
-ms.technology: ''
 ms.assetid: 112289b0-0336-4cc0-b471-42fc2c015c64
 ms.reviewer: ''
 ms.suite: ''
 ms.custom: ''
-ms.openlocfilehash: 7eb4740e44a5b4104de7d39667e9653e29213315
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 92e0ff1f9dade4ca290eb6deb3047427e8715934
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
-ms.locfileid: "30848166"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196638"
 ---
 # <a name="azure-active-directory-premium-government-service-description"></a>Azure Active Directory Premium 政府服务说明
 

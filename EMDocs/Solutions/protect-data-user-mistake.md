@@ -4,21 +4,20 @@ description: 此方案介绍如何使用企业移动性 + 安全性，通过利�
 author: yuridio
 ms.author: yurid
 manager: mbaldwin
-ms.date: 05/18/2017
-ms.topic: solution
+ms.date: 09/18/2018
+ms.topic: conceptual
 ms.prod: ''
 ms.service: cloud-app-security
-ms.technology: techgroup-identity
 ms.assetid: 0af3894c-7b0e-4c0c-8874-31e041d81300
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: information-protection
-ms.openlocfilehash: 5836807982072f9115e49db17c8c6560c23d2c11
-ms.sourcegitcommit: a7fd3ad8a351e9cc72ea37486342a273ed29b883
+ms.openlocfilehash: 5b1e5d113546da0df64e7777c0031543a7096a72
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2017
-ms.locfileid: "23981086"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196689"
 ---
 # <a name="protect-data-against-user-mistakes"></a>针对用户错误保护数据
 
@@ -110,7 +109,7 @@ Azure 信息保护附带默认标签，但是可以自定义并创建用户可�
 ![屏幕截图，显示在“机密”标签下创建的自定义子标签。 ](./media/protect-data-user-mistake/protect-data-user-mistake-fig7.png)
 
 
-在定义使用（默认或自定义）标签的方式后，[配置标签以应用权限管理保护](https://docs.microsoft.com/rights-management/information-protection/configure-policy-protection#to-configure-a-label-to-apply-rights-management-protection)。
+在定义使用（默认或自定义）标签的方式后，[配置标签以应用权限管理保护](/azure/information-protection/configure-policy-protection#to-configure-a-label-to-apply-rights-management-protection)。
 
 通过 Azure 信息保护，将数据分类和保护控件集成到 Office 和其他常见应用程序。 此集成提供简单的单击选项以保护用户处理的数据。 在 Azure 门户中，管理员可以将预定义的模式（如“信用卡号”或“美国社会保障号”）用作自动分类的条件。 或者，管理员可以使用文本模式和正则表达式来定义自定义字符串或模式。
 

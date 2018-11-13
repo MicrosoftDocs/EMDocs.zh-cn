@@ -8,20 +8,19 @@ ms.date: 05/18/2017
 ms.topic: solution
 ms.prod: ''
 ms.service: rights-management
-ms.technology: techgroup-identity
 ms.assetid: 2f906e2e-3d99-40e6-b5cc-8d903fcda444
 ms.reviewer: v-craic
 ms.suite: ems
-ms.openlocfilehash: 03b6cbb8ab575b5cae99403f68579108ab2239a8
-ms.sourcegitcommit: 9e30dab85116767c71b911827d839a433418b9b5
+ms.openlocfilehash: 9b4c2fff65b717fcc1b1c37ee8da724f94ceb7f6
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/09/2017
-ms.locfileid: "24101404"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196706"
 ---
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 
-[Azure 信息保护 (AIP)](/information-protection/understand-explore/what-is-information-protection) 让客户能够对数据进行分类和标记，并能使用加密来保护数据。 Azure 信息保护使 IT 管理员能够：
+[Azure 信息保护 (AIP)](/azure/information-protection/what-is-information-protection) 让客户能够对数据进行分类和标记，并能使用加密来保护数据。 Azure 信息保护使 IT 管理员能够：
 
 - 基于预设规则对电子邮件和文档进行自动分类
 - 向文档添加标记，如自定义标头、页脚和水印
@@ -34,7 +33,7 @@ ms.locfileid: "24101404"
 这些功能使企业能够对其数据进行更好的端到端控制。 就此而论，Azure 信息保护在保护公司数据中扮演很重要的角色。
 
 > [!IMPORTANT]
-> 若要详细了解 Azure 信息保护的工作原理，请参阅 [Azure RMS 的工作原理揭秘](/information-protection/understand-explore/how-does-it-work)。
+> 若要详细了解 Azure 信息保护的工作原理，请参阅 [Azure RMS 的工作原理揭秘](/azure/information-protection/how-does-it-work)。
 
 ## <a name="the-state-of-enterprise-protection-today"></a>当今企业保护的状态
 
@@ -73,11 +72,11 @@ Azure 信息保护中保护的基础是 - 对受保护内容的访问基于已�
 
 ![无访问权限](./media/azure-information-protection-securing-data/aip-securing-data-fig2.png)
 
-这种情况中的关键点是，Azure 信息保护可停止来自未经授权的用户的攻击。 有关 Azure 信息保护中加密控制的详细信息，请参阅 [Azure RMS 使用的加密控制：算法和密钥长度](/information-protection/understand-explore/how-does-it-work)。
+这种情况中的关键点是，Azure 信息保护可停止来自未经授权的用户的攻击。 有关 Azure 信息保护中加密控制的详细信息，请参阅 [Azure RMS 使用的加密控制：算法和密钥长度](/azure/information-protection/how-does-it-work)。
 
 ### <a name="access-by-malicious-programs-on-behalf-of-users"></a>通过恶意程序代表用户进行访问
 
-代表用户的恶意程序访问通常在用户不知情的情况下发生。 特洛伊木马程序、病毒和其他恶意软件是可代表用户执行操作的典型恶意程序示例。 如果此类程序可模拟用户的标识或利用用户的权限来执行操作，那么它可使用 [Azure 信息保护 SDK](/information-protection/develop/developers-guide) 代表不知情的用户来解密内容。 因为此操作发生在用户的上下文中，没有简单的方法来防止这种攻击。
+代表用户的恶意程序访问通常在用户不知情的情况下发生。 特洛伊木马程序、病毒和其他恶意软件是可代表用户执行操作的典型恶意程序示例。 如果此类程序可模拟用户的标识或利用用户的权限来执行操作，那么它可使用 [Azure 信息保护 SDK](/azure/information-protection/develop/developers-guide) 代表不知情的用户来解密内容。 因为此操作发生在用户的上下文中，没有简单的方法来防止这种攻击。
 
 ![恶意程序](./media/azure-information-protection-securing-data/aip-securing-data-fig3.png)
 

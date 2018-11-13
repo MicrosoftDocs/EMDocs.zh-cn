@@ -2,27 +2,24 @@
 title: 如何注册多重身份验证
 description: 如何设置其他安全性验证的首选方式
 keywords: ''
-author: NathBarn
-ms.author: NathBarn
+author: dougeby
+ms.author: dougeby
 manager: angrobe
 ms.date: 02/01/2017
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: 06e21ca9-ed6a-4f6e-a7e2-5445aaeb3552
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c9871f9495fcd698eeeb08d0bcd639ef97c46b6b
-ms.sourcegitcommit: 4401a878f88cc60b3cfd90a915747fe37e333014
+ms.openlocfilehash: 8543aed330ca711668754be8f585a4dbb0a1ec37
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2018
-ms.locfileid: "30848081"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196661"
 ---
 # <a name="how-to-set-up-your-preferred-method-for-additional-security-verification"></a>如何设置其他安全性验证的首选方式
-
-
 
 当管理员已将你的帐户配置为要求必须同时使用密码和手机响应以验证你的身份时，将使用“其他安全性验证”设置。 如果管理员已将你的帐户配置为需要其他安全性验证，则你在完成自动注册过程之前将无法登录。
 
@@ -32,7 +29,6 @@ ms.locfileid: "30848081"
 
 使用注册过程，你将能够指定首选的身份验证方法。 此方法可以是下表所列选项中的任何一种。 如需更多信息（包括演练），只要单击其中一种方法即可。
 
-
 |方法|描述|
 |------------|----------------------------------|
 |[移动电话呼叫](#mobile-phone)|对身份验证电话号码进行自动语音呼叫。 用户接听电话，并按电话拨号键盘中的 # 进行身份验证。 此电话号码将不会同步到本地 Active Directory。|
@@ -40,7 +36,7 @@ ms.locfileid: "30848081"
 |[办公电话呼叫](#office-phone-call)|对用户进行自动语音呼叫。 用户接听电话，并按电话拨号键盘中的 # 进行身份验证。|
 |[移动应用](#mobile-application)|将通知推送到用户的智能手机或平板电脑上的 Azure 验证器移动应用。 用户在应用中点击“验证”进行身份验证。 此外，该应用程序还可以用作进行脱机身份验证的 OTP 令牌。 用户在登录屏幕上输入令牌进行身份验证。|
 
-Azure 验证器应用可以 2 种不同模式运行，以提供多重身份验证服务能够提供的附加安全性。这两种模式是：
+_Azure 验证器应用可以 2 种不同模式运行，以提供多重身份验证服务能够提供的附加安全性。这两种模式是：_
 
 - **通知** - 在此模式下，Azure 验证器应用可防止对帐户进行未经授权的访问并停止欺诈性交易。 此功能是使用推送到你的手机或已注册设备上的通知来完成的。 直接查看通知，如果该通知是合法的，则选择“身份验证”。 否则，你可以选择“拒绝”或选择拒绝并报告欺诈性通知。 有关报告欺诈性通知的信息，请参阅“如何针对多重身份验证使用‘拒绝并报告欺诈’功能”。
 - **一次性密码** - 在此模式下，Azure 验证器应用可用作生成 OATH 验证码的软件令牌。 然后可以将此验证码与用户名和密码一起输入，进行第二种形式的身份验证。
@@ -48,6 +44,7 @@ Azure 验证器应用可以 2 种不同模式运行，以提供多重身份验�
 Azure 验证器应用可用于 [Windows Phone](http://www.windowsphone.com/en-us/store/app/azure-authenticator/03a5b2bf-6066-418f-b569-e8aecbc06e50)、[Android](https://play.google.com/store/apps/details?id=com.azure.authenticator) 和 [IOS](https://itunes.apple.com/us/app/azure-authenticator/id983156458)。
 
 ## <a name="mobile-phone"></a>移动电话
+
 如果要使用移动电话（短信或通话）作为主要联系方式，可使用以下步骤。 这些步骤将会引导你设置多重身份验证，以使用移动电话呼叫或短信作为联系方法。
 
 1. 在“步骤 1：我们应如何联系你？”中，选择“身份验证电话”。
@@ -74,7 +71,9 @@ Azure 验证器应用可用于 [Windows Phone](http://www.windowsphone.com/en-us
 11. 单击“完成”。
 
 ## <a name="office-phone-call"></a>办公电话呼叫
+
 本文此部分将引导你设置 Azure 多重身份验证，以使用办公电话作为主要联系方式。
+
 1. 从下拉列表中选择“办公电话”。
 
    ![显示用户希望通过办公电话进行联系的屏幕截图](./media/ft-enrollMFA-6-officePhone.png)
@@ -89,6 +88,7 @@ Azure 验证器应用可用于 [Windows Phone](http://www.windowsphone.com/en-us
 8. 单击“完成”。
 
 ## <a name="mobile-application"></a>移动 应用程序
+
 本文此部分将引导你设置 Azure 多重身份验证，以使用移动电话作为主要联系方式。
 
 Azure 验证器应用可用于 Windows Phone、Android 和 IOS。
@@ -117,4 +117,5 @@ Azure 验证器应用可用于 Windows Phone、Android 和 IOS。
 12. 单击“完成”。
 
 ### <a name="want-to-learn-more"></a>了解更多信息？
+
 请参阅 [Enterprise Mobility + Security](https://www.microsoft.com/en-us/server-cloud/enterprise-mobility/overview.aspx)（企业移动性 + 安全性）。

@@ -9,16 +9,15 @@ ms.date: 03/21/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: fe44be0fb38e47456fff063511944551dba5b4eb
-ms.sourcegitcommit: ffa46a69834de317e99a58146492e06c6aa4901a
+ms.openlocfilehash: 161d347146940cc3d84ec7a43f22097987d959a9
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2018
-ms.locfileid: "30008784"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196587"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 
@@ -51,7 +50,7 @@ ms.locfileid: "30008784"
 -   FastTrack 团队可直接与你或你的代表进行合作。
 
 > [!NOTE]
-> **想要了解更多？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
+> **想要了解更多?** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>后续步骤
 
