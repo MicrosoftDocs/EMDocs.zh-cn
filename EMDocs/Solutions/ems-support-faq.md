@@ -2,23 +2,22 @@
 title: 企业移动性 + 安全性支持 FAQ
 description: ''
 keywords: ''
-author: nathbarn
-ms.author: nathbarn
+author: dougeby
+ms.author: dougeby
 manager: angrobe
 ms.date: 6/12/2017
 ms.topic: article
 ms.prod: ''
 ms.service: ems
-ms.technology: ''
 ms.assetid: 7bfee675-ec69-479c-bda2-f807bbb55712
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 725e923f702efc3d6c12881ea77049ee001a649e
-ms.sourcegitcommit: 1fd9d6f672b25c50e7165793b518fe02912338d5
+ms.openlocfilehash: 50326fcf5cf1412ca0e03b6461c85b6b8b7f708d
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2018
-ms.locfileid: "29925532"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196570"
 ---
 # <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持 FAQ
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。  请查看下面的详细信息。
@@ -27,7 +26,7 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 **是否必须购买 Azure 支持计划，才能提交企业移动性 + 安全性支持请求？**
 
-企业移动性 + 安全性包含支持。 可以通过 Azure 365 门户提交 Azure Active Directory Premium、Azure 信息保护、云应用程序安全性和 Microsoft Intune 的支持请求。 Azure 门户提供预期的 EMS 支持体验，而无需通过选择包含技术支持的订阅来购买支持计划。 可以通过 O365 门户提交 Azure Active Directory Premium、Azure 信息保护、云应用程序安全性和 Microsoft Intune 支持请求。
+企业移动性 + 安全性包含支持。 可以通过 Azure 365 门户提交 Azure Active Directory Premium、Azure 信息保护、云应用安全性和 Microsoft Intune 的支持请求。 Azure 门户提供预期的 EMS 支持体验，而无需通过选择包含技术支持的订阅来购买支持计划。 可以通过 O365 门户提交 Azure Active Directory Premium、Azure 信息保护、云应用安全性和 Microsoft Intune 支持请求。
 
 **如何获取 Intune 支持？**
 
@@ -41,9 +40,9 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交 Azure AD Premium 1 和 Premium 2 支持请求。 详细了解 Intune 支持选项。 [了解如何获取 Azure Active Directory 支持](https://docs.microsoft.com/azure/active-directory/active-directory-troubleshooting-support-howto)。
 
-**如何获取云应用程序安全性支持？**
+如何获取云应用程序安全性支持？
 
-企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交云应用程序安全性的支持请求。 
+企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交云应用安全性的支持请求。 
 
 **我无法通过 Office 365 门户提交支持请求。有可以拨打的支持电话号码吗？**
 

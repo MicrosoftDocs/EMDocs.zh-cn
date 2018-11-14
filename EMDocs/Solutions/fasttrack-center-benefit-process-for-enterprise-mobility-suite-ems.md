@@ -5,20 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/21/2018
+ms.date: 08/13/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e26aa24ea38c9ec2fa0dabe9044256fa5bfd9b4a
-ms.sourcegitcommit: f045537a12763cd6164c4ae42f7b4a45c4ca040b
+ms.openlocfilehash: 0d42df55a4e0a2929bc7f0b519bac7f632007560
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2018
-ms.locfileid: "30817638"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196536"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程
 如果组织符合 EMS 的 FastTrack 中心权益的条件，则可以与 FastTrack 专家一同远程准备 Microsoft Azure Active Directory Premium 和 Microsoft Intune，使其可供使用。 还可以通过 [FastTrack 站点](http://fasttrack.microsoft.com/ems)为 Azure 信息保护、Microsoft Cloud App Security 和 Microsoft 高级威胁分析请求帮助。 若要确定你的组织是否符合条件，请参阅[符合 FastTrack 中心权益条件的服务和计划](fasttrack-center-benefit-for-enterprise-mobility-suite-ems.md)。

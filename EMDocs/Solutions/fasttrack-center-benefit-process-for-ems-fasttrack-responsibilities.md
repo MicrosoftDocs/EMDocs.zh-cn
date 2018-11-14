@@ -5,20 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/01/2018
+ms.date: 10/26/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 212acc335e4c0a21c2a6f72c3df1226ebc21e156
-ms.sourcegitcommit: 3a51276eebdd8f1f18994a7efdcaa22e394180df
+ms.openlocfilehash: dc86c1a3cba21476c6f5275dfd589bdb5443466a
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "34569538"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196776"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 职责
 
@@ -145,7 +144,9 @@ FastTrack 在加入期间的职责如下。
 
   - Azure 多重身份验证。
 
-  - 多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) 的 SSO 集成。
+  - 多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 市场](https://azure.microsoft.com/marketplace/active-directory/)的 SSO 集成。
+
+  - [应用集成教程列表](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)中列出的针对预集成的 SaaS 应用程序的自动用户预配仅限于出站预配。
 
   - 自定义的登录屏幕（包括徽标、文本和图像）。
 
@@ -159,7 +160,7 @@ FastTrack 在加入期间的职责如下。
 
   - 特权标识管理。
 
-  - Azure Active Directory 条件访问。
+  - Azure Active Directory 条件访问，包括使用条款（如果需要）。
 
 ### <a name="enable-phase---intune"></a>启用阶段 - Intune
 
@@ -177,8 +178,6 @@ FastTrack 在加入期间的职责如下。
 -   根据管理需要配置移动设备管理 (MDM) 机构，包括：
 
     -   将 Intune 设为 MDM 机构。
-
-    -   如果已具有 Configuration Manager 的现有实施，并想使用 Intune 扩展其管理功能，请将 System Center Configuration Manager 设置为 MDM 机构。
 
     -   配置用于验证 MDM 管理策略的测试组。
 
@@ -222,6 +221,23 @@ FastTrack 在加入期间的职责如下。
     -   为适用的受支持平台配置软件更新。
 
     -   用户采用规划的相关资源。
+
+- 设置 Windows Autopilot：
+
+    - 为 Windows Autopilot 配置和设置 Microsoft Intune。
+
+    - 配置 Azure AD 动态组
+
+    - 将公司品牌添加到 Azure AD。
+
+    - 创建设备并将其分配到 Windows Autopilot 配置文件（例如，限制本地管理员帐户创建的 Windows Autopilot 配置文件）。
+
+    - 自定义全新体验 (OOBE) 以符合组织的要求。
+
+    - 在 Azure AD 和 Intune 中配置 MDM 自动注册。
+
+    > [!NOTE]
+    > 在 Intune 外部设置 Windows Autopilot 不在 FastTrack 权益范围内。
 
 ### <a name="enable-phase---co-management"></a>启用阶段 - 共同管理
 

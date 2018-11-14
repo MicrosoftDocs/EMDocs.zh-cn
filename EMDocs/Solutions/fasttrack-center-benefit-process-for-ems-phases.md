@@ -3,22 +3,21 @@ title: 载入和迁移阶段
 description: FastTrack Center Benefit 的阶段
 keywords: ''
 author: andredm7
-ms.author: andredm
+ms.author: anmorgan
 manager: ''
-ms.date: 06/01/2018
+ms.date: 10/26/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-ms.technology: ''
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: d3d66f6a790140a9b461d5a63398a81a3485f9fc
-ms.sourcegitcommit: 3a51276eebdd8f1f18994a7efdcaa22e394180df
+ms.openlocfilehash: 140df50936eb60ac87dd50b39d9ba3ee1336e6d9
+ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "34569555"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "51196775"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -38,11 +37,24 @@ ms.locfileid: "34569555"
 
 ### <a name="to-request-assistance"></a>请求协助
 
-1. 转到 [FastTrack 中心](http://fasttrack.microsoft.com/)，使用你的工作或学校帐户登录。
+1. 登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。
+2. 选择“FastTrack”。
+3. 选择“服务”。
+4. 完成“使用 Microsoft 365 表单请求帮助”。
 
-2. 在客户仪表板中，选择页面右下侧的“转到 FastTrack”。
+启动载入支持之后，我们将为联机会议设置一个日程安排。
 
-3. 在 FastTrack 仪表板上，在页面右下侧展开“需要帮助?”，然后按照提示完成请求。
+> [!NOTE]
+> 如果在 Office 365 租户中列出了 Microsoft 合作伙伴，则不会看到此选项。 请咨询你的 Microsoft 合作伙伴以获取帮助。
+
+Microsoft 合作伙伴也可以代表客户通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 为此，请执行以下操作：
+
+1. 登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。
+2. 选择“FastTrack”。
+3. 选择“我的客户”。
+4. 搜索你的客户或从你的客户列表中选择。
+5. 选择“服务”。
+6. 完成“使用 Microsoft 365 表单请求帮助”。
 
 载入支持启动后，FastTrack 会设置你的联机会议日程，讨论载入流程、验证数据，并设置启动会议。
 
@@ -93,7 +105,9 @@ Azure AD Premium 设置包括启用以下功能：
 
 -   Azure 多重身份验证 (Azure MFA)。
 
--   多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/) 的单一登录 (SSO) 集成。
+-   多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 市场](https://azure.microsoft.com/marketplace/active-directory/)的单一登录 (SSO) 集成。
+
+-   [应用集成教程列表](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)中列出的针对预集成的 SaaS 应用程序的自动用户预配仅限于出站预配。
 
 -   自定义的登录屏幕（包括徽标、文本和图像）。
 
@@ -107,7 +121,7 @@ Azure AD Premium 设置包括启用以下功能：
 
 -   特权标识管理。
 
--   Azure Active Directory 条件访问。
+-   Azure Active Directory 条件访问，包括使用条款（如果需要）。
 
 ![载入启用阶段 - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
@@ -124,8 +138,6 @@ Azure AD Premium 设置包括启用以下功能：
 -   根据管理需要配置移动设备管理 (MDM) 机构，包括：
 
     -   当 Intune 是你唯一的 MDM 解决方案或其与 Office 365 的移动设备管理结合时，请将 Intune 设置为你的 MDM 机构。
-
-    -   如果已具有 Configuration Manager 的现有实施，并想使用 Intune 扩展其管理功能，请将 System Center Configuration Manager 设置为 MDM 机构。
 
 -   提供相关 MDM 指导：
 
@@ -152,7 +164,7 @@ Azure AD Premium 设置包括启用以下功能：
 
             -   Windows Defender 高级威胁防护（Windows E5 或 Microsoft 365 E5 许可证是必需的）。
 
-    -   将每个[受支持平台](https://technet.microsoft.com/library/dn600287.aspx)的设备注册到你的 Intune 或具有 Intune 服务的 Configuration Manager。
+    -   将[每个支持的平台](https://technet.microsoft.com/library/dn600287.aspx)的设备注册到 Intune。
 
 -   提供有关以下内容的 Intune 应用保护（应用管理）指导：
 
@@ -164,7 +176,7 @@ Azure AD Premium 设置包括启用以下功能：
 
     -   使用托管应用程序使用情况报告。
 
--   提供相关电脑管理指导：
+-   提供有关以下内容的电脑管理指导：
 
     -   安装 Intune 客户端软件（如果需要）。
 
@@ -173,9 +185,38 @@ Azure AD Premium 设置包括启用以下功能：
     > [!IMPORTANT]
     > FastTrack 不支持使用 Intune 进行 Windows 10 经典电脑管理。 FastTrack 仅支持通过 Intune 移动设备管理 (MDM) 进行 Windows 10 设备管理。
 
+#### <a name="windows-autopilot"></a>Windows Autopilot
+
+FastTrack 可以帮助你简化在 Windows Autopilot 和 Intune 中的设备预配，方法是向你的最终用户提供新设备，无需生成、维护和向设备应用自定义操作系统映像。
+
+FastTrack 支持以下 Autopilot 方案：
+
+- Azure AD 自助服务：设备联接 Azure AD 并注册到 Intune。 在使用 Windows 10 1703 和最新版本时支持使用此方案。
+
+- 混合 AAD 自助服务：设备联接本地 Azure AD 和 Azure AD 并注册到 Intune。 在使用 Windows 10 1809 和最新版本时支持使用此方案。
+
+- 自预配：设备自动联接 Azure AD。 在使用 Windows 1809 和最新版本时支持使用此方案。
+
+    > [!IMPORTANT]
+    > FastTrack 不支持从 Configuration Manager 启动的 Autopilot 方案。
+
+设置 Windows Autopilot 的步骤取决于你的源环境，可能包括：
+
+- 为 Windows Autopilot 配置和设置 Microsoft Intune。
+
+- 配置 Azure AD 动态组
+
+- 将公司品牌添加到 Azure AD。
+
+- 创建设备并将其分配到 Windows Autopilot 配置文件（例如，限制本地管理员帐户创建的 Windows Autopilot 配置文件）。
+
+- 自定义全新体验 (OOBE) 以符合组织的要求。
+
+- 在 Azure AD 和 Intune 中配置 MDM 自动注册。
+
 #### <a name="co-management"></a>共同管理
 
-FastTrack 可指导你做好准备来使用 Configuration Manager 和 Intune 同时管理 Windows 10 设备。 具体步骤将根据源环境而定，步骤可能包括：
+FastTrack 可指导你做好准备来使用 Configuration Manager 和 Intune 同时管理 Windows 10 设备。 具体步骤取决于你的源环境，可能包括：
 
 - 介绍共同管理的好处。
 
@@ -208,8 +249,6 @@ FastTrack 可指导你做好准备来使用 Configuration Manager 和 Intune 同
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![载入启用阶段 - 共同管理](./media/ft-9-enable-phase-comanagement.png)
-
-![载入启用阶段 - Intune](./media/ft-enable-phase-intune-mdm-mam-sccm.png)
 
 > [!NOTE]
 > **想要了解更多?** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。
