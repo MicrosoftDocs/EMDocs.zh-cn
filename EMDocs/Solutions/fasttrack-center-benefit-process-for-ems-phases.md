@@ -3,21 +3,21 @@ title: 载入和迁移阶段
 description: FastTrack Center Benefit 的阶段
 keywords: ''
 author: andredm7
-ms.author: anmorgan
+ms.author: andredm
 manager: ''
-ms.date: 10/26/2018
+ms.date: 11/15/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 140df50936eb60ac87dd50b39d9ba3ee1336e6d9
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: d773ab3e7c4f9c7c31f86ee8b8fa54a926c5af56
+ms.sourcegitcommit: 06c39d619052a609c250b8b3978d9061841a6ff2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196775"
+ms.lasthandoff: 11/17/2018
+ms.locfileid: "51859186"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -166,7 +166,7 @@ Azure AD Premium 设置包括启用以下功能：
 
     -   将[每个支持的平台](https://technet.microsoft.com/library/dn600287.aspx)的设备注册到 Intune。
 
--   提供有关以下内容的 Intune 应用保护（应用管理）指导：
+-   提供有关以下内容的应用保护指导：
 
     -   为每个支持平台配置应用保护策略。
 
@@ -213,6 +213,22 @@ FastTrack 支持以下 Autopilot 方案：
 - 自定义全新体验 (OOBE) 以符合组织的要求。
 
 - 在 Azure AD 和 Intune 中配置 MDM 自动注册。
+
+#### <a name="deploy-outlook-for-ios-and-android-securely"></a>安全部署 Outlook for iOS 和 Outlook for Android
+
+FastTrack 可通过在组织中安全地部署 Outlook for iOS 和 Outlook for Android 帮助确保用户已安装所有所需的应用。
+
+通过 Intune 安全地部署 Outlook Mobile for iOS 和 Outlook Mobile for Android 的步骤取决于源环境，这一环境可以包括：
+
+- 通过 Apple 应用商店或 Google Play 商店下载 Outlook for iOS 和 Outlook for Android、Microsoft Authenticator 和 Intune 公司门户应用。
+- 还提供设置以下应用的相关指导：
+    - 通过 Intune 部署的 Outlook for iOS 和 Outlook for Android、Microsoft Authenticator 和 Intune 公司门户应用。
+    - 应用保护策略
+    - 条件性访问策略
+    - 应用配置策略
+
+    > [!IMPORTANT]
+    > FastTrack 团队不支持使用 Exchange 移动设备邮箱策略保护 Outlook for iOS 和 Outlook for Android。
 
 #### <a name="co-management"></a>共同管理
 

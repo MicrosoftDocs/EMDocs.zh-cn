@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/26/2018
+ms.date: 11/15/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: d5f05705a72abd36867aeaefc6b202c097332419
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 65b7b77bb0afafc019c44c2fb980c18ee782471a
+ms.sourcegitcommit: 06c39d619052a609c250b8b3978d9061841a6ff2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196553"
+ms.lasthandoff: 11/17/2018
+ms.locfileid: "51859220"
 ---
 # <a name="source-environment-expectations"></a>源环境预期
 
@@ -34,7 +34,8 @@ ms.locfileid: "51196553"
 |Intune 载入| 规划使用 Intune 部署 WiFi 和 VPN 配置文件时，IT 管理员需确保其生产环境中已存在现成可用且处于运行状态的证书颁发机构、WiFi 和 VPN 基础结构。<br /><br /> 注意：服务权益不包括有关设置或配置证书颁发机构、WiFi、VPN 基础结构或 Apple MDM 推送证书方面的帮助。  |
 |共同管理|通过共同管理，IT 管理员负责准备本地环境，其中可能包括修正当前阻止使用 Configuration Manager 和 Intune 同时管理 Windows 10 设备的问题。<br /><br />注意：FastTrack 服务权益不包括协助设置或升级 Configuration Manager 网站服务器和/或 Configuration Manager 客户端以满足支持使用 Windows 10 设备进行共同管理所需的最低要求。 |
 |Intune 与 Windows Defender 高级威胁防护 (Windows Defender ATP) 集成|你的 Windows Defender ATP 订阅已根据贵公司的安全要求进行激活和配置。<br /><br />**注意**：FastTrack 服务权益可帮助将 Intune 与 Windows Defender ATP 集成，并根据其 Windows 10 风险级别评估创建设备符合性策略。 FastTrack 服务权益不提供有关购买、授权、激活或使用 Windows Defender ATP 及其安全中心控制台的帮助。 |
-|Windows Autopilot|IT 管理员负责将其设备注册到其组织，方法是让硬件供应商代表其自己上载其硬件 ID 或让他们亲自将其上载到 Windows Autopilot 服务。
+|Windows Autopilot|IT 管理员负责将其设备注册到其组织，方法是让硬件供应商代表其自己上载其硬件 ID 或让他们亲自将其上载到 Windows Autopilot 服务。 |
+|通过 Intune 安全地部署 Outlook for iOS 和 Outlook for Android|<br /><br />-   在 Azure AD for Office 365 中启用了用户标识。<br />-   使用分配的用户许可证配置了 Exchange Online 或混合 Exchange。<br />|
 
 > [!NOTE]
 > **想要了解更多？**
