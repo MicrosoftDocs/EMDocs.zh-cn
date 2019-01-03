@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/26/2018
+ms.date: 12/4/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: dc86c1a3cba21476c6f5275dfd589bdb5443466a
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: feca059e7d1241476be7ab16efb61da063c7d546
+ms.sourcegitcommit: b64e0087de6771f1f6ede4718025ea3a7e78f8c6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196776"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "53320038"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 职责
 
@@ -111,8 +111,8 @@ FastTrack 在加入期间的职责如下。
     > [!NOTE]
     > 如果你的 Active Directory 林之间存在林信任，并且名称后缀路由得到正确配置，则支持多林环境的 Azure Active Directory 传递身份验证。 可在多个本地服务器上安装其他代理，为登录请求提供高可用性。
 
-  - 有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)和 [Azure Active Directory 无缝单一登录：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。
-  - 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)。
+  - 有关详细信息，请参阅 [Azure Active Directory 传递身份验证：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) 和 [Azure Active Directory 无缝单一登录：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。
+  - 若要详细了解传递身份验证限制，请参阅 [Azure Active Directory 传递身份验证：当前限制](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)。
   - 若要详细了解无缝 SSO 问题，请参阅[排查 Azure Active Directory 无缝单一登录问题](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。
 
       > [!NOTE]
@@ -140,11 +140,11 @@ FastTrack 在加入期间的职责如下。
 
 - Azure AD Connect 目录同步（使用密码写回和密码哈希同步）。
 
-  - 自助服务密码重置 (SSPR)。
+  - Azure Active Directory 自助密码重置 (SSPR)。
 
   - Azure 多重身份验证。
 
-  - 多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 市场](https://azure.microsoft.com/marketplace/active-directory/)的 SSO 集成。
+  - 多达三 (3) 个及以上服务型软件 (SaaS) 应用程序与来自 [Azure Active Directory 市场](https://azure.microsoft.com/marketplace/active-directory/)的单一登录 (SSO) 集成。
 
   - [应用集成教程列表](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)中列出的针对预集成的 SaaS 应用程序的自动用户预配仅限于出站预配。
 
@@ -154,13 +154,17 @@ FastTrack 在加入期间的职责如下。
 
   - Azure Active Directory 应用程序代理。
 
-  - Azure AD Connect 运行状况。
+  - Azure Active Directory Connect Health。
 
-  - 标识保护。
+  - Azure Active Directory 条件访问。
 
-  - 特权标识管理。
+  - Azure Active Directory 使用条款。
 
-  - Azure Active Directory 条件访问，包括使用条款（如果需要）。
+  - Azure Active Directory Identity Protection。
+
+  - Azure Active Directory Privileged Identity Management。
+
+  - Azure Active Directory 访问评审。
 
 ### <a name="enable-phase---intune"></a>启用阶段 - Intune
 

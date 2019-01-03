@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/15/2018
+ms.date: 12/4/2018
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: d773ab3e7c4f9c7c31f86ee8b8fa54a926c5af56
-ms.sourcegitcommit: 06c39d619052a609c250b8b3978d9061841a6ff2
+ms.openlocfilehash: c9e909cbd37c217e99c7687354a9d3a132cb3867
+ms.sourcegitcommit: b64e0087de6771f1f6ede4718025ea3a7e78f8c6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2018
-ms.locfileid: "51859186"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "53320021"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -101,7 +101,7 @@ FastTrack 中心还会与你联系，提供有关如何推动成功采用符合�
 
 Azure AD Premium 设置包括启用以下功能：
 
--   自助服务密码重置 (SSPR)。
+-   Azure Active Directory 自助密码重置 (SSPR)。
 
 -   Azure 多重身份验证 (Azure MFA)。
 
@@ -117,11 +117,15 @@ Azure AD Premium 设置包括启用以下功能：
 
 -   Azure Active Directory Connect Health。
 
--   标识保护。
+-   Azure Active Directory 条件访问。
 
--   特权标识管理。
+-   Azure Active Directory 使用条款。
 
--   Azure Active Directory 条件访问，包括使用条款（如果需要）。
+-   Azure Active Directory Identity Protection。
+
+-   Azure Active Directory Privileged Identity Management。
+
+-   Azure Active Directory 访问评审。
 
 ![载入启用阶段 - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
@@ -191,11 +195,11 @@ FastTrack 可以帮助你简化在 Windows Autopilot 和 Intune 中的设备预�
 
 FastTrack 支持以下 Autopilot 方案：
 
-- Azure AD 自助服务：设备联接 Azure AD 并注册到 Intune。 在使用 Windows 10 1703 和最新版本时支持使用此方案。
+- **Azure AD 自助服务：** 设备联接 Azure AD 并注册到 Intune。 在使用 Windows 10 1703 和最新版本时支持使用此方案。
 
-- 混合 AAD 自助服务：设备联接本地 Azure AD 和 Azure AD 并注册到 Intune。 在使用 Windows 10 1809 和最新版本时支持使用此方案。
+- **混合 AAD 自助服务：** 设备联接本地 Azure AD 和 Azure AD 并注册到 Intune。 在使用 Windows 10 1809 和最新版本时支持使用此方案。
 
-- 自预配：设备自动联接 Azure AD。 在使用 Windows 1809 和最新版本时支持使用此方案。
+- **自预配：** 设备自动联接 Azure AD。 在使用 Windows 1809 和最新版本时支持使用此方案。
 
     > [!IMPORTANT]
     > FastTrack 不支持从 Configuration Manager 启动的 Autopilot 方案。
