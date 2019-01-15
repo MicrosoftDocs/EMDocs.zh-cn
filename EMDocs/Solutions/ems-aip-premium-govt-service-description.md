@@ -9,18 +9,18 @@ ms.date: 09/19/2018
 ms.topic: article
 ms.prod: ''
 ms.service: ems
-ms.openlocfilehash: fa8de2836a7009257fb5547bce42f120b24ff0d1
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: c1bf752038b28c14c4289ab0c7767e11e088485c
+ms.sourcegitcommit: d681b14a4d9d24ba26ba3191bca0f46b039f9395
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51197115"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "54153293"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
-Azure 信息保护高级版政府服务说明用于概述我们的产品/服务，介绍了以下内容：(1) 此产品/服务包含的服务和功能，(2) 政府产品/服务与我们现有的商业产品/服务有何不同，以及 (3) 我们当前的符合性承诺。 本文档定义了相较于 Azure 信息保护高级版商业产品/服务的独特承诺以及各种差异。 
+政府用 Azure 信息保护高级版服务说明旨在概述我们提供的产品/服务，包含以下内容：(1) 本产品/服务中包含的服务和功能；(2) 政府用产品/服务与现有商业产品/服务的区别；(3) 我们当前的合规性承诺。 本文档定义了相较于 Azure 信息保护高级版商业产品/服务的独特承诺以及各种差异。 
 
 ## <a name="about-azure-information-protection-premium-government-environments"></a>有关 Azure 信息保护高级版政府环境 
 
@@ -55,7 +55,7 @@ Office 365 当前在 GCC 和 GCC 高级版环境中都可用。 要了解有关�
 Azure 信息保护高级版 P1/P2（商业） | Office 365，GCC | FedRAMP - 中等* 
 Azure 信息保护高级版 P1/P2 GCC 高级版 | Office 365，GCC 高级版 | FedRAMP 高级 
 
-*注意：实现 FedRAMP 中级版符合性的目标日期是日历年 2018 年的 H2。 
+*注意：实现 FedRAMP 中级合规性的目标日期是，日历年 2018 年的 H2。 
 
 ## <a name="parity-with-azure-information-protection-premium-commercial-offerings"></a>与 Azure 信息保护高级版商业产品/服务具有相同的功能 
 
@@ -71,8 +71,36 @@ Azure 信息保护高级版 P1/P2 GCC 高级版 | Office 365，GCC 高级版 | F
 
 * 不支持从 Active Directory Rights Management Services (AD RMS) 迁移到 Azure 信息保护。 
 
-* 不支持 iOS 和 Android 上的 Azure 信息保护查看器应用。 
-
 * 不支持在商业云中向用户共享受保护的文档和电子邮件。 包括商业云中的 Office 365 用户、商业云中的非 Office 365 用户以及具有个人 RMS 许可的用户。 
 
 * SharePoint Online 不支持信息权限管理。 受 IRM 保护的站点和库将不可用。 
+
+## <a name="configuring-azure-information-protection-for-gcc-high-customers"></a>为 GCC 高级版客户配置 Azure 信息保护
+
+### <a name="dns-configuration-for-encryption"></a>用于加密的 DNS 配置
+Office 客户端应用必须连接到 GCC 高级版服务实例并从中启动，才能正常加密。 若要将客户端应用重定向到正确的服务实例，租户管理员必须使用 Azure RMS URL 的相关信息来配置 DNS SRV 记录。 如果没有 DNS SRV 记录，客户端应用会默认尝试连接到公有云实例，但连接会失败。
+
+此外，假设用户将使用基于租户拥有域的用户名（例如：joe@contoso.us）登录，而不是 onmicrosoft 用户名（例如：joe@contoso.onmicrosoft.us）。 用户名中的域名用于将 DNS 重定向到正确的服务实例。
+
+* 获取 Rights Management 服务 ID 
+  * 以管理员身份启动 PowerShell 
+  * 运行 `Install-Module aadrm`（如果未安装 AADRM 模块的话） 
+  * 使用 `Connect-aadrmservice -environmentname azureusgovernment` 连接到服务
+  * 运行 `$(Get-aadrmconfiguration).RightsManagementServiceId`，以获取 Rights Management 服务 ID
+* 登录 DNS 提供程序，并转到域的 DNS 设置 
+  * 服务 = `_rmsredir` 
+  * 协议 = `_http` 
+  * 名称 = `_tcp` 
+  * 目标 = `[GUID].rms.aadrm.us`（其中，GUID 是 Rights Management 服务 ID） 
+  * 端口 = `80` 
+  * 优先级、权重、秒、TTL = 默认值 
+* 在 [Azure 门户](https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Domains)中，将自定义域与租户相关联。 这会在 DNS 中添加一个条目，在 DNS 设置中添加的值可能需要几分钟的时间才能得到验证。  
+* 使用相应的全局管理员凭据登录 Office 管理中心，并添加域（例如：contoso.us）以用于创建用户。 在验证过程中，可能需要执行其他一些 DNS 更改。 验证完成后，即可创建用户。
+
+### <a name="aip-apps-configuration"></a>AIP 应用配置
+Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 GCC 高级版的正确服务实例。  
+
+| 注册表项 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP\WebServiceUrl |
+| --- | --- |
+| 值 | https://api.informationprotection.azure.us |
+| 类型 | 字符串 |
