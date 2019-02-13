@@ -3,7 +3,7 @@ title: 针对用户错误保护数据 | Microsoft Docs
 description: 此方案介绍如何使用企业移动性 + 安全性，通过利用 Cloud App Security 和 Azure 信息保护功能，针对用户错误保护企业数据并防止数据丢失。
 author: yuridio
 ms.author: yurid
-manager: mbaldwin
+manager: barbkess
 ms.date: 09/18/2018
 ms.topic: conceptual
 ms.prod: ''
@@ -12,12 +12,12 @@ ms.assetid: 0af3894c-7b0e-4c0c-8874-31e041d81300
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: information-protection
-ms.openlocfilehash: 5b1e5d113546da0df64e7777c0031543a7096a72
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 13226496cb31c88a600551acc5295bc111e79d35
+ms.sourcegitcommit: cf934b76e62ec78eca48b50e7ea00ee614c0b05e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196689"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "56079503"
 ---
 # <a name="protect-data-against-user-mistakes"></a>针对用户错误保护数据
 

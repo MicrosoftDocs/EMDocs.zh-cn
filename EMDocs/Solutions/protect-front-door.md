@@ -3,7 +3,7 @@ title: 第一道防线 | Microsoft Docs
 description: 此方案描述如何使用企业移动性 + 安全性来保护标识，通过采用 Microsoft Azure Active Directory Identity Protection 和 Azure Active Directory Privileged Identity Management 功能安全访问公司资源。
 author: yuridio
 ms.author: yurid
-manager: mbaldwin
+manager: barbkess
 ms.date: 05/18/2017
 ms.topic: solution
 ms.prod: ''
@@ -12,12 +12,12 @@ ms.assetid: c9aeabcf-db9b-4a35-b1bc-61331c464165
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: microsoft-identity-manager
-ms.openlocfilehash: f3092623cb8cd7fbfbb525a79ac91c6d93f80ecb
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: e4b24161c3a9a9429981f5b787ebd3e7cf59827d
+ms.sourcegitcommit: cf934b76e62ec78eca48b50e7ea00ee614c0b05e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196893"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "56079554"
 ---
 # <a name="protect-at-the-front-door"></a>第一道防线
 
