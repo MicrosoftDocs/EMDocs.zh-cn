@@ -1,6 +1,5 @@
 {
   "build": {
-    "markdownEngineName": "markdig",
     "content": [
       {
         "files": [
@@ -14,16 +13,16 @@
       }
     ],
     "resource": [
-        {
-          "files": [
-          "**/images/**", 
+      {
+        "files": [
+          "**/images/**",
           "**/*.png",
           "**/*.jpg",
           "**/*.gif",
           "**/*.bmp",
           "**/*.html",
           "**/*.css"
-          ],
+        ],
         "exclude": [
           "**/obj/**",
           "_themes/**"
@@ -34,13 +33,14 @@
     "template": "docs.html",
     "globalMetadata": {
       "layout": "Conceptual",
-      "breadcrumb_path": "/enterprise-mobility/toc.json"
+      "breadcrumb_path": "/enterprise-mobility/toc.json",
     }
-  },
-  "render": {
-    "theme": "hyde",
-    "dest": "_output"
-  },
-  "basepath": "/EM/Solutions"
+    },
+    "fileMetadata": {
+      "feedback_system": {
+        "*": "None"
+      }
+    },
+    "markdownEngineName": "markdig"
+  }
 }
-
