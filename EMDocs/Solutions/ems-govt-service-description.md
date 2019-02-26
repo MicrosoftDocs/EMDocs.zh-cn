@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: ems
 ms.suite: ems
-ms.openlocfilehash: a216d866b9b2c92e1a194f2b98c54c749711c8c9
-ms.sourcegitcommit: 69d31ae137b60683cd2f92aef59e049d65bebc4a
+ms.openlocfilehash: 57fceef01987de33f2317d74bc8fd4687cb2714c
+ms.sourcegitcommit: bade8894ef2bb0405a88cd90654bbf5f17390bce
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "55986648"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "56458716"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明 
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于 EMS 计划的功能。  
@@ -42,6 +42,11 @@ EMS 商业产品/服务可与 Office 365 GCC 完全互操作。  Azure Active Di
 ## <a name="ems-for-gcc-high"></a>EMS for GCC 高级版
 
 EMS for GCC 高级版产品/服务基于 Microsoft Azure 政府云而构建，旨在与 Office 365 GCC 高级版产品/服务互操作。 Azure Active Directory P1/P2、Intune 和 Azure 信息保护 P1/P2 是此产品/服务经认证的 FedRAMP（高级）。 （我们的目标是在 2019 日历年将 Microsoft Cloud App Security 和 Azure 高级威胁防护添加到此产品/服务中，等待 FedRAMP（高级）授权。）
+
+GCC 高级版客户可根据不同的要求和管理需求使用 Intune 的一组独立终结点。  下面是 EMS 客户可使用的管理门户列表：
+* Office 365 门户：[https://portal.office365.us](https://portal.office365.us)（用于管理用户、组和许可证）
+* Azure/Intune 管理门户：[https://portal.azure.us](https://portal.azure.us)
+* Intune Web 公司门户：[https://portal.manage.microsoft.us](https://portal.manage.microsoft.us)
 
 使用 EMS for GCC 高级版的组织获益于以下独特功能：
 * 组织的内容与 Microsoft 商业 EMS 服务中的内容物理隔离。
