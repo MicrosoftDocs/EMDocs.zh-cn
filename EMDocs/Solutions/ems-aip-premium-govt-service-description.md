@@ -5,16 +5,16 @@ keywords: ''
 author: dougeby
 ms.author: dougeby
 manager: dougeby
-ms.date: 09/19/2018
+ms.date: 02/28/2019
 ms.topic: article
 ms.prod: ''
 ms.service: ems
-ms.openlocfilehash: c1bf752038b28c14c4289ab0c7767e11e088485c
-ms.sourcegitcommit: d681b14a4d9d24ba26ba3191bca0f46b039f9395
+ms.openlocfilehash: abb8a30c2525d0e3dbc286bfea5a0f34b3128cb8
+ms.sourcegitcommit: 6ecb4377abffda45ecfaf567c471fd2682de1050
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "54153293"
+ms.lasthandoff: 02/28/2019
+ms.locfileid: "57012542"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
@@ -100,7 +100,8 @@ Office 客户端应用必须连接到 GCC 高级版服务实例并从中启动�
 ### <a name="aip-apps-configuration"></a>AIP 应用配置
 Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 GCC 高级版的正确服务实例。  
 
-| 注册表项 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP\WebServiceUrl |
+| 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
+| 名称 | WebServiceUrl |
 | 值 | https://api.informationprotection.azure.us |
-| 类型 | 字符串 |
+| 键入 | REG_SZ (String) |
