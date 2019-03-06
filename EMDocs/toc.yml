@@ -31,6 +31,9 @@ items:
       - name: 教育的 Intune
         tocHref: /intune-education/
         topicHref: /intune-education
+      - name: Intune 用户帮助
+        tocHref: /intune-user-help/
+        topicHref: /intune-user-help
     - name: Intune - 经典控制台
       tocHref: /intune-classic/
       topicHref: /intune-classic
@@ -104,9 +107,9 @@ items:
         - name: 参考
           tocHref: /sccm/develop/reference
           topicHref: /sccm/develop/reference/configuration-manager-reference
-ms.openlocfilehash: a13c520cdb64eac74c1d978dfb757c59d2ba08ef
-ms.sourcegitcommit: f2caca0c28bd0215f96930e6d61fb97e9fdbc0c0
+ms.openlocfilehash: 5c0f1ded4b285bc0acbe86e4477c0f47ee26ba10
+ms.sourcegitcommit: 62744693d1cdf49abc5c3ca0449971758eb0c6d1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "54316978"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57387122"
