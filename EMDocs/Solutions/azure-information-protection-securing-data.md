@@ -2,21 +2,19 @@
 title: Azure 信息保护在保护数据方面的角色 | Microsoft Docs
 description: 本文介绍 Azure 信息保护在保持组织数据安全中的角色。
 author: yuridio
-ms.author: yurid
+ms.author: msmbaldwin
 manager: barbkess
-ms.date: 05/18/2017
+ms.date: 04/16/2019
 ms.topic: solution
-ms.prod: ''
 ms.service: rights-management
-ms.assetid: 2f906e2e-3d99-40e6-b5cc-8d903fcda444
 ms.reviewer: v-craic
 ms.suite: ems
-ms.openlocfilehash: 6ecceaf3da70adedb84c585ca38f6377d1d01351
-ms.sourcegitcommit: cf934b76e62ec78eca48b50e7ea00ee614c0b05e
+ms.openlocfilehash: 043352fdbce949abf55b8baa95b8e8a563865c54
+ms.sourcegitcommit: 70b34d1d4b375bebe9da1687736f2d39d0d07299
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "56079571"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59644553"
 ---
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 
@@ -103,6 +101,8 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 - 使用支持 [Microsoft 标识中转站](https://technet.microsoft.com/library/ms166045(v=sql.105).aspx)的应用程序进行身份验证和 [SSO](https://azure.microsoft.com/resources/videos/overview-of-single-sign-on/)
 
 这种情况中的关键点是，保护客户端计算机和应用程序构成信任的重要部分，而信任对于 Azure 信息保护起巩固作用。
+
+由于 Azure 信息保护的设计目的不包括防御已获得内容访问权限的用户的恶意滥用，因此不能将其用于保护内容免受上述用户的恶意修改。 虽然事实上对内容的任何类型修改需要用户首先已获得对受保护数据的访问权限，且与文档相关的政策和权限本身已恰当签名并防篡改，但是一旦用户被授予对所需加密/解密密钥的访问权限，则应将用户视为在技术上可以对数据进行解密、修改和重新加密。 有许多解决方案可以向 Office 文档提供文档签名、作者身份证明、防篡改和不可否认性，无论是在 Microsoft 产品（如 Office 文档签名支持、Outlook 中的 s/MIME 支持），还是通过第三方。 不应仅依赖 AIP 的保护功能来防御授权用户的恶意修改。 
 
 ## <a name="summary"></a>“摘要”
 
