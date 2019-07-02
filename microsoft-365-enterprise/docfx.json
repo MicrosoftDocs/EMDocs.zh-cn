@@ -33,7 +33,8 @@
     "template": "docs.html",
     "globalMetadata": {
       "layout": "Conceptual",
-      "breadcrumb_path": "/microsoft-365-enterprise/bread/toc.json"
+      "breadcrumb_path": "/microsoft-365-enterprise/bread/toc.json",
+      "disable_contribution_on_translation_quality": ["MT"]
     }
   }
 }
