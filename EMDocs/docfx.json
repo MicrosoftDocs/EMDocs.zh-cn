@@ -36,7 +36,8 @@
     "globalMetadata": {
       "layout": "Conceptual",
       "breadcrumb_path": "/enterprise-mobility-security/toc.json",
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "disable_contribution_on_translation_quality": ["MT"]
     },
     "markdownEngineName": "markdig"
   }
