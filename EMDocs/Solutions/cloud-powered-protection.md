@@ -6,19 +6,19 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 10/24/2016
-ms.topic: solution
+ms.topic: conceptual
 ms.prod: ''
 ms.service: active-directory
 ms.assetid: 46654ab0-0d0a-47ad-8715-b149a1092a37
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 463a1dfd075e2ec40295d318b34a56824b7ea643
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 91234f0b3c3323cafafe29481db88cd2a2884a5b
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196519"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937404"
 ---
 # <a name="cloud-powered-protection"></a>由云支持的保护
 Microsoft 保护基于云的标识已超过十年，借助 Azure Active directory，Microsoft 向企业客户提供相同的保护系统，以确保用户和管理员能通过更高的安全性和更好的管理履行各自的职责。

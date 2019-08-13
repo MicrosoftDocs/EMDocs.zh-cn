@@ -6,19 +6,19 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 12/07/2016
-ms.topic: solution
+ms.topic: conceptual
 ms.prod: ''
 ms.service: active-directory
 ms.assetid: 38e9802b-d8c0-4f5c-b89d-8ce1e04f7387
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 0f2cc13a746a69eccccc1be3de8dd6f4998ab7c7
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: b1d2689c366872b9f9c559ae12e7cd4de032bb6d
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196485"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937433"
 ---
 # <a name="enable-business-without-borders"></a>实现商业无国界
 标识并非可有可无 - 它是员工实现高效工作的核心。 组织需使其员工能通过任何设备随时随地访问所有数据和应用程序。 用户需要相互合作，与合作伙伴合作，并与客户沟通。 他们使用的工具不再驻留于受保护和受控制的环境中，而是可在任何公共云中找到。

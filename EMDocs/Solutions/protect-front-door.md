@@ -5,19 +5,19 @@ author: yuridio
 ms.author: yurid
 manager: barbkess
 ms.date: 05/18/2017
-ms.topic: solution
+ms.topic: conceptual
 ms.prod: ''
 ms.service: active-directory
 ms.assetid: c9aeabcf-db9b-4a35-b1bc-61331c464165
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: microsoft-identity-manager
-ms.openlocfilehash: e4b24161c3a9a9429981f5b787ebd3e7cf59827d
-ms.sourcegitcommit: cf934b76e62ec78eca48b50e7ea00ee614c0b05e
+ms.openlocfilehash: a7248c16f450dd204921bf297c69eef4af6bb335
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "56079554"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937333"
 ---
 # <a name="protect-at-the-front-door"></a>第一道防线
 

@@ -2,19 +2,19 @@
 title: Azure 信息保护在保护数据方面的角色 | Microsoft Docs
 description: 本文介绍 Azure 信息保护在保持组织数据安全中的角色。
 author: yuridio
-ms.author: msmbaldwin
+ms.author: mbaldwin
 manager: barbkess
 ms.date: 04/16/2019
-ms.topic: solution
+ms.topic: conceptual
 ms.service: rights-management
 ms.reviewer: v-craic
 ms.suite: ems
-ms.openlocfilehash: 043352fdbce949abf55b8baa95b8e8a563865c54
-ms.sourcegitcommit: 70b34d1d4b375bebe9da1687736f2d39d0d07299
+ms.openlocfilehash: 7fd4ab09de4cf050b9300a9dd340b33338a4d8d2
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "59644553"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937381"
 ---
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 
@@ -111,5 +111,5 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 - **Azure 信息保护**：防止对内容进行未经授权的访问
 - **Microsoft Intune、System Center Configuration Manager 和其他设备管理产品**：使托管的和受控的环境中不存在恶意应用
 - **Windows AppLocker**：使托管的和受控的环境中不存在恶意应用
-- **Azure AD Identity Protection**：增强用户标识中的信任度
+- **Azure AD 标识保护**：增强用户标识中的信任度
 - **EMS 条件性访问**：增强设备和标识中的信任度

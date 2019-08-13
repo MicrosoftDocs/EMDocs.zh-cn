@@ -6,19 +6,19 @@ author: arob98
 ms.author: mtillman
 manager: mtillman
 ms.date: 12/21/2017
-ms.topic: get-started-article
+ms.topic: conceptual
 ms.prod: ''
 ms.service: active-directory
 ms.assetid: 112289b0-0336-4cc0-b471-42fc2c015c64
 ms.reviewer: ''
 ms.suite: ''
 ms.custom: ''
-ms.openlocfilehash: 92e0ff1f9dade4ca290eb6deb3047427e8715934
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 84605b5da126c776a0ccaff088817d83254b164f
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196638"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937378"
 ---
 # <a name="azure-active-directory-premium-government-service-description"></a>Azure Active Directory Premium 政府服务说明
 

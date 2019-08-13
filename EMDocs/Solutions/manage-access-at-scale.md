@@ -6,19 +6,19 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 12/07/2016
-ms.topic: solution
+ms.topic: conceptual
 ms.prod: ''
 ms.service: active-directory
 ms.assetid: 0292919a-af10-4a25-8916-c704aed643f6
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 01bf229d48e3c9b1ba13a6dd69e028f765529cf5
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 71ca78aa4e69cca5030672d02e373a34907d5605
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196604"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937490"
 ---
 # <a name="manage-access-at-scale"></a>大规模管理访问权限
 Microsoft 自成立以来一直在为各大组织提供支持。 Microsoft 不仅提供标识以便随时随地进行访问，还提供一组工具以便在组织内对 IT 资源进行自动化、保护和管理。 即使在云计算问世后，仍需要管理和控制 IT 任务，如呼叫支持人员以重置用户密码、管理用户组和应用程序请求。
@@ -113,7 +113,7 @@ Azure AD Connect Health 可帮助组织监视和深入了解本地标识基础�
 
 ![显示按站点分组的域控制器的屏幕截图](./media/manage-access-at-scale/manage-access-at-scale-fig5.png)
 
-“复制状态”仪表板显示复制拓扑在环境中的外观，以及每个命名环境上次复制尝试的相关信息。
+“复制状态”  仪表板显示复制拓扑在环境中的外观，以及每个命名环境上次复制尝试的相关信息。
 
 ![显示含上次复制尝试相关信息的“复制状态”仪表板的屏幕截图](./media/manage-access-at-scale/manage-access-at-scale-fig6.png)
 
