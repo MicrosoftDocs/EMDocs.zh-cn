@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: ems
 ms.suite: ems
-ms.openlocfilehash: 57fceef01987de33f2317d74bc8fd4687cb2714c
-ms.sourcegitcommit: bade8894ef2bb0405a88cd90654bbf5f17390bce
+ms.openlocfilehash: 43e2c8a925a42f2ff39802989dcca6fe231ea168
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "56458716"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937358"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明 
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于 EMS 计划的功能。  
@@ -75,7 +75,7 @@ EMS 政府产品/服务可供以下客户使用：(1) 美国联邦、州、地�
 
   - 不支持本地 Exchange 连接器。
 
-  - 目前不提供共同管理支持，但政府客户将可以在以后使用此功能。
+  - Configuration Manager 1906 及更高版本支持共同管理。
 
   - 虽然计划正在进行中，但目前政府客户无法使用 Windows Autopilo 和适用于企业的 Store 功能。
 

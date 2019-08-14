@@ -6,19 +6,19 @@ author: andredm7
 ms.author: andredm
 manager: swadhwa
 ms.date: 12/07/2016
-ms.topic: solution
+ms.topic: conceptual
 ms.prod: ''
 ms.service: active-directory
 ms.assetid: dd879a14-919e-431b-89b9-c035c83a6899
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: d702935274f7a798018a61188a90b2186d6af831
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: d5ed6221666d7b5d5dd12a2a74becb6bf6b203d0
+ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196655"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "68937459"
 ---
 # <a name="thousands-of-apps-one-identity"></a>数千个应用，一个标识
 通过为可访问云和本地资源的服务型软件 (SaaS) 应用程序的用户提供通用标识，Azure Active Directory (Azure AD) 使用户的工作效率更高。
