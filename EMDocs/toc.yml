@@ -1,115 +1,111 @@
-items:
 - name: Docs
   tocHref: /
   topicHref: /
   items:
-  - name: 企业移动性 + 安全性
-    tocHref: /enterprise-mobility-security/
-    topicHref: /enterprise-mobility-security
-    items:
-    - name: 解决方案
-      tocHref: /enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program/
-      topicHref: /enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program
-    - name: Azure Active Directory
-      tocHref: /azure/active-directory/
-      topicHref: /azure/active-directory
+    - name: 企业移动性 + 安全性
+      tocHref: /enterprise-mobility-security/
+      topicHref: /enterprise-mobility-security
       items:
-      - name: AD Graph API
-        tocHref: /azure-ad-graph-api/api/
-        topicHref: /azure-ad-graph-api/api/api-catalog
-    - name: Microsoft 365 企业
-      tocHref: /microsoft-365-enterprise/
-      topicHref: /microsoft-365-enterprise
-      items:
-      - name: Microsoft 365 企业
-        tocHref: /microsoft-365-enterprise/
-        topicHref: /microsoft-365-enterprise
-    - name: Intune
-      tocHref: /intune/
-      topicHref: /intune
-      items:
-      - name: 教育的 Intune
-        tocHref: /intune-education/
-        topicHref: /intune-education
-      - name: Intune 用户帮助
-        tocHref: /intune-user-help/
-        topicHref: /intune-user-help
-    - name: Intune - 经典控制台
-      tocHref: /intune-classic/
-      topicHref: /intune-classic
-      items:
-      - name: 了解和浏览
-        tocHref: /intune-classic/understand-explore/
-        topicHref: /intune-classic/understand-explore/introduction-to-microsoft-intune
-      - name: 规划和设计
-        tocHref: /intune-classic/plan-design/
-        topicHref: /intune-classic/plan-design/introduction
-      - name: 部署和使用
-        tocHref: /intune-classic/deploy-use/
-        topicHref: /intune-classic/deploy-use/overview-of-device-and-app-lifecycles-in-microsoft-intune
-      - name: 故障排除
-        tocHref: /intune-classic/troubleshoot/
-        topicHref: /intune-classic/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
-      - name: 开始使用
-        tocHref: /intune-classic/get-started/
-        topicHref: /intune-classic/get-started/get-started
-      - name: 开发和自定义应用
-        tocHref: /intune-classic/develop/
-        topicHref: /intune-classic/develop/intune-app-sdk
-      - name: 新功能
-        tocHref: /intune-classic/whats-new/
-        topicHref: /intune-classic/whats-new/whats-new-in-microsoft-intune
-    - name: Microsoft Identity Manager
-      tocHref: /microsoft-identity-manager/
-      topicHref: /microsoft-identity-manager
-      items:
-      - name: 参考
-        tocHref: /microsoft-identity-manager/reference/
-        topicHref: /microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference
-      - name: PAM
-        tocHref: /microsoft-identity-manager/pam/
-        topicHref: https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services
-    - name: 配置管理器
-      tocHref: /sccm/
-      topicHref: /sccm
-      items:
-      - name: 核心基础结构
-        tocHref: /sccm/core/
-        topicHref: /sccm/core/understand/introduction
-      - name: 应用程序管理
-        tocHref: /sccm/apps/
-        topicHref: /sccm/apps/understand/introduction-to-application-management
-      - name: 设备符合性
-        tocHref: /sccm/compliance/
-        topicHref: /sccm/compliance/understand/ensure-device-compliance
-      - name: 移动设备管理
-        tocHref: /sccm/mdm/
-        topicHref: /sccm/mdm/understand/hybrid-mobile-device-management
-      - name: Microsoft Deployment Toolkit
-        tocHref: /sccm/mdt/
-        topicHref: /sccm/mdt/
-      - name: 操作系统部署
-        tocHref: /sccm/osd/
-        topicHref: /sccm/osd/understand/introduction-to-operating-system-deployment
-      - name: 保护数据和基础结构
-        tocHref: /sccm/protect/
-        topicHref: /sccm/protect/understand/protect-data-and-site-infrastructure
-      - name: 软件更新管理
-        tocHref: /sccm/sum/
-        topicHref: /sccm/sum/understand/software-updates-introduction
-      - name: 共同管理
-        tocHref: /sccm/comanage/
-        topicHref: /sccm/comanage/overview
-      - name: 开发
-        tocHref: /sccm/develop/
-        topicHref: /sccm/develop/core/misc/system-center-configuration-manager-sdk
-        items:
-        - name: 参考
-          tocHref: /sccm/develop/reference
-          topicHref: /sccm/develop/reference/configuration-manager-reference
-ms.openlocfilehash: 5c0f1ded4b285bc0acbe86e4477c0f47ee26ba10
-ms.sourcegitcommit: 62744693d1cdf49abc5c3ca0449971758eb0c6d1
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57387122"
+        - name: 解决方案
+          tocHref: /enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program/
+          topicHref: /enterprise-mobility-security/solutions/enterprise-mobility-fasttrack-program
+        - name: Azure Active Directory
+          tocHref: /azure/active-directory/
+          topicHref: /azure/active-directory
+          items:
+            - name: AD Graph API
+              tocHref: /azure-ad-graph-api/api/
+              topicHref: /azure-ad-graph-api/api/api-catalog
+        - name: Microsoft 365 企业
+          tocHref: /microsoft-365-enterprise/
+          topicHref: /microsoft-365-enterprise
+          items:
+            - name: Microsoft 365 企业
+              tocHref: /microsoft-365-enterprise/
+              topicHref: /microsoft-365-enterprise
+        - name: Intune
+          tocHref: /intune/
+          topicHref: /intune
+          items:
+            - name: 教育的 Intune
+              tocHref: /intune-education/
+              topicHref: /intune-education
+            - name: Intune 用户帮助
+              tocHref: /intune-user-help/
+              topicHref: /intune-user-help
+        - name: Intune - 经典控制台
+          tocHref: /intune-classic/
+          topicHref: /intune-classic
+          items:
+            - name: 了解和浏览
+              tocHref: /intune-classic/understand-explore/
+              topicHref: /intune-classic/understand-explore/introduction-to-microsoft-intune
+            - name: 规划和设计
+              tocHref: /intune-classic/plan-design/
+              topicHref: /intune-classic/plan-design/introduction
+            - name: 部署和使用
+              tocHref: /intune-classic/deploy-use/
+              topicHref: /intune-classic/deploy-use/overview-of-device-and-app-lifecycles-in-microsoft-intune
+            - name: 故障排除
+              tocHref: /intune-classic/troubleshoot/
+              topicHref: /intune-classic/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
+            - name: 开始使用
+              tocHref: /intune-classic/get-started/
+              topicHref: /intune-classic/get-started/get-started
+            - name: 开发和自定义应用
+              tocHref: /intune-classic/develop/
+              topicHref: /intune-classic/develop/intune-app-sdk
+            - name: 新功能
+              tocHref: /intune-classic/whats-new/
+              topicHref: /intune-classic/whats-new/whats-new-in-microsoft-intune
+        - name: Microsoft 标识管理器
+          tocHref: /microsoft-identity-manager/
+          topicHref: /microsoft-identity-manager
+          items:
+            - name: 参考
+              tocHref: /microsoft-identity-manager/reference/
+              topicHref: /microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference
+            - name: PAM
+              tocHref: /microsoft-identity-manager/pam/
+              topicHref: 'https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services'
+        - name: 配置管理器
+          tocHref: /sccm/
+          topicHref: /sccm
+          items:
+            - name: 核心基础结构
+              tocHref: /sccm/core/
+              topicHref: /sccm/core/understand/introduction
+            - name: 应用程序管理
+              tocHref: /sccm/apps/
+              topicHref: /sccm/apps/understand/introduction-to-application-management
+            - name: 设备符合性
+              tocHref: /sccm/compliance/
+              topicHref: /sccm/compliance/understand/ensure-device-compliance
+            - name: 移动设备管理
+              tocHref: /sccm/mdm/
+              topicHref: /sccm/mdm/understand/hybrid-mobile-device-management
+            - name: Microsoft Deployment Toolkit
+              tocHref: /sccm/mdt/
+              topicHref: /sccm/mdt/
+            - name: OS 部署
+              tocHref: /sccm/osd/
+              topicHref: /sccm/osd/understand/introduction-to-operating-system-deployment
+            - name: 保护数据和基础结构
+              tocHref: /sccm/protect/
+              topicHref: /sccm/protect/understand/protect-data-and-site-infrastructure
+            - name: 软件更新管理
+              tocHref: /sccm/sum/
+              topicHref: /sccm/sum/understand/software-updates-introduction
+            - name: 共同管理
+              tocHref: /sccm/comanage/
+              topicHref: /sccm/comanage/overview
+            - name: 桌面分析
+              tocHref: /sccm/desktop-analytics/
+              topicHref: /sccm/desktop-analytics/overview
+            - name: 开发
+              tocHref: /sccm/develop/
+              topicHref: /sccm/develop/core/misc/system-center-configuration-manager-sdk
+              items:
+                - name: 参考
+                  tocHref: /sccm/develop/reference
+                  topicHref: /sccm/develop/reference/configuration-manager-reference
