@@ -5,17 +5,17 @@ keywords: ''
 author: dougeby
 ms.author: dougeby
 manager: dougeby
-ms.date: 01/07/2019
+ms.date: 08/22/2019
 ms.topic: article
 ms.prod: ''
 ms.service: ems
 ms.suite: ems
-ms.openlocfilehash: 43e2c8a925a42f2ff39802989dcca6fe231ea168
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.openlocfilehash: f6d8e2fd7056810740bdc4aeaa8c5520efe1d468
+ms.sourcegitcommit: b433abeb9e3c1982aeb4b2d8835ecd9cbebe2b4b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "68937358"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "69979428"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明 
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于 EMS 计划的功能。  
@@ -81,7 +81,7 @@ EMS 政府产品/服务可供以下客户使用：(1) 美国联邦、州、地�
 
   - 政府客户无法使用某些 Office 365 移动应用。  可以在 [Microsoft 365 路线图](https://www.microsoft.com/microsoft-365/roadmap)上找到相关详细信息。
 
-  - 目前政府客户无法使用 Lookout 移动威胁检测和电信费用管理合作伙伴解决方案。
+  - 政府客户暂无法使用移动威胁检测和电信费用管理合作伙伴解决方案。
 
 - Azure 信息保护：
 
