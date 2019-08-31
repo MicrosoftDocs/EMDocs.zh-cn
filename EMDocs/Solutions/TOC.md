@@ -2,7 +2,6 @@
 ## 服务描述
 ### [针对美国政府的企业移动性 + 安全性服务描述](ems-govt-service-description.md)
 ### [Azure 信息保护高级版政府服务说明](ems-aip-premium-govt-service-description.md)
-### [Azure Active Directory Premium 政府服务说明](azure-ad-premium-govt-service-description.md)
 ## [标识和访问管理]()
 ### [数千个应用，一个标识](thousands-apps-one-identity.md)
 ### [实现商业无国界](enable-business-without-borders.md)
