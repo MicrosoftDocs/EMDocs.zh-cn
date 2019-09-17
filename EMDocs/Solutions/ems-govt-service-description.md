@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: 0c77f6d7cb05b212bc98bffaf629895e58469d62
-ms.sourcegitcommit: ead1cc286c73a414332fc5faf7221e6fe390a48f
+ms.openlocfilehash: f933eedb9c8bd5eca8f384b1b5801b774311f99f
+ms.sourcegitcommit: 23d04d4ce0acb51b86b7702b9f0c3bb6b55b0043
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "70169506"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70936058"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
@@ -53,7 +53,7 @@ GCC 高级版客户可根据不同的要求和管理需求使用 Intune 的一�
   - 仅支持独立部署。 它不支持使用 System Center Configuration Manager (SCCM) 进行混合设置。
   - 不支持旧版 PC 管理（使用 Intune 软件代理）。 通过现代 MDM 渠道支持 Windows 10 的管理。
   - 不支持本地 Exchange 连接器。
-  - 目前尚不支持共同管理。
+  - Configuration Manager 1906 及更高版本支持共同管理。
   - 目前政府客户无法使用 Windows Autopilo 和适用于企业的 Store 功能。
 - Azure 信息保护：
   - 有关 Azure 政府中当前不可用功能的列表，请访问 Azure 政府文档站点内的 [Azure 信息保护高级版页面](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)。
