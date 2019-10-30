@@ -12,7 +12,7 @@ ms.service: microsoft-intune
 ms.suite: ems
 ms.openlocfilehash: f933eedb9c8bd5eca8f384b1b5801b774311f99f
 ms.sourcegitcommit: 23d04d4ce0acb51b86b7702b9f0c3bb6b55b0043
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/12/2019
 ms.locfileid: "70936058"
@@ -21,7 +21,7 @@ ms.locfileid: "70936058"
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明
-适用于美国政府的 EMS 服务说明旨在概述我们提供的适用产品/服务，包含以下内容：(1) 不同产品/服务中包含的服务和功能；(2) 适用于美国政府的产品/服务与商业产品/服务的区别；(3) 我们当前的合规性授权。
+"美国政府服务说明" 的 EMS 设计用于概述我们适用的产品/服务，并将介绍：（1）哪些服务和功能包含在不同的产品/服务中产品/服务和（3）我们当前的符合性授权。
 
 ## <a name="ems-offers-for-us-government-and-office-365-interoperability"></a>适用于美国政府的 EMS 产品/服务与 Office 365 互操作性
 

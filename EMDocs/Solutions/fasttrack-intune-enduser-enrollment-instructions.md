@@ -14,7 +14,7 @@ ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 2b9f32d79ab00c55962df67cab9bc2bad9549c44
 ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/06/2018
 ms.locfileid: "51196808"
@@ -26,7 +26,7 @@ ms.locfileid: "51196808"
 除了这些书面说明外，还可以添加 [https://channel9.msdn.com/Series/IntuneEnrollment](https://channel9.msdn.com/Series/IntuneEnrollment) 中任何 Intune 最终用户视频的超链接。
 
 > [!NOTE]
-> Microsoft、Intune 和 Office 365 是 Microsoft Corporation 的注册商标。 iPhone、Mac 和 Apple 是 Apple Inc. 的商标Android 是 Google Inc. 的商标Samsung KNOX 是 Samsung Electronics Co., Ltd. 的商标
+> Microsoft、Intune 和 Office 365 是 Microsoft Corporation 的注册商标。 iPhone、Mac 和 Apple 是 Apple，Inc. 的商标是 Google Inc. 的商标。 Samsung KNOX 是 Samsung 电子设备有限公司的商标。
 
 ## <a name="why-enroll-in-intune"></a>在 Intune 中注册的原因
 注册后，可使用移动设备访问工作或学校文件和数据。 还可让 IT 部门来管理这些工作或学校资源并保护其安全，同时使你可以自由地使用首选设备来完成工作。

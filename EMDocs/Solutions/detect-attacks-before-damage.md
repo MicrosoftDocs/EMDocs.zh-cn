@@ -14,7 +14,7 @@ ms.suite: ems
 ms.custom: advanced-threat-analytics, cloud-app-security
 ms.openlocfilehash: c3bac8e76e473030e4c10f7a9d9bc4a87ae78fe8
 ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/10/2019
 ms.locfileid: "68937477"
@@ -59,7 +59,7 @@ IT 人员必须要考虑如何正确保护本地或云中的标识、数据、�
 按下列步骤，实施[高级威胁分析](https://docs.microsoft.com/advanced-threat-analytics/)和 [Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)：
 
 - 步骤 1：使用高级威胁分析 (ATA) 检测本地可疑活动
-- 步骤 2：使用 Cloud App Security 检测云应用的威胁和违反合规性的情况  
+- 步骤 2：使用 Cloud App Security 针对云应用检测威胁和违规行为及情况  
 
 ### <a name="step-1-using-ata-to-detect-suspicious-activity"></a>步骤 1：使用 ATA 检测可疑活动
 没完没了的传统安全工具报告和筛选报告以确定重要的相关警报会极大降低成效。 ATA 提供易于使用、可轻松向下钻取、类似于社交媒体源的报表，可帮助 IT 人员快速定位重要内容。 将这些数量巨大的数据以时间线的形式呈现，为你提供强大的客观判断力和洞见：谁访问了什么内容、访问的时间以及访问数据的方式。
@@ -73,7 +73,7 @@ IT 人员必须要考虑如何正确保护本地或云中的标识、数据、�
 ATA 同时在其用于确定和用于检测的引擎中使用机器学习，以了解用户和实体的常规行为模式，正是这种独特的功能让我们能够跨各种不同的攻击媒介提供及时准确的警报。
 
 
-### <a name="step-2-using-cloud-app-security-to-detect-threats-and-policy-violations-for-cloud-apps"></a>步骤 2：使用 Cloud App Security 检测云应用的威胁和违反策略的情况
+### <a name="step-2-using-cloud-app-security-to-detect-threats-and-policy-violations-for-cloud-apps"></a>步骤 2：使用 Cloud App Security 针对云应用检测威胁和违规行为及情况
 
 越来越多的组织开始采用 SaaS 应用，不仅是为了降低成本，也为了获得竞争优势，如加速投放市场和更好的协作。 即使公司不使用云应用程序，其员工却很可能在使用。 据研究，超过 80% 的雇员承认在工作中使用未经批准的 SaaS 应用。
 

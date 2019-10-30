@@ -14,7 +14,7 @@ ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 29aaab0743bbc42ec3a6297e5c8174dbdc977fe7
 ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/06/2018
 ms.locfileid: "51196502"
@@ -31,7 +31,7 @@ ms.locfileid: "51196502"
    > [!NOTE]
    > 在个人设备上，最终用户通常要下载应用。 如果设备由 MDM 解决方案托管，则你可将应用部署到该设备。
 
-2. 键入你的工作帐户用户名。 你将会重定向到“O365 身份验证”  页，以便输入工作凭据。
+2. 键入你的工作帐户用户名。 你将会重定向到“O365 身份验证” 页，以便输入工作凭据。
 
    ![显示 iOS 用户在 Office 365 登录页上输入凭据的屏幕截图。](./media/ft-useMngdApps-2-enterName.png)
 3. 凭据成功通过 Azure AD 进行的身份验证后，将应用 MAM 策略，并将要求你重启 **OneDrive for Business** 应用。
@@ -40,7 +40,7 @@ ms.locfileid: "51196502"
    > [!NOTE]
    > “需要重启”对话框仅在未注册 Intune 的设备上显示。
 
-4. 重新启动 **OneDrive for Business** 应用。 该应用将启动，并会开启 MAM 策略。 现在将提示你为该应用设置“PIN”  。 （如果你为此配置了该策略）。
+4. 重新启动 **OneDrive for Business** 应用。 该应用将启动，并会开启 MAM 策略。 现在将提示你为该应用设置“PIN” 。 （如果你为此配置了该策略）。
 
    ![系统提示 iOS 用户设置应用的 PIN 的屏幕截图。](./media/ft-useMngdApps-4-enterPIN.png)
 5. 设置 PIN 并确认后，即可访问 **OneDrive for Business** 上的文件。
@@ -63,7 +63,7 @@ ms.locfileid: "51196502"
    > [!NOTE]
    > Android 设备上与 MAM 策略关联的所有应用都需要公司门户应用。 对于未在 Intune 中注册的设备，应用必须安装在设备上，而无需启动或登录应用。
 
-4. 你现将位于“Google Play”  应用商店，可在其中下载和安装“公司门户”  应用。
+4. 你现将位于“Google Play” 应用商店，可在其中下载和安装“公司门户” 应用。
 
    ![系统提示 Android 用户转到 Google Play 应用商店获取 Intune 公司门户的屏幕截图。](./media/ft-useMngdApps-7-installPortal.png)
 

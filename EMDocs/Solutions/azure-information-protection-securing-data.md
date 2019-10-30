@@ -11,7 +11,7 @@ ms.reviewer: v-craic
 ms.suite: ems
 ms.openlocfilehash: 7fd4ab09de4cf050b9300a9dd340b33338a4d8d2
 ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/10/2019
 ms.locfileid: "68937381"
@@ -31,7 +31,7 @@ ms.locfileid: "68937381"
 这些功能使企业能够对其数据进行更好的端到端控制。 就此而论，Azure 信息保护在保护公司数据中扮演很重要的角色。
 
 > [!IMPORTANT]
-> 若要详细了解 Azure 信息保护的工作原理，请参阅 [Azure RMS 的工作原理揭秘](/azure/information-protection/how-does-it-work)。
+> 有关 Azure 信息保护工作方式的详细信息，请阅读[Azure RMS 如何工作？。](/azure/information-protection/how-does-it-work)
 
 ## <a name="the-state-of-enterprise-protection-today"></a>当今企业保护的状态
 
@@ -62,13 +62,13 @@ IT 管理员在组织内使用 Azure 信息保护时，对客户端设备和用�
 
 ### <a name="attacks-by-unauthorized-users"></a>未经授权用户的攻击
 
-Azure 信息保护中保护的基础是 - 对受保护内容的访问基于已通过身份验证的标识和授权。 这意味着使用 Azure 信息保护，  无身份验证或  授权表示  不能访问。 这是部署 Azure 信息保护的主要原因，它使企业能够从无限制访问状态转到根据用户身份验证和授权访问信息的状态。
+Azure 信息保护中保护的基础是 - 对受保护内容的访问基于已通过身份验证的标识和授权。 这意味着使用 Azure 信息保护，无身份验证或授权表示不能访问。 这是部署 Azure 信息保护的主要原因，它使企业能够从无限制访问状态转到根据用户身份验证和授权访问信息的状态。
 
-通过使用此 Azure 信息保护功能，企业能够分隔信息。 例如，将人力资源 (HR) 部门的敏感信息分隔在部门内部；使财务部门的数据仅供财务部门访问。 Azure 信息保护提供了  基于标识的访问，杜绝没有限制的随意访问。
+通过使用此 Azure 信息保护功能，企业能够分隔信息。 例如，将人力资源 (HR) 部门的敏感信息分隔在部门内部；使财务部门的数据仅供财务部门访问。 Azure 信息保护提供了基于标识的访问，杜绝没有限制的随意访问。
 
 下图提供向 Tom 发送文档的用户 (Bob) 的示例。 这里，Bob 来自财务部门，Tom 来自销售部门。 如果不授予任何权限，Tom 无法访问该文档。
 
-![无访问权限](./media/azure-information-protection-securing-data/aip-securing-data-fig2.png)
+![不能访问](./media/azure-information-protection-securing-data/aip-securing-data-fig2.png)
 
 这种情况中的关键点是，Azure 信息保护可停止来自未经授权的用户的攻击。 有关 Azure 信息保护中加密控制的详细信息，请参阅 [Azure RMS 使用的加密控制：算法和密钥长度](/azure/information-protection/how-does-it-work)。
 
@@ -91,7 +91,7 @@ Azure 信息保护中保护的基础是 - 对受保护内容的访问基于已�
 
 ![恶意用户](./media/azure-information-protection-securing-data/aip-securing-data-fig4.png)
 
-Azure 信息保护旨在使应用程序位于负责强制执行与文档关联的权限的客户端设备上。 不论以哪种标准来衡量，当今受保护内容安全性的最薄弱环节是在客户端设备上，其内容对最终用户以纯文本形式可见。 Microsoft Office 等客户端应用程序正确地执行权限，因此恶意用户无法使用这些应用程序来提升权限。 但借助 Azure 的信息保护 SDK，有动机的攻击者可以创建不执行权限的应用程序，这就是恶意程序  的本质。
+Azure 信息保护旨在使应用程序位于负责强制执行与文档关联的权限的客户端设备上。 不论以哪种标准来衡量，当今受保护内容安全性的最薄弱环节是在客户端设备上，其内容对最终用户以纯文本形式可见。 Microsoft Office 等客户端应用程序正确地执行权限，因此恶意用户无法使用这些应用程序来提升权限。 但借助 Azure 的信息保护 SDK，有动机的攻击者可以创建不执行权限的应用程序，这就是恶意程序的本质。
 
 这种情况的重点是保护客户端设备和应用程序，以便恶意应用程序不能被使用。 下面列出了 IT 管理员可以执行一些步骤：
 

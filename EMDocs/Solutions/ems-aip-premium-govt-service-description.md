@@ -11,7 +11,7 @@ ms.prod: ''
 ms.service: ems
 ms.openlocfilehash: 262c21799bf7ad866ade136fdfbdd2b3a44535d5
 ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/10/2019
 ms.locfileid: "68937418"
@@ -20,7 +20,7 @@ ms.locfileid: "68937418"
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
-政府用 Azure 信息保护高级版服务说明旨在概述我们提供的产品/服务，包含以下内容：(1) 本产品/服务中包含的服务和功能；(2) 政府用产品/服务与现有商业产品/服务的区别；(3) 我们当前的合规性承诺。 本文档定义了相较于 Azure 信息保护高级版商业产品/服务的独特承诺以及各种差异。 
+Azure 信息保护高级版政府服务说明用于概述我们的产品/服务，介绍了以下内容：(1) 此产品/服务包含的服务和功能，(2) 政府产品/服务与我们现有的商业产品/服务有何不同，以及 (3) 我们当前的符合性承诺。 本文档定义了相较于 Azure 信息保护高级版商业产品/服务的独特承诺以及各种差异。 
 
 ## <a name="about-azure-information-protection-premium-government-environments"></a>有关 Azure 信息保护高级版政府环境 
 

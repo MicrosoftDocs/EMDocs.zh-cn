@@ -14,7 +14,7 @@ ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 93c2572546cab512623cb96412ee064da8a3c233
 ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/06/2018
 ms.locfileid: "51196434"
@@ -23,7 +23,7 @@ ms.locfileid: "51196434"
 
 在本方案中，我们以 Microsoft Word 为例。 你可以将这些相同步骤应用到 Office 365 中的其他应用中。
 
-1. 在你的设备上打开“Word”  应用。 此示例使用的是 iOS 设备。
+1. 在你的设备上打开“Word” 应用。 此示例使用的是 iOS 设备。
 2. 点击“新建”创建新的 Word 文档。
 
    ![显示用户选择“新建”以开始创建 Word 文档的屏幕截图。](./media/ft-multiID-1-createDoc.png)
@@ -33,7 +33,7 @@ ms.locfileid: "51196434"
    ![显示用户在新建 Word 文档中键入句子的屏幕截图。](./media/ft-multiID-2-saveDoc.png)
 
 4. 将该文档保存到你的“工作位置”，例如 OneDrive for Business。 由于 OneDrive for Business 被识别为工作位置，因此文档现在被标记为公司数据，并且将应用策略限制。
-5. 现在，打开刚刚保存到工作位置的文档，然后复制文本。 打开个人“Facebook”帐户并尝试粘贴复制的文本。 你应无法将该内容粘贴到新的 Facebook 帖子中。 粘贴选项并不灰显，但当按“粘贴” 时没有任何反应。 这是因为策略限制阻止在个人应用中共享企业数据。
+5. 现在，打开刚刚保存到工作位置的文档，然后复制文本。 打开个人“Facebook”帐户并尝试粘贴复制的文本。 你应无法将该内容粘贴到新的 Facebook 帖子中。 粘贴选项并不灰显，但当按“粘贴”时没有任何反应。 这是因为策略限制阻止在个人应用中共享企业数据。
 
    ![显示用户从 Word 文档复制文本的屏幕截图。 ](./media/ft-multiID-3-copyText.png)
 

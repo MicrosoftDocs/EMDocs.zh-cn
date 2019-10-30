@@ -14,7 +14,7 @@ ms.suite: ems
 ms.custom: microsoft-identity-manager
 ms.openlocfilehash: a7248c16f450dd204921bf297c69eef4af6bb335
 ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/10/2019
 ms.locfileid: "68937333"
@@ -77,15 +77,15 @@ ms.locfileid: "68937333"
 - [用户风险策略](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#user-risk-security-policy)：使 IT 能够设置用户风险安全策略以根据风险级别在登录时阻止用户。
 - [登录风险策略](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#sign-in-risk-security-policy)：使 IT 能够评估特定登录的风险，并根据此结果使用预定义条件和规则缓解风险。
 
-这些策略位于“配置”  部分下的 Azure AD 标识保护仪表板中，如下面屏幕所示：
+这些策略位于“配置”部分下的 Azure AD 标识保护仪表板中，如下面屏幕所示：
 
 ![策略](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig3.png)
 
-除了配置安全策略外，还可自定义哪些用户将收到警报。 应使用 Azure AD 标识保护仪表板中的“设置”部分下的“警报”  选项，如下图所示：
+除了配置安全策略外，还可自定义哪些用户将收到警报。 应使用 Azure AD 标识保护仪表板中的“设置”部分下的“警报”选项，如下图所示：
 
-![警报](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig4.png)
+![Alerts](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig4.png)
 
-请注意：在此配置中，仅当用户风险级别为“高”  时，用户才会收到警报。
+请注意：在此配置中，仅当用户风险级别为“高”时，用户才会收到警报。
 
 ### <a name="step-3-monitor-and-remediation"></a>步骤 3：监视和修正
 
@@ -105,13 +105,13 @@ ms.locfileid: "68937333"
 
 ![登录屏幕](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig7.png)
 
-单击“立即设置”  ，然后执行向导操作。 需要键入手机或电话号码用于验证。 完成此向导后，将看到验证完成消息：
+单击“立即设置”，然后执行向导操作。 需要键入手机或电话号码用于验证。 完成此向导后，将看到验证完成消息：
 
 ![验证](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig8.png)
 
 ### <a name="step-5-configure-azure-ad-privileged-identity-management"></a>步骤 5：配置 Azure AD Privileged Identity Management
 
-初始配置通过使用[安全向导](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-security-wizard/)执行，其具有三个阶段，如“保护组织”  边栏选项卡所示：
+初始配置通过使用[安全向导](https://azure.microsoft.com/documentation/articles/active-directory-privileged-identity-management-security-wizard/)执行，其具有三个阶段，如“保护组织”边栏选项卡所示：
 
 ![安全向导](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig9.png)
 
@@ -121,7 +121,7 @@ ms.locfileid: "68937333"
 
 ### <a name="step-6-privileged-identity-management-operations"></a>步骤 6：Privileged Identity Management 操作
 
-安装和配置 Azure AD Privileged Identity Management 后，可执行初始评估以验证当前角色架构和警报。 在“特权标识管理”  边栏选项卡中单击“管理特权角色”  ，将看到类似于下图所示的仪表板：
+安装和配置 Azure AD Privileged Identity Management 后，可执行初始评估以验证当前角色架构和警报。 在“特权标识管理”边栏选项卡中单击“管理特权角色”，将看到类似于下图所示的仪表板：
 
 ![特权角色](https://github.com/MicrosoftDocs/EMDocs/blob/live/EMDocs/Solutions/media/protect-front-door/protect-front-door-fig10.png)
 
