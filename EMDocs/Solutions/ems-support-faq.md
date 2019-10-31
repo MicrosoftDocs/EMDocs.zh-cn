@@ -14,7 +14,7 @@ ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 50326fcf5cf1412ca0e03b6461c85b6b8b7f708d
 ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/06/2018
 ms.locfileid: "51196570"
@@ -44,7 +44,7 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交云应用安全性的支持请求。 
 
-**我无法通过 Office 365 门户提交支持请求。有可以拨打的支持电话号码吗？**
+**我无法通过 Office 365 门户提交支持请求。是否有电话号码来寻求支持？**
 
 请转至 Office 365 支持，查找你所在地区的支持电话号码。
 
@@ -56,11 +56,11 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 是的，你的 Microsoft 合作伙伴应直接为你提供支持。 首先联系 Microsoft 合作伙伴，了解他们可提供的支持级别。
 
-**我以前就拥有 Intune，但续签了企业协议，其中包括企业移动性 + 安全性许可证。如何处理许可证管理？**
+**我以前拥有 Intune，但续订了企业移动性 + 安全性许可证的企业协议。如何实现处理许可证管理？**
 
 请转至 Azure 门户的许可证分配。 请按照欢迎电子邮件中的说明来管理新的企业移动性 + 安全性许可证。
 
-**我以前就拥有 Office 365 订阅，但通过企业云套件 (ECS) 续订了订阅，其中包括 Office 365 和企业移动性 + 安全性。如何处理许可证管理？**
+**我以前有 Office 365 订阅，但通过企业云套件（ECS）续订了订阅，其中包括 Office 365 和企业移动性 + 安全性。如何实现处理许可证管理？**
 
 请转至 Azure 门户的许可证分配。 请按照欢迎电子邮件中的说明来管理新的企业移动性 + 安全性许可证。
 

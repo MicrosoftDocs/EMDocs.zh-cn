@@ -15,7 +15,7 @@ ms.reviewer: atkladak, jsnow
 ms.suite: ems
 ms.openlocfilehash: d5ed6221666d7b5d5dd12a2a74becb6bf6b203d0
 ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/10/2019
 ms.locfileid: "68937459"
@@ -66,7 +66,7 @@ Azure AD 支持使用支持任何以下标准协议的应用进行单一登录�
 
 
 ### <a name="do-i-still-need-azure-active-directory-federation-services-adfs"></a>是否仍需要 Azure Active Directory 联合身份验证服务 (ADFS)？
-是。 ADFS 连接到 Azure AD 使用户可从加入域的计算机上进行无缝单一登录：
+适用。 ADFS 连接到 Azure AD 使用户可从加入域的计算机上进行无缝单一登录：
 - 用户不会看到任何基于 Web 的登录页
 - 单独的应用程序信任通过 Azure AD 进行管理
 

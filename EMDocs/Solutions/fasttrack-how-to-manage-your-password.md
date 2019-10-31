@@ -14,7 +14,7 @@ ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: a7089bb5e9c2e1c00ad287f45822d30cc4e77651
 ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 11/06/2018
 ms.locfileid: "51196723"
@@ -55,7 +55,7 @@ ms.locfileid: "51196723"
    ![显示无法识别用户 ID 或密码时用户接收到的第一条消息的屏幕截图。](./media/ft-mngPW-6-resetPWbegin.png)
 2. 在“你是谁？” 页面上，输入工作或学校帐户 ID，并通过验证码证明并非机器人。
    ![提示用户输入用户 ID 和所示图片验证码的屏幕截图。](./media/ft-mngPW-7-enterID.png)
-3. 单击“下一步” 。
+3. 单击?下一步?。
 4. 选择一个选项以重置密码。 根据管理员配置系统的方式，你可能会看到以下一个或多个选择：
    - **向我的备用电子邮件发送电子邮件** - 向你的备用电子邮件或身份验证电子邮件（可选择）发送一封包含 6 位代码的电子邮件。
    - **向我的移动电话发送短信** - 向你的移动电话或身份验证电子邮件（可选择）发送一条包含 6 位代码的短信。
