@@ -1,5 +1,5 @@
 ---
-title: 促成商业无国界
+title: 实现商业无国界
 description: 本文介绍如何使用企业移动性 + 安全性提供跨云和本地资产的单一标识，并利用 Azure Active Directory 中的工具让用户保持最高效率。
 keywords: ''
 author: andredm7
@@ -15,7 +15,7 @@ ms.reviewer: atkladak, jsnow
 ms.suite: ems
 ms.openlocfilehash: b1d2689c366872b9f9c559ae12e7cd4de032bb6d
 ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/10/2019
 ms.locfileid: "68937433"
