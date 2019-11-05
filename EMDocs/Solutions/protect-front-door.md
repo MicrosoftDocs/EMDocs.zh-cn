@@ -12,12 +12,12 @@ ms.assetid: c9aeabcf-db9b-4a35-b1bc-61331c464165
 ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: microsoft-identity-manager
-ms.openlocfilehash: a7248c16f450dd204921bf297c69eef4af6bb335
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.openlocfilehash: 897e5643013fddd2fd99de3ccf3d56069022297c
+ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "68937333"
+ms.lasthandoff: 11/03/2019
+ms.locfileid: "73462566"
 ---
 # <a name="protect-at-the-front-door"></a>第一道防线
 
@@ -57,7 +57,7 @@ ms.locfileid: "68937333"
 - 步骤 6：Privileged Identity Management 操作
 
 
-## <a name="how-to-protect-your-resources-at-the-front-door"></a>如何建立资源保护的第一道防线
+## <a name="how-to-protect-your-resources-at-the-front-door"></a>如何在前门中保护资源
 
 不同组织对事件优先级有不同的理解。 对某个行业至关重要的事件可能对另一个行业并不重要。 因此，应该首先了解 Azure AD 标识保护如何划分[风险级别](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#detection-and-risk)，即风险事件的严重性指示（“高”、“中”或“低”）。 Azure AD 标识保护还可评估用户标识被盗用的可能性并分配其自己的风险级别，称为[用户的风险级别](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection/#what-is-a-user-risk-level)。 Azure AD 标识保护将识别[漏洞](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-vulnerabilities/)并为其分配风险级别。 风险有[不同类型](https://azure.microsoft.com/documentation/articles/active-directory-identityprotection-risk-events-types/)，每一种风险根据其重要程度划分级别。 按照第 1 到 3 步执行操作，使用 Azure AD 标识保护启用、实施和监视资源。
 

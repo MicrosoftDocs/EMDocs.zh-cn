@@ -1,5 +1,5 @@
 ---
-title: IT 管理员最终用户 Intune 注册说明
+title: IT 管理员的最终用户 Microsoft Intune 注册说明
 description: IT 管理员最终用户 Intune 注册说明
 keywords: ''
 author: dougeby
@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2b9f32d79ab00c55962df67cab9bc2bad9549c44
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 5d023718737bc4d66a8a852d1d538dc2535b1a9b
+ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196808"
+ms.lasthandoff: 11/03/2019
+ms.locfileid: "73462578"
 ---
 # <a name="end-user-intune-enrollment-instructions-for-it-administrators"></a>IT 管理员最终用户 Intune 注册说明
 

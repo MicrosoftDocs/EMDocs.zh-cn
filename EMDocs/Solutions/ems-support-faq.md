@@ -8,18 +8,16 @@ manager: angrobe
 ms.date: 6/12/2017
 ms.topic: article
 ms.prod: ''
-ms.service: ems
-ms.assetid: 7bfee675-ec69-479c-bda2-f807bbb55712
-ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 50326fcf5cf1412ca0e03b6461c85b6b8b7f708d
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.service: microsoft-intune
+ms.openlocfilehash: af64b84991571cbd4f79ba873f295265b80ba41d
+ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196570"
+ms.lasthandoff: 11/03/2019
+ms.locfileid: "73462544"
 ---
-# <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持 FAQ
+# <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持常见问题
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。  请查看下面的详细信息。
 
 ## <a name="answers-to-common-ems-support-questions"></a>常见 EMS 支持问题的解答

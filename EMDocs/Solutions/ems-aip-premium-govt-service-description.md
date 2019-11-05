@@ -1,6 +1,6 @@
 ---
 title: Azure 信息保护高级版政府服务说明
-description: Azure 信息保护高级版政府服务说明用于概述我们提供的产品/服务
+description: Azure 信息保护高级政府服务说明旨在作为我们的产品/服务的概述
 keywords: ''
 author: dougeby
 ms.author: dougeby
@@ -8,13 +8,14 @@ manager: dougeby
 ms.date: 05/29/2019
 ms.topic: article
 ms.prod: ''
-ms.service: ems
-ms.openlocfilehash: 262c21799bf7ad866ade136fdfbdd2b3a44535d5
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.service: rights-management
+ms-suite: ems
+ms.openlocfilehash: 23a322ce5c45bde717831f386d676f3330a4d7b7
+ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "68937418"
+ms.lasthandoff: 11/03/2019
+ms.locfileid: "73462536"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
