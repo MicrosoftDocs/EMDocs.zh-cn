@@ -69,43 +69,43 @@
               tocHref: /microsoft-identity-manager/pam/
               topicHref: 'https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services'
         - name: 配置管理器
-          tocHref: /sccm/
-          topicHref: /sccm
+          tocHref: /configmgr/
+          topicHref: /configmgr
           items:
             - name: 核心基础结构
-              tocHref: /sccm/core/
-              topicHref: /sccm/core/understand/introduction
+              tocHref: /configmgr/core/
+              topicHref: /configmgr/core/understand/introduction
             - name: 应用程序管理
-              tocHref: /sccm/apps/
-              topicHref: /sccm/apps/understand/introduction-to-application-management
+              tocHref: /configmgr/apps/
+              topicHref: /configmgr/apps/understand/introduction-to-application-management
             - name: 设备符合性
-              tocHref: /sccm/compliance/
-              topicHref: /sccm/compliance/understand/ensure-device-compliance
+              tocHref: /configmgr/compliance/
+              topicHref: /configmgr/compliance/understand/ensure-device-compliance
             - name: 移动设备管理
-              tocHref: /sccm/mdm/
-              topicHref: /sccm/mdm/understand/hybrid-mobile-device-management
+              tocHref: /configmgr/mdm/
+              topicHref: /configmgr/mdm/understand/hybrid-mobile-device-management
             - name: Microsoft Deployment Toolkit
-              tocHref: /sccm/mdt/
-              topicHref: /sccm/mdt/
+              tocHref: /configmgr/mdt/
+              topicHref: /configmgr/mdt/
             - name: OS 部署
-              tocHref: /sccm/osd/
-              topicHref: /sccm/osd/understand/introduction-to-operating-system-deployment
+              tocHref: /configmgr/osd/
+              topicHref: /configmgr/osd/understand/introduction-to-operating-system-deployment
             - name: 保护数据和基础结构
-              tocHref: /sccm/protect/
-              topicHref: /sccm/protect/understand/protect-data-and-site-infrastructure
+              tocHref: /configmgr/protect/
+              topicHref: /configmgr/protect/understand/protect-data-and-site-infrastructure
             - name: 软件更新管理
-              tocHref: /sccm/sum/
-              topicHref: /sccm/sum/understand/software-updates-introduction
+              tocHref: /configmgr/sum/
+              topicHref: /configmgr/sum/understand/software-updates-introduction
             - name: 共同管理
-              tocHref: /sccm/comanage/
-              topicHref: /sccm/comanage/overview
+              tocHref: /configmgr/comanage/
+              topicHref: /configmgr/comanage/overview
             - name: 桌面分析
-              tocHref: /sccm/desktop-analytics/
-              topicHref: /sccm/desktop-analytics/overview
+              tocHref: /configmgr/desktop-analytics/
+              topicHref: /configmgr/desktop-analytics/overview
             - name: 开发
-              tocHref: /sccm/develop/
-              topicHref: /sccm/develop/core/misc/system-center-configuration-manager-sdk
+              tocHref: /configmgr/develop/
+              topicHref: /configmgr/develop/core/misc/system-center-configuration-manager-sdk
               items:
                 - name: 参考
-                  tocHref: /sccm/develop/reference
-                  topicHref: /sccm/develop/reference/configuration-manager-reference
+                  tocHref: /configmgr/develop/reference
+                  topicHref: /configmgr/develop/reference/configuration-manager-reference
