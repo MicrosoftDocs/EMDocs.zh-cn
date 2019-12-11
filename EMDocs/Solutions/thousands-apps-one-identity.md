@@ -14,10 +14,10 @@ ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
 ms.openlocfilehash: d5ed6221666d7b5d5dd12a2a74becb6bf6b203d0
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "68937459"
 ---
 # <a name="thousands-of-apps-one-identity"></a>数千个应用，一个标识

@@ -11,10 +11,10 @@ ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
 ms.openlocfilehash: 23a322ce5c45bde717831f386d676f3330a4d7b7
-ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "73462536"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 

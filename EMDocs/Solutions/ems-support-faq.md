@@ -11,10 +11,10 @@ ms.prod: ''
 ms.suite: ems
 ms.service: microsoft-intune
 ms.openlocfilehash: af64b84991571cbd4f79ba873f295265b80ba41d
-ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "73462544"
 ---
 # <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持常见问题

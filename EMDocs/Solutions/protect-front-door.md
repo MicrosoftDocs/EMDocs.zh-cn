@@ -13,10 +13,10 @@ ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: microsoft-identity-manager
 ms.openlocfilehash: 897e5643013fddd2fd99de3ccf3d56069022297c
-ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "73462566"
 ---
 # <a name="protect-at-the-front-door"></a>第一道防线

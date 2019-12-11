@@ -14,10 +14,10 @@ ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
 ms.openlocfilehash: 91234f0b3c3323cafafe29481db88cd2a2884a5b
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "68937404"
 ---
 # <a name="cloud-powered-protection"></a>由云支持的保护

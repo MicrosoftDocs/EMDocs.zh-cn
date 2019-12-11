@@ -13,10 +13,10 @@ ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: a7089bb5e9c2e1c00ad287f45822d30cc4e77651
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "51196723"
 ---
 # <a name="how-to-manage-your-own-password"></a>如何管理密码

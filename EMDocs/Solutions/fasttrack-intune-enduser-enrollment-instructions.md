@@ -13,10 +13,10 @@ ms.assetid: 5c13446e-aa31-47df-ad9d-373be7660197
 ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 5d023718737bc4d66a8a852d1d538dc2535b1a9b
-ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "73462578"
 ---
 # <a name="end-user-intune-enrollment-instructions-for-it-administrators"></a>IT 管理员最终用户 Intune 注册说明

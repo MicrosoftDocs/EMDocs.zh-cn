@@ -13,10 +13,10 @@ ms.reviewer: v-craic
 ms.suite: ems
 ms.custom: advanced-threat-analytics, cloud-app-security
 ms.openlocfilehash: c3bac8e76e473030e4c10f7a9d9bc4a87ae78fe8
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "68937477"
 ---
 # <a name="detect-attacks-before-they-cause-damage"></a>在攻击造成损害前检测出攻击

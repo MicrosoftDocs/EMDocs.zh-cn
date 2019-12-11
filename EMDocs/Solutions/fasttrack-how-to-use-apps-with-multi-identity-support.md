@@ -13,10 +13,10 @@ ms.assetid: 586ecd93-b097-42a0-9229-bcf3b781021c
 ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 93c2572546cab512623cb96412ee064da8a3c233
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "51196434"
 ---
 # <a name="how-to-use-apps-with-multi-identity-support"></a>如何使用具有多身份标识支持的应用

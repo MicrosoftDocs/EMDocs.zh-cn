@@ -13,10 +13,10 @@ ms.assetid: 174348f0-dbc6-4204-8626-3c6f38b7bbde
 ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 29aaab0743bbc42ec3a6297e5c8174dbdc977fe7
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "51196502"
 ---
 # <a name="how-to-use-mobile-apps-managed-by-your-organization"></a>如何使用组织管理的移动应用

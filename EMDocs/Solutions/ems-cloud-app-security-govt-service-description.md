@@ -11,10 +11,10 @@ ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
 ms.openlocfilehash: c0e22cdbbbddf99edb3b3e862afd58ad11c941ea
-ms.sourcegitcommit: fd344763857d03303006b9da4f6931ed320d27ca
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "73462678"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
@@ -30,7 +30,7 @@ Microsoft Cloud App Security GCC 的高产品/服务是在 Microsoft Azure 政�
 若要开始，请使用 "[基本设置](https:/docs.microsoft.com/cloud-app-security/general-setup)" 页访问 Microsoft Cloud App Security GCC 高门户，并确保配置了[网络要求](https://docs.microsoft.com/cloud-app-security/network-requirements)。 有关其他详细说明，请按照操作方法指南中的其他步骤进行操作。 
 
 ## <a name="feature-variations-in-microsoft-cloud-app-security-gcc-high"></a>Microsoft Cloud App Security GCC 高 
-除非另行指定，否则新功能版本（包括预览功能，如[Microsoft Cloud App Security 的新增](https://docs.microsoft.com/cloud-app-security/release-notes)功能）将在 Microsoft Cloud App Security 商业版内的三个月内的 GCC 中提供环境（除非另有说明）。 
+除非另有说明，否则新功能版本（包括预览功能，如[Microsoft Cloud App Security 的新增](https://docs.microsoft.com/cloud-app-security/release-notes)功能）将在 Microsoft Cloud App Security 商业环境中的三个月发行版中提供（除非另有说明）。 
 
 ## <a name="api-connector"></a>API 连接器 
 

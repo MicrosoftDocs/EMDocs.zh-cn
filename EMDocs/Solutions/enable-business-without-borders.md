@@ -14,10 +14,10 @@ ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
 ms.openlocfilehash: b1d2689c366872b9f9c559ae12e7cd4de032bb6d
-ms.sourcegitcommit: 393421ada426fc958125e310b92e9a84b31a9c2d
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "68937433"
 ---
 # <a name="enable-business-without-borders"></a>实现商业无国界

@@ -14,7 +14,7 @@ ms.openlocfilehash: a778fded39a080b721b6e37d3925e42a0e09f029
 ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2019
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "73753897"
 ---
 # <a name="microsoft-intune-for-us-government-gcc-high-and-dod-service-description"></a>Microsoft Intune 美国政府版和 DoD 服务说明

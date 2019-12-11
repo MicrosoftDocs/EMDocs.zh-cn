@@ -13,10 +13,10 @@ ms.assetid: 06e21ca9-ed6a-4f6e-a7e2-5445aaeb3552
 ms.reviewer: ''
 ms.suite: ems
 ms.openlocfilehash: 8543aed330ca711668754be8f585a4dbb0a1ec37
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
+ms.lasthandoff: 12/05/2019
 ms.locfileid: "51196661"
 ---
 # <a name="how-to-set-up-your-preferred-method-for-additional-security-verification"></a>如何设置其他安全性验证的首选方式
