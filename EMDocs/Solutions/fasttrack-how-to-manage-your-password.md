@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 162e59f3-33a2-44b5-a59f-24612dc743f3
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a7089bb5e9c2e1c00ad287f45822d30cc4e77651
-ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
+ms.openlocfilehash: 2f33a902a66a1b24f07850bb7c3e71decc0f455f
+ms.sourcegitcommit: 5934334420a8ca02c26ffb1d8f19c185a4c3a741
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "51196723"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75692366"
 ---
 # <a name="how-to-manage-your-own-password"></a>如何管理密码
 
@@ -25,9 +25,9 @@ ms.locfileid: "51196723"
 
 ## <a name="how-to-register-for-password-reset"></a>如何注册以进行密码重置
 
-注册申请密码重置的最快速方法是转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
+注册申请密码重置的最快速方法是转到 [https://aka.ms/ssprsetup](https://aka.ms/ssprsetup)。
 
-1. 转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
+1. 转到 [https://aka.ms/ssprsetup](https://aka.ms/ssprsetup)。
 2. 请输入您的用户名和密码。
 3. 通过单击“立即设置”，选择一个注册选项。 在本示例中，我将演示注册**身份验证电话**。
 ![显示 blahblah 的屏幕截图](./media/ft-mngPW-1-setup.png)
@@ -49,7 +49,7 @@ ms.locfileid: "51196723"
 > [!IMPORTANT]
 > 此功能仅在管理员开启后可用。 如未开启，你将看到一条消息，显示你的帐户未启用此功能。 在这种情况下可使用“与管理员联系”链接联系管理员解锁帐户。
 > 
-> 如果管理员已对你启用此功能，你需要先进行注册，然后才能使用。 为此，可以转到 [http://aka.ms/ssprsetup](http://aka.ms/ssprsetup)。
+> 如果管理员已对你启用此功能，你需要先进行注册，然后才能使用。 为此，可以转到 [https://aka.ms/ssprsetup](https://aka.ms/ssprsetup)。
 
 1. 在任何工作或学校帐户登录页面中单击“无法访问帐户？” 或“忘记密码？” 链接，或直接转到 [https://passwordreset.microsoftonline.com](https://passwordreset.microsoftonline.com)。
    ![显示无法识别用户 ID 或密码时用户接收到的第一条消息的屏幕截图。](./media/ft-mngPW-6-resetPWbegin.png)

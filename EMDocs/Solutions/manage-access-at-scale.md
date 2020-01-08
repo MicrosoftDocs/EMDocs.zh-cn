@@ -13,12 +13,12 @@ ms.assetid: 0292919a-af10-4a25-8916-c704aed643f6
 ROBOTS: ''
 ms.reviewer: atkladak, jsnow
 ms.suite: ems
-ms.openlocfilehash: 71ca78aa4e69cca5030672d02e373a34907d5605
-ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
+ms.openlocfilehash: 3a4037d33b75b606629b00f441ba458f4562346f
+ms.sourcegitcommit: 5934334420a8ca02c26ffb1d8f19c185a4c3a741
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "68937490"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75692380"
 ---
 # <a name="manage-access-at-scale"></a>大规模管理访问权限
 Microsoft 自成立以来一直在为各大组织提供支持。 Microsoft 不仅提供标识以便随时随地进行访问，还提供一组工具以便在组织内对 IT 资源进行自动化、保护和管理。 即使在云计算问世后，仍需要管理和控制 IT 任务，如呼叫支持人员以重置用户密码、管理用户组和应用程序请求。
@@ -101,9 +101,9 @@ Azure AD Connect Health 可帮助组织监视和深入了解本地标识基础�
 详细了解在 Azure AD 租户上[使用密码自助服务门户的先决条件、启用及设置方式](https://azure.microsoft.com/documentation/articles/active-directory-accessmanagement-manage-groups/)。
 
 ## <a name="how-to-use-azure-ad-connect-health"></a>如何使用 Azure AD Connect Health
-可以查看 [Azure AD Connect Health 文档](https://azure.microsoft.com/en-in/documentation/articles/active-directory-aadconnect-health/)以收集有关该工具、其功能及可执行以开始在组织中使用它的步骤的详细信息。
+可以查看 [Azure AD Connect Health 文档](https://docs.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect)以收集有关该工具、其功能及可执行以开始在组织中使用它的步骤的详细信息。
 
-[Azure 门户](https://ms.portal.azure.com)提供 Azure AD Connect Health，该功能要求在要监视的本地域控制器上安装运行状况代理。 了解有关[如何安装运行状况代理](https://azure.microsoft.com/en-in/documentation/articles/active-directory-aadconnect-health-agent-install/)的详细信息。
+[Azure 门户](https://ms.portal.azure.com)提供 Azure AD Connect Health，该功能要求在要监视的本地域控制器上安装运行状况代理。 了解有关[如何安装运行状况代理](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)的详细信息。
 
 **域控制器**仪表板提供运行状况和环境操作状态的单一视图。 管理员可以轻松地确定哪些域控制器是灵活单主机操作 (FSMO) 角色所有者，哪些域控制器具有活动警报，以及哪些域控制器是全局目录。 其他列包括 **可访问的 PDC**、**可访问的 GC** 和 **SYSVOL 状态**。
 
