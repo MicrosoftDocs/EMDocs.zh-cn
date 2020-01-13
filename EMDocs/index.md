@@ -7,12 +7,12 @@ ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620
 hide_bc: true
 featureFlags:
 - clicktale
-ms.openlocfilehash: fed77d822a67010f94e360050d6047a75f241901
-ms.sourcegitcommit: 75ba5494047b2405c0fb6bfcf20b962c45ec658b
+ms.openlocfilehash: 77f7b3a34526702a6b6affedb0ca19e58c741371
+ms.sourcegitcommit: 5934334420a8ca02c26ffb1d8f19c185a4c3a741
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "51196621"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75692345"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -63,7 +63,7 @@ ms.locfileid: "51196621"
                                 </a>
                             </li>
                             <li>
-                                <a href="/sccm/">
+                                <a href="/configmgr/">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -73,8 +73,8 @@ ms.locfileid: "51196621"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>System Center Configuration Manager</h3>
-                                                    <p>通过本地和基于云的基础结构，管理 PC、服务器和移动设备（例如 iPhone 和 Android 设备） </p>
+                                                    <h3>Microsoft Endpoint Configuration Manager</h3>
+                                                    <p>使用云驱动见解管理本地电脑、服务器和移动设备 </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -186,7 +186,7 @@ ms.locfileid: "51196621"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Microsoft Identity Manager</h3>
+                                                    <h3>Microsoft 标识管理器</h3>
                                                     <p>通过自动化工作流、自助服务等功能管理标识</p>
                                                 </div>
                                             </div>
