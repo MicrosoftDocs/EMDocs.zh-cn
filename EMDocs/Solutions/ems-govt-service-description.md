@@ -2,20 +2,20 @@
 title: 适用于美国政府的企业移动性 + 安全性服务说明
 description: EMS GCC 高级版计划需要每月订阅，并向每个用户授予许可证。
 keywords: ''
-author: mlottner
-ms.author: mlottner
+author: shsagir
+ms.author: shsagir
 manager: dougeby
-ms.date: 10/30/2019
+ms.date: 01/12/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: e60ed45c1f7f97b340de644afe684a7d5cd95d89
-ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
+ms.openlocfilehash: e82e70f920fe56634d47cdb3a89e64c844c9540a
+ms.sourcegitcommit: cdf0b5b826aeaf0cf6c3a6cd180d44b9e13d543a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "73462507"
+ms.lasthandoff: 01/23/2020
+ms.locfileid: "76549791"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
@@ -45,7 +45,7 @@ Azure Active Directory P1/P2、Microsoft Intune 和 Azure 信息保护 P1/P2 托
 GCC 客户可以选择在购买 EMS E5 SKU 时，附加 Microsoft Cloud App Security 的商业产品/服务和 Azure ATP。 Microsoft Cloud App Security 和 Azure ATP 是 Azure 商业 FedRAMP 高授权操作（ATO）涵盖的商业产品/服务，但可能不符合其他[GCC 相容性](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)特性，例如 CJIS 背景屏蔽、IRS 1075，以及由美国政府屏蔽人员访问客户内容。  Microsoft 产品和服务的符合性服务/产品列表可在 [ 信任中心](https://www.microsoft.com/en-us/trustcenter/compliance/complianceofferings)找到。  
 
 ## <a name="ems-for-us-gcc-high-and-dod-customers"></a>适用于美国 GCC 和 DoD 客户的 EMS
-适用于美国 GCC 和 DOD 客户的 EMS 产品基于 Microsoft [Azure 政府](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)云而构建，旨在与 OFFICE 365 GCC 高和 DOD 环境结合工作。 EMS E5 套件适用于 GCC 高客户和 DoD 客户，但是 Microsoft Cloud App Security 和 Azure 高级威胁防护仅适用于 GCC 高客户。 Azure Active Directory P1/P2、Microsoft Intune 和 Azure 信息保护 P1/P2 认证 FedRAMP-高。
+适用于美国 GCC 和 DOD 客户的 EMS 产品基于 Microsoft [Azure 政府](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)云而构建，旨在与 OFFICE 365 GCC 高和 DOD 环境结合工作。 EMS E5 套件适用于 GCC 高客户和 DoD 客户，但是 Microsoft Cloud App Security 和 Azure 高级威胁防护仅适用于 GCC 高客户。 Azure Active Directory P1/P2、Microsoft Intune、Azure 信息保护 P1/P2、Microsoft Cloud App Security 和 Azure ATP 认证 FedRAMP-高。
 
 基于不同需求和管理需求，GCC 高和 DOD 客户可以使用一组单独的终结点。 下面是可供我们的 GCC 高级和 DOD 客户使用的 EMS 管理门户列表。 取决于服务可用性：
 
