@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: a778fded39a080b721b6e37d3925e42a0e09f029
-ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
+ms.openlocfilehash: 4a0063e89d6428c0cc84b776d377d681cbf22376
+ms.sourcegitcommit: c2f6f9ac72d067603824084341565add5d5dad92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "73753897"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "76972264"
 ---
 # <a name="microsoft-intune-for-us-government-gcc-high-and-dod-service-description"></a>Microsoft Intune 美国政府版和 DoD 服务说明
 
@@ -30,7 +30,7 @@ Intune GCC 高和 DoD 产品/服务基于 Microsoft Azure 政府云而构建，�
 
 - **Intune GCC 高和 DoD 中的功能变化**
 
-  - 适用于 GCC 高和 DoD 客户的 Intune 仅支持独立部署。 它不支持使用 System Center Configuration Manager (SCCM) 进行混合设置。 
+  - 适用于 GCC 高和 DoD 客户的 Intune 仅支持独立部署。
   - 适用于 GCC 高客户和 DoD 客户的 Intune 不支持传统 PC 管理（与 Intune 代理一起提供）。 通过现代 MDM 渠道支持 Windows 10 的管理。 
   - 适用于 GCC 的 Intune 高和 DoD 客户不支持本地 Exchange Connector。 
   - 仅在1906版或更高版本中提供共同管理支持 Configuration Manager。 

@@ -9,12 +9,12 @@ ms.topic: conceptual
 ms.service: rights-management
 ms.reviewer: v-craic
 ms.suite: ems
-ms.openlocfilehash: 7fd4ab09de4cf050b9300a9dd340b33338a4d8d2
-ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
+ms.openlocfilehash: 246ce505648353d6fc561211e85bc85102363357
+ms.sourcegitcommit: c2f6f9ac72d067603824084341565add5d5dad92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "68937381"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "76972287"
 ---
 # <a name="the-role-of-azure-information-protection-in-securing-data"></a>Azure 信息保护在保护数据方面的角色
 
@@ -58,7 +58,7 @@ IT 管理员在组织内使用 Azure 信息保护时，对客户端设备和用�
 
 ## <a name="identity-based-security"></a>基于标识的安全性
 
-接下来的部分将探讨攻击受保护内容的三种主要情况，以及可以如何使用环境控制和 Azure 信息保护的组合来缓解对内容的恶意访问。
+接下来的部分将探讨针对受保护内容的三种主要攻击方案，以及如何使用环境控件和 Azure 信息保护的组合来减少对内容的恶意访问。
 
 ### <a name="attacks-by-unauthorized-users"></a>未经授权用户的攻击
 
@@ -66,7 +66,7 @@ Azure 信息保护中保护的基础是 - 对受保护内容的访问基于已�
 
 通过使用此 Azure 信息保护功能，企业能够分隔信息。 例如，将人力资源 (HR) 部门的敏感信息分隔在部门内部；使财务部门的数据仅供财务部门访问。 Azure 信息保护提供了基于标识的访问，杜绝没有限制的随意访问。
 
-下图提供向 Tom 发送文档的用户 (Bob) 的示例。 这里，Bob 来自财务部门，Tom 来自销售部门。 如果不授予任何权限，Tom 无法访问该文档。
+下图提供了一个用户（Bob）将文档发送到 Tom 的示例。 这里，Bob 来自财务部门，Tom 来自销售部门。 如果不授予任何权限，Tom 无法访问该文档。
 
 ![不能访问](./media/azure-information-protection-securing-data/aip-securing-data-fig2.png)
 
@@ -74,7 +74,7 @@ Azure 信息保护中保护的基础是 - 对受保护内容的访问基于已�
 
 ### <a name="access-by-malicious-programs-on-behalf-of-users"></a>通过恶意程序代表用户进行访问
 
-代表用户的恶意程序访问通常在用户不知情的情况下发生。 特洛伊木马程序、病毒和其他恶意软件是可代表用户执行操作的典型恶意程序示例。 如果此类程序可模拟用户的标识或利用用户的权限来执行操作，那么它可使用 [Azure 信息保护 SDK](/azure/information-protection/develop/developers-guide) 代表不知情的用户来解密内容。 因为此操作发生在用户的上下文中，没有简单的方法来防止这种攻击。
+代表用户的恶意程序访问通常在用户不知情的情况下发生。 特洛伊木马程序、病毒和其他恶意软件是可以代表用户操作的恶意程序的典型示例。 如果此类程序可模拟用户的标识或利用用户的权限来执行操作，那么它可使用 [Azure 信息保护 SDK](/azure/information-protection/develop/developers-guide) 代表不知情的用户来解密内容。 因为此操作发生在用户的上下文中，没有简单的方法来防止这种攻击。
 
 ![恶意程序](./media/azure-information-protection-securing-data/aip-securing-data-fig3.png)
 
@@ -96,7 +96,7 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 这种情况的重点是保护客户端设备和应用程序，以便恶意应用程序不能被使用。 下面列出了 IT 管理员可以执行一些步骤：
 
 - 使用 [Windows AppLocker](https://technet.microsoft.com/library/dd759117(v=ws.11).aspx) 帮助确保有害程序不能被执行
-- 使用 [Intune](https://docs.microsoft.com/intune/) 和 [System Center Configuration Manager](https://docs.microsoft.com/sccm/) 帮助确保设备运行正常
+- 使用[Intune](https://docs.microsoft.com/intune/)和[Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/configmgr/)帮助确保设备处于 "正常" 状态
 - 确保设备上的防病毒软件处于最新状态
 - 使用支持 [Microsoft 标识中转站](https://technet.microsoft.com/library/ms166045(v=sql.105).aspx)的应用程序进行身份验证和 [SSO](https://azure.microsoft.com/resources/videos/overview-of-single-sign-on/)
 
@@ -109,7 +109,7 @@ Azure 信息保护旨在使应用程序位于负责强制执行与文档关联�
 实现完全的安全性远不止采用一种技术。 通过各种各样的相互依赖的手段，IT 管理员可以减少现实世界中受保护内容的攻击面。
 
 - **Azure 信息保护**：防止对内容进行未经授权的访问
-- **Microsoft Intune、System Center Configuration Manager 和其他设备管理产品**：使托管的和受控的环境中不存在恶意应用
+- **Microsoft Intune、Microsoft 终结点 Configuration Manager 和其他设备管理产品**：允许受管理和受控的环境（无恶意应用）
 - **Windows AppLocker**：使托管的和受控的环境中不存在恶意应用
 - **Azure AD 标识保护**：增强用户标识中的信任度
 - **EMS 条件性访问**：增强设备和标识中的信任度
