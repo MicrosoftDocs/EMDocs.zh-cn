@@ -49,7 +49,7 @@
             - name: 故障排除
               tocHref: /intune-classic/troubleshoot/
               topicHref: /intune-classic/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
-            - name: 开始使用
+            - name: 入门
               tocHref: /intune-classic/get-started/
               topicHref: /intune-classic/get-started/get-started
             - name: 开发和自定义应用
@@ -74,37 +74,37 @@
           items:
             - name: 核心基础结构
               tocHref: /configmgr/core/
-              topicHref: /configmgr/core/understand/introduction
+              topicHref: /configmgr/core/
             - name: 应用程序管理
               tocHref: /configmgr/apps/
-              topicHref: /configmgr/apps/understand/introduction-to-application-management
+              topicHref: /configmgr/apps/
             - name: 设备符合性
               tocHref: /configmgr/compliance/
-              topicHref: /configmgr/compliance/understand/ensure-device-compliance
+              topicHref: /configmgr/compliance/
             - name: 移动设备管理
               tocHref: /configmgr/mdm/
-              topicHref: /configmgr/mdm/understand/hybrid-mobile-device-management
+              topicHref: /configmgr/mdm/
             - name: Microsoft Deployment Toolkit
               tocHref: /configmgr/mdt/
               topicHref: /configmgr/mdt/
             - name: OS 部署
               tocHref: /configmgr/osd/
-              topicHref: /configmgr/osd/understand/introduction-to-operating-system-deployment
+              topicHref: /configmgr/osd/
             - name: 保护数据和基础结构
               tocHref: /configmgr/protect/
-              topicHref: /configmgr/protect/understand/protect-data-and-site-infrastructure
+              topicHref: /configmgr/protect/
             - name: 软件更新管理
               tocHref: /configmgr/sum/
-              topicHref: /configmgr/sum/understand/software-updates-introduction
+              topicHref: /configmgr/sum/
             - name: 共同管理
               tocHref: /configmgr/comanage/
-              topicHref: /configmgr/comanage/overview
+              topicHref: /configmgr/comanage/
             - name: 桌面分析
               tocHref: /configmgr/desktop-analytics/
-              topicHref: /configmgr/desktop-analytics/overview
+              topicHref: /configmgr/desktop-analytics/
             - name: 开发
               tocHref: /configmgr/develop/
-              topicHref: /configmgr/develop/core/misc/system-center-configuration-manager-sdk
+              topicHref: /configmgr/develop/
               items:
                 - name: 参考
                   tocHref: /configmgr/develop/reference
