@@ -22,11 +22,14 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.json"
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "**/docfx.json"
         ]
       }
     ],
