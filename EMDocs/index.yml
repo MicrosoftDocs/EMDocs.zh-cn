@@ -1,0 +1,48 @@
+### YamlMime:Hub
+title: 企业移动性 + 安全性文档
+summary: Microsoft 企业移动性 + 安全性的技术文档
+brand: m365
+metadata:
+  title: 企业移动性 + 安全性文档
+  description: Microsoft 企业移动性 + 安全性的技术文档
+  ms.service: m365-md
+  ms.topic: hub-page
+  author: chenhao2020
+  ms.author: v-chenha
+  ms.date: 02/27/2020
+  ms.openlocfilehash: 5833e4fab500ab8326b70fb2fd5d05fc02f511a1
+  ms.sourcegitcommit: 9d1a6df6393b8eff7039be9424ce159fa843938a
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 02/20/2020
+  ms.locfileid: "78258635"
+additionalContent:
+  sections:
+  - items:
+    - title: Azure Active Directory
+      summary: 同步本地目录，并启用单一登录
+      url: https://docs.microsoft.com/azure/active-directory/index
+    - title: Microsoft Intune
+      summary: 从云中管理移动设备、应用和电脑
+      url: https://docs.microsoft.com/intune/index
+    - title: Microsoft Endpoint Configuration Manager
+      summary: 使用云驱动见解管理本地电脑、服务器和移动设备
+      url: https://docs.microsoft.com/configmgr/
+    - title: Microsoft Cloud App Security
+      summary: 能够深入了解、全面掌控并增强 SaaS 的安全性
+      url: https://docs.microsoft.com/cloud-app-security/
+    - title: Azure Information Protection
+      summary: 在创建或更新时，根据源、上下文和内容对数据进行分类
+      url: https://docs.microsoft.com/azure/information-protection/
+    - title: Microsoft Azure Multi-Factor Authentication
+      summary: 使用额外的身份验证级别安全访问你的数据和应用
+      url: https://docs.microsoft.com/azure/multi-factor-authentication/index
+    - title: 高级威胁分析
+      summary: 使用行为分析确定漏洞和威胁，并根据攻击时间线创建报表
+      url: https://docs.microsoft.com/advanced-threat-analytics/
+    - title: Azure 高级威胁防护
+      summary: 保护你的企业混合环境，使其免受多种高级定向网络攻击和内部威胁侵害
+      url: https://docs.microsoft.com/azure-advanced-threat-protection/
+    - title: Microsoft 标识管理器
+      summary: 通过自动化工作流、自助服务等功能管理标识
+      url: https://docs.microsoft.com/microsoft-identity-manager/
