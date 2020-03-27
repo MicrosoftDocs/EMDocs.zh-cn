@@ -11,11 +11,11 @@ ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
 ms.openlocfilehash: e82e70f920fe56634d47cdb3a89e64c844c9540a
-ms.sourcegitcommit: 76cad8e05a1a149fa5e344e680e6f11c08d89110
+ms.sourcegitcommit: 7011fd50ad322ed87de7a39b9b15d6cb99c408bc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79133944"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80291017"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
