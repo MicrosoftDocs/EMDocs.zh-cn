@@ -1,27 +1,27 @@
 ---
 title: Azure 信息保护高级版政府服务说明
-description: Azure 信息保护高级政府服务说明旨在作为我们的产品/服务的概述
+description: Azure 信息保护高级版政府服务说明旨在概述我们提供的产品/服务
 keywords: ''
-author: dougeby
-ms.author: dougeby
+author: mlottner
+ms.author: mlottner
 manager: dougeby
-ms.date: 01/12/2020
+ms.date: 03/26/2020
 ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: bb5a22063ce8dfeaa1f2303b3c41827746a9f69f
-ms.sourcegitcommit: cdf0b5b826aeaf0cf6c3a6cd180d44b9e13d543a
-ms.translationtype: MT
+ms.openlocfilehash: 75b8e9b247d8eccb9c5f553b2ccf57e553833dbb
+ms.sourcegitcommit: 7011fd50ad322ed87de7a39b9b15d6cb99c408bc
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "76549774"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80290984"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
-Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 DoD 环境中的产品/服务的概述，并涵盖与 Azure 信息保护高级商业版相比的功能变化产品. 若要详细了解适用于 GCC 的 Azure 信息保护，请参阅[美国政府和 Office 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-office-365-interoperability)的说明。
+Azure 信息保护高级版政府服务说明旨在概述我们在 GCC High 和 DoD 环境中提供的产品/服务，并涵盖与 Azure 信息保护高级版商业产品/服务相比的功能变化。 若要详细了解适用于 GCC 客户的 Azure 信息保护，请参阅[适用于美国政府的 EMS 产品/服务与 Office 365 互操作性](ems-govt-service-description.md#ems-offers-for-us-government-and-office-365-interoperability)的说明。
 
 ## <a name="azure-information-protection-premium-government-and-third-party-services"></a>Azure 信息保护高级版政府和第三方服务 
 
@@ -93,10 +93,18 @@ Office 客户端应用必须连接到 GCC High/DoD 实例并从中启动，才�
 
 
 ### <a name="aip-apps-configuration"></a>AIP 应用配置
+
 Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 GCC High/DoD 的正确服务实例。  
 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
-| Name | WebServiceUrl |
+| 名称 | WebServiceUrl |
 | 值 | https://api.informationprotection.azure.us |
-| 键入 | REG_SZ (String) |
+| 类型 | REG_SZ (String) |
+
+## <a name="service-tags"></a>服务标记
+
+请确保允许访问以下服务标记  的所有端口：
+*    AzureInformationProtection
+*    AzureActiveDirectory
+*    AzureFrontDoor.FrontEnd
