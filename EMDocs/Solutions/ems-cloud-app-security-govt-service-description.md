@@ -5,17 +5,17 @@ keywords: ''
 author: shsagir
 ms.author: shsagir
 manager: rkarlin
-ms.date: 03/13/2020
+ms.date: 03/26/2020
 ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: 3e122d51c6711a8638e81c4539b666835425ff4f
-ms.sourcegitcommit: 76cad8e05a1a149fa5e344e680e6f11c08d89110
+ms.openlocfilehash: 251170ad3c3b5aa90fa3e99a5a232dcd2b60bacf
+ms.sourcegitcommit: 136f426c676818a8e0c31a7c08d9ad1ea08241ef
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79133927"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "80359934"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -61,7 +61,7 @@ Microsoft Cloud App Security 条件访问应用控件（它使组织能够使用
 
 ## <a name="security-configuration-assessments"></a>安全配置评估
 
-不支持 Azure 和 AWS 的安全配置评估。
+不支持 AWS 的安全配置评估。
 
 ## <a name="other-integrations"></a>其他集成
 
