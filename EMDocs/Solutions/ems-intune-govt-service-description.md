@@ -10,16 +10,16 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: 4a0063e89d6428c0cc84b776d377d681cbf22376
-ms.sourcegitcommit: c2f6f9ac72d067603824084341565add5d5dad92
+ms.openlocfilehash: ed2139848ef81dec6025bf6f00f64404f64ec801
+ms.sourcegitcommit: abb2dadc772695f776b9725b0a17cc6d2fa7eaca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "76972264"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "80614813"
 ---
 # <a name="microsoft-intune-for-us-government-gcc-high-and-dod-service-description"></a>Microsoft Intune 美国政府版和 DoD 服务说明
 
-## <a name="how-to-use-this-service-description"></a>如何使用此服务说明
+## <a name="how-to-use-this-service-description"></a>如何使用本服务说明
 Intune 美国政府服务说明旨在作为 GCC 高和 DoD 环境中服务产品的概述，并涵盖了商业产品/服务中的功能差异。
 
 若要了解有关适用于 GCC 的 Intune 客户的详细信息，请参阅 [美国 Office 365 GCC 客户的 EMS][ems 365 提供](ems-govt-service-description.md#ems-offers-for-us-government-and-office-365-interoperability)的说明。
@@ -35,6 +35,7 @@ Intune GCC 高和 DoD 产品/服务基于 Microsoft Azure 政府云而构建，�
   - 适用于 GCC 的 Intune 高和 DoD 客户不支持本地 Exchange Connector。 
   - 仅在1906版或更高版本中提供共同管理支持 Configuration Manager。 
   - 尽管计划正在进行，但目前尚不能使用 Windows Autopilot 和企业应用商店功能。 
+  - 适用于 GCC 的 Intune 高不支持用于 macOS 设备的 Jamf Pro 和 Intune 集成。
 
 ## <a name="next-steps"></a>后续步骤
 若要详细了解 Intune 并探索如何开始，请参阅[Intune 公共文档](https://docs.microsoft.com/intune/index)。

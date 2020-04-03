@@ -10,18 +10,18 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: e82e70f920fe56634d47cdb3a89e64c844c9540a
-ms.sourcegitcommit: 7011fd50ad322ed87de7a39b9b15d6cb99c408bc
-ms.translationtype: HT
+ms.openlocfilehash: f684544d1c51f2514ff56e08b295ed43613fab63
+ms.sourcegitcommit: abb2dadc772695f776b9725b0a17cc6d2fa7eaca
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80291017"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "80614828"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明
-适用于美国政府的 EMS 服务说明旨在概述我们提供的适用产品/服务，包含以下内容：(1) 不同产品/服务中包含的服务和功能；(2) 适用于美国政府的产品/服务与商业产品/服务的区别；(3) 我们当前的合规性授权。
+"美国政府服务说明" 的 EMS 设计用于概述我们适用的产品/服务，并将介绍：（1）哪些服务和功能包含在不同的产品/服务中产品/服务和（3）我们当前的符合性授权。
 
 ## <a name="customer-eligibility"></a>客户资格
 美国政府产品/服务可供以下客户使用：(1) 美国联邦、州、地方和部落政府实体，以及 (2) 处理需符合政府法规和要求的数据，且经过资格验证，适合使用服务来满足这些要求的其他实体。 资格验证由 Microsoft 进行，验证过程中会确认处理的数据受政府管控。 适用于 GCC、GCC High 和 DOD 客户的 EMS 计划需要每月订阅，并向每个用户授予许可证。 对资格有疑问的实体应咨询其帐户团队。 
@@ -49,7 +49,7 @@ GCC 客户可以选择在购买 EMS E5 SKU 时，附加 Microsoft Cloud App Secu
 
 GCC High 和 DoD 客户可根据不同的要求和管理需求使用 Intune 的一组独立终结点。 下面是美国 GCC High 和 DoD 客户可使用的 EMS 管理门户的列表。 取决于服务可用性：
 
-- Office 365 门户： https://portal.office365.us （用于管理用户、组和许可证）
+- Office 365 门户： https://portal.office365.us（用于管理用户、组和许可证）
 - Azure/Intune 管理门户： https://portal.azure.us
 - Intune Web 公司门户： https://portal.manage.microsoft.us
 - Microsoft Cloud App Security 门户： https://portal.cloudappsecurity.us  
@@ -62,7 +62,7 @@ GCC High 和 DoD 客户可根据不同的要求和管理需求使用 Intune 的�
 - Azure 信息保护： 
   - 有关 Azure 政府中当前不可用功能的列表，请访问 [Azure 信息保护高级版](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)页面。 
 - Microsoft Intune： 
-  - 有关 Azure 政府中当前不可用功能的列表，请访问 [Microsoft Intune] 页面 (https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-intune-govt-service-description) )。 
+  - 有关 Azure 政府中当前不可用功能的列表，请访问 [Microsoft Intune] 页面 (https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-intune-govt-service-description))。 
 - Azure 高级威胁防护：
   - 有关 Azure 政府中当前不可用功能的列表，请访问 [Azure ATP](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-azure-atp-govt-service-description) 页面。
 - Microsoft Cloud App Security：
@@ -71,7 +71,7 @@ GCC High 和 DoD 客户可根据不同的要求和管理需求使用 Intune 的�
 ## <a name="location-of-customer-data"></a>客户数据的位置
 
 ### <a name="us-government-gcc-customers"></a>美国政府 GCC 客户
-当前可用于美国政府客户的 EMS 服务（Azure AD P1/P2、Intune 和 Azure 信息保护 P1/2）是由物理位置位于美国的数据中心提供的。 组织的客户静态数据存储在美国。 GCC 客户也可以选择在购买 EMS E5 许可证时，附加 Microsoft Cloud App Security 和 Azure ATP 商业产品/服务。 （它们不是美国 GCC 服务，不符合所有 GCC 属性。）若要了解 Microsoft 存储与 Microsoft Cloud App Security 相关的客户静态数据的位置，查看[联机服务条款](https://www.microsoft.com/licensing/product-licensing/products)。 要了解 Microsoft 存储与 Azure ATP（也是一种商业服务）相关的客户静态数据的位置，请参阅 Azure ATP 的[产品文档](https://docs.microsoft.com/azure-advanced-threat-protection/atp-technical-faq#do-i-have-the-flexibility-to-select-where-to-store-my-data)。
+当前可用于美国政府客户的 EMS 服务（Azure AD P1/P2、Intune 和 Azure 信息保护 P1/2）是由物理位置位于美国的数据中心提供的。 组织的客户静态数据存储在美国。 GCC 客户也可以选择在购买 EMS E5 许可证时，附加 Microsoft Cloud App Security 和 Azure ATP 商业产品/服务。 （这些是不是美国的 GCC 服务，不遵守所有的 GCC 属性。）有关 Microsoft 在与 Microsoft Cloud App Security （商业服务）上存储静态客户数据的位置的信息，请参阅[联机服务条款](https://www.microsoft.com/licensing/product-licensing/products)。 要了解 Microsoft 存储与 Azure ATP（也是一种商业服务）相关的客户静态数据的位置，请参阅 Azure ATP 的[产品文档](https://docs.microsoft.com/azure-advanced-threat-protection/atp-technical-faq#do-i-have-the-flexibility-to-select-where-to-store-my-data)。
 
 ### <a name="us-government-gcchigh-and-dod-customers"></a>美国政府 GCC High 和 DoD 客户
 使用面向美国政府 GCC High 和 DoD 产品/服务的 EMS 的组织可从以下功能中获益： 
@@ -86,4 +86,4 @@ GCC High 和 DoD 客户可根据不同的要求和管理需求使用 Intune 的�
 
 有多种 EMS 服务能够与某些第三方应用程序和服务无缝协作。 这些第三方应用程序和服务可能涉及在 EMS 基础结构之外的第三方系统上存储、传输和处理组织的数据或内容，因此未涵盖在我们的符合性和数据保护承诺之内。 建议在评估第三方应用和服务是否适用于你所在组织时查看这些第三方提供的隐私和符合性声明。
 
-有关详细信息，请参阅 [Microsoft 365 政府] (https://docs.microsoft.com/enterprise-mobility-security/) )。 
+有关详细信息，请参阅[Microsoft 365 政府](https://docs.microsoft.com/enterprise-mobility-security/)。 
