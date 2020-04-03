@@ -7,15 +7,21 @@ metadata:
   description: Microsoft 企业移动性 + 安全性的技术文档
   ms.service: m365-md
   ms.topic: hub-page
-  author: chenhao2020
-  ms.author: v-chenha
+  author: dougeby
+  ms.author: dougeby
   ms.date: 02/27/2020
-  ms.openlocfilehash: 5833e4fab500ab8326b70fb2fd5d05fc02f511a1
-  ms.sourcegitcommit: 9d1a6df6393b8eff7039be9424ce159fa843938a
+  ms.openlocfilehash: cfdb7eb5bec07abb26efdcd9a933ddce282ad30a
+  ms.sourcegitcommit: abb2dadc772695f776b9725b0a17cc6d2fa7eaca
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 02/20/2020
-  ms.locfileid: "78258635"
+  ms.lasthandoff: 04/02/2020
+  ms.locfileid: "80614856"
+productDirectory:
+  items:
+  - title: 安全远程工作
+    imageSrc: ./images/access.png
+    summary: 为远程工作人员启用安全和管理功能
+    url: ./remote-work/index.yml
 additionalContent:
   sections:
   - items:

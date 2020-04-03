@@ -1,0 +1,214 @@
+### YamlMime:Hub
+title: 为远程工作人员启用安全和管理功能
+summary: 让用户能够轻松地访问云服务和本地应用程序，并为所有设备启用新式管理功能。
+metadata:
+  title: 为远程工作人员启用安全和管理功能
+  description: 让用户能够轻松地访问云服务和本地应用程序，并为所有设备启用新式管理功能。
+  ms.service: m365-md
+  ms.topic: hub-page
+  author: dougeby
+  ms.author: dougeby
+  manager: mtillman
+  ms.date: 04/02/2020
+  ms.openlocfilehash: e83ee8218ca589f1dd895259739abcf98118ca78
+  ms.sourcegitcommit: abb2dadc772695f776b9725b0a17cc6d2fa7eaca
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/02/2020
+  ms.locfileid: "80615650"
+conceptualContent:
+  items:
+  - title: 连接到应用
+    links:
+    - url: https://docs.microsoft.com/azure/active-directory/manage-apps/what-is-application-management
+      itemType: overview
+      text: 使用 Azure AD 管理应用程序
+    - url: https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list
+      itemType: how-to-guide
+      text: SaaS 应用程序集成教程
+    - url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application
+      itemType: how-to-guide
+      text: 连接本地 Web 应用程序
+    - url: https://docs.microsoft.com/azure/active-directory/manage-apps/secure-hybrid-access
+      itemType: how-to-guide
+      text: 安全混合访问
+    - url: https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access
+      itemType: how-to-guide
+      text: 指导用户从“我的应用”门户登录并启动应用
+    - url: https://docs.microsoft.com/azure/active-directory/hybrid/choose-ad-authn
+      itemType: how-to-guide
+      text: 提示：为混合标识解决方案选择正确的身份验证方法
+    - url: https://docs.microsoft.com/azure/active-directory/app-provisioning/user-provisioning
+      itemType: how-to-guide
+      text: 提示：自动为应用执行用户预配
+  - title: 保护从任何位置访问
+    links:
+    - url: https://docs.microsoft.com/azure/active-directory/conditional-access/overview
+      itemType: overview
+      text: 什么是条件访问
+    - url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common
+      itemType: how-to-guide
+      text: 常见条件访问策略
+    - url: https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined
+      itemType: how-to-guide
+      text: 提示：启用合并安全信息注册
+    - url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-report-only
+      itemType: how-to-guide
+      text: 提示：启动条件访问推出（使用“仅限报告”模式）
+    - url: https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-deployment
+      itemType: how-to-guide
+      text: 启用自助式密码重置
+    - url: https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted
+      itemType: how-to-guide
+      text: 计划和启用 Azure 多重身份验证
+    - url: https://docs.microsoft.com/azure/active-directory/authentication/concept-registration-mfa-sspr-combined
+      itemType: how-to-guide
+      text: 提示：合并自助式密码重置和多重身份验证注册
+  - title: 扩展对业务合作伙伴的安全访问
+    links:
+    - url: https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b
+      itemType: how-to-guide
+      text: 什么是企业到企业 (B2B) 来宾用户访问？
+    - url: https://docs.microsoft.com/azure/active-directory/b2b/one-time-passcode
+      itemType: how-to-guide
+      text: 启用电子邮件一次性密码身份验证（预览版）
+    - url: https://docs.microsoft.com/azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal
+      itemType: how-to-guide
+      text: 将来宾用户添加到 Azure 门户中的目录
+    - url: https://docs.microsoft.com/azure/active-directory/b2b/delegate-invitations
+      itemType: how-to-guide
+      text: 启用和管理 B2B 协作和共享
+  - title: 为所有设备启用新式管理
+    links:
+    - url: https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune
+      itemType: overview
+      text: Microsoft Intune 概述
+    - url: https://docs.microsoft.com/mem/intune/fundamentals/setup-steps
+      itemType: how-to-guide
+      text: 设置 Intune
+    - url: https://docs.microsoft.com/mem/intune/enrollment/
+      itemType: how-to-guide
+      text: 在 Microsoft Intune 中注册设备
+    - url: https://docs.microsoft.com/mem/intune/apps/
+      itemType: how-to-guide
+      text: 管理和保护应用
+    - url: https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-overview
+      itemType: how-to-guide
+      text: 遵循引导式方案
+additionalContent:
+  sections:
+  - title: 视频
+    summary: 探索有助于你保护远程工作人员的技术的操作说明视频。
+    items:
+    - title: 单一登录
+      links:
+      - text: 使用 Azure Active Directory 进行 Web 单一登录
+        url: https://youtu.be/51B-jSOBF8U
+      - text: 什么是 SaaS 应用的单一登录
+        url: https://youtu.be/YOvEghVPV0Y
+      - text: 如何部署 SaaS 应用程序的单一登录
+        url: https://youtu.be/kSfiDDNg14U
+      - text: 如何推出 SaaS 应用程序的单一登录
+        url: https://youtu.be/vRA2Jbq5nCE
+    - title: 应用程序代理
+      links:
+      - text: 什么是 Azure Active Directory 中的应用程序代理？
+        url: https://youtu.be/GeMiyXkcehU
+      - text: 如何部署应用程序代理
+        url: https://youtu.be/_2kWq5H4NhY
+      - text: 如何推出应用程序代理
+        url: https://youtu.be/0mLFWcG95OA
+    - title: 条件性访问
+      links:
+      - text: 什么是条件访问？
+        url: https://youtu.be/ffMAw2IVO7A
+      - text: 提供设备控制的条件访问
+        url: https://youtu.be/NcONUf-jeS4
+      - text: 提供 Azure MFA 的条件访问
+        url: https://youtu.be/Tbc-SU97G-w
+      - text: 如何部署条件访问
+        url: https://youtu.be/c_izIRNJNuk
+      - text: 如何推出条件访问
+        url: https://youtu.be/0_Fze7Zpyvc
+    - title: 多重身份验证
+      links:
+      - text: 如何使用 Azure 多重身份验证来升级安全保障
+        url: https://youtu.be/FxW8vLxAjSk
+      - text: 如何注册 Azure 多重身份验证
+        url: https://youtu.be/uWbkLuI4g30
+    - title: 无密码身份验证
+      links:
+      - text: 什么是无密码身份验证？
+        url: https://youtu.be/8Na793pxKpk
+      - text: 使用 Microsoft 实现无密码
+        url: https://youtu.be/V9JOEhs3mNE
+      - text: Windows Hello 企业版：身份验证
+        url: https://youtu.be/WPmzoP_vMek
+      - text: 如何在 Azure Active Directory 中实现无密码身份验证
+        url: https://youtu.be/R4JtziRu764
+      - text: Windows Hello 企业版：设置
+        url: https://youtu.be/RImGsIjSJ1s
+      - text: 使用 FIDO2 设备登录 Microsoft 帐户
+        url: https://youtu.be/v_58pD6961w
+    - title: 自助式密码重置
+      links:
+      - text: 什么是自助式密码重置？
+        url: https://youtu.be/hc97Yx5PJiM
+      - text: 如何在 Azure Active Directory 中注册自助式密码重置
+        url: https://youtu.be/tFBPTdkC2ZI
+      - text: 如何部署自助式密码重置
+        url: https://youtu.be/Pa0eyqjEjvQ
+      - text: 如何推出自助式密码重置
+        url: https://youtu.be/OZn5btP6ZXw
+    - title: 合作伙伴 B2B 协作
+      links:
+      - text: 什么是 Azure Active Directory B2B 协作？
+        url: https://youtu.be/1TWxB4VYdJc
+      - text: 如何管理 B2B 标识
+        url: https://youtu.be/VeCrGXGSgWs
+      - text: Azure AD B2B 身份验证和联合身份验证
+        url: https://youtu.be/MLYiYKgrrmE
+    - title: Microsoft Intune
+      links:
+      - text: 什么是 Microsoft 终结点管理
+        url: https://youtu.be/GS7oNPInFuw
+      - text: 使用 Microsoft Intune 进行 iOS 和 iPadOS 设备管理
+        url: https://youtu.be/B_ccGuc37Pc
+      - text: 使用 Microsoft Intune 进行 macOS 设备管理
+        url: https://youtu.be/wFIEU1G9J10
+      - text: 使用 Microsoft Intune 进行 Android 设备管理
+        url: https://youtu.be/szQMosnYETc
+    - title: 安全性和支持远程工作的概述
+      links:
+      - text: 提升远程工作的安全性和绩效
+        url: https://event.on24.com/wcc/r/2244904/9BCC368CC596F369CAEAF445E1043D84
+  - title: 其他资源
+    summary: 发现其他资源和文档，包括有助于你在不额外增加成本的情况下部署 Microsoft 云解决方案的 FastTrack 体验。
+    items:
+    - title: FastTrack
+      summary: 我们将竭诚帮助你部署 Microsoft 云解决方案，不会额外收取费用。 立即请求协助。
+      url: https://www.microsoft.com/fasttrack?rtc=1
+    - title: Azure Active Directory 文档
+      summary: 官方 Azure AD 产品文档
+      url: https://docs.microsoft.com/azure/active-directory/
+    - title: Microsoft Intune 文档
+      summary: 官方 Intune 产品文档
+      url: https://docs.microsoft.com/mem/intune/
+  - title: 博客资源
+    summary: 在我们的社区中查找最重要的博客文章和文章，以帮助你为远程工作人员启用安全管理功能。
+    items:
+    - title: Azure AD 有助于你支持远程工作的 5 大方式
+      summary: 对于使用 Azure AD 的用户，许多功能都支持远程工作，同时还能帮助你保护组织安全。
+      url: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/top-5-ways-your-azure-ad-can-help-you-enable-remote-work/ba-p/1144691
+    - title: 帮助企业快速建立安全通过个人电脑和移动设备工作的机制
+      summary: 支持远程工作人员，这样员工能够以尽可能接近办公室的工作方式继续工作。
+      url: https://techcommunity.microsoft.com/t5/enterprise-mobility-security/helping-businesses-rapidly-set-up-to-work-securely-from-personal/ba-p/1239830
+    - title: 安全专业人员和 IT 人员在当今独特的远程工作场景中实现新式安全控制的替代方法
+      summary: 实现新式安全控制的替代方法，这样安全团队就能在更直接连接到 Internet 的网络体系结构中管理风险。
+      url: https://www.microsoft.com/security/blog/2020/03/26/alternative-security-professionals-it-achieve-modern-security-controls-todays-unique-remote-work-scenarios/
+    - title: 使用 Azure AD 快速安全地启用远程协作
+      summary: 如果希望工作人员和合作伙伴能够从远程位置有效协作，请注意以下几点。
+      url: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/enable-remote-collaboration-quickly-and-securely-with-azure-ad/ba-p/1257334
+    - title: 让远程工作人员更轻松地从任何位置安全访问他们所需的全部应用
+      summary: 让 Azure AD 成为所有应用的控制平面，不仅有助于确保在家办公的员工能够安全、无缝地访问自己所需的工具和资源，同时还能保护这些工具和资源免受未经授权的访问。
+      url: https://www.microsoft.com/security/blog/2020/03/31/making-easier-remote-workforce-securely-access-apps-from-anywhere/
