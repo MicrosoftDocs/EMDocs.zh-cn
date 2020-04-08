@@ -10,12 +10,12 @@ metadata:
   ms.author: dougeby
   manager: mtillman
   ms.date: 04/02/2020
-  ms.openlocfilehash: e83ee8218ca589f1dd895259739abcf98118ca78
-  ms.sourcegitcommit: abb2dadc772695f776b9725b0a17cc6d2fa7eaca
+  ms.openlocfilehash: 82f6a746d5db36ac4c1e3fdfa64e61829629920d
+  ms.sourcegitcommit: d49d2ae08c78f2b10c7bba2f01e7feb50bc24b37
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 04/02/2020
-  ms.locfileid: "80615650"
+  ms.lasthandoff: 04/07/2020
+  ms.locfileid: "80808243"
 conceptualContent:
   items:
   - title: 连接到应用
@@ -212,3 +212,6 @@ additionalContent:
     - title: 让远程工作人员更轻松地从任何位置安全访问他们所需的全部应用
       summary: 让 Azure AD 成为所有应用的控制平面，不仅有助于确保在家办公的员工能够安全、无缝地访问自己所需的工具和资源，同时还能保护这些工具和资源免受未经授权的访问。
       url: https://www.microsoft.com/security/blog/2020/03/31/making-easier-remote-workforce-securely-access-apps-from-anywhere/
+    - title: 有关使用条件访问来保护远程访问的常见问题解答
+      summary: 通过与快速启用远程工作、同时保护公司数据安全的客户密切合作，收集最佳做法和技巧。
+      url: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/frequent-questions-about-using-conditional-access-to-secure/ba-p/1276932
