@@ -9,13 +9,13 @@ metadata:
   author: dougeby
   ms.author: dougeby
   manager: mtillman
-  ms.date: 04/02/2020
-  ms.openlocfilehash: 82f6a746d5db36ac4c1e3fdfa64e61829629920d
-  ms.sourcegitcommit: d49d2ae08c78f2b10c7bba2f01e7feb50bc24b37
+  ms.date: 04/07/2020
+  ms.openlocfilehash: 0e29ff1b84fa18a2cd743d16a9af0569dd13d51f
+  ms.sourcegitcommit: b29c25c3cc0050ec49ccc5a6898853f044b64197
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 04/07/2020
-  ms.locfileid: "80808243"
+  ms.lasthandoff: 04/08/2020
+  ms.locfileid: "80871037"
 conceptualContent:
   items:
   - title: 连接到应用
