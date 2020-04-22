@@ -49,7 +49,7 @@
             - name: 故障排除
               tocHref: /intune-classic/troubleshoot/
               topicHref: /intune-classic/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
-            - name: 入门
+            - name: 开始使用
               tocHref: /intune-classic/get-started/
               topicHref: /intune-classic/get-started/get-started
             - name: 开发和自定义应用
@@ -58,11 +58,11 @@
             - name: 新功能
               tocHref: /intune-classic/whats-new/
               topicHref: /intune-classic/whats-new/whats-new-in-microsoft-intune
-        - name: Microsoft 标识管理器
+        - name: Microsoft Identity Manager
           tocHref: /microsoft-identity-manager/
           topicHref: /microsoft-identity-manager
           items:
-            - name: 参考
+            - name: 引用
               tocHref: /microsoft-identity-manager/reference/
               topicHref: /microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference
             - name: PAM
@@ -78,7 +78,7 @@
             - name: 应用程序管理
               tocHref: /configmgr/apps/
               topicHref: /configmgr/apps/
-            - name: 设备符合性
+            - name: 设备合规性
               tocHref: /configmgr/compliance/
               topicHref: /configmgr/compliance/
             - name: 移动设备管理
@@ -106,6 +106,6 @@
               tocHref: /configmgr/develop/
               topicHref: /configmgr/develop/
               items:
-                - name: 参考
+                - name: 引用
                   tocHref: /configmgr/develop/reference
                   topicHref: /configmgr/develop/reference/configuration-manager-reference

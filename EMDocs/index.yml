@@ -10,12 +10,12 @@ metadata:
   author: dougeby
   ms.author: dougeby
   ms.date: 02/27/2020
-  ms.openlocfilehash: cfdb7eb5bec07abb26efdcd9a933ddce282ad30a
-  ms.sourcegitcommit: abb2dadc772695f776b9725b0a17cc6d2fa7eaca
+  ms.openlocfilehash: f9682701471f74c06eecfeab94d88a7f3f00837a
+  ms.sourcegitcommit: 6b4939db2d80ec99d4e890c93d5e4a92973efff3
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 04/02/2020
-  ms.locfileid: "80614856"
+  ms.lasthandoff: 04/21/2020
+  ms.locfileid: "81740694"
 productDirectory:
   items:
   - title: 安全远程工作
@@ -30,17 +30,17 @@ additionalContent:
       url: https://docs.microsoft.com/azure/active-directory/index
     - title: Microsoft Intune
       summary: 从云中管理移动设备、应用和电脑
-      url: https://docs.microsoft.com/intune/index
+      url: https://docs.microsoft.com/mem/intune/
     - title: Microsoft Endpoint Configuration Manager
       summary: 使用云驱动见解管理本地电脑、服务器和移动设备
-      url: https://docs.microsoft.com/configmgr/
+      url: https://docs.microsoft.com/mem/configmgr/
     - title: Microsoft Cloud App Security
       summary: 能够深入了解、全面掌控并增强 SaaS 的安全性
       url: https://docs.microsoft.com/cloud-app-security/
-    - title: Azure Information Protection
+    - title: Azure 信息保护
       summary: 在创建或更新时，根据源、上下文和内容对数据进行分类
       url: https://docs.microsoft.com/azure/information-protection/
-    - title: Microsoft Azure Multi-Factor Authentication
+    - title: 多重身份验证
       summary: 使用额外的身份验证级别安全访问你的数据和应用
       url: https://docs.microsoft.com/azure/multi-factor-authentication/index
     - title: 高级威胁分析
@@ -49,6 +49,6 @@ additionalContent:
     - title: Azure 高级威胁防护
       summary: 保护你的企业混合环境，使其免受多种高级定向网络攻击和内部威胁侵害
       url: https://docs.microsoft.com/azure-advanced-threat-protection/
-    - title: Microsoft 标识管理器
+    - title: Microsoft Identity Manager
       summary: 通过自动化工作流、自助服务等功能管理标识
       url: https://docs.microsoft.com/microsoft-identity-manager/
