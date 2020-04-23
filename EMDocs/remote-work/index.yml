@@ -9,13 +9,13 @@ metadata:
   author: dougeby
   ms.author: dougeby
   manager: mtillman
-  ms.date: 04/07/2020
-  ms.openlocfilehash: 0e29ff1b84fa18a2cd743d16a9af0569dd13d51f
-  ms.sourcegitcommit: b29c25c3cc0050ec49ccc5a6898853f044b64197
+  ms.date: 04/13/2020
+  ms.openlocfilehash: e893d679e7ba03d48942d5555e47697c4761c716
+  ms.sourcegitcommit: 6b4939db2d80ec99d4e890c93d5e4a92973efff3
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 04/08/2020
-  ms.locfileid: "80871037"
+  ms.lasthandoff: 04/21/2020
+  ms.locfileid: "81664101"
 conceptualContent:
   items:
   - title: 连接到应用
@@ -194,24 +194,9 @@ additionalContent:
     - title: Microsoft Intune 文档
       summary: 官方 Intune 产品文档
       url: https://docs.microsoft.com/mem/intune/
-  - title: 博客资源
-    summary: 在我们的社区中查找最重要的博客文章和文章，以帮助你为远程工作人员启用安全管理功能。
-    items:
-    - title: Azure AD 有助于你支持远程工作的 5 大方式
-      summary: 对于使用 Azure AD 的用户，许多功能都支持远程工作，同时还能帮助你保护组织安全。
-      url: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/top-5-ways-your-azure-ad-can-help-you-enable-remote-work/ba-p/1144691
-    - title: 帮助企业快速建立安全通过个人电脑和移动设备工作的机制
-      summary: 支持远程工作人员，这样员工能够以尽可能接近办公室的工作方式继续工作。
-      url: https://techcommunity.microsoft.com/t5/enterprise-mobility-security/helping-businesses-rapidly-set-up-to-work-securely-from-personal/ba-p/1239830
-    - title: 安全专业人员和 IT 人员在当今独特的远程工作场景中实现新式安全控制的替代方法
-      summary: 实现新式安全控制的替代方法，这样安全团队就能在更直接连接到 Internet 的网络体系结构中管理风险。
-      url: https://www.microsoft.com/security/blog/2020/03/26/alternative-security-professionals-it-achieve-modern-security-controls-todays-unique-remote-work-scenarios/
-    - title: 使用 Azure AD 快速安全地启用远程协作
-      summary: 如果希望工作人员和合作伙伴能够从远程位置有效协作，请注意以下几点。
-      url: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/enable-remote-collaboration-quickly-and-securely-with-azure-ad/ba-p/1257334
-    - title: 让远程工作人员更轻松地从任何位置安全访问他们所需的全部应用
-      summary: 让 Azure AD 成为所有应用的控制平面，不仅有助于确保在家办公的员工能够安全、无缝地访问自己所需的工具和资源，同时还能保护这些工具和资源免受未经授权的访问。
-      url: https://www.microsoft.com/security/blog/2020/03/31/making-easier-remote-workforce-securely-access-apps-from-anywhere/
-    - title: 有关使用条件访问来保护远程访问的常见问题解答
-      summary: 通过与快速启用远程工作、同时保护公司数据安全的客户密切合作，收集最佳做法和技巧。
-      url: https://techcommunity.microsoft.com/t5/azure-active-directory-identity/frequent-questions-about-using-conditional-access-to-secure/ba-p/1276932
+    - title: 安全远程工作博客资源
+      summary: 适用于安全专业人员的最佳实践和指南，说明如何在此新环境中远程工作并保持安全。
+      url: https://www.microsoft.com/security/blog/secure-remote-work/
+    - title: Microsoft 技术社区 - 启用远程工作
+      summary: 分享启用远程工作的体验和想法，并与他人进行沟通。
+      url: https://techcommunity.microsoft.com/t5/enabling-remote-work/ct-p/RemoteWork
