@@ -1,27 +1,27 @@
 ---
 title: Azure 信息保护高级版政府服务说明
-description: Azure 信息保护高级版政府服务说明旨在概述我们提供的产品/服务
+description: Azure 信息保护高级政府服务说明旨在作为我们的产品/服务的概述
 keywords: ''
 author: mlottner
 ms.author: mlottner
 manager: dougeby
-ms.date: 03/26/2020
+ms.date: 04/22/2020
 ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: 75b8e9b247d8eccb9c5f553b2ccf57e553833dbb
-ms.sourcegitcommit: 7011fd50ad322ed87de7a39b9b15d6cb99c408bc
-ms.translationtype: HT
+ms.openlocfilehash: ee099c3e76ec5c6e2e32fd33d84c8b872abf16b3
+ms.sourcegitcommit: d1b80e2cfecbeca4ed2a9a082acf0c3c34fd4ee1
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80290984"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "82106757"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
-Azure 信息保护高级版政府服务说明旨在概述我们在 GCC High 和 DoD 环境中提供的产品/服务，并涵盖与 Azure 信息保护高级版商业产品/服务相比的功能变化。 若要详细了解适用于 GCC 客户的 Azure 信息保护，请参阅[适用于美国政府的 EMS 产品/服务与 Office 365 互操作性](ems-govt-service-description.md#ems-offers-for-us-government-and-office-365-interoperability)的说明。
+Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 DoD 环境中的产品/服务的概述，与 Azure 信息保护高级商业产品/服务的不同之处。 若要详细了解适用于 GCC 的 Azure 信息保护，请参阅[美国政府和 Office 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-office-365-interoperability)的说明。
 
 ## <a name="azure-information-protection-premium-government-and-third-party-services"></a>Azure 信息保护高级版政府和第三方服务 
 
@@ -102,9 +102,27 @@ Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 
 | 值 | https://api.informationprotection.azure.us |
 | 类型 | REG_SZ (String) |
 
+
+## <a name="firewalls-and-network-infrastructure"></a>防火墙和网络基础结构
+
+如果你具有配置为允许特定连接的防火墙或类似的干预网络设备，请使用这些设置来确保 Azure 信息保护的流畅通信。
+
+- 若要启用 Azure 信息保护经典客户端以下载标签和标签策略，请执行以下操作：允许通过 HTTPS **API.INFORMATIONPROTECTION.AZURE.US** URL。
+
+- 请勿终止到**Rms.aadrm.us** URL 的 TLS 客户端到服务连接（例如，要执行数据包级别检查）。 
+
+您可以使用以下 PowerShell 命令来帮助您确定客户端连接在到达 Azure Rights Management 服务之前是否终止：
+ 
+    $request = [System.Net.HttpWebRequest]::Create("https://admin.aadrm.us/admin/admin.svc")
+    $request.GetResponse()
+    $request.ServicePoint.Certificate.Issuer
+
+结果应显示发证 CA 来自 Microsoft CA，例如： `CN=Microsoft Secure Server CA 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US`。 如果你看到的颁发 CA 名称不是 Microsoft，则很可能是你安全的客户端到服务连接被终止，需要在防火墙上重新配置。
+
+
 ## <a name="service-tags"></a>服务标记
 
-请确保允许访问以下服务标记  的所有端口：
+请确保允许访问以下**服务标记**的所有端口：
 *    AzureInformationProtection
 *    AzureActiveDirectory
-*    AzureFrontDoor.FrontEnd
+*    AzureFrontDoor
