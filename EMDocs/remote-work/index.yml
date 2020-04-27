@@ -10,12 +10,12 @@ metadata:
   ms.author: dougeby
   manager: mtillman
   ms.date: 04/13/2020
-  ms.openlocfilehash: e893d679e7ba03d48942d5555e47697c4761c716
-  ms.sourcegitcommit: 6b4939db2d80ec99d4e890c93d5e4a92973efff3
+  ms.openlocfilehash: 1bd98afe1389ec583e0fd2193ced2b5b96ff2525
+  ms.sourcegitcommit: 17853bc5f839b24f28993bff166061c522ebb166
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 04/21/2020
-  ms.locfileid: "81664101"
+  ms.lasthandoff: 04/25/2020
+  ms.locfileid: "82158088"
 conceptualContent:
   items:
   - title: 连接到应用
@@ -64,6 +64,9 @@ conceptualContent:
     - url: https://docs.microsoft.com/azure/active-directory/authentication/concept-registration-mfa-sspr-combined
       itemType: how-to-guide
       text: 提示：合并自助式密码重置和多重身份验证注册
+    - url: https://mslearn.cloudguides.com/guides/Enable%20a%20combined%20MFA%20and%20SSPR%20registration%20experience%20in%20Azure%20AD
+      itemType: how-to-guide
+      text: 在 Azure AD 中启用合并的 MFA 和 SSPR 注册体验
   - title: 扩展对业务合作伙伴的安全访问
     links:
     - url: https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b
@@ -78,6 +81,9 @@ conceptualContent:
     - url: https://docs.microsoft.com/azure/active-directory/b2b/delegate-invitations
       itemType: how-to-guide
       text: 启用和管理 B2B 协作和共享
+    - url: https://mslearn.cloudguides.com/guides/Enable%20B2B%20Collaboration%20in%20Azure%20AD
+      itemType: how-to-guide
+      text: 在 Azure AD 中启用 B2B 协作
   - title: 为所有设备启用新式管理
     links:
     - url: https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune
@@ -95,6 +101,12 @@ conceptualContent:
     - url: https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-overview
       itemType: how-to-guide
       text: 遵循引导式方案
+    - url: https://mslearn.cloudguides.com/guides/Manage%20and%20protect%20mobile%20and%20desktop%20applications%20with%20Microsoft%20Endpoint%20Manager
+      itemType: how-to-guide
+      text: 使用 Microsoft Endpoint Manager 管理和保护移动应用程序和桌面应用程序
+    - url: https://mslearn.cloudguides.com/guides/Manage%20devices%20with%20Microsoft%20Endpoint%20Manager
+      itemType: how-to-guide
+      text: 使用 Microsoft Endpoint Manager 管理设备
 additionalContent:
   sections:
   - title: 视频
