@@ -14,8 +14,8 @@
           topicHref: /azure/active-directory
           items:
             - name: AD Graph API
-              tocHref: /azure-ad-graph-api/api/
-              topicHref: /azure-ad-graph-api/api/api-catalog
+              tocHref: /previous-versions/azure/ad/graph/api/
+              topicHref: /previous-versions/azure/ad/graph/api/api-catalog
         - name: Microsoft 365 企业
           tocHref: /microsoft-365-enterprise/
           topicHref: /microsoft-365-enterprise
@@ -34,35 +34,35 @@
               tocHref: /intune-user-help/
               topicHref: /intune-user-help
         - name: Intune - 经典控制台
-          tocHref: /intune-classic/
-          topicHref: /intune-classic
+          tocHref: /mem/intune/fundamentals/
+          topicHref: /mem/intune/fundamentals/ui-changes
           items:
             - name: 了解和浏览
-              tocHref: /intune-classic/understand-explore/
-              topicHref: /intune-classic/understand-explore/introduction-to-microsoft-intune
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/ui-changes
             - name: 规划和设计
-              tocHref: /intune-classic/plan-design/
-              topicHref: /intune-classic/plan-design/introduction
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/ui-changes
             - name: 部署和使用
-              tocHref: /intune-classic/deploy-use/
-              topicHref: /intune-classic/deploy-use/overview-of-device-and-app-lifecycles-in-microsoft-intune
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/ui-changes
             - name: 故障排除
-              tocHref: /intune-classic/troubleshoot/
-              topicHref: /intune-classic/troubleshoot/general-troubleshooting-tips-for-microsoft-intune
-            - name: 开始使用
-              tocHref: /intune-classic/get-started/
-              topicHref: /intune-classic/get-started/get-started
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/ui-changes
+            - name: 入门
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/ui-changes
             - name: 开发和自定义应用
-              tocHref: /intune-classic/develop/
-              topicHref: /intune-classic/develop/intune-app-sdk
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/ui-changes
             - name: 新功能
-              tocHref: /intune-classic/whats-new/
-              topicHref: /intune-classic/whats-new/whats-new-in-microsoft-intune
-        - name: Microsoft Identity Manager
+              tocHref: /mem/intune/fundamentals/
+              topicHref: /mem/intune/fundamentals/whats-new-archive-classic
+        - name: Microsoft 标识管理器
           tocHref: /microsoft-identity-manager/
           topicHref: /microsoft-identity-manager
           items:
-            - name: 引用
+            - name: 参考
               tocHref: /microsoft-identity-manager/reference/
               topicHref: /microsoft-identity-manager/reference/microsoft-identity-manager-2016-developer-reference
             - name: PAM
@@ -78,7 +78,7 @@
             - name: 应用程序管理
               tocHref: /configmgr/apps/
               topicHref: /configmgr/apps/
-            - name: 设备合规性
+            - name: 设备符合性
               tocHref: /configmgr/compliance/
               topicHref: /configmgr/compliance/
             - name: 移动设备管理
@@ -106,6 +106,6 @@
               tocHref: /configmgr/develop/
               topicHref: /configmgr/develop/
               items:
-                - name: 引用
+                - name: 参考
                   tocHref: /configmgr/develop/reference
                   topicHref: /configmgr/develop/reference/configuration-manager-reference
