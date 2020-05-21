@@ -10,12 +10,12 @@ metadata:
   ms.author: dougeby
   manager: mtillman
   ms.date: 04/27/2020
-  ms.openlocfilehash: b53896eede725b9a0dd1b0444e13b2b34ac08b0d
-  ms.sourcegitcommit: 07489de7ffb3682d178914c66bf72add55336c30
+  ms.openlocfilehash: 1664dadd82887353938bc9623797374c842215ac
+  ms.sourcegitcommit: caffb68be34b4e415e025ff6fddebc8ccd33466e
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 05/06/2020
-  ms.locfileid: "82851791"
+  ms.lasthandoff: 05/20/2020
+  ms.locfileid: "83696278"
 conceptualContent:
   title: 支持远程访问应用
   summary: 支持远程工作者访问所需的应用，但又不影响安全性
@@ -280,7 +280,7 @@ additionalContent:
       url: https://techcommunity.microsoft.com/t5/enabling-remote-work/ct-p/RemoteWork
     - title: 视频资源
       summary: 有助于确保远程工作人员安全性的视频资源
-      url: indexvideo.yml
+      url: https://www.youtube.com/channel/UC4s3tv0Qq_OSUBfR735Jc6A/playlists?view=50&sort=dd&shelf_id=3
     - title: Azure Active Directory 文档
       summary: 官方 Azure AD 产品文档
       url: https://docs.microsoft.com/azure/active-directory/
