@@ -107,5 +107,8 @@
       "template_folder": "_themes.pdf"
     }
   },
-  "need_generate_pdf": false
+  "need_generate_pdf": false,
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }
