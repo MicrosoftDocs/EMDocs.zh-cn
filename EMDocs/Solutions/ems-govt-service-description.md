@@ -10,12 +10,11 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: 73cc120631dfef8e3b21245446b92e8731dee781
-ms.sourcegitcommit: 17853bc5f839b24f28993bff166061c522ebb166
-ms.translationtype: MT
+ms.openlocfilehash: 59cb2a8871941eb7ec4b703078f4842593720420
+ms.sourcegitcommit: ccc67229860579ce570f87248d447835b1209e69
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "82158071"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "86032549"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
@@ -47,7 +46,7 @@ GCC 客户可以选择在购买 EMS E5 SKU 时，附加 Microsoft Cloud App Secu
 ## <a name="ems-for-us-gcc-high-and-dod-customers"></a>适用于美国 GCC 和 DoD 客户的 EMS
 适用于美国 GCC 和 DOD 客户的 EMS 产品基于 Microsoft [Azure 政府](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)云而构建，旨在与 OFFICE 365 GCC 高和 DOD 环境结合工作。 EMS E5 套件适用于 GCC 高客户和 DoD 客户，但是 Microsoft Cloud App Security 和 Azure 高级威胁防护仅适用于 GCC 高客户。 Azure Active Directory P1/P2、Microsoft Intune、Azure 信息保护 P1/P2、Microsoft Cloud App Security 和 Azure ATP 认证 FedRAMP-高。
 
-基于不同需求和管理需求，GCC 高和 DOD 客户可以使用一组单独的终结点。 下面是可供我们的 GCC 高级和 DOD 客户使用的 EMS 管理门户列表。 取决于服务可用性：
+基于不同需求和管理需求，GCC 高和 DOD 客户可以使用一组单独的终结点。 下面是可供我们的 GCC 高级和 DOD 客户使用的 EMS 管理门户列表（取决于服务可用性）：
 
 - Office 365 门户：https://portal.office365.us（用于管理用户、组和许可证）
 - Azure/Intune 管理门户：https://portal.azure.us
@@ -62,7 +61,7 @@ GCC 客户可以选择在购买 EMS E5 SKU 时，附加 Microsoft Cloud App Secu
 - Azure 信息保护： 
   - 有关 Azure 政府版中当前不可用的功能的列表，请访问[Azure 信息保护高级版](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description)页面。 
 - Microsoft Intune： 
-  - 请访问 [Microsoft Intune] 页（https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-intune-govt-service-description)获取 Azure 政府版中当前不可用的功能的列表。 
+  - 请访问 [Microsoft Intune] 页（ https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-intune-govt-service-description) 获取 Azure 政府版中当前不可用的功能的列表。 
 - Azure 高级威胁防护：
   - 有关 Azure 政府版中当前不可用的功能的列表，请访问[AZURE ATP](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-azure-atp-govt-service-description)页面。
 - Microsoft Cloud App Security：
