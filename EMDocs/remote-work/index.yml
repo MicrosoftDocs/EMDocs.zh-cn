@@ -10,12 +10,12 @@ metadata:
   ms.author: dougeby
   manager: mtillman
   ms.date: 04/27/2020
-  ms.openlocfilehash: 1664dadd82887353938bc9623797374c842215ac
-  ms.sourcegitcommit: caffb68be34b4e415e025ff6fddebc8ccd33466e
+  ms.openlocfilehash: 15f3c6f81cd8deacf2f2c1b12f08e510d668020a
+  ms.sourcegitcommit: 8fe4020cff000919d3e1dda2763650eff30fc4d1
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 05/20/2020
-  ms.locfileid: "83696278"
+  ms.lasthandoff: 07/14/2020
+  ms.locfileid: "86303341"
 conceptualContent:
   title: 支持远程访问应用
   summary: 支持远程工作者访问所需的应用，但又不影响安全性
@@ -48,6 +48,12 @@ conceptualContent:
     - text: 遵循将 SaaS 应用程序与 Azure Active Directory 集成的教程
       itemType: how-to-guide
       url: https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list
+    - text: Azure Active Directory 功能部署指南
+      itemType: how-to-guide
+      url: https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-deployment-checklist-p2
+    - text: Azure Active Directory 部署计划
+      itemType: how-to-guide
+      url: https://aka.ms/DeploymentPlans
     - text: 通过应用程序代理添加本地应用程序
       itemType: how-to-guide
       url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application
@@ -63,9 +69,15 @@ conceptualContent:
     - text: 提示：自动为应用执行用户预配
       itemType: how-to-guide
       url: https://docs.microsoft.com/azure/active-directory/app-provisioning/user-provisioning
+    - text: 计划 Azure AD 应用程序代理部署
+      itemType: how-to-guide
+      url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-deployment-plan
     - text: 交互式指南：使用 Azure AD 应用程序代理提供对本地应用程序的安全远程访问
       itemType: how-to-guide
       url: https://mslearn.cloudguides.com/guides/Provide%20secure%20remote%20access%20to%20on-premises%20applications%20with%20Azure%20AD%20Application%20Proxy
+    - text: 远程访问解决方案比较
+      itemType: how-to-guide
+      url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-migration
   - title: 启用包含条件访问的多重身份验证
     links:
     - text: MFA 的工作原理是什么？
@@ -138,7 +150,7 @@ additionalContent:
       - text: 指导方案
         url: https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-overview
       - text: 身份识别与设备访问配置
-        url: http://aka.ms/m365goldenconfig
+        url: https://aka.ms/m365goldenconfig
       - text: 交互式指南：使用 Microsoft Endpoint Manager 管理设备
         url: https://mslearn.cloudguides.com/guides/Manage%20devices%20with%20Microsoft%20Endpoint%20Manager
     - title: 配置和保护应用
