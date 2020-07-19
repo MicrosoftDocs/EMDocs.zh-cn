@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: 670d0cf9c07e0af3bbc282f0c5ca89a2b1c92da4
-ms.sourcegitcommit: 9c743600314b5957bc8f70735e1d8d0cbdac0323
+ms.openlocfilehash: b270cab9f833758e8735e9aeba0ff1beecca85fb
+ms.sourcegitcommit: dbe9e48101947dd73b6c3688242f35fc55130a9f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82924483"
+ms.lasthandoff: 07/19/2020
+ms.locfileid: "86468386"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -48,7 +48,6 @@ Azure 连接器和 Office 365 连接器适用于每个服务的美国政府实�
 **不支持以下 DLP 集成：**
 
 - Microsoft 信息保护标签，提供跨 Office 365 和 Azure 信息保护的统一标签。
-- 与 Microsoft 数据分类服务（DC）的本机集成
 
 ## <a name="conditional-access-app-control"></a>条件访问应用控制
 
