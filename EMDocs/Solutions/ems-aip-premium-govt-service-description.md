@@ -10,18 +10,18 @@ ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: e15a537fd0dfdfac2639adfaf5892d2b3e7eb8a9
-ms.sourcegitcommit: 93d2f48c81b684cd54cb5b18110530521c44ae6d
+ms.openlocfilehash: 14ea56cd03851ff71c192cda06dfc5d0ea294ef7
+ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389079"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "88969786"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
-Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD 环境中的产品/服务的概述，并涵盖与 Azure 信息保护高级商业产品/服务的不同之处。 若要详细了解适用于 GCC 和 GCC 高级客户的 Azure 信息保护，请参阅[美国政府版和 Office 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-office-365-interoperability)的说明。
+Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD 环境中的产品/服务的概述，并涵盖与 Azure 信息保护高级商业产品/服务的不同之处。 若要详细了解适用于 GCC 和 GCC 高客户的 Azure 信息保护，请参阅 [美国政府和 Microsoft 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-microsoft-365-interoperability)的说明。
 
 ## <a name="azure-information-protection-premium-government-and-third-party-services"></a>Azure 信息保护高级版政府和第三方服务 
 
@@ -35,9 +35,9 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 
 * 文档跟踪和吊销当前不可用。 
 
-* 仅 Microsoft 365 应用（9126.1001 版或更高版本）支持分类和标记外接程序。 不支持 Office 2010，Office 2013 和其他 Office 2016 版本。 
+* 仅 (版本9126.1001 或更高版本) Microsoft 365 应用支持分类和标记外接程序。 不支持 Office 2010，Office 2013 和其他 Office 2016 版本。 
 
-* 仅 Microsoft 365 应用（9126.1001 版或更高版本）支持信息 Rights Management （IRM）。 不支持 Office 2010，Office 2013 和其他 Office 2016 版本。 
+* 仅 Rights Management 版本9126.1001 或更高版本 (的 Microsoft 365 应用支持 (IRM) 的信息。 不支持 Office 2010，Office 2013 和其他 Office 2016 版本。 
 
 * 目前无法将受保护的文档和电子邮件共享给商业云中的用户。 包括商业云中的 Microsoft 365 应用用户、商业云中的非 Microsoft 365 应用用户以及具有个人 RMS 许可证的用户。 
 
@@ -51,33 +51,33 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 ## <a name="configuring-azure-information-protection-unified-labeling-solution-for-gcc-high-and-dod-customers"></a>为 GCC 高级和 DoD 客户配置 Azure 信息保护统一标签解决方案
 
 > [!IMPORTANT]
-> 从2020年7月更新起，Azure 信息保护统一标签解决方案的所有*新*的 GCC 高客户都可以仅使用常规菜单和扫描仪菜单功能。 
+> 从2020年7月更新起，Azure 信息保护统一标签解决方案的所有 *新* 的 GCC 高客户都可以仅使用常规菜单和扫描仪菜单功能。 
 
-本部分中提供的配置详细信息仅适用于适用于 GCC 高客户和 DoD 客户的 Azure 信息保护统一标签解决方案。 有关其他所有配置的详细信息，请参阅[GCC 高客户和 DoD 客户的标准配置信息](#configuring-azure-information-protection-for-gcc-high-and-dod-customers)。
+本部分中提供的配置详细信息仅适用于适用于 GCC 高客户和 DoD 客户的 Azure 信息保护统一标签解决方案。 有关其他所有配置的详细信息，请参阅 [GCC 高客户和 DoD 客户的标准配置信息](#configuring-azure-information-protection-for-gcc-high-and-dod-customers)。
 
 
-### <a name="aip-apps-configuration-unified-labeling-only"></a>AIP apps 配置（仅限统一标签）
+### <a name="aip-apps-configuration-unified-labeling-only"></a>AIP apps 配置 (仅) 的统一标签
 
 对于统一标签解决方案，Windows 上的 AIP 应用需要一个特殊的注册表项，以便将其指向正确的主权云。 请确保为您的设置使用正确的值。  
 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
 | 名称 | CloudEnvType |
-| 值 | 0/1/2 |
+| “值” | 0/1/2 |
 | 类型 | REG_DWORD |
  
 
 | 值  | 详细信息  |
 |---------|---------|
-|商用  |  0（默认值）     |
+|商用  |  0 (默认值)      |
 |GCC   |     1    |
 |GCC High    |    2     |
 
 
  
-- 注册表项的默认值为0（零）。 
-- 如果该键为空或不正确，则预期的行为是日志中的打印错误，它的行为类似于默认（0-商业）。 
-- 如果该键不存在，则将表现为默认值（0-商业）。
+- 注册表项的默认值为 0 (零) 。 
+- 如果该键为空或不正确，则预期的行为是日志中的打印错误，它的行为类似于默认 (0-商用) 。 
+- 如果该注册表项不存在，它将表现为默认 (0-商用) 。
 - 请确保在卸载后不删除该注册表项。 
 
 ## <a name="configuring-azure-information-protection-for-gcc-high-and-dod-customers"></a>为 GCC High 和 DoD 客户配置 Azure 信息保护
@@ -101,11 +101,11 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 ### <a name="dns-configuration-for-encryption-windows"></a>用于加密的 DNS 配置 (Windows)
 为了使加密正常工作，Office 客户端应用程序必须连接到该服务的 GCC、GCC 高/DoD 实例，并从此处启动。 若要将客户端应用程序重定向到正确的服务实例，租户管理员必须使用有关 Azure RMS URL 的信息来配置 DNS SRV 记录。 如果没有 DNS SRV 记录，客户端应用程序将默认尝试连接到公有云实例，并失败。
 
-而且，假设用户将基于租户拥有域（例如： joe@contoso.us ），而不是 onmicrosoft 用户名（例如：）登录用户名 joe@contoso.onmicrosoft.us 。 用户名中的域名用于将 DNS 重定向到正确的服务实例。
+而且，假设用户将基于租户所有者域 (登录用户名，例如： joe@contoso.us) ，而不是 onmicrosoft 用户名 (例如： joe@contoso.onmicrosoft.us) 。 用户名中的域名用于将 DNS 重定向到正确的服务实例。
 
 * 获取 Rights Management 服务 ID 
   * 以管理员身份启动 PowerShell 
-  * 如果未安装 AADRM 模块，请运行`Install-Module aadrm`  
+  * 如果未安装 AADRM 模块，请运行 `Install-Module aadrm`  
   * 使用 `Connect-aadrmservice -environmentname azureusgovernment` 连接到服务
   * 运行 `(Get-aadrmconfiguration).RightsManagementServiceId`，以获取 Rights Management 服务 ID
 * 登录到 DNS 提供程序，然后导航到域的 DNS 设置以添加新的 SRV 记录
@@ -116,7 +116,7 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
   * 端口 = `80` 
   * 优先级、权重、秒、TTL = 默认值 
 * 在 [Azure 门户](https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Domains)中，将自定义域与租户相关联。 关联自定义域将在 DNS 中添加一个条目，这可能需要几分钟的时间来验证添加值。   
-* 用相应的全局管理员凭据登录到 Office 管理中心并添加域（例如： contoso.us）以用于用户创建。 在验证过程中，可能需要执行其他一些 DNS 更改。 验证完成后，即可创建用户。
+* 用相应的全局管理员凭据登录到 Office 管理中心并添加域 (例如： contoso.us) 用于用户创建。 在验证过程中，可能需要执行其他一些 DNS 更改。 验证完成后，即可创建用户。
 
 ### <a name="dns-configuration-for-encryption-mac-ios-android"></a>用于加密的 DNS 配置（Mac、iOS、Android）
 * 登录到 DNS 提供程序，然后导航到域的 DNS 设置以添加新的 SRV 记录
@@ -129,9 +129,9 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 
 ### <a name="label-migration"></a>标签迁移
 
-GCC 高客户需要使用 PowerShell 迁移所有现有标签。 传统的 AIP 迁移方法**不适用于**GCC 高级用户。 
+GCC 高客户需要使用 PowerShell 迁移所有现有标签。 传统的 AIP 迁移方法 **不适用于** GCC 高级用户。 
 
-使用[新标签](https://docs.microsoft.com/powershell/module/exchange/new-label?view=exchange-ps)cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照[使用安全 & 符合性中心连接和运行 cmdlet 的说明](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps#connect-to-the-security--compliance-center)进行操作。 
+使用 [新标签](https://docs.microsoft.com/powershell/module/exchange/new-label?view=exchange-ps) cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps#connect-to-the-security--compliance-center) 进行操作。 
 
 现有敏感度标签具有加密时的迁移示例：
 
@@ -146,7 +146,7 @@ Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
 | 名称 | WebServiceUrl |
-| 值 | https://api.informationprotection.azure.us |
+| “值” | https://api.informationprotection.azure.us |
 | 类型 | REG_SZ (String) |
 
 
@@ -156,7 +156,7 @@ Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 
 
 - 若要启用 Azure 信息保护经典客户端以下载标签和标签策略，请执行以下操作：允许通过 HTTPS **API.INFORMATIONPROTECTION.AZURE.US** URL。
 
-- 请勿终止到**Rms.aadrm.us** URL 的 TLS 客户端到服务连接（例如，要执行数据包级别检查）。 
+- 请勿终止到 **Rms.aadrm.us** URL 的 TLS 客户端到服务连接 (例如，要执行数据包级别检查) 。 
 
 您可以使用以下 PowerShell 命令来帮助您确定客户端连接在到达 Azure Rights Management 服务之前是否终止：
 
@@ -171,7 +171,7 @@ $request.ServicePoint.Certificate.Issuer
 
 ## <a name="service-tags"></a>服务标记
 
-请确保允许访问以下**服务标记**的所有端口：
+请确保允许访问以下 **服务标记**的所有端口：
 *    **AzureInformationProtection**
 *    **AzureActiveDirectory**
 *    **AzureFrontDoor.Frontend**

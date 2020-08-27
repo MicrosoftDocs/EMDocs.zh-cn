@@ -1,9 +1,9 @@
 ---
-ms.openlocfilehash: 7a7696b5c0a84413e52374a40ab71c111dd096f8
-ms.sourcegitcommit: c63d47c411504fb84651c43bb6851d9692450067
+ms.openlocfilehash: c8941525391ede421a2e0965cd1a2a83c427f1b1
+ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "20630941"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "88969888"
 ---
-<Token xmlns:xlink="http://www.w3.org/1999/xlink">Office 365</Token>
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Microsoft 365</Token>

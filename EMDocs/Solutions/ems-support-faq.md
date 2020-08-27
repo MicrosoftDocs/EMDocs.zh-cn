@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.suite: ems
 ms.service: microsoft-intune
-ms.openlocfilehash: 4b4ab8729d99fc47ea3c54fdc264086e8c39295f
-ms.sourcegitcommit: 9c743600314b5957bc8f70735e1d8d0cbdac0323
+ms.openlocfilehash: 5f2eff552b6c9c1ce041027a4a473f691dae7906
+ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82924500"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "88969828"
 ---
 # <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持常见问题
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。  请查看下面的详细信息。
@@ -28,23 +28,23 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 **如何获取 Intune 支持？**
 
-企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交 Intune 支持请求。 [详细了解 Intune 支持选项](https://docs.microsoft.com/intune/get-support)。
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Intune 支持请求。 [详细了解 Intune 支持选项](https://docs.microsoft.com/intune/get-support)。
 
 如何获取 Azure 信息保护支持？****
 
-企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交 Azure 信息保护支持请求。 [深入了解 Azure 信息保护支持选项](https://docs.microsoft.com/information-protection/get-started/information-support#to-contact-microsoft-support)。
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Azure 信息保护的支持请求。 [深入了解 Azure 信息保护支持选项](https://docs.microsoft.com/information-protection/get-started/information-support#to-contact-microsoft-support)。
 
 如何获取 Azure Active Directory 支持？****
 
-企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交 Azure AD Premium 1 和 Premium 2 支持请求。 详细了解 Intune 支持选项。 [了解如何获取 Azure Active Directory 支持](https://docs.microsoft.com/azure/active-directory/active-directory-troubleshooting-support-howto)。
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Azure AD Premium 1 和高级版2的支持请求。 详细了解 Intune 支持选项。 [了解如何获取 Azure Active Directory 支持](https://docs.microsoft.com/azure/active-directory/active-directory-troubleshooting-support-howto)。
 
 如何获取云应用程序安全性支持？****
 
-企业移动性 + 安全性客户可以通过 Azure 或 Office 365 门户提交云应用安全性的支持请求。 
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Cloud App Security 的支持请求。 
 
-**我无法通过 Office 365 门户提交支持请求。是否有电话号码来寻求支持？**
+**我无法通过 Microsoft 365 门户提交支持请求。是否有电话号码来寻求支持？**
 
-请转至 Office 365 支持，查找你所在地区的支持电话号码。
+请参阅 Microsoft 365 支持人员查找你所在地区的支持电话号码。
 
 **如何获取具有批量许可、批量许可联机服务激活的支持，或是否需要重新发送激活电子邮件？**
 
@@ -58,7 +58,7 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 请转至 Azure 门户的许可证分配。 请按照欢迎电子邮件中的说明来管理新的企业移动性 + 安全性许可证。
 
-**我以前有 Office 365 订阅，但通过企业云套件（ECS）续订了订阅，其中包括 Office 365 和企业移动性 + 安全性。如何实现处理许可证管理？**
+**我以前有 Microsoft 365 订阅，但通过企业云套件 (ECS) 续订了订阅，其中包括 Microsoft 365 和企业移动性 + 安全性。如何实现处理许可证管理？**
 
 请转至 Azure 门户的许可证分配。 请按照欢迎电子邮件中的说明来管理新的企业移动性 + 安全性许可证。
 
@@ -68,7 +68,7 @@ Azure 高级威胁防护 (AATP) 是 EMS E5 的一项新增功能。 这是一项
 
 **如何获取 Azure 高级威胁防护支持？**
 
-企业移动性 + 安全性客户可以通过 [Support.Microsoft.com 门户](https://support.microsoft.com)提交 Azure 高级威胁防护的支持请求。 AATP 客户还可以通过 Office 365 或 Azure 门户提交支持请求。  有关详细信息，请参阅[此处](https://techcommunity.microsoft.com/t5/Azure-Advanced-Threat-Protection/bd-p/AzureAdvancedThreatProtection)。
+企业移动性 + 安全性客户可以通过 [Support.Microsoft.com 门户](https://support.microsoft.com)提交 Azure 高级威胁防护的支持请求。 AATP 客户还可以使用 Microsoft 365 或 Azure 门户提交支持请求。  有关详细信息，请参阅[此处](https://techcommunity.microsoft.com/t5/Azure-Advanced-Threat-Protection/bd-p/AzureAdvancedThreatProtection)。
 
 ## <a name="additional-help-for-other-questions"></a>其他问题的额外帮助
 [Azure Active Directory 支持论坛](https://social.msdn.microsoft.com/forums/home?forum=windowsazuread)
