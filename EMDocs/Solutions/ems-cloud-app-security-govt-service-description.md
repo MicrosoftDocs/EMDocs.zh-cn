@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: be2e2c58ac72d38f61ad102df032a241a6b5a8f5
-ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
+ms.openlocfilehash: a9b92f89b6ee7a854b4fe01f049cd2ec7a7bc640
+ms.sourcegitcommit: 60618bc9f53c47a1a6d457c111cdf7143a5fa51e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "88969735"
+ms.lasthandoff: 08/30/2020
+ms.locfileid: "89116829"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -61,6 +61,10 @@ Microsoft Cloud App Security 条件访问应用控制，这使组织能够使用
 ## <a name="security-configuration-assessments"></a>安全配置评估
 
 不支持 AWS 的安全配置评估。
+
+## <a name="azure-sentinel-integration"></a>Azure Sentinel 集成
+
+目前不支持 Microsoft Cloud App Security 和 Azure Sentinel 之间的集成。
 
 ## <a name="other-integrations"></a>其他集成
 

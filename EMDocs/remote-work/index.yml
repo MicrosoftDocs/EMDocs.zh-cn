@@ -10,12 +10,12 @@ metadata:
   ms.author: dougeby
   manager: mtillman
   ms.date: 04/27/2020
-  ms.openlocfilehash: 15f3c6f81cd8deacf2f2c1b12f08e510d668020a
-  ms.sourcegitcommit: 8fe4020cff000919d3e1dda2763650eff30fc4d1
+  ms.openlocfilehash: 821bfda4c57f2321b6732f236edf3202dc6d8228
+  ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/14/2020
-  ms.locfileid: "86303341"
+  ms.lasthandoff: 08/27/2020
+  ms.locfileid: "88969803"
 conceptualContent:
   title: 支持远程访问应用
   summary: 支持远程工作者访问所需的应用，但又不影响安全性
@@ -240,7 +240,7 @@ additionalContent:
         url: https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices
     - title: 启用安全链接和安全附件
       links:
-      - text: 什么是 Office 365 高级威胁防护
+      - text: 什么是 Microsoft 365 高级威胁防护
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide
       - text: 什么是安全链接？
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide
@@ -250,7 +250,7 @@ additionalContent:
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies?view=o365-worldwide
       - text: 设置安全附件策略
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies?view=o365-worldwide
-      - text: 在 Office 365 中防御威胁
+      - text: 防范 Microsoft 365 中的威胁
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide
     - title: 发现组织中使用的所有云应用和服务
       links:
@@ -268,11 +268,11 @@ additionalContent:
         url: https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-vdi
     - title: 审阅 Office ATP 配置
       links:
-      - text: 配置 Office 365 租户以提高安全性
+      - text: 配置 Microsoft 365 租户以提高安全性
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide
       - text: 保护员工收件箱的建议设置
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/recommended-settings-for-eop-and-office365-atp?view=o365-worldwid
-      - text: 管理 Office 365 权限
+      - text: 管理 Microsoft 365 权限
         url: https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center?view=o365-worldwide
     - title: 实现应用保护策略
       links:
@@ -311,6 +311,6 @@ additionalContent:
     - title: Microsoft Teams 文档
       summary: 官方 Teams 产品文档
       url: https://docs.microsoft.com/microsoftteams/
-    - title: Office 365 高级威胁防护文档
-      summary: 官方 Office 365 ATP 产品文档
+    - title: Microsoft 365 高级威胁防护文档
+      summary: 官方 Microsoft 365 ATP 产品文档
       url: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide
