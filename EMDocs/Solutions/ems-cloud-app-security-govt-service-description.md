@@ -5,17 +5,17 @@ keywords: ''
 author: shsagir
 ms.author: shsagir
 manager: rkarlin
-ms.date: 03/26/2020
+ms.date: 09/14/2020
 ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: a9b92f89b6ee7a854b4fe01f049cd2ec7a7bc640
-ms.sourcegitcommit: 60618bc9f53c47a1a6d457c111cdf7143a5fa51e
+ms.openlocfilehash: 9fdadbcb5c20bcecfe07dc9ba3c4e0505845c650
+ms.sourcegitcommit: 1539648861a2712bb4551f44e378b4d4dda03432
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2020
-ms.locfileid: "89116829"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "90060467"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -57,10 +57,6 @@ Microsoft Cloud App Security 条件访问应用控制，这使组织能够使用
 ## <a name="notifications-and-automation"></a>通知和自动化
 
 此时不支持警报的管理员电子邮件通知，以及在检测到违规时发送给用户的通知。
-
-## <a name="security-configuration-assessments"></a>安全配置评估
-
-不支持 AWS 的安全配置评估。
 
 ## <a name="azure-sentinel-integration"></a>Azure Sentinel 集成
 
