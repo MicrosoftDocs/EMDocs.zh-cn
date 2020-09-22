@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: 31f10d34bbfc1f49a747cfcb36c51e806e320717
-ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
+ms.openlocfilehash: a3aca8e8bb63fe90862efe21b8a1f309b34e0eed
+ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "88969854"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90989122"
 ---
 # <a name="microsoft-intune-for-us-government-gcc-high-and-dod-service-description"></a>Microsoft Intune 美国政府版和 DoD 服务说明
 
@@ -26,7 +26,7 @@ Intune 美国政府服务说明旨在作为 GCC 高和 DoD 环境中服务产品
 
 ## <a name="get-started-with-intune-for-us-government-gcc-high-and-dod"></a>适用于美国政府版和 DoD 的 Intune 入门
 
-Intune GCC 高和 DoD 产品/服务是在 Microsoft Azure 政府云上构建的，旨在与 Microsoft 365 GCC 的高和 DoD 环境进行互操作。 有关此服务以及如何使用该服务的完整详细信息，请参阅 [Intune 公共文档](https://docs.microsoft.com/intune/)。 公共文档应用作部署和操作服务的起点，并提供以下服务说明详细信息，以及从 GCC 高环境中的功能或功能进行的更改。 
+Intune GCC 高和 DoD 产品/服务是在 Microsoft Azure 政府云上构建的，旨在与 Microsoft 365 GCC 的高和 DoD 环境进行互操作。 有关此服务以及如何使用该服务的完整详细信息，请参阅 [Intune 公共文档](/intune/)。 公共文档应用作部署和操作服务的起点，并提供以下服务说明详细信息，以及从 GCC 高环境中的功能或功能进行的更改。 
 
 - **Intune GCC 高和 DoD 中的功能变化**
 
@@ -39,5 +39,4 @@ Intune GCC 高和 DoD 产品/服务是在 Microsoft Azure 政府云上构建的�
   - 适用于 GCC 的 Intune 高不支持 Android 和 iOS 设备的移动威胁防御连接器。 
 
 ## <a name="next-steps"></a>后续步骤
-若要详细了解 Intune 并探索如何开始，请参阅 [Intune 公共文档](https://docs.microsoft.com/intune/index)。
-
+若要详细了解 Intune 并探索如何开始，请参阅 [Intune 公共文档](/intune/index)。

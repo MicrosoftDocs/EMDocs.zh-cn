@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: 9fdadbcb5c20bcecfe07dc9ba3c4e0505845c650
-ms.sourcegitcommit: 1539648861a2712bb4551f44e378b4d4dda03432
+ms.openlocfilehash: e48accb9e0bfeacf72634e2bb939478167bd2c08
+ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "90060467"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90989105"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -23,17 +23,17 @@ ms.locfileid: "90060467"
 
 《 Microsoft Cloud App Security 美国政府服务说明 ' 旨在作为 GCC 高环境中服务产品的概述，并涵盖商业产品/服务中的功能差异。
 
-若要详细了解适用于 GCC 客户的 Microsoft Cloud App Security，请参阅 [MICROSOFT 365 GCC 客户的 EMS](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description#ems-for-us-office-365-gcc-customers)。
+若要详细了解适用于 GCC 客户的 Microsoft Cloud App Security，请参阅 [MICROSOFT 365 GCC 客户的 EMS](./ems-govt-service-description.md#ems-for-us-gcc-high-and-dod-customers)。
 
 ## <a name="getting-started-with-microsoft-cloud-app-security-for-us-government-gcc-high"></a>适用于美国政府版的 Microsoft Cloud App Security 入门
 
-Microsoft Cloud App Security GCC 的高产品/服务是在 Microsoft Azure 政府云的基础上构建的，旨在 Microsoft 365 GCC 高。 有关此服务以及如何使用该服务的完整详细信息，可在 [Microsoft Cloud App Security 公开文档](https://docs.microsoft.com/cloud-app-security/)中找到。 应将公共文档用作部署和操作服务的起点，并提供以下服务说明详细信息，以及来自 GCC 高环境中功能或功能的更改。
+Microsoft Cloud App Security GCC 的高产品/服务是在 Microsoft Azure 政府云的基础上构建的，旨在 Microsoft 365 GCC 高。 有关此服务以及如何使用该服务的完整详细信息，可在 [Microsoft Cloud App Security 公开文档](/cloud-app-security/)中找到。 应将公共文档用作部署和操作服务的起点，并提供以下服务说明详细信息，以及来自 GCC 高环境中功能或功能的更改。
 
-若要开始，请使用 " [基本设置](https://docs.microsoft.com/cloud-app-security/general-setup) " 页访问 Microsoft Cloud App Security GCC 高门户，并确保配置了 [网络要求](https://docs.microsoft.com/cloud-app-security/network-requirements) 。 有关其他详细说明，请按照操作方法指南中的其他步骤进行操作。
+若要开始，请使用 " [基本设置](/cloud-app-security/general-setup) " 页访问 Microsoft Cloud App Security GCC 高门户，并确保配置了 [网络要求](/cloud-app-security/network-requirements) 。 有关其他详细说明，请按照操作方法指南中的其他步骤进行操作。
 
 ## <a name="feature-variations-in-microsoft-cloud-app-security-gcc-high"></a>Microsoft Cloud App Security GCC 高
 
-除非另有说明，否则新功能版本（包括预览功能，如 [Microsoft Cloud App Security 的新增](https://docs.microsoft.com/cloud-app-security/release-notes)功能）将在 Microsoft Cloud App Security 商业环境中的三个月发行版中提供（除非另有说明）。
+除非另有说明，否则新功能版本（包括预览功能，如 [Microsoft Cloud App Security 的新增](/cloud-app-security/release-notes)功能）将在 Microsoft Cloud App Security 商业环境中的三个月发行版中提供（除非另有说明）。
 
 ## <a name="api-connector"></a>API 连接器
 
@@ -43,7 +43,7 @@ Azure 连接器和 Microsoft 365 连接器适用于每个服务的美国政府�
 
 ## <a name="data-loss-prevention-dlp-features"></a>数据丢失防护 (DLP) 功能
 
-通过 Microsoft Cloud App Security 内置 DLP 引擎提供内容检查，并支持检查敏感数据，如信用卡或社会保障号，这两者之间的其他敏感数据类型不同。 详细了解 Cloud App Security 中的 [内置内容检查](https://docs.microsoft.com/cloud-app-security/content-inspection-built-in) 。
+通过 Microsoft Cloud App Security 内置 DLP 引擎提供内容检查，并支持检查敏感数据，如信用卡或社会保障号，这两者之间的其他敏感数据类型不同。 详细了解 Cloud App Security 中的 [内置内容检查](/cloud-app-security/content-inspection-built-in) 。
 
 **不支持以下 DLP 集成：**
 
@@ -52,7 +52,7 @@ Azure 连接器和 Microsoft 365 连接器适用于每个服务的美国政府�
 ## <a name="conditional-access-app-control"></a>条件访问应用控制
 
 Microsoft Cloud App Security 条件访问应用控制，这使组织能够使用 Microsoft Cloud App Security 反向代理功能实时监视和控制用户会话，而不能使用。
-对于连接了 API 的应用程序，仍支持活动、文件和异常情况检测策略。 详细了解如何 [通过 Microsoft Cloud App Security 中的策略来控制云应用](https://docs.microsoft.com/cloud-app-security/control-cloud-apps-with-policies) 以获取其他信息。
+对于连接了 API 的应用程序，仍支持活动、文件和异常情况检测策略。 详细了解如何 [通过 Microsoft Cloud App Security 中的策略来控制云应用](/cloud-app-security/control-cloud-apps-with-policies) 以获取其他信息。
 
 ## <a name="notifications-and-automation"></a>通知和自动化
 
@@ -71,4 +71,4 @@ Microsoft Cloud App Security 条件访问应用控制，这使组织能够使用
 
 ## <a name="next-steps"></a>后续步骤
 
-若要详细了解 Cloud App Security 并探索如何开始了解，请参阅 [Cloud App Security 公用文档](https://docs.microsoft.com/cloud-app-security/)。
+若要详细了解 Cloud App Security 并探索如何开始了解，请参阅 [Cloud App Security 公用文档](/cloud-app-security/)。

@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.suite: ems
 ms.service: microsoft-intune
-ms.openlocfilehash: 5f2eff552b6c9c1ce041027a4a473f691dae7906
-ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
+ms.openlocfilehash: f681785873a68c73526568687421d73ffb9a2089
+ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "88969828"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90989088"
 ---
 # <a name="enterprise-mobility--security-support-faqs"></a>企业移动性 + 安全性支持常见问题
 Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及技术的全球支持。  请查看下面的详细信息。
@@ -28,15 +28,15 @@ Microsoft 为企业移动性 + 安全性 (EMS) 提供售前、账单、订阅及
 
 **如何获取 Intune 支持？**
 
-企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Intune 支持请求。 [详细了解 Intune 支持选项](https://docs.microsoft.com/intune/get-support)。
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Intune 支持请求。 [详细了解 Intune 支持选项](/intune/get-support)。
 
 如何获取 Azure 信息保护支持？****
 
-企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Azure 信息保护的支持请求。 [深入了解 Azure 信息保护支持选项](https://docs.microsoft.com/information-protection/get-started/information-support#to-contact-microsoft-support)。
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Azure 信息保护的支持请求。 [深入了解 Azure 信息保护支持选项](/information-protection/get-started/information-support#to-contact-microsoft-support)。
 
 如何获取 Azure Active Directory 支持？****
 
-企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Azure AD Premium 1 和高级版2的支持请求。 详细了解 Intune 支持选项。 [了解如何获取 Azure Active Directory 支持](https://docs.microsoft.com/azure/active-directory/active-directory-troubleshooting-support-howto)。
+企业移动性 + 安全性客户可以使用 Azure 或 Microsoft 365 门户提交 Azure AD Premium 1 和高级版2的支持请求。 详细了解 Intune 支持选项。 [了解如何获取 Azure Active Directory 支持](/azure/active-directory/active-directory-troubleshooting-support-howto)。
 
 如何获取云应用程序安全性支持？****
 

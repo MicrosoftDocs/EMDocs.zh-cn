@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: 14ea56cd03851ff71c192cda06dfc5d0ea294ef7
-ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
+ms.openlocfilehash: eeda39c77851a44eab4c80a819727317b2cb749e
+ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "88969786"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90989054"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
@@ -63,7 +63,7 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
 | 名称 | CloudEnvType |
-| “值” | 0/1/2 |
+| 值 | 0/1/2 |
 | 类型 | REG_DWORD |
  
 
@@ -131,7 +131,7 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 
 GCC 高客户需要使用 PowerShell 迁移所有现有标签。 传统的 AIP 迁移方法 **不适用于** GCC 高级用户。 
 
-使用 [新标签](https://docs.microsoft.com/powershell/module/exchange/new-label?view=exchange-ps) cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell?view=exchange-ps#connect-to-the-security--compliance-center) 进行操作。 
+使用 [新标签](/powershell/module/exchange/new-label?view=exchange-ps) cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](/powershell/exchange/connect-to-scc-powershell?view=exchange-ps#connect-to-the-security--compliance-center) 进行操作。 
 
 现有敏感度标签具有加密时的迁移示例：
 
@@ -146,7 +146,7 @@ Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
 | 名称 | WebServiceUrl |
-| “值” | https://api.informationprotection.azure.us |
+| 值 | https://api.informationprotection.azure.us |
 | 类型 | REG_SZ (String) |
 
 
