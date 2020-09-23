@@ -10,12 +10,12 @@ metadata:
   author: dougeby
   ms.author: dougeby
   ms.date: 02/27/2020
-  ms.openlocfilehash: f9682701471f74c06eecfeab94d88a7f3f00837a
-  ms.sourcegitcommit: 6b4939db2d80ec99d4e890c93d5e4a92973efff3
+  ms.openlocfilehash: 91b0833e709effe201d92cd6937731069a6eefb6
+  ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 04/21/2020
-  ms.locfileid: "81740694"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "90989173"
 productDirectory:
   items:
   - title: 安全远程工作
@@ -26,29 +26,29 @@ additionalContent:
   sections:
   - items:
     - title: Azure Active Directory
-      summary: 同步本地目录，并启用单一登录
-      url: https://docs.microsoft.com/azure/active-directory/index
+      summary: 同步本地目录并启用单一登录
+      url: /azure/active-directory/index
     - title: Microsoft Intune
       summary: 从云中管理移动设备、应用和电脑
-      url: https://docs.microsoft.com/mem/intune/
+      url: /mem/intune/
     - title: Microsoft Endpoint Configuration Manager
       summary: 使用云驱动见解管理本地电脑、服务器和移动设备
-      url: https://docs.microsoft.com/mem/configmgr/
+      url: /mem/configmgr/
     - title: Microsoft Cloud App Security
       summary: 能够深入了解、全面掌控并增强 SaaS 的安全性
-      url: https://docs.microsoft.com/cloud-app-security/
+      url: /cloud-app-security/
     - title: Azure 信息保护
       summary: 在创建或更新时，根据源、上下文和内容对数据进行分类
-      url: https://docs.microsoft.com/azure/information-protection/
+      url: /azure/information-protection/
     - title: 多重身份验证
-      summary: 使用额外的身份验证级别安全访问你的数据和应用
-      url: https://docs.microsoft.com/azure/multi-factor-authentication/index
-    - title: 高级威胁分析
+      summary: 利用额外的一层身份验证确保安全访问数据和应用
+      url: /azure/multi-factor-authentication/index
+    - title: Advanced Threat Analytics
       summary: 使用行为分析确定漏洞和威胁，并根据攻击时间线创建报表
-      url: https://docs.microsoft.com/advanced-threat-analytics/
+      url: /advanced-threat-analytics/
     - title: Azure 高级威胁防护
       summary: 保护你的企业混合环境，使其免受多种高级定向网络攻击和内部威胁侵害
-      url: https://docs.microsoft.com/azure-advanced-threat-protection/
-    - title: Microsoft Identity Manager
+      url: /azure-advanced-threat-protection/
+    - title: Microsoft 标识管理器
       summary: 通过自动化工作流、自助服务等功能管理标识
-      url: https://docs.microsoft.com/microsoft-identity-manager/
+      url: /microsoft-identity-manager/
