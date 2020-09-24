@@ -5,17 +5,17 @@ keywords: ''
 author: shsagir
 ms.author: shsagir
 manager: rkarlin
-ms.date: 09/14/2020
+ms.date: 09/24/2020
 ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: e48accb9e0bfeacf72634e2bb939478167bd2c08
-ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
+ms.openlocfilehash: 74bea8921ecfe1ae0749cb085242a9e0eb60b375
+ms.sourcegitcommit: c4d433c095ec8bc733daa06f5544d4b04e0323d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90989105"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206445"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -29,7 +29,10 @@ ms.locfileid: "90989105"
 
 Microsoft Cloud App Security GCC 的高产品/服务是在 Microsoft Azure 政府云的基础上构建的，旨在 Microsoft 365 GCC 高。 有关此服务以及如何使用该服务的完整详细信息，可在 [Microsoft Cloud App Security 公开文档](/cloud-app-security/)中找到。 应将公共文档用作部署和操作服务的起点，并提供以下服务说明详细信息，以及来自 GCC 高环境中功能或功能的更改。
 
-若要开始，请使用 " [基本设置](/cloud-app-security/general-setup) " 页访问 Microsoft Cloud App Security GCC 高门户，并确保配置了 [网络要求](/cloud-app-security/network-requirements) 。 有关其他详细说明，请按照操作方法指南中的其他步骤进行操作。
+若要开始，请使用 " [基本设置](/cloud-app-security/general-setup) " 页访问 Microsoft Cloud App Security GCC 高门户，并确保配置了 [网络要求](/cloud-app-security/network-requirements) 。 若要将 Cloud App Security 配置为使用你自己的密钥来加密它在静止时收集的数据，请参阅 [使用你自己的密钥加密 Cloud App Security 静态数据 (BYOK) ](ems-cloud-app-security-govt-service-byok.md)。 有关其他详细说明，请按照操作方法指南中的其他步骤进行操作。
+
+> [!NOTE]
+> 数据加密当前仅适用于特定 Microsoft Cloud App Security 政府产品/服务。
 
 ## <a name="feature-variations-in-microsoft-cloud-app-security-gcc-high"></a>Microsoft Cloud App Security GCC 高
 
