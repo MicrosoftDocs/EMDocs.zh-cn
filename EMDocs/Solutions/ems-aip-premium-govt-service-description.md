@@ -2,30 +2,39 @@
 title: Azure 信息保护高级版政府服务说明
 description: Azure 信息保护高级政府服务说明旨在作为我们的产品/服务的概述
 keywords: ''
-author: mlottner
-ms.author: mlottner
+author: batamig
+ms.author: bagol
 manager: rkarlin
-ms.date: 07/29/2020
+ms.date: 10/26/2020
 ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: eeda39c77851a44eab4c80a819727317b2cb749e
-ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
+ms.openlocfilehash: 517a07fd9d26c8b274e615bbb9a4514061864fd7
+ms.sourcegitcommit: 4a6033187d2b6a79da6ad0e009e5edf4aff39360
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90989054"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92689278"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
+
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
-Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD 环境中的产品/服务的概述，并涵盖与 Azure 信息保护高级商业产品/服务的不同之处。 若要详细了解适用于 GCC 和 GCC 高客户的 Azure 信息保护，请参阅 [美国政府和 Microsoft 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-microsoft-365-interoperability)的说明。
+Azure 信息保护统一标签适用于 GCC、GCC 高和 DoD 客户。
+
+Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 DoD 环境中的产品/服务的概述，与 Azure 信息保护高级商业产品/服务的不同之处。 
+
+若要详细了解适用于 GCC 和 GCC 高客户的 Azure 信息保护，请参阅 [美国政府和 Microsoft 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-microsoft-365-interoperability)的说明。
 
 ## <a name="azure-information-protection-premium-government-and-third-party-services"></a>Azure 信息保护高级版政府和第三方服务 
 
-某些 Azure 信息保护高级服务提供与第三方应用程序和服务无缝协作的功能。 这些第三方应用程序和服务可能涉及在 Azure 信息保护高级基础结构之外的第三方系统上存储、传输和处理组织的客户内容，因此不会在法规遵从性和数据保护承诺范围内进行处理。 请确保查看第三方在为组织的适当使用这些服务时提供的隐私和符合性声明。 
+某些 Azure 信息保护高级服务提供与第三方应用程序和服务无缝协作的功能。 
+
+这些第三方应用程序和服务可能涉及在 Azure 信息保护高级基础结构之外的第三方系统上存储、传输和处理组织的客户内容，因此不会在法规遵从性和数据保护承诺范围内进行处理。 
+
+请确保查看第三方在为组织的适当使用这些服务时提供的隐私和符合性声明。 
 
 ## <a name="parity-with-azure-information-protection-premium-commercial-offerings"></a>与 Azure 信息保护高级版商业产品/服务具有相同的功能 
 
@@ -47,14 +56,12 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 
 * AD RMS 的移动设备扩展当前不可用。
 
-
 ## <a name="configuring-azure-information-protection-unified-labeling-solution-for-gcc-high-and-dod-customers"></a>为 GCC 高级和 DoD 客户配置 Azure 信息保护统一标签解决方案
 
 > [!IMPORTANT]
 > 从2020年7月更新起，Azure 信息保护统一标签解决方案的所有 *新* 的 GCC 高客户都可以仅使用常规菜单和扫描仪菜单功能。 
 
 本部分中提供的配置详细信息仅适用于适用于 GCC 高客户和 DoD 客户的 Azure 信息保护统一标签解决方案。 有关其他所有配置的详细信息，请参阅 [GCC 高客户和 DoD 客户的标准配置信息](#configuring-azure-information-protection-for-gcc-high-and-dod-customers)。
-
 
 ### <a name="aip-apps-configuration-unified-labeling-only"></a>AIP apps 配置 (仅) 的统一标签
 
@@ -63,18 +70,17 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
 | 名称 | CloudEnvType |
-| 值 | 0/1/2 |
+| 值 | 0/1/2/3 |
 | 类型 | REG_DWORD |
  
-
 | 值  | 详细信息  |
 |---------|---------|
 |商用  |  0 (默认值)      |
 |GCC   |     1    |
 |GCC High    |    2     |
+|DoD | 3 |
+| | |
 
-
- 
 - 注册表项的默认值为 0 (零) 。 
 - 如果该键为空或不正确，则预期的行为是日志中的打印错误，它的行为类似于默认 (0-商用) 。 
 - 如果该注册表项不存在，它将表现为默认 (0-商用) 。
@@ -83,9 +89,6 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 ## <a name="configuring-azure-information-protection-for-gcc-high-and-dod-customers"></a>为 GCC High 和 DoD 客户配置 Azure 信息保护
 
 以下配置详细信息适用于适用于 GCC 高级和 DoD 客户的所有 Azure 信息保护解决方案，其中包括统一标签解决方案。 
-
-
-
 
 ### <a name="enable-rights-management-for-the-tenant"></a>为租户启用 Rights Management
 
@@ -129,9 +132,9 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高、DoD
 
 ### <a name="label-migration"></a>标签迁移
 
-GCC 高客户需要使用 PowerShell 迁移所有现有标签。 传统的 AIP 迁移方法 **不适用于** GCC 高级用户。 
+GCC 高和 DoD 客户需要使用 PowerShell 迁移所有现有标签。 传统的 AIP 迁移方法 **不适用于** GCC 高客户和 DoD 客户。 
 
-使用 [新标签](/powershell/module/exchange/new-label?view=exchange-ps) cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](/powershell/exchange/connect-to-scc-powershell?view=exchange-ps#connect-to-the-security--compliance-center) 进行操作。 
+使用 [新标签](/powershell/module/exchange/new-label) cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](/powershell/exchange/connect-to-scc-powershell#connect-to-the-security--compliance-center) 进行操作。 
 
 现有敏感度标签具有加密时的迁移示例：
 
@@ -167,11 +170,11 @@ $request.ServicePoint.Certificate.Issuer
 ```
 
 
-结果应显示发证 CA 来自 Microsoft CA，例如： `CN=Microsoft Secure Server CA 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US` 。 如果你看到的颁发 CA 名称不是 Microsoft，则可能是安全客户端到服务的连接被终止，需要在防火墙上重新配置。
+结果应显示发证 CA 来自 Microsoft CA（例如：`CN=Microsoft Secure Server CA 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US`）。 如果你看到的颁发 CA 名称不是 Microsoft，则可能是安全客户端到服务的连接被终止，需要在防火墙上重新配置。
 
 ## <a name="service-tags"></a>服务标记
 
-请确保允许访问以下 **服务标记**的所有端口：
+请确保允许访问以下 **服务标记** 的所有端口：
 *    **AzureInformationProtection**
 *    **AzureActiveDirectory**
 *    **AzureFrontDoor.Frontend**
