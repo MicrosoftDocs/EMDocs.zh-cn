@@ -10,12 +10,12 @@ metadata:
   ms.author: dougeby
   manager: mtillman
   ms.date: 04/27/2020
-  ms.openlocfilehash: 821bfda4c57f2321b6732f236edf3202dc6d8228
-  ms.sourcegitcommit: fc33b1ebc126958e5006ea47e55a7d922e4fc959
+  ms.openlocfilehash: 4ec5c78abc4a8ec07dbc8081b4c4faed0ab549e4
+  ms.sourcegitcommit: e8bda62ddb715588e120cb7023f9a0bf09e02338
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "88969803"
+  ms.lasthandoff: 11/07/2020
+  ms.locfileid: "94341934"
 conceptualContent:
   title: 支持远程访问应用
   summary: 支持远程工作者访问所需的应用，但又不影响安全性
@@ -24,80 +24,80 @@ conceptualContent:
     links:
     - text: 什么是条件访问？
       itemType: overview
-      url: https://docs.microsoft.com/azure/active-directory/conditional-access/overview
+      url: /azure/active-directory/conditional-access/overview
     - text: 常见条件访问策略
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common
+      url: /azure/active-directory/conditional-access/concept-conditional-access-policy-common
     - text: 提示：启用合并安全信息注册
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined
+      url: /azure/active-directory/authentication/howto-registration-mfa-sspr-combined
     - text: 提示：启动条件访问推出（使用“仅限报告”模式）
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-report-only
+      url: /azure/active-directory/conditional-access/concept-conditional-access-report-only
     - text: 选择正确的身份验证方法来保护云中的应用
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/hybrid/choose-ad-authn
+      url: /azure/active-directory/hybrid/choose-ad-authn
     - text: 通过 Azure AD 快速响应安全标识
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/fundamentals/concept-secure-remote-workers
+      url: /azure/active-directory/fundamentals/concept-secure-remote-workers
   - title: 将所有应用都连接到 Azure AD 以启用单一登录
     links:
     - text: 使用 Azure Active Directory 管理应用程序
       itemType: overview
-      url: https://docs.microsoft.com/azure/active-directory/manage-apps/what-is-application-management
+      url: /azure/active-directory/manage-apps/what-is-application-management
     - text: 遵循将 SaaS 应用程序与 Azure Active Directory 集成的教程
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list
+      url: /azure/active-directory/saas-apps/tutorial-list
     - text: Azure Active Directory 功能部署指南
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-deployment-checklist-p2
+      url: /azure/active-directory/fundamentals/active-directory-deployment-checklist-p2
     - text: Azure Active Directory 部署计划
       itemType: how-to-guide
-      url: https://aka.ms/DeploymentPlans
+      url: /azure/active-directory/fundamentals/active-directory-deployment-plans
     - text: 通过应用程序代理添加本地应用程序
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application
+      url: /azure/active-directory/manage-apps/application-proxy-add-on-premises-application
     - text: 保护本地和云中的旧身份验证应用
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/manage-apps/secure-hybrid-access
+      url: /azure/active-directory/manage-apps/secure-hybrid-access
     - text: 指导用户从“我的应用”门户登录并启动应用
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-access
+      url: /azure/active-directory/user-help/my-apps-portal-end-user-access
     - text: 提示：为混合标识解决方案选择正确的身份验证方法
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/hybrid/choose-ad-authn
+      url: /azure/active-directory/hybrid/choose-ad-authn
     - text: 提示：自动为应用执行用户预配
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/app-provisioning/user-provisioning
+      url: /azure/active-directory/app-provisioning/user-provisioning
     - text: 计划 Azure AD 应用程序代理部署
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-deployment-plan
+      url: /azure/active-directory/manage-apps/application-proxy-deployment-plan
     - text: 交互式指南：使用 Azure AD 应用程序代理提供对本地应用程序的安全远程访问
       itemType: how-to-guide
       url: https://mslearn.cloudguides.com/guides/Provide%20secure%20remote%20access%20to%20on-premises%20applications%20with%20Azure%20AD%20Application%20Proxy
     - text: 远程访问解决方案比较
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-migration
+      url: /azure/active-directory/manage-apps/application-proxy-migration
   - title: 启用包含条件访问的多重身份验证
     links:
     - text: MFA 的工作原理是什么？
       itemType: concept
-      url: https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-howitworks
+      url: /azure/active-directory/authentication/concept-mfa-howitworks
     - text: 设置多重身份验证
       itemType: how-to-guide
-      url: https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide
+      url: /microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide
     - text: 计划和启用 Azure 多重身份验证
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted
+      url: /azure/active-directory/authentication/howto-mfa-getstarted
     - text: 利用 MFA 保护用户登录
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-azure-mfa
+      url: /azure/active-directory/authentication/tutorial-enable-azure-mfa
     - text: 提示：合并自助式密码重置和多重身份验证注册
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/authentication/concept-registration-mfa-sspr-combined
+      url: /azure/active-directory/authentication/concept-registration-mfa-sspr-combined
     - text: 启用自助式密码重置
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-deployment
+      url: /azure/active-directory/authentication/howto-sspr-deployment
     - text: 交互式指南：在 Azure AD 中启用合并的 MFA 和 SSPR 注册体验
       itemType: how-to-guide
       url: https://mslearn.cloudguides.com/guides/Enable%20a%20combined%20MFA%20and%20SSPR%20registration%20experience%20in%20Azure%20AD
@@ -105,21 +105,21 @@ conceptualContent:
     links:
     - text: 保护本地和云中的旧身份验证应用
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/manage-apps/secure-hybrid-access
+      url: /azure/active-directory/manage-apps/secure-hybrid-access
   - title: 使用 Azure AD B2B 协作来扩展访问权限
     links:
     - text: 什么是 B2B 来宾用户访问？
       itemType: overview
-      url: https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b
+      url: /azure/active-directory/b2b/what-is-b2b
     - text: 启用电子邮件一次性密码身份验证（预览版）
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/b2b/one-time-passcode
+      url: /azure/active-directory/b2b/one-time-passcode
     - text: 将来宾用户添加到 Azure 门户中的目录
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal
+      url: /azure/active-directory/b2b/b2b-quickstart-add-guest-users-portal
     - text: 启用和管理 B2B 协作和共享
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/b2b/delegate-invitations
+      url: /azure/active-directory/b2b/delegate-invitations
     - text: 交互式指南：在 Azure AD 中启用 B2B 协作
       itemType: how-to-guide
       url: https://mslearn.cloudguides.com/guides/Enable%20B2B%20Collaboration%20in%20Azure%20AD
@@ -127,13 +127,13 @@ conceptualContent:
     links:
     - text: 基于风险的条件访问
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-risk
+      url: /azure/active-directory/conditional-access/howto-conditional-access-policy-risk
     - text: 如何配置和启用风险策略
       itemType: how-to-guide
-      url: https://docs.microsoft.com/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies
+      url: /azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies
     - text: 提示：常见条件访问策略
       itemType: concept
-      url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common
+      url: /azure/active-directory/conditional-access/concept-conditional-access-policy-common
 additionalContent:
   sections:
   - title: 管理设备和应用
@@ -142,31 +142,31 @@ additionalContent:
     - title: 安全启用 BYOD
       links:
       - text: Microsoft Intune 概述
-        url: https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune
+        url: /mem/intune/fundamentals/what-is-intune
       - text: 设置 Intune
-        url: https://docs.microsoft.com/mem/intune/fundamentals/setup-steps
+        url: /mem/intune/fundamentals/setup-steps
       - text: 在 Microsoft Intune 中注册设备
-        url: https://docs.microsoft.com/mem/intune/enrollment/
+        url: /mem/intune/enrollment/
       - text: 指导方案
-        url: https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-overview
+        url: /mem/intune/fundamentals/guided-scenarios-overview
       - text: 身份识别与设备访问配置
-        url: https://aka.ms/m365goldenconfig
+        url: /microsoft-365/security/office-365-security/microsoft-365-policies-configurations
       - text: 交互式指南：使用 Microsoft Endpoint Manager 管理设备
         url: https://mslearn.cloudguides.com/guides/Manage%20devices%20with%20Microsoft%20Endpoint%20Manager
     - title: 配置和保护应用
       links:
       - text: Intune 应用保护策略
-        url: https://docs.microsoft.com/mem/intune/apps/app-protection-policy
+        url: /mem/intune/apps/app-protection-policy
       - text: 保护和配置 Microsoft Edge
-        url: https://docs.microsoft.com/mem/intune/apps/manage-microsoft-edge
+        url: /mem/intune/apps/manage-microsoft-edge
       - text: 保护和配置 Outlook Mobile
-        url: https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-outlook
+        url: /mem/intune/apps/app-configuration-policies-outlook
       - text: 什么是 Microsoft Cloud App Security
-        url: https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security
+        url: /cloud-app-security/what-is-cloud-app-security
       - text: 设置 Cloud App Security
-        url: https://docs.microsoft.com/cloud-app-security/general-setup
+        url: /cloud-app-security/general-setup
       - text: 连接第三方应用
-        url: https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps
+        url: /cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps
       - text: 交互式指南：使用 Microsoft Endpoint Manager 管理和保护移动应用程序和桌面应用程序
         url: https://mslearn.cloudguides.com/guides/Manage%20and%20protect%20mobile%20and%20desktop%20applications%20with%20Microsoft%20Endpoint%20Manager
       - text: 交互式指南：通过 Microsoft Cloud App Security 发现、保护和控制应用
@@ -176,108 +176,108 @@ additionalContent:
     - title: 远程预配和部署新设备
       links:
       - text: 什么是 Windows Autopilot？
-        url: https://docs.microsoft.com/windows/deployment/windows-autopilot/windows-autopilot
+        url: /windows/deployment/windows-autopilot/windows-autopilot
       - text: 如何部署 Windows Autopilot？
-        url: https://docs.microsoft.com/windows/deployment/windows-autopilot/demonstrate-deployment-on-vm
+        url: /windows/deployment/windows-autopilot/demonstrate-deployment-on-vm
       - text: Windows Autopilot 用户驱动模式
-        url: https://docs.microsoft.com/windows/deployment/windows-autopilot/user-driven
+        url: /windows/deployment/windows-autopilot/user-driven
       - text: 如何重新部署已使用的设备？
-        url: https://docs.microsoft.com/windows/deployment/windows-autopilot/windows-autopilot-reset
+        url: /windows/deployment/windows-autopilot/windows-autopilot-reset
       - text: 为现有设备部署 Windows Autopilot
-        url: https://docs.microsoft.com/windows/deployment/windows-autopilot/existing-devices
+        url: /windows/deployment/windows-autopilot/existing-devices
       - text: 添加混合 Azure AD 联接设备和 Autopilot
-        url: https://docs.microsoft.com/mem/intune/enrollment/windows-autopilot-hybrid
+        url: /mem/intune/enrollment/windows-autopilot-hybrid
     - title: 使用 Intune 在非管理的设备上强制实施访问策略
       links:
       - text: 使用 Azure AD 计划条件访问部署
-        url: https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access
+        url: /azure/active-directory/conditional-access/plan-conditional-access
       - text: Intune 设备符合性
-        url: https://docs.microsoft.com/mem/intune/protect/device-compliance-get-started
+        url: /mem/intune/protect/device-compliance-get-started
       - text: 常见条件访问策略
-        url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common
+        url: /azure/active-directory/conditional-access/concept-conditional-access-policy-common
     - title: 部署和管理虚拟桌面
       links:
       - text: 如何加入虚拟桌面基础结构计算机
-        url: https://docs.microsoft.com/azure/virtual-desktop/overview
+        url: /azure/virtual-desktop/overview
       - text: 为用户策略启用 Windows 10 企业版多会话
-        url: https://docs.microsoft.com/mem/configmgr/core/plan-design/changes/whats-new-in-version-1910#enable-user-policy-for-windows-10-enterprise-multi-session
+        url: /mem/configmgr/core/plan-design/changes/whats-new-in-version-1910#enable-user-policy-for-windows-10-enterprise-multi-session
       - text: Windows 10 企业版多会话常见问题解答
-        url: https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq
+        url: /azure/virtual-desktop/windows-10-multisession-faq
       - text: 使用 Azure 防火墙保护 Windows 虚拟桌面部署
-        url: https://docs.microsoft.com/azure/firewall/protect-windows-virtual-desktop
+        url: /azure/firewall/protect-windows-virtual-desktop
     - title: 主动管理更新、修补和策略
       links:
       - text: 设备和平台的条件访问策略
-        url: https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#client-apps-condition
+        url: /azure/active-directory/conditional-access/concept-conditional-access-conditions#client-apps-condition
       - text: 检测和防御云原生威胁
-        url: https://docs.microsoft.com/cloud-app-security/anomaly-detection-policy
+        url: /cloud-app-security/anomaly-detection-policy
       - text: 在 Intune 中管理 Windows 10 软件更新
-        url: https://docs.microsoft.com/mem/intune/protect/windows-update-for-business-configure
+        url: /mem/intune/protect/windows-update-for-business-configure
       - text: 使用适用于企业的 Windows 更新来部署更新
-        url: https://docs.microsoft.com/windows/deployment/update/waas-manage-updates-wufb
+        url: /windows/deployment/update/waas-manage-updates-wufb
       - text: Windows 更新：常见问题
         url: https://support.microsoft.com/help/12373/windows-update-faq
       - text: Intune 中的 Windows 更新设置
-        url: https://docs.microsoft.com/mem/intune/protect/windows-update-settings
+        url: /mem/intune/protect/windows-update-settings
       - text: Microsoft Intune 中的软件更新代理错误代码和说明
-        url: https://docs.microsoft.com/mem/intune/protect/software-update-agent-error-codes
+        url: /mem/intune/protect/software-update-agent-error-codes
   - title: 保护公司资源
     summary: 利用内置的无缝安全机制来保护数据，同时保持用户的高工作效率
     items:
     - title: 创建数据丢失防护策略
       links:
       - text: 数据丢失防护概述
-        url: https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies
+        url: /microsoft-365/compliance/data-loss-prevention-policies
       - text: 数据丢失防护和 Microsoft Teams
-        url: https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams
+        url: /microsoft-365/compliance/dlp-microsoft-teams
       - text: 创建、测试和优化 DLP 策略
-        url: https://docs.microsoft.com/microsoft-365/compliance/create-test-tune-dlp-policy
+        url: /microsoft-365/compliance/create-test-tune-dlp-policy
       - text: 自定义敏感信息类型
-        url: https://docs.microsoft.com/microsoft-365/compliance/custom-sensitive-info-types
+        url: /microsoft-365/compliance/custom-sensitive-info-types
       - text: 文档指纹
-        url: https://docs.microsoft.com/microsoft-365/compliance/document-fingerprinting
+        url: /microsoft-365/compliance/document-fingerprinting
       - text: 控制来自非管理的设备的访问
-        url: https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices
+        url: /sharepoint/control-access-from-unmanaged-devices
     - title: 启用安全链接和安全附件
       links:
       - text: 什么是 Microsoft 365 高级威胁防护
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide
       - text: 什么是安全链接？
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide
       - text: 什么是安全附件？
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide
       - text: 设置安全链接策略
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/set-up-atp-safe-links-policies?view=o365-worldwide
       - text: 设置安全附件策略
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies?view=o365-worldwide
       - text: 防范 Microsoft 365 中的威胁
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide
     - title: 发现组织中使用的所有云应用和服务
       links:
       - text: 发现和管理网络中的影子 IT
-        url: https://docs.microsoft.com/cloud-app-security/tutorial-shadow-it
+        url: /cloud-app-security/tutorial-shadow-it
       - text: 提示：Cloud App Security 最佳做法
-        url: https://docs.microsoft.com/cloud-app-security/best-practices
+        url: /cloud-app-security/best-practices
     - title: 将计算机加入 Microsoft Defender ATP
       links:
       - text: 如何将计算机加入 Microsoft Defender ATP
         url: https://www.microsoft.com/videoplayer/embed/RE4bGqr
       - text: 如何在 Mac 上部署 Microsoft Defender ATP
-        url: https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac
+        url: /windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac
       - text: 如何加入虚拟桌面基础结构计算机
-        url: https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-vdi
+        url: /windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-vdi
     - title: 审阅 Office ATP 配置
       links:
       - text: 配置 Microsoft 365 租户以提高安全性
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide
       - text: 保护员工收件箱的建议设置
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/recommended-settings-for-eop-and-office365-atp?view=o365-worldwid
+        url: /microsoft-365/security/office-365-security/recommended-settings-for-eop-and-office365-atp?view=o365-worldwid
       - text: 管理 Microsoft 365 权限
-        url: https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center?view=o365-worldwide
+        url: /microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center?view=o365-worldwide
     - title: 实现应用保护策略
       links:
       - text: 设置应用管理和控制策略
-        url: https://docs.microsoft.com/cloud-app-security/control-cloud-apps-with-policies
+        url: /cloud-app-security/control-cloud-apps-with-policies
   - title: 其他资源
     summary: 发现其他资源和文档，包括有助于你在不额外增加成本的情况下部署 Microsoft 云解决方案的 FastTrack 体验。
     items:
@@ -295,22 +295,22 @@ additionalContent:
       url: https://www.youtube.com/channel/UC4s3tv0Qq_OSUBfR735Jc6A/playlists?view=50&sort=dd&shelf_id=3
     - title: Azure Active Directory 文档
       summary: 官方 Azure AD 产品文档
-      url: https://docs.microsoft.com/azure/active-directory/
+      url: /azure/active-directory/
     - title: Microsoft Endpoint Manager 文档
       summary: 官方 Microsoft Endpoint Manager 文档
-      url: https://docs.microsoft.com/mem/
+      url: /mem/
     - title: Microsoft Intune 文档
       summary: 官方 Intune 产品文档
-      url: https://docs.microsoft.com/mem/intune/
+      url: /mem/intune/
     - title: Microsoft Endpoint Configuration Manager
       summary: 官方 Microsoft Endpoint Configuration Manager 文档
-      url: https://docs.microsoft.com/mem/configmgr/
+      url: /mem/configmgr/
     - title: Microsoft Defender 高级威胁防护文档
       summary: 官方 Microsoft Defender ATP 产品文档
-      url: https://docs.microsoft.com/windows/security/threat-protection/
+      url: /windows/security/threat-protection/
     - title: Microsoft Teams 文档
       summary: 官方 Teams 产品文档
-      url: https://docs.microsoft.com/microsoftteams/
+      url: /microsoftteams/
     - title: Microsoft 365 高级威胁防护文档
       summary: 官方 Microsoft 365 ATP 产品文档
-      url: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide
+      url: /microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide
