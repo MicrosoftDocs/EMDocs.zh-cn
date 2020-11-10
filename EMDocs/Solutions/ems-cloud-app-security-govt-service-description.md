@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: 74bea8921ecfe1ae0749cb085242a9e0eb60b375
-ms.sourcegitcommit: c4d433c095ec8bc733daa06f5544d4b04e0323d6
+ms.openlocfilehash: f5e82c5d81c351f39cae0bb9d6879fb7e0cd21eb
+ms.sourcegitcommit: 34ca228ca10f5d087207e6d9177a8acf81637dde
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206445"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94423925"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -23,7 +23,7 @@ ms.locfileid: "91206445"
 
 《 Microsoft Cloud App Security 美国政府服务说明 ' 旨在作为 GCC 高环境中服务产品的概述，并涵盖商业产品/服务中的功能差异。
 
-若要详细了解适用于 GCC 客户的 Microsoft Cloud App Security，请参阅 [MICROSOFT 365 GCC 客户的 EMS](./ems-govt-service-description.md#ems-for-us-gcc-high-and-dod-customers)。
+若要详细了解适用于 GCC 客户的 Microsoft Cloud App Security，请参阅 [MICROSOFT 365 GCC 客户的 EMS](ems-govt-service-description.md#ems-for-us-gcc-high-and-dod-customers)。
 
 ## <a name="getting-started-with-microsoft-cloud-app-security-for-us-government-gcc-high"></a>适用于美国政府版的 Microsoft Cloud App Security 入门
 
@@ -69,7 +69,7 @@ Microsoft Cloud App Security 条件访问应用控制，这使组织能够使用
 
 以下集成不可用：
 
-- Microsoft Defender 高级威胁防护
+- 用于终结点的 Microsoft Defender
 - 以 Microsoft 安全分数形式呈现 Microsoft Cloud App Security 控件
 
 ## <a name="next-steps"></a>后续步骤
