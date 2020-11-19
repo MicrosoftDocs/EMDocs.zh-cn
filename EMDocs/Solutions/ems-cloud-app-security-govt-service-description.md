@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: cloud-app-security
 ms.suite: ems
-ms.openlocfilehash: f5e82c5d81c351f39cae0bb9d6879fb7e0cd21eb
-ms.sourcegitcommit: 34ca228ca10f5d087207e6d9177a8acf81637dde
+ms.openlocfilehash: 523dba9eab4694967e45eb3a419ca471ad3fef3a
+ms.sourcegitcommit: b6f3cc90a2232fdec1221f5518a2fadb610bd7b2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94423925"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94914997"
 ---
 # <a name="microsoft-cloud-app-security-government-service-description"></a>Microsoft Cloud App Security 政府服务说明
 
@@ -43,19 +43,6 @@ Microsoft Cloud App Security GCC 的高产品/服务是在 Microsoft Azure 政�
 目前不支持用于 AWS GovCloud 的 API 连接器和其他可能提供单独的政府云实例的 API 连接的应用程序。 支持适用于第三方应用程序的商业云实例的 API 连接器。
 
 Azure 连接器和 Microsoft 365 连接器适用于每个服务的美国政府实例。
-
-## <a name="data-loss-prevention-dlp-features"></a>数据丢失防护 (DLP) 功能
-
-通过 Microsoft Cloud App Security 内置 DLP 引擎提供内容检查，并支持检查敏感数据，如信用卡或社会保障号，这两者之间的其他敏感数据类型不同。 详细了解 Cloud App Security 中的 [内置内容检查](/cloud-app-security/content-inspection-built-in) 。
-
-**不支持以下 DLP 集成：**
-
-- Microsoft 信息保护标签，提供跨 Microsoft 365 和 Azure 信息保护的统一标签。
-
-## <a name="conditional-access-app-control"></a>条件访问应用控制
-
-Microsoft Cloud App Security 条件访问应用控制，这使组织能够使用 Microsoft Cloud App Security 反向代理功能实时监视和控制用户会话，而不能使用。
-对于连接了 API 的应用程序，仍支持活动、文件和异常情况检测策略。 详细了解如何 [通过 Microsoft Cloud App Security 中的策略来控制云应用](/cloud-app-security/control-cloud-apps-with-policies) 以获取其他信息。
 
 ## <a name="notifications-and-automation"></a>通知和自动化
 
