@@ -7,20 +7,20 @@ ms.service: cloud-app-security
 ms.topic: conceptual
 ms.date: 09/24/2020
 ms.collection: M365-security-compliance
-ms.openlocfilehash: 5fee2fb64d11d624a14fafde8b7883ad72404e60
-ms.sourcegitcommit: c4d433c095ec8bc733daa06f5544d4b04e0323d6
+ms.openlocfilehash: f4e502abc8a1e814aede03c040f0cd351d86d139
+ms.sourcegitcommit: 22a30b29ee806845df9fe1786551657d9963b89a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91214851"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96536226"
 ---
 # <a name="encrypt-cloud-app-security-data-at-rest-with-your-own-key-byok"></a>用自己的密钥加密 Cloud App Security 静态数据 (BYOK) 
 
 适用范围：*Microsoft Cloud App Security*
 
-本文介绍如何将 Cloud App Security 配置为使用自己的密钥来加密它收集的数据，而将其存放在一起。 如果你正在寻找有关将加密应用于存储在云应用中的数据的文档，请参阅 [Azure 信息保护集成](/cloud-app-security/azip-integration.md)。
+本文介绍如何将 Cloud App Security 配置为使用自己的密钥来加密它收集的数据，而将其存放在一起。 如果你正在寻找有关将加密应用于存储在云应用中的数据的文档，请参阅 [Azure 信息保护集成](/cloud-app-security/azip-integration)。
 
-Cloud App Security 将认真对待你的安全和隐私。 因此，Cloud App Security 开始收集数据后，它将使用自己的托管密钥，根据我们的 [数据安全和隐私](/cloud-app-security/cas-compliance-trust.md) 策略来保护你的数据。 此外，Cloud App Security 允许你使用自己的 Azure Key Vault 密钥对数据进行加密，从而进一步保护静态数据。
+Cloud App Security 将认真对待你的安全和隐私。 因此，Cloud App Security 开始收集数据后，它将使用自己的托管密钥，根据我们的 [数据安全和隐私](/cloud-app-security/cas-compliance-trust) 策略来保护你的数据。 此外，Cloud App Security 允许你使用自己的 Azure Key Vault 密钥对数据进行加密，从而进一步保护静态数据。
 
 > [!IMPORTANT]
 > 如果访问 Azure Key Vault 密钥时出现问题，Cloud App Security 将无法加密数据，租户将在一小时内锁定。 当租户锁定时，对其的所有访问都将被阻止，直到解决该问题。 再次访问密钥后，将还原对你的租户的完全访问权限。
@@ -50,7 +50,7 @@ Cloud App Security 将认真对待你的安全和隐私。 因此，Cloud App Se
 
 ## <a name="deploy-your-azure-key-vault-key"></a>部署 Azure Key Vault 密钥
 
-1. 创建启用**软删除**和**清除保护**选项的[新 Key Vault](/azure-stack/user/azure-stack-key-vault-manage-portal#create-a-key-vault) 。
+1. 创建启用 **软删除** 和 **清除保护** 选项的 [新 Key Vault](/azure-stack/user/azure-stack-key-vault-manage-portal#create-a-key-vault) 。
 
 1. 创建访问策略，填写以下信息，然后单击 " **添加**"。
     1. 单击 " **密钥权限** "，然后从下拉菜单中选择以下权限：
@@ -66,7 +66,7 @@ Cloud App Security 将认真对待你的安全和隐私。 因此，Cloud App Se
 
         ![显示 "添加访问策略" 页的屏幕截图](media/cloud-app-security-byok/byok-kv-add-access-policy.PNG)
 
-    3. 单击“ **保存**”。
+    3. 单击“保存”。
 
 1. 创建 [新的 RSA 密钥](/azure-stack/user/azure-stack-key-vault-manage-portal#create-a-key)，执行以下操作，然后单击 " **添加**"。
 

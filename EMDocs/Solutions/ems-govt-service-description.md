@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: d4946a6d9c11f562d70db08a1c591235537f3de2
-ms.sourcegitcommit: 60e6e9ad2824e82b53e1ca5f55020e82d133db63
+ms.openlocfilehash: 4b87c0ad709d5ab1446a33fcb845ee7f1daa9be3
+ms.sourcegitcommit: 22a30b29ee806845df9fe1786551657d9963b89a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90989071"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96536192"
 ---
 # <a name="enterprise-mobility--security-for-us-government-service-description"></a>适用于美国政府的企业移动性 + 安全性服务说明
 鉴于美国公共部门的独特要求变得愈加严格，Microsoft 为我们的美国政府社区客户创建了企业移动性 + 安全性计划 (EMS)。 本文档概述了特定于这些 EMS 计划的功能。
@@ -64,7 +64,7 @@ GCC 客户可以选择在购买 EMS E5 SKU 时，附加 Microsoft Cloud App Secu
 - Microsoft Intune： 
   - https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-intune-govt-service-description)有关 Azure 政府版中当前不可用的功能的列表，请访问 [Microsoft Intune] 页面 (。 
 - Azure 高级威胁防护：
-  - 有关 Azure 政府版中当前不可用的功能的列表，请访问 [AZURE ATP](./ems-azure-atp-govt-service-description.md) 页面。
+  - 有关 Azure 政府版中当前不可用的功能的列表，请访问 [AZURE ATP](/enterprise-mobility-security/solutions/ems-mdi-govt-service-description) 页面。
 - Microsoft Cloud App Security：
   - 有关 Azure 政府版中当前不可用的功能的列表，请访问 [Microsoft Cloud App Security](./ems-cloud-app-security-govt-service-description.md) 页。
 
