@@ -7,7 +7,7 @@
       "docset_name": "EMDocs",
       "build_source_folder": "EMDocs",
       "build_output_subfolder": "EMDocs",
-      "locale": "zh-cn",
+      "locale": "zh-CN",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
@@ -16,13 +16,13 @@
       },
       "template_folder": "_themes",
       "moniker_groups": [],
-      "version": 0
+      "version": 8
     },
     {
       "docset_name": "EMSolutions",
       "build_source_folder": "EMDocs/Solutions",
       "build_output_subfolder": "EMDocs-Solutions",
-      "locale": "zh-cn",
+      "locale": "zh-CN",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
@@ -31,13 +31,13 @@
       },
       "template_folder": "_themes",
       "moniker_groups": [],
-      "version": 0
+      "version": 8
     },
     {
       "docset_name": "microsoft-365-enterprise",
       "build_source_folder": "microsoft-365-enterprise",
       "build_output_subfolder": "microsoft-365-enterprise",
-      "locale": "zh-cn",
+      "locale": "zh-CN",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -49,20 +49,16 @@
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "moniker_groups": [],
-      "version": 0
+      "version": 8
     }
   ],
   "notification_subscribers": [
-    "CnE_Content_Brno@moravia.com",
-    "CnE_UE_Bugfixing_ENG@moravia.com"
+    ""
   ],
   "branches_to_filter": [
-    "master-oldev",
-    "live-oldev",
-    "live"
+    "live",
+    "master"
   ],
-  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/EMDocs.zh-cn",
-  "git_repository_branch_open_to_public_contributors": "live",
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
@@ -72,7 +68,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-CN",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -93,6 +89,10 @@
     }
   ],
   "branch_target_mapping": {
+    "live-sxs": [
+      "Publish",
+      "Pdf"
+    ],
     "live": [
       "Publish",
       "Pdf"
@@ -107,7 +107,6 @@
       "template_folder": "_themes.pdf"
     }
   },
-  "need_generate_pdf": false,
   "docs_build_engine": {
     "name": "docfx_v3"
   }
