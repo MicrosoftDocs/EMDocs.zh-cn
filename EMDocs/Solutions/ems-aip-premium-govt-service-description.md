@@ -5,21 +5,22 @@ keywords: ''
 author: batamig
 ms.author: bagol
 manager: rkarlin
-ms.date: 10/26/2020
+ms.date: 01/14/2021
 ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: 517a07fd9d26c8b274e615bbb9a4514061864fd7
-ms.sourcegitcommit: 4a6033187d2b6a79da6ad0e009e5edf4aff39360
+ms.openlocfilehash: de6fed6995778f5d90c34405a4d4bd35ac40a395
+ms.sourcegitcommit: 171303edf01ece620ccacf9beb5dcbb735c80cf1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92689278"
+ms.lasthandoff: 01/17/2021
+ms.locfileid: "98540340"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
-
+> [!NOTE]
+> 为了提供统一且简化的客户体验， **Azure 门户中** 的 **azure 信息保护经典客户端** 和标签管理将于2021年3月31日被弃用。 在此时间框架内，所有 Azure 信息保护客户都可以使用 Microsoft 信息保护统一标记平台转换到我们的统一标记解决方案。 有关详细信息，请参阅[官方弃用通知](https://aka.ms/aipclassicsunset)。
 ## <a name="how-to-use-this-service-description"></a>如何使用本服务说明 
 
 Azure 信息保护统一标签适用于 GCC、GCC 高和 DoD 客户。
@@ -28,7 +29,7 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 Do
 
 若要详细了解适用于 GCC 和 GCC 高客户的 Azure 信息保护，请参阅 [美国政府和 Microsoft 365 互操作性的 EMS 产品/服务](ems-govt-service-description.md#ems-offers-for-us-government-and-microsoft-365-interoperability)的说明。
 
-## <a name="azure-information-protection-premium-government-and-third-party-services"></a>Azure 信息保护高级版政府和第三方服务 
+## <a name="azure-information-protection-premium-government-and-third-party-services"></a>Azure 信息保护高级政府版和第三方服务 
 
 某些 Azure 信息保护高级服务提供与第三方应用程序和服务无缝协作的功能。 
 
@@ -36,7 +37,7 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 Do
 
 请确保查看第三方在为组织的适当使用这些服务时提供的隐私和符合性声明。 
 
-## <a name="parity-with-azure-information-protection-premium-commercial-offerings"></a>与 Azure 信息保护高级版商业产品/服务具有相同的功能 
+## <a name="parity-with-azure-information-protection-premium-commercial-offerings"></a>与 Azure 信息保护高级商业产品/服务的奇偶校验 
 
 我们的目标是向政府 Azure 信息保护高级版 GCC 和 DoD 客户提供所有商业特性和功能，请注意以下缺少的功能列表。  
 
@@ -56,39 +57,19 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 Do
 
 * AD RMS 的移动设备扩展当前不可用。
 
-## <a name="configuring-azure-information-protection-unified-labeling-solution-for-gcc-high-and-dod-customers"></a>为 GCC 高级和 DoD 客户配置 Azure 信息保护统一标签解决方案
-
-> [!IMPORTANT]
-> 从2020年7月更新起，Azure 信息保护统一标签解决方案的所有 *新* 的 GCC 高客户都可以仅使用常规菜单和扫描仪菜单功能。 
-
-本部分中提供的配置详细信息仅适用于适用于 GCC 高客户和 DoD 客户的 Azure 信息保护统一标签解决方案。 有关其他所有配置的详细信息，请参阅 [GCC 高客户和 DoD 客户的标准配置信息](#configuring-azure-information-protection-for-gcc-high-and-dod-customers)。
-
-### <a name="aip-apps-configuration-unified-labeling-only"></a>AIP apps 配置 (仅) 的统一标签
-
-对于统一标签解决方案，Windows 上的 AIP 应用需要一个特殊的注册表项，以便将其指向正确的主权云。 请确保为您的设置使用正确的值。  
-
-| 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
-| --- | --- |
-| 名称 | CloudEnvType |
-| 值 | 0/1/2/3 |
-| 类型 | REG_DWORD |
- 
-| 值  | 详细信息  |
-|---------|---------|
-|商用  |  0 (默认值)      |
-|GCC   |     1    |
-|GCC High    |    2     |
-|DoD | 3 |
-| | |
-
-- 注册表项的默认值为 0 (零) 。 
-- 如果该键为空或不正确，则预期的行为是日志中的打印错误，它的行为类似于默认 (0-商用) 。 
-- 如果该注册表项不存在，它将表现为默认 (0-商用) 。
-- 请确保在卸载后不删除该注册表项。 
 
 ## <a name="configuring-azure-information-protection-for-gcc-high-and-dod-customers"></a>为 GCC High 和 DoD 客户配置 Azure 信息保护
 
 以下配置详细信息适用于适用于 GCC 高级和 DoD 客户的所有 Azure 信息保护解决方案，其中包括统一标签解决方案。 
+
+- [为租户启用 Rights Management](#enable-rights-management-for-the-tenant)
+- [用于加密的 DNS 配置 (Windows)](#dns-configuration-for-encryption-windows)
+- [用于加密的 DNS 配置（Mac、iOS、Android）](#dns-configuration-for-encryption-mac-ios-android)
+- [标签迁移](#label-migration)
+- [AIP 应用配置](#aip-apps-configuration)
+
+> [!IMPORTANT]
+> 从2020年7月更新起，Azure 信息保护统一标签解决方案的所有 *新* 的 GCC 高客户都可以仅使用常规菜单和扫描仪菜单功能。 
 
 ### <a name="enable-rights-management-for-the-tenant"></a>为租户启用 Rights Management
 
@@ -134,7 +115,7 @@ Azure 信息保护高级版政府服务说明旨在作为我们在 GCC 高和 Do
 
 GCC 高和 DoD 客户需要使用 PowerShell 迁移所有现有标签。 传统的 AIP 迁移方法 **不适用于** GCC 高客户和 DoD 客户。 
 
-使用 [新标签](/powershell/module/exchange/new-label) cmdlet 迁移现有的敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](/powershell/exchange/connect-to-scc-powershell#connect-to-the-security--compliance-center) 进行操作。 
+使用 [New-Label](/powershell/module/exchange/new-label) cmdlet 迁移现有敏感度标签。 在开始迁移之前，请确保按照 [使用安全 & 符合性中心连接和运行 cmdlet 的说明](/powershell/exchange/connect-to-scc-powershell#connect-to-the-security--compliance-center) 进行操作。 
 
 现有敏感度标签具有加密时的迁移示例：
 
@@ -144,33 +125,56 @@ New-Label -Name 'aipscopetest' -Tooltip 'aipscopetest' -Comment 'admin notes' -D
 
 ### <a name="aip-apps-configuration"></a>AIP 应用配置
 
-Windows 上的 AIP 应用需要有特殊的注册表项，才能将应用指向 GCC High/DoD 的正确服务实例。  
+使用 Azure 信息保护客户端时，必须配置以下注册表项之一，将 Windows 上的 AIP 应用指向正确的主权云。 请确保为您的设置使用正确的值。
+
+- [统一标签客户端的 AIP apps 配置](#aip-apps-configuration-for-the-unified-labeling-client)
+- [经典客户端的 AIP apps 配置](#aip-apps-configuration-for-the-classic-client)
+#### <a name="aip-apps-configuration-for-the-unified-labeling-client"></a>统一标签客户端的 AIP apps 配置
+
+**相关** 内容：仅限 AIP 统一标签客户端
 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
-| 名称 | WebServiceUrl |
-| 值 | https://api.informationprotection.azure.us |
-| 类型 | REG_SZ (String) |
+| **名称** | CloudEnvType |
+| **值** | **0** = 商业 (默认值)  <br>**1** = GCC <br>**2** = GCC 高 <br>**3** = DoD|
+| **类型** | REG_DWORD |
+| | |
+ 
+> [!NOTE]
+>
+> - 如果此注册表项为空、不正确或丢失，则该行为将恢复为默认 (**0** = 商用) 。
+> - 如果键为空或不正确，则还会将打印错误添加到日志中。 
+> - 请确保在卸载后不删除注册表项。
 
+#### <a name="aip-apps-configuration-for-the-classic-client"></a>经典客户端的 AIP apps 配置
+
+**相关** 内容：仅限 AIP 经典客户端
+
+
+| 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
+| --- | --- |
+| **名称** | WebServiceUrl |
+| **“值”** | https://api.informationprotection.azure.us |
+| **Type** | REG_SZ (String) |
+| | |
 
 ## <a name="firewalls-and-network-infrastructure"></a>防火墙和网络基础结构
 
-如果你具有配置为允许特定连接的防火墙或类似的干预网络设备，请使用这些设置来确保 Azure 信息保护的流畅通信。
+如果你具有配置为允许特定连接的防火墙或类似的干预网络设备，请使用以下设置来确保 Azure 信息保护的流畅通信。
 
-- 若要启用 Azure 信息保护经典客户端以下载标签和标签策略，请执行以下操作：允许通过 HTTPS **API.INFORMATIONPROTECTION.AZURE.US** URL。
+- **Tls 客户端到服务连接**：请勿终止到 **RMS.AADRM.US** URL 的 tls 客户端到服务连接 (例如，要执行数据包级别检查) 。 
 
-- 请勿终止到 **Rms.aadrm.us** URL 的 TLS 客户端到服务连接 (例如，要执行数据包级别检查) 。 
+    您可以使用以下 PowerShell 命令来帮助您确定客户端连接在到达 Azure Rights Management 服务之前是否终止：
 
-您可以使用以下 PowerShell 命令来帮助您确定客户端连接在到达 Azure Rights Management 服务之前是否终止：
+    ```powershell
+    $request = [System.Net.HttpWebRequest]::Create("https://admin.aadrm.us/admin/admin.svc")
+    $request.GetResponse()
+    $request.ServicePoint.Certificate.Issuer
+    ```
 
-```powershell
-$request = [System.Net.HttpWebRequest]::Create("https://admin.aadrm.us/admin/admin.svc")
-$request.GetResponse()
-$request.ServicePoint.Certificate.Issuer
-```
+    结果应显示发证 CA 来自 Microsoft CA（例如：`CN=Microsoft Secure Server CA 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US`）。 如果你看到的颁发 CA 名称不是 Microsoft，则可能是安全客户端到服务的连接被终止，需要在防火墙上重新配置。
 
-
-结果应显示发证 CA 来自 Microsoft CA（例如：`CN=Microsoft Secure Server CA 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US`）。 如果你看到的颁发 CA 名称不是 Microsoft，则可能是安全客户端到服务的连接被终止，需要在防火墙上重新配置。
+- **下载标签和标签策略 (仅限 AIP 经典客户端)**：若要启用 Azure 信息保护经典客户端以下载标签和标签策略，请允许通过 HTTPS **api.informationprotection.azure.us** URL。
 
 ## <a name="service-tags"></a>服务标记
 
