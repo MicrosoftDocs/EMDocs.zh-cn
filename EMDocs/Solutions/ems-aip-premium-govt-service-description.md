@@ -5,17 +5,17 @@ keywords: ''
 author: batamig
 ms.author: bagol
 manager: rkarlin
-ms.date: 01/14/2021
+ms.date: 02/04/2021
 ms.topic: article
 ms.prod: ''
 ms.service: rights-management
 ms-suite: ems
-ms.openlocfilehash: de6fed6995778f5d90c34405a4d4bd35ac40a395
-ms.sourcegitcommit: 171303edf01ece620ccacf9beb5dcbb735c80cf1
+ms.openlocfilehash: 698e697753b729b314920cc914775bb4cf16ad68
+ms.sourcegitcommit: 7591c1393af4df31ffaa16cfb91f817b2cb9e91b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2021
-ms.locfileid: "98540340"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99551757"
 ---
 # <a name="azure-information-protection-premium-government-service-description"></a>Azure 信息保护高级版政府服务说明 
 
@@ -135,7 +135,7 @@ New-Label -Name 'aipscopetest' -Tooltip 'aipscopetest' -Comment 'admin notes' -D
 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
-| **名称** | CloudEnvType |
+| 名称 | CloudEnvType |
 | **值** | **0** = 商业 (默认值)  <br>**1** = GCC <br>**2** = GCC 高 <br>**3** = DoD|
 | **类型** | REG_DWORD |
 | | |
@@ -153,7 +153,7 @@ New-Label -Name 'aipscopetest' -Tooltip 'aipscopetest' -Comment 'admin notes' -D
 
 | 注册表节点 | HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\MSIP |
 | --- | --- |
-| **名称** | WebServiceUrl |
+| 名称 | WebServiceUrl |
 | **“值”** | https://api.informationprotection.azure.us |
 | **Type** | REG_SZ (String) |
 | | |
@@ -175,6 +175,11 @@ New-Label -Name 'aipscopetest' -Tooltip 'aipscopetest' -Comment 'admin notes' -D
     结果应显示发证 CA 来自 Microsoft CA（例如：`CN=Microsoft Secure Server CA 2011, O=Microsoft Corporation, L=Redmond, S=Washington, C=US`）。 如果你看到的颁发 CA 名称不是 Microsoft，则可能是安全客户端到服务的连接被终止，需要在防火墙上重新配置。
 
 - **下载标签和标签策略 (仅限 AIP 经典客户端)**：若要启用 Azure 信息保护经典客户端以下载标签和标签策略，请允许通过 HTTPS **api.informationprotection.azure.us** URL。
+
+有关详情，请参阅：
+
+- [Office 365 美国政府 DoD 终结点](/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints)
+- [Office 365 美国政府版](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints)
 
 ## <a name="service-tags"></a>服务标记
 
