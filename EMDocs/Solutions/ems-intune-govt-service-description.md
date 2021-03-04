@@ -10,12 +10,12 @@ ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.suite: ems
-ms.openlocfilehash: 46dcd69d4921dd50f295b1f825c60a808a496baa
-ms.sourcegitcommit: 633dfab953dfc2b91f3da2c193335234c516402d
+ms.openlocfilehash: 83eab50cd4af65be5a28f3c0efaca7776ebd1fdb
+ms.sourcegitcommit: 422f43a00933c66f17c85de243a1a3cf1a08cda2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98211169"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "101831510"
 ---
 # <a name="microsoft-intune-for-us-government-gcc-high-and-dod-service-description"></a>Microsoft Intune 美国政府版和 DoD 服务说明
 
@@ -41,7 +41,7 @@ Intune GCC 高和 DoD 产品/服务是在 Microsoft Azure 政府云上构建的�
 - Microsoft 端点管理器终结点分析和 Log Analytics 功能当前不适用于美国政府客户。
 - 目前，我们的政府云客户无法使用诊断设置和工作簿。
 - [使用 Windows 配置设计器的 windows 设备的批量注册](/mem/intune/enrollment/windows-bulk-enroll) 目前在 GCC High 中不受支持。
-- 适用于 GCC 的 Intune 高不支持 [位置](https://docs.microsoft.com/mem/intune/protect/use-network-locations) 功能。
+- 适用于 GCC 的 Intune 高不支持 [位置](/mem/intune/protect/use-network-locations) 功能。
 
 
 ## <a name="next-steps"></a>后续步骤
